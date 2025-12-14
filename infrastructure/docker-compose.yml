@@ -1,0 +1,215 @@
+# version: "3.9"
+
+networks:
+  inventory_management:
+    driver: bridge
+
+volumes:
+  redpanda-0: {}
+  redpanda-1: {}
+  redpanda-2: {}
+  scylla_data: {}
+  postgres_data: {}
+
+services:
+  # Inventory Flask Service
+  inventory-service:
+    build:
+      context: ../services/inventory_service
+      dockerfile: Dockerfile
+    container_name: inventory_service
+    ports:
+      - "5000:5000"
+    restart: unless-stopped
+    environment:
+      FLASK_APP: inventory_service.app
+      FLASK_RUN_HOST: 0.0.0.0
+      REDPANDA_BROKER: redpanda-0:9092
+      SCYLLA_HOST: scylla
+    depends_on:
+      redpanda-0:
+        condition: service_started
+      scylla:
+        condition: service_healthy
+      postgres:
+        condition: service_started
+    networks:
+      - inventory_management
+
+  # Redpanda cluster nodes
+  redpanda-0:
+    image: docker.redpanda.com/redpandadata/redpanda:v24.2.7
+    container_name: redpanda-0
+    command:
+      - redpanda
+      - start
+      - --kafka-addr internal://0.0.0.0:9092,external://0.0.0.0:19092
+      - --advertise-kafka-addr internal://redpanda-0:9092,external://localhost:19092
+      - --pandaproxy-addr internal://0.0.0.0:8082,external://0.0.0.0:18082
+      - --advertise-pandaproxy-addr internal://redpanda-0:8082,external://localhost:18082
+      - --schema-registry-addr internal://0.0.0.0:8081,external://0.0.0.0:18081
+      - --rpc-addr redpanda-0:33145
+      - --advertise-rpc-addr redpanda-0:33145
+      - --mode dev-container
+      - --smp 1
+      - --default-log-level=info
+    volumes:
+      - redpanda-0:/var/lib/redpanda/data
+    networks:
+      - inventory_management
+    ports:
+      - 18081:18081
+      - 18082:18082
+      - 19092:19092
+      - 19644:9644
+    restart: unless-stopped
+
+  redpanda-1:
+    image: docker.redpanda.com/redpandadata/redpanda:v24.2.7
+    container_name: redpanda-1
+    command:
+      - redpanda
+      - start
+      - --kafka-addr internal://0.0.0.0:9092,external://0.0.0.0:29092
+      - --advertise-kafka-addr internal://redpanda-1:9092,external://localhost:29092
+      - --pandaproxy-addr internal://0.0.0.0:8082,external://0.0.0.0:28082
+      - --advertise-pandaproxy-addr internal://redpanda-1:8082,external://localhost:28082
+      - --schema-registry-addr internal://0.0.0.0:8081,external://0.0.0.0:28081
+      - --rpc-addr redpanda-1:33145
+      - --advertise-rpc-addr redpanda-1:33145
+      - --mode dev-container
+      - --smp 1
+      - --default-log-level=info
+      - --seeds redpanda-0:33145
+    volumes:
+      - redpanda-1:/var/lib/redpanda/data
+    networks:
+      - inventory_management
+    restart: unless-stopped
+    # ports:
+    #   - 28081:28081
+    #   - 28082:28082
+    #   - 29092:29092
+    #   - 29644:9644
+    depends_on:
+      - redpanda-0
+
+  redpanda-2:
+    image: docker.redpanda.com/redpandadata/redpanda:v24.2.7
+    container_name: redpanda-2
+    command:
+      - redpanda
+      - start
+      - --kafka-addr internal://0.0.0.0:9092,external://0.0.0.0:39092
+      - --advertise-kafka-addr internal://redpanda-2:9092,external://localhost:39092
+      - --pandaproxy-addr internal://0.0.0.0:8082,external://0.0.0.0:38082
+      - --advertise-pandaproxy-addr internal://redpanda-2:8082,external://localhost:38082
+      - --schema-registry-addr internal://0.0.0.0:8081,external://0.0.0.0:38081
+      - --rpc-addr redpanda-2:33145
+      - --advertise-rpc-addr redpanda-2:33145
+      - --mode dev-container
+      - --smp 1
+      - --default-log-level=info
+      - --seeds redpanda-0:33145
+    volumes:
+      - redpanda-2:/var/lib/redpanda/data
+    networks:
+      - inventory_management
+    restart: unless-stopped
+    # ports:
+    #   - 38081:38081
+    #   - 38082:38082
+    #   - 39092:39092
+    #   - 39644:9644
+    depends_on:
+      - redpanda-0
+
+  # Redpanda Console
+  console:
+    image: docker.redpanda.com/redpandadata/console:v2.7.2
+    container_name: redpanda-console
+    networks:
+      - inventory_management
+    entrypoint: /bin/sh
+    command: -c 'echo "$$CONSOLE_CONFIG_FILE" > /tmp/config.yml; /app/console'
+    environment:
+      CONFIG_FILEPATH: /tmp/config.yml
+      CONSOLE_CONFIG_FILE: |
+        kafka:
+          brokers: ["redpanda-0:9092"]
+          schemaRegistry:
+            enabled: true
+            urls: ["http://redpanda-0:8081"]
+        redpanda:
+          adminApi:
+            enabled: true
+            urls: ["http://redpanda-0:9644"]
+    ports:
+      - 18084:8080
+    depends_on:
+      - redpanda-0
+
+  # ScyllaDB (Operational DB)
+  scylla:
+    image: scylladb/scylla:2025.2
+    container_name: scylla
+    ports:
+      - "9042:9042"
+      - "9180:9180"
+    command: --smp 1 --memory 512M --overprovisioned 1
+    volumes:
+      - scylla_data:/var/lib/scylla
+    networks:
+      - inventory_management
+    healthcheck:
+      test: ["CMD-SHELL", "cqlsh -e 'DESCRIBE KEYSPACES' || exit 1"]
+      interval: 5s
+      timeout: 10s
+      retries: 10
+      start_period: 10s
+    restart: unless-stopped
+
+  # PostgreSQL (Batch / Analytics)
+  postgres:
+    image: postgres:15
+    container_name: inventory_postgres
+    environment:
+      POSTGRES_USER: inventory
+      POSTGRES_PASSWORD: inventory123
+      POSTGRES_DB: inventory_db
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+    networks:
+      - inventory_management
+    restart: unless-stopped
+
+  # Inventory Data Generator
+  generate-data:
+    build:
+      context: ../services/inventory_service
+      dockerfile: Dockerfile
+    container_name: generate_inventory_data
+    command: python infrastructure/data_generator/generate_inventory_data.py
+    environment:
+      PYTHONPATH: /app
+      SCYLLA_HOST: scylla
+      REDPANDA_BROKER: redpanda-0:9092
+      POSTGRES_HOST: postgres
+      POSTGRES_DB: inventory_db
+      POSTGRES_USER: inventory
+      POSTGRES_PASSWORD: inventory123
+    depends_on:
+      scylla:
+        condition: service_healthy
+      postgres:
+        condition: service_started
+      redpanda-0:
+        condition: service_started
+      redpanda-1:
+        condition: service_started
+      redpanda-2:
+        condition: service_started
+    networks:
+      - inventory_management
