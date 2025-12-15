@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Inventory Dashboard</title>
+</head>
+<body>
+<h1>Inventory Dashboard</h1>
+<table border="1">
+    <tr><th>SKU</th><th>Quantity</th></tr>
+    {% for item in stock %}
+    <tr><td>{{ item.sku }}</td><td>{{ item.quantity }}</td></tr>
+    {% endfor %}
+</table>
+</body>
+</html>

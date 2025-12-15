@@ -1,4 +1,0 @@
-pandas
-duckdb
-prefect
-apache-superset

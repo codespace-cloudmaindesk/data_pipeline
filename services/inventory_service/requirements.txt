@@ -1,0 +1,7 @@
+Flask
+faker
+paramiko
+cassandra-driver
+psycopg2-binary
+kafka-python
+
