@@ -19,9 +19,3 @@ class ProductCategory(str, Enum):
 class AlertType(str, Enum):
     LOW_STOCK = "LOW_STOCK"
     HIGH_STOCK = "HIGH_STOCK"
-
-
-    
-
-    
-    
