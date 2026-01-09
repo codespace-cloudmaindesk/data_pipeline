@@ -11,5 +11,6 @@ class LowStockAlert(BaseModel):
     created_at: datetime
     resolved: bool = False
 
+
     class Config:
         orm_mode = True
