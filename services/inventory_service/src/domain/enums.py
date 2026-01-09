@@ -15,3 +15,13 @@ class ProductCategory(str, Enum):
     MEAT = "MEAT"
     BAKERY = "BAKERY"
     HOUSEHOLD = "HOUSEHOLD"
+
+class AlertType(str, Enum):
+    LOW_STOCK = "LOW_STOCK"
+    HIGH_STOCK = "HIGH_STOCK"
+
+
+    
+
+    
+    
