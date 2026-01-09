@@ -2,7 +2,7 @@ from pydantic import BaseModel
 from uuid import UUID
 from datetime import datetime
 
-class LowStockAlert(BaseModel):
+class StockAlert(BaseModel):
     id: UUID
     item_id: UUID
     branch_id: UUID
@@ -10,6 +10,7 @@ class LowStockAlert(BaseModel):
     threshold: int
     created_at: datetime
     resolved: bool = False
+    alert_type: AlertType
 
     class Config:
         orm_mode = True
