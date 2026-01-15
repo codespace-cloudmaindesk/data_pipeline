@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "C:\Users\maila\data_pipeline\services\inventory_service\infrastructure\data_generator\generate_data.py", line 18, in <module>
+    from src.lib.utils import random_department_category, random_brand, random_branch
+ImportError: cannot import name 'random_brand' from 'src.lib.utils' (C:\Users\maila\data_pipeline\services\inventory_service\src\lib\utils.py)

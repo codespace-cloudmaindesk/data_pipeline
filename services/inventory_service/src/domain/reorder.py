@@ -10,5 +10,6 @@ class ReorderSuggestion(BaseModel):
     suggested_quantity: int
     supplier_id: Optional[UUID]
 
-    class Config:
-        orm_mode = True
+    model_config = {
+        "from_attributes": True
+    }

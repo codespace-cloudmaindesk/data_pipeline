@@ -2,7 +2,7 @@ from pydantic import BaseModel
 from datetime import datetime
 from typing import Optional
 from uuid import UUID
-from .enums import ProductCategory
+from .enums import category, department
 
 class InventoryItem(BaseModel):
     id: UUID
@@ -10,11 +10,13 @@ class InventoryItem(BaseModel):
     branch_id: UUID
     name: str
     sku: str
-    category: ProductCategory
+    category: category
+    department: department
     quantity: int
     unit_price: float
     threshold: Optional[int] = 10
     last_updated: Optional[datetime]
 
-    class Config:
-    orm_mode = True
+    model_config = {
+        "from_attributes": True
+    }

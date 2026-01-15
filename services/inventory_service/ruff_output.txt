@@ -1,0 +1,44 @@
+F821 Undefined name `AlertType`
+  --> src\domain\alert.py:13:17
+   |
+11 |     created_at: datetime
+12 |     resolved: bool = False
+13 |     alert_type: AlertType
+   |                 ^^^^^^^^^
+14 |
+15 |     model_config = {
+   |
+
+F821 Undefined name `Optional`
+  --> src\domain\product.py:11:12
+   |
+ 9 |     category: category
+10 |     department: department
+11 |     brand: Optional[str]
+   |            ^^^^^^^^
+12 |     price: float
+13 |     is_promo: bool
+   |
+
+F821 Undefined name `Optional`
+  --> src\domain\product.py:14:18
+   |
+12 |     price: float
+13 |     is_promo: bool
+14 |     promo_price: Optional[float]
+   |                  ^^^^^^^^
+15 |
+16 |     model_config = {
+   |
+
+E701 Multiple statements on one line (colon)
+  --> src\services\realtime_notification_service.py:10:35
+   |
+ 9 |     async def broadcast(self, msg):
+10 |         for ws in self.connections: await ws.send_json(msg)
+   |                                   ^
+11 |
+12 | ws_manager = WebSocketManager()
+   |
+
+Found 4 errors.

@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "C:\Users\maila\data_pipeline\services\inventory_service\check_import.py", line 6, in <module>
+    from src.lib.utils import random_brand
+ImportError: cannot import name 'random_brand' from 'src.lib.utils' (C:\Users\maila\data_pipeline\services\inventory_service\src\lib\utils.py)
+['C:\\Users\\maila\\data_pipeline\\services\\inventory_service', 'C:\\Users\\maila\\data_pipeline\\services\\inventory_service', 'C:\\Users\\maila\\AppData\\Local\\Programs\\Python\\Python311\\python311.zip', 'C:\\Users\\maila\\AppData\\Local\\Programs\\Python\\Python311\\DLLs', 'C:\\Users\\maila\\AppData\\Local\\Programs\\Python\\Python311\\Lib', 'C:\\Users\\maila\\AppData\\Local\\Programs\\Python\\Python311', 'C:\\Users\\maila\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages']
+Successfully imported: <enum 'department'>
+Import failed: cannot import name 'random_brand' from 'src.lib.utils' (C:\Users\maila\data_pipeline\services\inventory_service\src\lib\utils.py)

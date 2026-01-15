@@ -9,8 +9,9 @@ class StockMetrics(BaseModel):
     total_out: int
     current_stock: int
 
-    class Config:
-        orm_mode = True
+    model_config = {
+        "from_attributes": True
+    }
 
 class StockTrend(BaseModel):
     item_id: UUID
@@ -18,5 +19,20 @@ class StockTrend(BaseModel):
     day: date
     quantity: int
 
-    class Config:
-        orm_mode = True
+    model_config = {
+        "from_attributes": True
+    }
+
+class InventorySnapshot(BaseModel):
+    snapshot_date: date
+    item_id: UUID
+    branch_id: UUID
+    quantity: int
+    unit_price: float
+    stock_value: float
+    total_value: float
+    out_of_stock: bool
+
+    model_config = {
+        "from_attributes": True
+    }

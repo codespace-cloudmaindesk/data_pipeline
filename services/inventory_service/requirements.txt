@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+aiokafka
+asyncpg
+databases[postgresql]
+cassandra-driver
+pydantic
+python-dotenv
+faker
+loguru
+httpx
+pyasyncore
+faker

@@ -1,0 +1,147 @@
+networks:
+  inventory_inflow:
+    driver: bridge
+
+volumes:
+  redpanda_data:
+  scylla_data:
+  postgres_data:
+
+
+services:
+  # Inventory API / Service
+  inventory-service:
+    build:
+      context: ../../services/inventory_service
+    container_name: inventory_service
+    ports:
+      - "8000:8000"
+    environment:
+      UVICORN_APP: src.main:app
+      REDPANDA_BROKER: redpanda:9092
+      SCYLLA_HOST: scylla
+      POSTGRES_HOST: postgres
+      POSTGRES_DB: inventory_db
+      POSTGRES_USER: inventory
+      POSTGRES_PASSWORD: inventory123
+    command: uvicorn src.main:app --host 0.0.0.0 --port 8000 --reload
+    volumes:
+      - ../../services/inventory_service:/app
+    depends_on:
+      - scylla
+      - postgres
+      - redpanda
+    networks:
+      - inventory_inflow
+
+  # Single Redpanda Broker
+  redpanda:
+    image: docker.redpanda.com/redpandadata/redpanda:v24.2.7
+    container_name: redpanda
+    command:
+      - redpanda
+      - start
+      - --mode dev-container
+      - --kafka-addr internal://0.0.0.0:9092,external://0.0.0.0:19092
+      - --advertise-kafka-addr internal://redpanda:9092,external://localhost:19092
+      - --pandaproxy-addr internal://0.0.0.0:18082
+      - --schema-registry-addr internal://0.0.0.0:18081
+      - --smp 1
+      - --memory 1G
+      - --default-log-level=info
+    ports:
+      - 18081:18081
+      - 18082:18082
+      - 19092:19092
+      - 19644:19644
+    volumes:
+      - redpanda_data:/var/lib/redpanda
+    networks:
+      - inventory_inflow
+    healthcheck:
+      test: [ "CMD-SHELL", "curl -f http://localhost:8082/health || exit 1" ]
+      interval: 10s
+      retries: 5
+      timeout: 5s
+
+  # Redpanda Console
+  redpanda-console:
+    image: docker.redpanda.com/redpandadata/console:v2.7.2
+    container_name: redpanda-console
+    networks:
+      - inventory_inflow
+    environment:
+      CONFIG_FILEPATH: /tmp/config.yml
+      CONSOLE_CONFIG_FILE: |
+        kafka:
+          brokers: ["redpanda:9092"]
+          schemaRegistry:
+            enabled: true
+            urls: ["http://redpanda:18081"]
+        redpanda:
+          adminApi:
+            enabled: true
+            urls: ["http://redpanda:9644"]
+    entrypoint: /bin/sh
+    command: -c 'echo "$$CONSOLE_CONFIG_FILE" > /tmp/config.yml; /app/console'
+    ports:
+      - "18084:8080"
+    depends_on:
+      - redpanda
+
+  # ScyllaDB
+  scylla:
+    image: scylladb/scylla:latest
+    container_name: scylla
+    ports:
+      - "9042:9042"
+    volumes:
+      - scylla_data:/var/lib/scylla
+    networks:
+      - inventory_inflow
+    healthcheck:
+      test: [ "CMD-SHELL", "cqlsh -e 'DESCRIBE KEYSPACES' || exit 1" ]
+      interval: 10s
+      retries: 5
+      timeout: 5s
+
+  # PostgresDB
+  postgres:
+    image: postgres:latest
+    container_name: postgres
+    ports:
+      - "5432:5432"
+    environment:
+      POSTGRES_DB: inventory_db
+      POSTGRES_USER: inventory
+      POSTGRES_PASSWORD: inventory123
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    networks:
+      - inventory_inflow
+    healthcheck:
+      test: [ "CMD-SHELL", "pg_isready -U inventory || exit 1" ]
+      interval: 10s
+      retries: 5
+      timeout: 5s
+
+  generate-data:
+    build:
+      context: ../../services/inventory_service
+    container_name: generate_inventory_data_dev
+    command: python infrastructure/data_generator/generate_data.py
+    environment:
+      PYTHONPATH: /app
+      SCYLLA_HOST: scylla
+      POSTGRES_HOST: postgres
+      POSTGRES_DB: inventory_db
+      POSTGRES_USER: inventory
+      POSTGRES_PASSWORD: inventory123
+      REDPANDA_BROKER: redpanda:9092
+    depends_on:
+      - scylla
+      - postgres
+      - redpanda
+    networks:
+      - inventory_inflow
+    restart: "no"
