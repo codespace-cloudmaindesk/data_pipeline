@@ -1,0 +1,801 @@
+customer_code,customer_name,platform,channel,region
+CUST613799SA,Thalente Magujwa,In-Store,Direct,South
+CUST399407SA,Nqobizitha Masuku-Mpofana,E-Commerce,Retailer,East
+CUST530108SA,Nonhlanhla Gcugcwa-Sikobi,In-Store,Direct,South
+CUST119971SA,Dr. Nonhlanhla Mpila,E-Commerce,Direct,East
+CUST931230SA,Mthokozisi Mbongwe,E-Commerce,Direct,East
+CUST867611SA,Nomusa Mlangeni,E-Commerce,Direct,East
+CUST765054SA,Mcebisi Mngwemkhulu,In-Store,Direct,West
+CUST327704SA,Mnumzane Minenhle Jiyane,In-Store,Direct,North
+CUST720184SA,Busisiwe Gambu,In-Store,Direct,North
+CUST872176SA,Bhekani Mnomiya,E-Commerce,Retailer,East
+CUST101255SA,Nkosazana Thembile Gwija,In-Store,Retailer,East
+CUST583397SA,S'fiso Ngubane,In-Store,Direct,East
+CUST588967SA,Sithembiso Guma,In-Store,Retailer,West
+CUST430764SA,Zenzile Sameya,E-Commerce,Retailer,North
+CUST986846SA,Baba Thando Somboni,E-Commerce,Direct,North
+CUST53945SA,Sandile Mayise-Mcambi,E-Commerce,Direct,South
+CUST108633SA,Nozizwe Mabuza-Jokiwe,In-Store,Direct,South
+CUST688637SA,Nkazimulo Gigaba,E-Commerce,Direct,Central
+CUST367121SA,Nkosazana Gugu Xaba,In-Store,Retailer,North
+CUST292099SA,Nkazimulo Mnguni-Ngotsha,In-Store,Direct,South
+CUST804711SA,Mrs. Sihawukele Phoseka,In-Store,Retailer,East
+CUST869752SA,Nkosikazi Bhekisisa Khumbuza,In-Store,Retailer,West
+CUST286544SA,Nkosikazi Nomathalente Mcambe,E-Commerce,Direct,South
+CUST6402SA,Thando Hlophe,E-Commerce,Direct,Central
+CUST593830SA,Baba Bhekani Hlongwane,In-Store,Direct,East
+CUST776962SA,Mr. Bhekani Thumbela,E-Commerce,Referral,South
+CUST556251SA,Mlungisi Mlondo,E-Commerce,Direct,East
+CUST475682SA,Londisizwe Mehloluhlaza,E-Commerce,Retailer,West
+CUST326775SA,Nkosazana Thembeka Ngwekazi,E-Commerce,Direct,Central
+CUST625185SA,Vusumuzi Dlamane,E-Commerce,Direct,North
+CUST163137SA,Sphiwe Ntenga,E-Commerce,Retailer,West
+CUST52179SA,Mr. Mandla Mntungwa,E-Commerce,Direct,South
+CUST694093SA,Nozibusiso Nonyana,In-Store,Direct,Central
+CUST463516SA,Nokulunga Madela,In-Store,Direct,West
+CUST791615SA,Gugu Mbuli,In-Store,Direct,South
+CUST450797SA,Mandlakhe Shazi,In-Store,Direct,South
+CUST711444SA,Nozibusiso Njomane-Sangweni,E-Commerce,Referral,West
+CUST323401SA,Lwandile Miya,E-Commerce,Direct,North
+CUST628437SA,Andile Mabhena,In-Store,Referral,South
+CUST316061SA,Sphiwe Hlatshwayo,In-Store,Retailer,North
+CUST801280SA,Mandlakhe Mbende-Gugushe,In-Store,Direct,West
+CUST8105SA,Thandeka Mnikathi,E-Commerce,Direct,South
+CUST184229SA,Mlungisi Ndinisa,E-Commerce,Referral,West
+CUST737852SA,Nhlanhla Ngomane,In-Store,Direct,North
+CUST873835SA,Mnumzane Bhekani Mjoli,In-Store,Referral,North
+CUST903625SA,Mrs. Nonhlanhla Biyase,E-Commerce,Direct,West
+CUST482087SA,Thando Mayisela,In-Store,Direct,South
+CUST603727SA,Sibongile Mkhokeleleki,E-Commerce,Direct,West
+CUST743963SA,Baba Mandlakhe Gotsholo,E-Commerce,Direct,East
+CUST424707SA,Mcebisi Khosini,In-Store,Direct,South
+CUST840247SA,Nothando Sibalukhulu-Mdlalose,In-Store,Retailer,South
+CUST92410SA,Zakhele Gence,E-Commerce,Direct,North
+CUST255135SA,Sibusisiwe Mkhathini,E-Commerce,Retailer,North
+CUST549414SA,Mlungisi Mawewe,E-Commerce,Direct,East
+CUST782033SA,Nkazimulo Mbhulangwe,E-Commerce,Referral,West
+CUST816964SA,Bhekani Nandisa,E-Commerce,Direct,East
+CUST663984SA,Nhlanhla Nandisa,E-Commerce,Direct,Central
+CUST203322SA,Mnumzane Minenhle Sontuli,E-Commerce,Direct,West
+CUST858729SA,Dr. Lwandile Gebashe,In-Store,Direct,North
+CUST153557SA,Luyanda Khuba-Nongalo,E-Commerce,Direct,South
+CUST160295SA,Mr. Lungile Nxele,In-Store,Retailer,Central
+CUST518119SA,Thandiwe Ngungunyana,E-Commerce,Direct,South
+CUST796788SA,Nonjabulo Shezi-Ngwane,In-Store,Direct,North
+CUST674225SA,Bhuti Mcebisi Nxasana,E-Commerce,Direct,South
+CUST331495SA,Musa Dubazane,E-Commerce,Referral,South
+CUST491699SA,Simphiwe Mathibela,In-Store,Retailer,North
+CUST835012SA,S'fiso Dlamlenze-Mcambi,In-Store,Retailer,Central
+CUST531981SA,Mandlakhe Mshazi,In-Store,Retailer,North
+CUST473866SA,Bandile Mdunge,E-Commerce,Direct,South
+CUST872097SA,Bhekani Nzima-Gama,E-Commerce,Direct,Central
+CUST644883SA,Nozizwe Mhayise-Mshengu,E-Commerce,Retailer,South
+CUST608519SA,Thembekile Thembekwayo,E-Commerce,Referral,Central
+CUST939394SA,Musa Nhlane,E-Commerce,Retailer,North
+CUST683501SA,Mcebisi Nontanda,E-Commerce,Referral,East
+CUST498733SA,Khanyisile Dludla,E-Commerce,Retailer,North
+CUST472407SA,Thabani Mbulazi,E-Commerce,Direct,West
+CUST749014SA,Nhlanhla Nzimande,E-Commerce,Referral,North
+CUST180941SA,Lwandile Sithole,E-Commerce,Retailer,East
+CUST459022SA,Nqobizitha Ndabandaba,E-Commerce,Direct,West
+CUST639427SA,Minenhle Menziwa,E-Commerce,Retailer,East
+CUST962526SA,Mlungisi Mkhonza-Mbongwa,E-Commerce,Retailer,East
+CUST711875SA,Bhekokwakhe Nyambose-Nzimase,In-Store,Direct,West
+CUST350905SA,Mcebisi Gasa,E-Commerce,Direct,East
+CUST585066SA,Baba Mandlakhe Makhaza,E-Commerce,Direct,West
+CUST758889SA,Miss Nomathalente Fenya,E-Commerce,Direct,Central
+CUST611046SA,Dr. Zenzele Mbuyise,In-Store,Direct,North
+CUST325301SA,Baba Langalibalele Nombhoco,E-Commerce,Referral,West
+CUST743266SA,Mandlakhe Ngomane,In-Store,Direct,North
+CUST394976SA,Mnumzane Thalente Gwala,In-Store,Retailer,East
+CUST702667SA,Ms. Siphesihle Shabane,In-Store,Retailer,North
+CUST443973SA,Nomcebo Binda,In-Store,Direct,East
+CUST380211SA,Lungile Made-Mbonane,In-Store,Direct,North
+CUST993702SA,Baba Luyanda Maduna,E-Commerce,Retailer,South
+CUST144247SA,Bhekani Mathaba,In-Store,Retailer,North
+CUST885447SA,Mr. Nhlanhla Yeyeye,In-Store,Direct,South
+CUST565990SA,Mrs. Sithembiso Mboko,In-Store,Retailer,North
+CUST918964SA,Bhuti Langalibalele Nomvuma,E-Commerce,Direct,North
+CUST395019SA,Lungile Khuyameni,In-Store,Retailer,South
+CUST871728SA,Miss Thandazile Motha,In-Store,Retailer,South
+CUST45814SA,Nomcebo Shange,E-Commerce,Direct,West
+CUST754540SA,Musa Nsele,In-Store,Direct,West
+CUST298768SA,Baba Lwandile Ndiyema,E-Commerce,Direct,North
+CUST250786SA,Thabani Msimang-Longode,E-Commerce,Referral,West
+CUST385709SA,Bhuti Musa Mshazi,In-Store,Referral,North
+CUST806814SA,Sphiwe Mgobhozi-Mzizi,E-Commerce,Direct,West
+CUST553081SA,Londisizwe Luthuli,In-Store,Direct,East
+CUST840181SA,Gugulethu Makhaye-Dlamane,E-Commerce,Referral,West
+CUST672324SA,Zenzile Nenzi,In-Store,Retailer,West
+CUST581478SA,SimphiweyiNkosi Ncama,E-Commerce,Retailer,South
+CUST892512SA,Mandlakhe Gabela,In-Store,Retailer,West
+CUST800185SA,Mandla Mphephethwa,In-Store,Direct,West
+CUST949282SA,Khanyisile Mondise,E-Commerce,Referral,West
+CUST96168SA,Thalente Mphemba,E-Commerce,Retailer,South
+CUST927601SA,Bhekisisa Mlangatshe,E-Commerce,Retailer,North
+CUST55843SA,Nozizwe Meyiwa,E-Commerce,Direct,South
+CUST247231SA,Dumisani Mfeka,In-Store,Referral,South
+CUST235445SA,Mcebisi Gcugcwa,In-Store,Direct,Central
+CUST879940SA,Nkosazana Thembekile Jali,E-Commerce,Referral,North
+CUST144283SA,Mandlakhe Msomi,In-Store,Direct,Central
+CUST729884SA,Miss Thandiwe Simelane,E-Commerce,Direct,South
+CUST491897SA,Silondile Bantwini,In-Store,Direct,East
+CUST949860SA,Andile Makhulukhulu,E-Commerce,Direct,East
+CUST226130SA,Miss Owethu Sontuli,E-Commerce,Retailer,North
+CUST638457SA,Nonhlanhla Goba,In-Store,Direct,West
+CUST813875SA,Lwandile Mathula-Guliwe,In-Store,Retailer,South
+CUST50068SA,Mthokozisi Nyembezi,E-Commerce,Retailer,South
+CUST832463SA,Nothando Dludlu-Goba,E-Commerce,Retailer,West
+CUST877330SA,Sihawukele Ndlandla,E-Commerce,Direct,South
+CUST17233SA,Bhuti S'fiso Mahlangu,E-Commerce,Direct,North
+CUST753448SA,Mandlakhe Mnguni,E-Commerce,Referral,East
+CUST1640SA,Nomathemba Mahlalela-Nhlanhlampofu,In-Store,Retailer,South
+CUST436802SA,Sibusiso Sembathwa,E-Commerce,Direct,South
+CUST89772SA,Nomcebo Dubazane,E-Commerce,Retailer,East
+CUST999716SA,Olwethu Mzukase,E-Commerce,Direct,North
+CUST824613SA,Owethu Biyela,E-Commerce,Referral,West
+CUST409420SA,Dade Bhekizizwe Nyawo,E-Commerce,Direct,East
+CUST405674SA,Nobuhle Thumbeza,In-Store,Direct,West
+CUST17031SA,Thembekile Dubazane,In-Store,Retailer,North
+CUST361551SA,Siyabonga Phingoshe,E-Commerce,Direct,North
+CUST658775SA,Sphiwe Nkosi,E-Commerce,Retailer,North
+CUST770899SA,Mnumzane Langalibalele Dingila,E-Commerce,Retailer,North
+CUST369412SA,Nomathalente Nzama,In-Store,Direct,North
+CUST183594SA,Dade Thabisile Mthethwa,In-Store,Direct,West
+CUST662423SA,Thabani Hlabisa,In-Store,Direct,South
+CUST66165SA,Dade Bhekizizwe Masondo,E-Commerce,Referral,East
+CUST211383SA,Thabani Luthuli,E-Commerce,Direct,West
+CUST928818SA,Mcebisi Mawewe,E-Commerce,Retailer,East
+CUST540418SA,Thembisile Ndondakusuka,In-Store,Retailer,Central
+CUST496395SA,Bandile Wela-Nzimase,In-Store,Retailer,West
+CUST200386SA,Minenhle Dlabane-Phikela,E-Commerce,Retailer,East
+CUST348048SA,Jabulani Mdonswa-Mondise,In-Store,Retailer,South
+CUST932694SA,Thandeka Mntambo,E-Commerce,Direct,East
+CUST938095SA,Nomathalente Kweyama,In-Store,Direct,East
+CUST520306SA,Dade Nomcebo Ncongwane,E-Commerce,Direct,South
+CUST279676SA,Mr. Siyabonga Mngadi,E-Commerce,Direct,East
+CUST82760SA,Sihawukele Khumbuza,E-Commerce,Direct,East
+CUST571971SA,Mcebisi Gebashe-Fakude,In-Store,Direct,South
+CUST343848SA,Mnumzane Mandlakhe Mpanza,E-Commerce,Direct,North
+CUST631894SA,Mama Londisizwe Sibalukhulu,E-Commerce,Referral,East
+CUST465471SA,Nonjabulo Dinangwe,In-Store,Referral,West
+CUST762120SA,Nkosazana Silondile Mnyandu,E-Commerce,Direct,South
+CUST287892SA,Mr. Bhekani Shabane,In-Store,Referral,Central
+CUST668480SA,Nomcebo Ncwane,E-Commerce,Retailer,East
+CUST840010SA,Miss Bhekisisa Hlophe,In-Store,Direct,North
+CUST889894SA,Thabisa Motha-Chonco,E-Commerce,Direct,South
+CUST132361SA,Lwandile Nzima,In-Store,Direct,North
+CUST384123SA,Nomthandazo Ngwenya,E-Commerce,Direct,East
+CUST33958SA,Khanyisile Shengele-Mphephethwa,E-Commerce,Direct,East
+CUST994913SA,Nomcebo Mnyamande,E-Commerce,Retailer,North
+CUST800152SA,S'fiso Hlatshwayo,E-Commerce,Direct,South
+CUST555178SA,Nomusa Mazalankosi,E-Commerce,Direct,West
+CUST681113SA,Lwandile Goje-Cebisa,E-Commerce,Retailer,West
+CUST771411SA,Mzamo Ncanana,E-Commerce,Direct,North
+CUST405785SA,Gugu Mamba,E-Commerce,Referral,South
+CUST812609SA,SimphiweyiNkosi Mpanza-Made,In-Store,Retailer,East
+CUST641599SA,SimphiweyiNkosi Mvelase-Luthuli,In-Store,Referral,North
+CUST128594SA,Thando Dunge,E-Commerce,Direct,North
+CUST474001SA,Vusumuzi Sishiya,In-Store,Retailer,North
+CUST466732SA,Thabani Dlaba,In-Store,Retailer,North
+CUST886593SA,Sithembiso Mbunjwa,In-Store,Retailer,North
+CUST744007SA,Njabulo Ndlovu,In-Store,Referral,North
+CUST304466SA,Thando Khabalidaka-Sishangwe,E-Commerce,Direct,East
+CUST744031SA,Miss Thembekile Mdlalose,In-Store,Direct,West
+CUST533469SA,Jabulani Luvuno,E-Commerce,Retailer,East
+CUST830541SA,Lwandile Mvuyana,E-Commerce,Retailer,West
+CUST27560SA,Owethu Nhlapho,In-Store,Direct,Central
+CUST386831SA,Thembile Ngcobo,In-Store,Direct,South
+CUST136074SA,Zibuyile Gadlela-Donda,E-Commerce,Direct,South
+CUST324314SA,Thalente Sokhulu,In-Store,Retailer,North
+CUST501916SA,Nomvula Yengwayo,In-Store,Retailer,West
+CUST429322SA,Ms. Gugulethu Mbamali,In-Store,Direct,West
+CUST673540SA,Musa Mshikila,In-Store,Direct,West
+CUST713145SA,Nomathemba Gwamanda,E-Commerce,Direct,South
+CUST920607SA,Miss Thembeka Gwanyana,In-Store,Direct,West
+CUST453633SA,Zenzile Dlamini,In-Store,Direct,West
+CUST871776SA,Nhlanhla Jiyane,E-Commerce,Direct,East
+CUST318897SA,Lungile Mbatha,E-Commerce,Direct,West
+CUST980143SA,Dr. Nomathemba Ncongwane,E-Commerce,Direct,West
+CUST938397SA,Thando Fakazi-Makhaye,E-Commerce,Referral,West
+CUST205837SA,Bhuti Mandla Gwacela,E-Commerce,Direct,Central
+CUST655383SA,Sandile Ndiyema-Gamede,E-Commerce,Retailer,South
+CUST526986SA,Dr. S'fiso Nkonyeni,In-Store,Retailer,East
+CUST161684SA,Sibusiso Ntombela,E-Commerce,Retailer,North
+CUST755638SA,Nomathalente Ngungunyana-Dinabantu,E-Commerce,Retailer,South
+CUST865322SA,Mrs. Dumisani Dindi,E-Commerce,Direct,East
+CUST994623SA,Bhuti Mandla Phakathwayo,E-Commerce,Retailer,South
+CUST221048SA,Bhuti Mthokozisi Ntenga,In-Store,Direct,South
+CUST670030SA,Mzamo Nxasana,E-Commerce,Direct,North
+CUST572079SA,Sibonelo Mathunjwa-Mthiya,E-Commerce,Retailer,North
+CUST256773SA,Baba Mandlakhe Mpofana,E-Commerce,Direct,West
+CUST76517SA,Mrs. Londisizwe Mntambo,In-Store,Direct,South
+CUST435810SA,Nothando Mabaso,E-Commerce,Direct,North
+CUST356717SA,Khanyisile Mayisela-Sokhela,E-Commerce,Direct,East
+CUST334827SA,Nkosazana Nomusa Gwija,E-Commerce,Referral,East
+CUST797615SA,Nozizwe Ngubane,In-Store,Direct,West
+CUST111341SA,Nobantu Mshikila,E-Commerce,Referral,East
+CUST128473SA,Musa Majola-Hlongwa,E-Commerce,Direct,North
+CUST101514SA,Mandlakhe Mhayise,E-Commerce,Referral,South
+CUST906141SA,Nomvula Majozi-Khanyeza,In-Store,Direct,North
+CUST852993SA,Sibongile Somboni,In-Store,Direct,North
+CUST327905SA,Sphiwe Khanyeza,E-Commerce,Direct,Central
+CUST522469SA,Nothando Mzila,E-Commerce,Retailer,East
+CUST921777SA,Mzamo Boyabenyathi-Gama,In-Store,Direct,East
+CUST991148SA,Nozizwe Mqadi,E-Commerce,Direct,West
+CUST252422SA,S'fiso Mcanco,In-Store,Direct,East
+CUST51021SA,Mandlakhe Myeza,In-Store,Retailer,Central
+CUST626543SA,Dade Nomagugu Ndlangamandla,E-Commerce,Direct,East
+CUST8574SA,Ms. Nonhlanhla Hhoyiyane,E-Commerce,Direct,North
+CUST925321SA,Siyabonga Mdluli-Xhakaza,E-Commerce,Direct,East
+CUST422842SA,Bhekizizwe Mkhathini,E-Commerce,Direct,West
+CUST53642SA,Owethu Lubelo-Mdlanyoka,In-Store,Direct,East
+CUST580096SA,Bhekani Mhlambo-Mzolo,In-Store,Retailer,East
+CUST472230SA,Bhuti Mandla Ntshiza,In-Store,Referral,South
+CUST713449SA,Gugu Gwamanda-Gcaba,E-Commerce,Retailer,Central
+CUST413037SA,Thembekile Mbongwe,In-Store,Direct,North
+CUST584929SA,Thandiwe Hlubi,E-Commerce,Retailer,East
+CUST208727SA,Nozizwe Mkhatshwa-Mzilankatha,E-Commerce,Direct,East
+CUST42210SA,Bandile Hlatshwayo,In-Store,Referral,East
+CUST748255SA,Thembile Msuthu,E-Commerce,Direct,North
+CUST544559SA,Khanyisile Nontuli,E-Commerce,Direct,South
+CUST936516SA,Gugulethu Mbende,E-Commerce,Referral,West
+CUST976610SA,Nomasonto Khathi-Mhlungu,E-Commerce,Referral,Central
+CUST646447SA,Nkosikazi Sibusisiwe Mboko,In-Store,Direct,North
+CUST531958SA,Dade Thalente Ngubeni,In-Store,Direct,East
+CUST314353SA,Thembisile Bikwayo,In-Store,Direct,East
+CUST386251SA,Thabisa Gininda,In-Store,Direct,North
+CUST436774SA,Nomalanga Sondini-Shozi,E-Commerce,Direct,East
+CUST659827SA,Sandile Msuthu,In-Store,Direct,East
+CUST278428SA,Bhuti S'fiso Madlula,E-Commerce,Referral,West
+CUST756442SA,S'fiso Mtimande,E-Commerce,Direct,South
+CUST178794SA,Simphiwe Somboni,E-Commerce,Referral,South
+CUST649840SA,Baba Langalibalele Shezi,E-Commerce,Referral,East
+CUST253961SA,S'fiso Sikhosana,E-Commerce,Direct,North
+CUST115233SA,Andile Mntimande,E-Commerce,Retailer,East
+CUST328930SA,Khanyisile Mlalazi,In-Store,Direct,East
+CUST724042SA,Mthokozisi Mzimela,In-Store,Direct,East
+CUST812617SA,Noxolo Thango-Sontuli,E-Commerce,Referral,East
+CUST65306SA,Miss Nqobizitha Mabika,E-Commerce,Direct,East
+CUST588132SA,Sithembiso Mthembu,E-Commerce,Direct,Central
+CUST551002SA,Nomasonto Khuba,In-Store,Direct,North
+CUST481992SA,Nomathalente Ndwandwe,In-Store,Direct,West
+CUST371496SA,Mnumzane Sandile Mthiyane,E-Commerce,Direct,West
+CUST201603SA,Mandla Ngobisi,In-Store,Direct,East
+CUST312999SA,Mandlakhe Yeyeye,E-Commerce,Referral,East
+CUST303042SA,Dr. Thabisile Silangwe,In-Store,Referral,South
+CUST512756SA,Noxolo Mbuyisa,In-Store,Direct,Central
+CUST587713SA,Mnumzane Mandlakhe Guliwe,E-Commerce,Retailer,South
+CUST601334SA,Bhuti Mlungisi Miya,E-Commerce,Retailer,Central
+CUST858130SA,Thembeka Jali,E-Commerce,Direct,East
+CUST304561SA,Mandlakhe Siwele,E-Commerce,Retailer,East
+CUST82868SA,Nonjabulo Phikela,E-Commerce,Direct,North
+CUST268900SA,Dade Ndumiso Lwandle,In-Store,Retailer,North
+CUST868170SA,Nokulunga Ngubane,In-Store,Direct,West
+CUST729988SA,Langalibalele Gina-Ntaka,In-Store,Retailer,South
+CUST776880SA,Nobantu Mahlase-Dlakadla,In-Store,Retailer,Central
+CUST702371SA,Nkazimulo Nyembe,E-Commerce,Direct,East
+CUST244146SA,Jabulani Mlambo,E-Commerce,Referral,West
+CUST346337SA,Dade Dumisile Shezi,E-Commerce,Direct,South
+CUST808206SA,Andile Ngcemu,In-Store,Direct,East
+CUST974231SA,Mthokozisi Phetha,E-Commerce,Direct,Central
+CUST980452SA,Noxolo Phakathwayo,E-Commerce,Retailer,East
+CUST209144SA,Mnumzane Mcebisi Mashinini,In-Store,Referral,West
+CUST677273SA,Zenzele Yengwayo,E-Commerce,Direct,West
+CUST93806SA,Bhuti Lwandile Ndlala,In-Store,Referral,North
+CUST774568SA,Mrs. Londiwe Mlungisi,E-Commerce,Retailer,Central
+CUST925100SA,Miss Bhekizizwe Mjoli,In-Store,Retailer,South
+CUST826236SA,Londiwe Thusi,E-Commerce,Retailer,West
+CUST914663SA,Vusumuzi Dikane-Bhebhe,E-Commerce,Retailer,Central
+CUST312886SA,Sihawukele Gengeshe-Mbokazi,E-Commerce,Retailer,South
+CUST298384SA,Siphesihle Ndondakusuka,E-Commerce,Direct,East
+CUST549787SA,Zibuyile Hhoyiyane,E-Commerce,Retailer,North
+CUST892400SA,Nothando Manzi,E-Commerce,Referral,East
+CUST202177SA,Mr. Mcebisi Khathi,E-Commerce,Referral,North
+CUST766634SA,Siphesihle Makhunga,E-Commerce,Direct,South
+CUST753504SA,Andile Thabekhulu,E-Commerce,Retailer,Central
+CUST353487SA,Mnumzane S'fiso Shamase,In-Store,Direct,South
+CUST794068SA,Lungile Nsele,E-Commerce,Retailer,East
+CUST897734SA,Baba Thalente Mngwemkhulu,E-Commerce,Direct,West
+CUST540310SA,Dumisani Mkhathini,E-Commerce,Direct,South
+CUST701765SA,Lungile Hlomuka,E-Commerce,Retailer,East
+CUST500646SA,Nobantu Bayeni,In-Store,Direct,Central
+CUST273453SA,Nobantu Mphankomo,In-Store,Direct,East
+CUST790371SA,Mcebisi Mathunjwa-Nkumane,In-Store,Retailer,North
+CUST757997SA,Amahle Maluleka-Phethela,In-Store,Direct,Central
+CUST377017SA,Dr. Bhekokwakhe Sangweni,E-Commerce,Retailer,East
+CUST123967SA,Nomalanga Khanyeza,E-Commerce,Retailer,East
+CUST425110SA,Bhuti Zenzele Sikwayo,In-Store,Retailer,East
+CUST807236SA,SimphiweyiNkosi Gubhuza-Nyembezi,In-Store,Retailer,Central
+CUST960632SA,Minenhle Nsukuza-Madlanduna,In-Store,Direct,South
+CUST229772SA,Mzamo Jiyane,E-Commerce,Retailer,North
+CUST477079SA,Nkosazana Nomvula Sikobi,E-Commerce,Retailer,North
+CUST575914SA,Thandiwe Ndlanzi,E-Commerce,Direct,Central
+CUST840952SA,Dr. Sphiwe Majola,E-Commerce,Referral,West
+CUST713390SA,Bhuti Thando Fenya,E-Commerce,Retailer,South
+CUST551033SA,Nqobizitha Sikwayo,In-Store,Retailer,South
+CUST379358SA,Zenzele Ngungunyana,E-Commerce,Referral,North
+CUST117659SA,Thalente Nene,In-Store,Referral,West
+CUST946746SA,Mnqobi Nhlapho,In-Store,Referral,West
+CUST562728SA,Lungile Mbende,E-Commerce,Retailer,North
+CUST895993SA,Nonjabulo Gubhela,E-Commerce,Direct,East
+CUST713341SA,SimphiweyiNkosi Nkomo,In-Store,Retailer,West
+CUST512573SA,Vusumuzi Nandisa,In-Store,Direct,North
+CUST467122SA,Mr. Musa Hadebe,E-Commerce,Referral,East
+CUST538179SA,Nothando Ngungunyana,In-Store,Direct,North
+CUST60541SA,Nothando Shabalala,In-Store,Referral,South
+CUST846112SA,Siyabonga Bophela-Mjadu,E-Commerce,Direct,Central
+CUST266817SA,Mrs. Thandeka Madide,E-Commerce,Direct,North
+CUST606403SA,Bandile Mncwanga,In-Store,Direct,South
+CUST361264SA,Ms. Olwethu Dlodlo,In-Store,Retailer,Central
+CUST979981SA,Zenzele Msomi,E-Commerce,Retailer,North
+CUST33276SA,Mthokozisi Khumbuza-Yengwayo,E-Commerce,Direct,South
+CUST142007SA,Baba Minenhle Mgobhozi,E-Commerce,Referral,North
+CUST470325SA,Mama Nomthandazo Fanisa,E-Commerce,Direct,Central
+CUST715894SA,Bhuti Langalibalele Phethela,In-Store,Direct,East
+CUST902075SA,Gugu Khuluse,E-Commerce,Referral,South
+CUST563356SA,Nqobizitha Gwala,E-Commerce,Direct,North
+CUST763214SA,Thalente Ayanda,In-Store,Direct,East
+CUST792911SA,Mandlakhe Mshibe,In-Store,Retailer,North
+CUST706215SA,Mama Olwethu Mgazi,In-Store,Direct,North
+CUST863355SA,Lwandile Msamkhulu,E-Commerce,Direct,West
+CUST362974SA,Mandla Lamula,E-Commerce,Direct,West
+CUST982946SA,Ms. Bhekizizwe Phuthini,E-Commerce,Direct,Central
+CUST439605SA,Thembeka Bikelwayo-Mahlalela,E-Commerce,Referral,North
+CUST216092SA,Jabulani Nombela,E-Commerce,Direct,North
+CUST35207SA,Sihawukele Shabalala,In-Store,Direct,North
+CUST737449SA,Mrs. Nobantu Thenjwayo,In-Store,Direct,South
+CUST46385SA,Nonjabulo Magubane,E-Commerce,Direct,West
+CUST565979SA,Sphiwe Dlamlenze,E-Commerce,Retailer,South
+CUST146942SA,Nomagugu Magubane,In-Store,Direct,North
+CUST855413SA,Nkosazana Sibongile Nondaba,E-Commerce,Referral,North
+CUST810065SA,Mnumzane Lwandile Mathunjwa,In-Store,Referral,East
+CUST918823SA,Sibusiso Ncusi,E-Commerce,Referral,North
+CUST231780SA,Nomalanga Manzezulu,E-Commerce,Direct,East
+CUST583761SA,Zibuyile Thabizolo-Khuboni,E-Commerce,Referral,North
+CUST656401SA,Baba Njabulo Mwandla,E-Commerce,Retailer,North
+CUST49161SA,Siphesihle Shabane,E-Commerce,Retailer,East
+CUST399669SA,Bhuti Mcebisi Sibhene,E-Commerce,Referral,East
+CUST436548SA,Khanyisile Mathetha,E-Commerce,Retailer,North
+CUST394747SA,Sphiwe Ndlanzi,In-Store,Referral,East
+CUST496520SA,Thando Maduma,In-Store,Retailer,North
+CUST315344SA,Miss Thembile Mshibe,E-Commerce,Direct,South
+CUST959175SA,Njabulo Mlalazi,E-Commerce,Direct,North
+CUST436740SA,Nqobizitha Hhoyiyane,E-Commerce,Retailer,South
+CUST407286SA,Mandla Mabaso,E-Commerce,Referral,North
+CUST346305SA,Mr. Zenzele Mphephethwa,In-Store,Direct,North
+CUST888283SA,Dumisani Ndlandla,In-Store,Retailer,East
+CUST759782SA,Dr. Bhekokwakhe Mangethe,E-Commerce,Retailer,South
+CUST395489SA,Bhuti Sandile Dimbane,E-Commerce,Direct,East
+CUST916057SA,Luyanda Vunisa,In-Store,Referral,West
+CUST616126SA,Dr. Noxolo Mabhodla,In-Store,Retailer,South
+CUST911709SA,Nomalanga Bhungane,E-Commerce,Direct,East
+CUST222096SA,Siyabonga Gubhuza,E-Commerce,Direct,West
+CUST783159SA,Baba Zenzele Mahlase,E-Commerce,Retailer,East
+CUST729417SA,Thalente Mabhena-Mjoli,In-Store,Retailer,Central
+CUST959579SA,Njabulo Mbanjwa,In-Store,Retailer,East
+CUST813185SA,Mlungisi Mshikila-Ndiyema,E-Commerce,Referral,West
+CUST680233SA,Nomalanga Maluleka,E-Commerce,Direct,West
+CUST377114SA,Zibuyile Myeni,E-Commerce,Direct,North
+CUST488640SA,Thabani Somfula,In-Store,Retailer,South
+CUST492296SA,Mnumzane Zenzele Mabaso,E-Commerce,Retailer,North
+CUST388712SA,Nomvula Dindi,In-Store,Direct,South
+CUST589849SA,Dr. Thandeka Jali,E-Commerce,Direct,West
+CUST17007SA,Njabulo Nkomose-Nkabinde,In-Store,Retailer,North
+CUST754987SA,Nomagugu Jiyane,E-Commerce,Direct,East
+CUST205721SA,Nkazimulo Mgazi,In-Store,Direct,East
+CUST597467SA,Dr. Nozibusiso Ngcemu,E-Commerce,Direct,South
+CUST686406SA,Mnumzane Mandla Xala,In-Store,Direct,South
+CUST861501SA,Thandazile Nyongwana,E-Commerce,Retailer,South
+CUST775520SA,Nothando Kholose,In-Store,Direct,South
+CUST768367SA,Mnumzane Lungile Hlomuka,E-Commerce,Direct,South
+CUST755303SA,Nozibusiso Khwane,E-Commerce,Direct,South
+CUST961438SA,Siphesihle Dlebenkomo,E-Commerce,Direct,West
+CUST549395SA,Thalente Duyaza,E-Commerce,Direct,West
+CUST991101SA,Mrs. Thandiwe Bayeni,E-Commerce,Retailer,West
+CUST432424SA,Thalente Nyazitla,E-Commerce,Referral,North
+CUST242675SA,SimphiweyiNkosi Jibela,E-Commerce,Referral,West
+CUST9585SA,Nhlanhla Mpumuza,E-Commerce,Retailer,West
+CUST391329SA,Sandile Nyembe,E-Commerce,Direct,North
+CUST699143SA,Noxolo Phungula-Mtumaseli,E-Commerce,Retailer,East
+CUST16495SA,Njabulo Ngcobo,In-Store,Referral,North
+CUST431319SA,Andile Ndawonde,In-Store,Direct,East
+CUST757273SA,Njabulo Mashimane-Bikwayo,E-Commerce,Direct,South
+CUST526611SA,Mama Thembile Khumalo,E-Commerce,Direct,North
+CUST112214SA,Nhlanhla Jamile,E-Commerce,Direct,East
+CUST252674SA,Sandile Njomane,In-Store,Direct,West
+CUST264679SA,Nkosazana Nokulunga Mjoli,In-Store,Retailer,North
+CUST82857SA,Nomusa Msani,E-Commerce,Direct,East
+CUST592447SA,SimphiweyiNkosi Maduna,In-Store,Retailer,North
+CUST314546SA,Mr. Sibonelo Phakathi,In-Store,Direct,West
+CUST796483SA,Bhekani Mkholo,In-Store,Direct,Central
+CUST397687SA,Owethu Mthalane,E-Commerce,Retailer,East
+CUST58840SA,Mr. SimphiweyiNkosi Khosini,In-Store,Retailer,North
+CUST86702SA,Zakhele Mqungebe,E-Commerce,Direct,South
+CUST676234SA,Mnumzane S'fiso Gasela,E-Commerce,Direct,East
+CUST938256SA,Bhekizizwe Mafobo,E-Commerce,Direct,North
+CUST221686SA,Dade Nokulunga Dinwa,In-Store,Direct,West
+CUST969051SA,Sibusiso Maphumulo,In-Store,Retailer,East
+CUST942996SA,Sibongile Phoseka,E-Commerce,Retailer,West
+CUST34500SA,Zenzele Mazibuko,In-Store,Direct,West
+CUST16418SA,S'fiso Hlubi,In-Store,Direct,South
+CUST788795SA,Mama Busisiwe Mathenjwa,E-Commerce,Direct,North
+CUST170341SA,Nobantu Ngwenya-Mhlanya,In-Store,Direct,West
+CUST709922SA,Nomathalente Mhayise,E-Commerce,Direct,North
+CUST792313SA,Miss Thembekile Sibanda,E-Commerce,Direct,East
+CUST759340SA,Nhlanhla Thuliswayo,E-Commerce,Direct,South
+CUST362659SA,Jabulani Mondise,E-Commerce,Direct,East
+CUST243420SA,Ms. Nomathalente Nontanda,In-Store,Retailer,North
+CUST806360SA,Sihawukele Mjoli-Mbekwa,E-Commerce,Retailer,South
+CUST31064SA,Mnumzane Thabani Mphemba,In-Store,Retailer,Central
+CUST514435SA,Minenhle Ngema,In-Store,Direct,East
+CUST986859SA,Nonhlanhla Kunene,E-Commerce,Direct,Central
+CUST712711SA,Sithembiso Mgcaleka-Gabhisa,In-Store,Direct,East
+CUST809676SA,Nomagugu Majoka-Sishiya,In-Store,Direct,South
+CUST77077SA,Mandla Jobe,In-Store,Retailer,East
+CUST398458SA,Miss Thandeka Mhlanya,In-Store,Retailer,East
+CUST332061SA,Dumisile Gambu,E-Commerce,Retailer,South
+CUST5447SA,Musa Mdakane-Vunisa,E-Commerce,Direct,North
+CUST282870SA,Langalibalele Gazu,E-Commerce,Referral,South
+CUST196494SA,Nonjabulo Ngobese,E-Commerce,Direct,North
+CUST581687SA,Nomvula Gebashe,In-Store,Direct,West
+CUST27537SA,Minenhle Ngiba,In-Store,Referral,North
+CUST97584SA,Sihawukele Magujwa-Mhlabandlovu,E-Commerce,Retailer,North
+CUST12940SA,Mthokozisi Mhlangu-Gabhezi,E-Commerce,Direct,West
+CUST760053SA,Zinhle Mahlase,In-Store,Retailer,North
+CUST599743SA,Londisizwe Shoba,E-Commerce,Direct,East
+CUST399226SA,Langalibalele Manyoni,E-Commerce,Direct,South
+CUST315759SA,Mzamo Jali-Dludlu,In-Store,Direct,East
+CUST175329SA,Nokulunga Mncube,E-Commerce,Retailer,South
+CUST314313SA,Thembekile Dwala,In-Store,Direct,Central
+CUST378666SA,Lwandile Somboni-Ntuli,In-Store,Direct,South
+CUST519886SA,Silondile Ludonga-Mqadi,E-Commerce,Direct,Central
+CUST112168SA,Mandlakhe Bayeni,In-Store,Retailer,North
+CUST414913SA,Thuthukile Ntshangase,E-Commerce,Retailer,West
+CUST398343SA,Mnumzane Musa Mbili,E-Commerce,Direct,West
+CUST451533SA,Miss Nomalanga Maziya,In-Store,Direct,West
+CUST632512SA,Dr. Noxolo Mazalankosi,E-Commerce,Referral,North
+CUST186266SA,Nomasonto Masinga,E-Commerce,Referral,North
+CUST770571SA,Dade Sibongile Mahlase,E-Commerce,Direct,North
+CUST341716SA,Nokulunga Mhlungu,E-Commerce,Direct,North
+CUST382746SA,Zenzele Ngungunyana,In-Store,Direct,North
+CUST209505SA,Olwethu Khumbuza-Dlaba,In-Store,Retailer,East
+CUST804905SA,Bhekisisa Sontuli,In-Store,Direct,South
+CUST484045SA,Dr. Nonjabulo Masinga,In-Store,Retailer,North
+CUST871662SA,Ms. Thembisile Mkhonza,In-Store,Direct,North
+CUST705668SA,Gugulethu Nyandeni,E-Commerce,Direct,West
+CUST317543SA,Mandla Phoswa,E-Commerce,Retailer,East
+CUST161630SA,Mama Thembekile Mgabadeli,E-Commerce,Direct,South
+CUST77558SA,Sihawukele Mthethwa,E-Commerce,Direct,West
+CUST610527SA,Olwethu Mzoneli,E-Commerce,Direct,Central
+CUST968355SA,Mama Olwethu Delwayo,E-Commerce,Direct,East
+CUST829130SA,Thabisile Ndlangamandla,E-Commerce,Direct,South
+CUST622665SA,Mr. Jabulani Yengwayo,In-Store,Direct,South
+CUST260289SA,Mnumzane Lungile Nzimase,In-Store,Direct,Central
+CUST642439SA,S'fiso Nzima,E-Commerce,Direct,East
+CUST710380SA,Baba Sphiwe Mbhodwe,In-Store,Retailer,South
+CUST834908SA,Dumisile Bhejelibomvu,E-Commerce,Retailer,Central
+CUST103396SA,Lwandile Nandisa-Thumbela,E-Commerce,Direct,West
+CUST543998SA,Sibusisiwe Shozi,E-Commerce,Retailer,East
+CUST603178SA,Musa Mfeka,In-Store,Retailer,South
+CUST410133SA,Thembeka Shengele,E-Commerce,Direct,West
+CUST617181SA,Miss Nomathemba Caluza,E-Commerce,Retailer,South
+CUST506222SA,Mandlakhe Mlangeni,In-Store,Retailer,West
+CUST965264SA,Jabulani Sothole,E-Commerce,Retailer,South
+CUST148557SA,Nomalanga Mbulazi,E-Commerce,Direct,North
+CUST477450SA,Dr. Nhlanhla Mthiya,E-Commerce,Referral,East
+CUST365219SA,Dumisile Motha,In-Store,Direct,South
+CUST757065SA,Dade Nomasonto Dubandlela,In-Store,Direct,South
+CUST314849SA,Thabani Sitolotolo,In-Store,Referral,South
+CUST120675SA,Thando Mbulazi,E-Commerce,Direct,West
+CUST679445SA,Sibusiso Khathide,In-Store,Referral,South
+CUST975094SA,Dr. Nqobizitha Khubisa,In-Store,Direct,South
+CUST578719SA,Mcebisi Ngonini,In-Store,Direct,West
+CUST447080SA,Nkazimulo Mkhokeleleki,In-Store,Direct,East
+CUST660351SA,Lungile Nyide,In-Store,Direct,South
+CUST689237SA,Nomusa Chagwe,E-Commerce,Retailer,South
+CUST773207SA,Zibuyile Luqe-Mphephethwa,In-Store,Direct,East
+CUST620970SA,Nomthandazo Ayize,E-Commerce,Direct,West
+CUST738968SA,Luyanda Maphisa,E-Commerce,Referral,South
+CUST788870SA,Ms. Sibongile Gcwensa,In-Store,Referral,North
+CUST838338SA,Miss Nomcebo Mbembe,In-Store,Direct,West
+CUST206647SA,Gugu Mamba,In-Store,Referral,North
+CUST703281SA,Dade Nqobizitha Nyembezi,In-Store,Retailer,North
+CUST328628SA,Nomthandazo Nsele-Mhlophe,E-Commerce,Retailer,South
+CUST615519SA,Minenhle Mcambi,E-Commerce,Retailer,East
+CUST886589SA,Silondile Khoza,In-Store,Referral,South
+CUST853266SA,Mnumzane Zenzele Nsukuza,In-Store,Retailer,East
+CUST618836SA,Sibusiso Hhoyiyane,E-Commerce,Retailer,North
+CUST328399SA,Lwandile Mathwasa,E-Commerce,Retailer,South
+CUST122629SA,Minenhle Sibiya,E-Commerce,Retailer,South
+CUST148225SA,Nomthandazo Mlungwana,E-Commerce,Direct,Central
+CUST625397SA,S'fiso Mgilija,E-Commerce,Referral,South
+CUST443588SA,Mzamo Nyawo,E-Commerce,Referral,South
+CUST563483SA,Miss Owethu Kheswa,In-Store,Direct,North
+CUST513426SA,Langalibalele Kweyama-Mazibuko,In-Store,Retailer,South
+CUST882885SA,Silondile Dlambula,E-Commerce,Direct,East
+CUST907565SA,Amahle Mthombeni,In-Store,Referral,West
+CUST143167SA,Thalente Mhayise,In-Store,Retailer,West
+CUST588861SA,Siphesihle Myeza,E-Commerce,Direct,North
+CUST429008SA,Baba Mthokozisi Sitolotolo,E-Commerce,Retailer,North
+CUST880690SA,Nozibusiso Khezokhulu,E-Commerce,Direct,West
+CUST86686SA,Bhekisisa Vunisa-Madlala,E-Commerce,Retailer,North
+CUST306278SA,Mandla Maduma,E-Commerce,Referral,West
+CUST563723SA,Lungile Mqadi-Ngwazi,E-Commerce,Retailer,West
+CUST778586SA,Baba Njabulo Ncala,E-Commerce,Referral,East
+CUST118710SA,Gugu Mangethe-Ndondakusuka,E-Commerce,Retailer,South
+CUST863274SA,Olwethu Vabaza,In-Store,Retailer,East
+CUST43631SA,Baba Njabulo Madide,E-Commerce,Referral,South
+CUST445807SA,Siyabonga Phethela,In-Store,Direct,North
+CUST787842SA,Mandlakhe Chiliza,E-Commerce,Direct,South
+CUST471578SA,Minenhle Gazu-Mnangwe,In-Store,Direct,Central
+CUST907322SA,Sphiwe Mageba,In-Store,Retailer,South
+CUST220073SA,Bhuti SimphiweyiNkosi Mcambe,In-Store,Retailer,North
+CUST902874SA,Mama Londisizwe Ntaka,E-Commerce,Direct,East
+CUST145998SA,Dr. Thalente Mabizela,E-Commerce,Referral,North
+CUST844565SA,S'fiso Mcambe,In-Store,Retailer,East
+CUST558136SA,Sandile Ndlanya-Kholose,In-Store,Retailer,West
+CUST339375SA,Nkosikazi Nomagugu Nhlapho,E-Commerce,Direct,East
+CUST280329SA,Ms. Gugulethu Thwala,E-Commerce,Retailer,West
+CUST823856SA,Bhekokwakhe Maphindela,E-Commerce,Retailer,South
+CUST909165SA,Dr. SimphiweyiNkosi Hadebe,In-Store,Direct,Central
+CUST261805SA,SimphiweyiNkosi Mbanjwa,E-Commerce,Retailer,East
+CUST868726SA,Sphiwe Shange,E-Commerce,Direct,North
+CUST411776SA,Khanyisile Njiki,E-Commerce,Direct,North
+CUST663121SA,Sibonelo Mlangatshe-Mfusi,In-Store,Direct,West
+CUST473947SA,Sibonelo Yengwayo,In-Store,Referral,Central
+CUST97616SA,Nozizwe Thusini,E-Commerce,Direct,East
+CUST291740SA,Nkosazana Nothando Mtumaseli,E-Commerce,Direct,South
+CUST343187SA,Amahle Tiba-Gamede,E-Commerce,Direct,South
+CUST766437SA,Simphiwe Sabelo,E-Commerce,Retailer,North
+CUST731160SA,Zakhele Dludlu,In-Store,Direct,South
+CUST834328SA,Nomusa Madide,E-Commerce,Direct,West
+CUST450513SA,Dr. Nozibusiso Mangethe,E-Commerce,Direct,South
+CUST338548SA,Nkosikazi Nomathalente Nene,E-Commerce,Direct,Central
+CUST606007SA,S'fiso Mthombeni,E-Commerce,Referral,North
+CUST826596SA,Zinhle Dlaba,E-Commerce,Direct,South
+CUST799281SA,Bandile Gcugcwa,In-Store,Retailer,South
+CUST656596SA,Baba Andile Gumbi,E-Commerce,Retailer,South
+CUST974581SA,Miss Nonjabulo Mpunzana,In-Store,Retailer,West
+CUST708SA,Mnqobi Sibanda,E-Commerce,Direct,East
+CUST953582SA,Vusumuzi Phakathi,E-Commerce,Retailer,North
+CUST316528SA,Thando Manzini,E-Commerce,Retailer,South
+CUST97874SA,Mnumzane Mandla Gabadela,In-Store,Retailer,North
+CUST389906SA,Dr. Bandile Mjadu,In-Store,Direct,West
+CUST655993SA,Siyabonga Sikhakhane-Vilakazi,E-Commerce,Referral,West
+CUST245517SA,Siphesihle Gambu,E-Commerce,Direct,East
+CUST737880SA,Andile Macingwane,E-Commerce,Direct,South
+CUST499968SA,Langalibalele Nogantshi,E-Commerce,Direct,East
+CUST237178SA,Thabisa Mpangazitha,E-Commerce,Direct,East
+CUST9738SA,SimphiweyiNkosi Mbulazi,E-Commerce,Referral,West
+CUST856800SA,Thando Mncwabe,E-Commerce,Direct,West
+CUST727744SA,Mzamo Duma,E-Commerce,Retailer,South
+CUST240068SA,Dumisani Sotobe,In-Store,Direct,East
+CUST845106SA,Jabulani Mayisela,In-Store,Retailer,West
+CUST385416SA,Langalibalele Mgobhozi-Wela,In-Store,Retailer,North
+CUST916976SA,Sibonelo Shangase,E-Commerce,Referral,West
+CUST149792SA,Nhlanhla Ngubeni,In-Store,Retailer,West
+CUST8886SA,Siphesihle Khathide-Mntambo,E-Commerce,Direct,East
+CUST368247SA,Dr. Simphiwe Thusi,In-Store,Retailer,North
+CUST158727SA,Silondile Shoyisa,In-Store,Direct,Central
+CUST463873SA,Dr. Dumisani Gcumisa,E-Commerce,Direct,South
+CUST146814SA,Mr. S'fiso Sothole,E-Commerce,Retailer,South
+CUST402686SA,Nonhlanhla Mazibuko,In-Store,Referral,West
+CUST829504SA,Lwandile Maphindela,In-Store,Direct,North
+CUST675933SA,Lwandile Ngema,E-Commerce,Direct,East
+CUST630193SA,Thandazile Nowanqa-Mashasha,E-Commerce,Direct,North
+CUST816808SA,Mrs. Zakhele Phoswa,In-Store,Direct,South
+CUST918371SA,Luyanda Ncanana-Nonyana,In-Store,Retailer,East
+CUST534273SA,Siyabonga Mhlophe,In-Store,Retailer,North
+CUST309898SA,Mr. Thabani Mahlaba,E-Commerce,Retailer,North
+CUST518927SA,Gugu Mahlalela,In-Store,Direct,South
+CUST523850SA,Bhuti Bhekani Nkundlande,E-Commerce,Retailer,South
+CUST931895SA,Minenhle Mbamali,E-Commerce,Referral,West
+CUST138394SA,Zenzile Nhlabathi,E-Commerce,Direct,East
+CUST441307SA,Olwethu Shibase,E-Commerce,Referral,West
+CUST181162SA,Baba Sphiwe Dumisa,In-Store,Retailer,South
+CUST17500SA,Busisiwe Bhovungana-Mamba,E-Commerce,Retailer,South
+CUST226222SA,Zenzele Dlodlo,E-Commerce,Direct,South
+CUST994763SA,Baba Nhlanhla Mashimane,E-Commerce,Direct,Central
+CUST659104SA,Mama Nonhlanhla Sikobi,In-Store,Direct,East
+CUST421818SA,Sibonelo Ndlangamandla,E-Commerce,Direct,East
+CUST563772SA,Khanyisile Maphanga-Gabela,E-Commerce,Retailer,North
+CUST324960SA,Nhlanhla Mabaso,E-Commerce,Retailer,North
+CUST847312SA,Njabulo Mbekwa,In-Store,Direct,East
+CUST409711SA,Simphiwe Xala-Phakathi,In-Store,Direct,Central
+CUST714138SA,Mr. Mandlakhe Sijadu,In-Store,Direct,North
+CUST458737SA,Dr. Bhekokwakhe Mahlobo,In-Store,Direct,East
+CUST90400SA,Gugu Mpofana,In-Store,Direct,East
+CUST642039SA,Bhekokwakhe Mawanda-Sangwani,E-Commerce,Retailer,Central
+CUST777722SA,Dr. Jabulani Bhengu,In-Store,Direct,West
+CUST742287SA,SimphiweyiNkosi Bhembe,E-Commerce,Referral,Central
+CUST171790SA,Nomathemba Ndabandaba,E-Commerce,Direct,Central
+CUST542347SA,Mnumzane Lungile Nenzi,In-Store,Referral,West
+CUST133096SA,Nkosikazi Thandazile Gubhuza,E-Commerce,Retailer,North
+CUST808903SA,Mcebisi Mnguni,In-Store,Direct,Central
+CUST285192SA,Busisiwe Manana,E-Commerce,Direct,Central
+CUST746925SA,Simphiwe Dwala-Mwelase,In-Store,Direct,North
+CUST477309SA,Nomcebo Dlamini,E-Commerce,Direct,South
+CUST523879SA,Miss Nomcebo Khabalidaka,E-Commerce,Direct,West
+CUST267508SA,Mr. Vusumuzi Nhleko,In-Store,Retailer,West
+CUST706866SA,Ms. Nkazimulo Thenjwayo,E-Commerce,Referral,West
+CUST533541SA,Bandile Bhengu,In-Store,Direct,North
+CUST256430SA,Mzamo Mdletshe,In-Store,Direct,North
+CUST401583SA,Lungile Cwalile,E-Commerce,Direct,South
+CUST579720SA,Baba Lwandile Mbanjwa,E-Commerce,Retailer,Central
+CUST260322SA,Thandazile Magononde,E-Commerce,Retailer,North
+CUST284434SA,Ms. Sibongile Menziwa,In-Store,Retailer,North
+CUST125200SA,Thabisa Dlamane,E-Commerce,Direct,South
+CUST188056SA,Thabani Ncama,E-Commerce,Referral,West
+CUST48159SA,Busisiwe Mshikela,E-Commerce,Direct,Central
+CUST908100SA,Sphiwe Mayeza-Mbende,E-Commerce,Retailer,North
+CUST90581SA,Nothando Bele,E-Commerce,Direct,West
+CUST386839SA,Mandlakhe Ngungunyana,In-Store,Direct,East
+CUST822615SA,Siyabonga Ntshingila-Mahlase,E-Commerce,Direct,East
+CUST486462SA,Sibusisiwe Mvuyana,E-Commerce,Direct,West
+CUST810143SA,Dr. Siyabonga Ndwandwe,In-Store,Direct,South
+CUST797423SA,Dr. Langalibalele Bayeni,In-Store,Direct,East
+CUST977689SA,Bhekisisa Magagula,E-Commerce,Direct,East
+CUST567851SA,Simphiwe Sibiya,E-Commerce,Direct,South
+CUST919809SA,Mcebisi Andile,E-Commerce,Direct,North
+CUST795794SA,Baba Thando Thela,E-Commerce,Direct,East
+CUST762540SA,Jabulani Mabhoko-Ndawonde,In-Store,Direct,East
+CUST249736SA,Nozibusiso Dlodlo,E-Commerce,Direct,South
+CUST149289SA,Nkosikazi Dumisani Dindela,In-Store,Retailer,South
+CUST966026SA,Vusumuzi Ncube,In-Store,Retailer,East
+CUST433121SA,Nkosazana Nothando Thumbeza,E-Commerce,Direct,North
+CUST89026SA,Dumisile Mzomba-Hangala,In-Store,Referral,North
+CUST668169SA,Mama Busisiwe Nodlomo,In-Store,Direct,South
+CUST595403SA,Mthokozisi Qwabe,In-Store,Retailer,Central
+CUST137057SA,Mandlakhe Maluleka,In-Store,Direct,Central
+CUST892247SA,Thembile Mhlungu,E-Commerce,Referral,Central
+CUST734764SA,Nkosazana Nomasonto Mpikela,E-Commerce,Retailer,East
+CUST285166SA,Bhekani Mabanga,E-Commerce,Retailer,South
+CUST142723SA,Bhuti Jabulani Juqula,E-Commerce,Direct,East
+CUST110790SA,Musa Mshikila,In-Store,Direct,North
+CUST329287SA,Gugu Ndlandla,E-Commerce,Direct,East
+CUST375691SA,Dr. Musa Mavuso,E-Commerce,Direct,West
+CUST485854SA,Thando Gugushe-Gama,E-Commerce,Direct,South
+CUST165271SA,Mnumzane Thalente Silangwe,In-Store,Retailer,North
+CUST730729SA,Bhekizizwe Madela-Mbende,In-Store,Direct,West
+CUST155528SA,SimphiweyiNkosi Majozi,In-Store,Direct,North
+CUST373023SA,Nozizwe Dladla,E-Commerce,Direct,East
+CUST710078SA,Mandla Khubisa-Chibi,In-Store,Direct,West
+CUST998345SA,Zakhele Mpikela,E-Commerce,Direct,North
+CUST582959SA,Dr. Dumisile Mshengu,In-Store,Direct,East
+CUST106857SA,Dr. Jabulani Bhengu,E-Commerce,Retailer,West
+CUST64664SA,Dr. Gugulethu Luqe,E-Commerce,Retailer,East
+CUST863684SA,Nomcebo Shombela,E-Commerce,Direct,North
+CUST660914SA,Mr. S'fiso Nkwakha,In-Store,Direct,South
+CUST271393SA,Ms. Bhekisisa Doncabe,E-Commerce,Referral,West
+CUST207356SA,Baba Thabani Gwamanda,In-Store,Retailer,South
+CUST96446SA,Nkosazana Gugu Dinangwe,E-Commerce,Referral,Central
+CUST988052SA,Bhekokwakhe Kholose,In-Store,Retailer,South
+CUST969022SA,Nonhlanhla Sandanezwe-Miya,E-Commerce,Direct,South
+CUST520226SA,Mlungisi Shibase,In-Store,Direct,West
+CUST447389SA,Minenhle Made,E-Commerce,Retailer,West
+CUST952426SA,Mandla Mapholoba,In-Store,Retailer,Central
+CUST467676SA,Bandile Nsindane,E-Commerce,Direct,North
+CUST649253SA,Nobantu Nzimase-Mathaba,E-Commerce,Retailer,Central
+CUST523125SA,Zibuyile Ngcemu,In-Store,Direct,West
+CUST502300SA,Bhekani Mapholoba,E-Commerce,Direct,East
+CUST401620SA,Mthokozisi Luthuli,In-Store,Referral,North
+CUST673870SA,Bhuti Lwandile Nyazitla,In-Store,Retailer,East
+CUST841134SA,Thembekile Biyase,E-Commerce,Referral,South
+CUST401078SA,Mnumzane Mzamo Ndonga,In-Store,Direct,Central
+CUST819394SA,Nomathemba Ngwazi,In-Store,Direct,Central
+CUST526797SA,Nomthandazo Mnqamu,E-Commerce,Direct,East
+CUST188550SA,Mcebisi Nomvuma,E-Commerce,Referral,East
+CUST229659SA,Vusumuzi Maphumulo,In-Store,Direct,East
+CUST61437SA,Baba Nhlanhla Mcusi,E-Commerce,Direct,East
+CUST804092SA,Nkazimulo Khanyeza-Gcumisa,E-Commerce,Direct,Central
+CUST259896SA,Dr. Mandla Ndiyema,E-Commerce,Retailer,Central
+CUST855937SA,Mr. Sphiwe Madinane,E-Commerce,Direct,East
+CUST603656SA,Mama Nomathemba Khuba,E-Commerce,Direct,South
+CUST184654SA,S'fiso Magoza,In-Store,Retailer,South
+CUST845372SA,Nkosazana Sibusisiwe Cenge,E-Commerce,Direct,South
+CUST737623SA,Nkosazana Sibongile Ngungunyana,In-Store,Direct,East
+CUST149005SA,Mnqobi Mvubu-Ndlovu,In-Store,Direct,West
+CUST324065SA,Mzamo Dikane,In-Store,Retailer,South
+CUST94641SA,Lwandile Nongalo,E-Commerce,Retailer,North
+CUST229437SA,Nhlanhla Mthembu,In-Store,Direct,Central
+CUST716SA,Silondile Lwandle,E-Commerce,Retailer,North
+CUST845619SA,Mcebisi Soduba,E-Commerce,Retailer,Central
+CUST186080SA,Mnumzane Bandile Bophela,In-Store,Retailer,South
+CUST154887SA,Thalente Hlongwane-Goba,In-Store,Direct,West
+CUST887599SA,Zenzile Mdlenevu,E-Commerce,Direct,South
+CUST76054SA,Thalente Qwabe,In-Store,Retailer,East
+CUST414812SA,Dumisile Mboko-Mathunjwa,E-Commerce,Direct,North
+CUST338273SA,Lungile Swazi,E-Commerce,Direct,East
+CUST994777SA,Thembekile Nyembezi,E-Commerce,Referral,North
+CUST510866SA,Mnumzane Lungile Sithole,In-Store,Retailer,West
+CUST589275SA,Nkosazana Nkazimulo Sameya,In-Store,Direct,North
+CUST617558SA,Miss Nomthandazo Mavundla,E-Commerce,Direct,East
+CUST769649SA,Nkosikazi Gugulethu Khulu,In-Store,Direct,South
+CUST764234SA,SimphiweyiNkosi Nhlapho,E-Commerce,Direct,East
+CUST410623SA,Mrs. Londiwe Nongalo,In-Store,Direct,East
+CUST333674SA,Bhuti Lwandile Nyembezi,In-Store,Retailer,West
+CUST593022SA,Zenzele Mwelase,In-Store,Direct,South
+CUST147475SA,Thandeka Fihlela,E-Commerce,Direct,North
+CUST249556SA,Nomasonto Khezokhulu,E-Commerce,Direct,South
+CUST667090SA,Thalente Sithombo,In-Store,Retailer,West
+CUST702571SA,Mnumzane Musa Bhembe,E-Commerce,Direct,North
+CUST278095SA,Lwandile Sibisi,E-Commerce,Referral,West
+CUST71087SA,Nobuhle Gigaba,E-Commerce,Direct,North
+CUST755408SA,Bandile Mhlambo,In-Store,Referral,East
+CUST459507SA,Mama Londisizwe Mlambo,E-Commerce,Referral,South
+CUST517033SA,Nomathemba Ndwandwe,In-Store,Retailer,West
+CUST393580SA,Thalente Mthethwa,In-Store,Direct,North
+CUST827043SA,Dr. Londisizwe Mpila,E-Commerce,Direct,West
+CUST77289SA,Mr. Mandlakhe Biyela,E-Commerce,Referral,South
+CUST334198SA,Jabulani Dunge-Mboyisa,In-Store,Direct,Central
+CUST178368SA,Londisizwe Swazi,In-Store,Direct,Central
+CUST78645SA,Zinhle Gamede,E-Commerce,Direct,West
+CUST354366SA,Silondile Mthiya-Silangwe,E-Commerce,Retailer,Central
+CUST32498SA,Siphesihle Khathide,E-Commerce,Retailer,North
+CUST636818SA,Londisizwe Dlambula,E-Commerce,Referral,South
+CUST106176SA,Ndumiso Langa,E-Commerce,Referral,South
+CUST429161SA,Nkosikazi Sithembiso Masango,In-Store,Retailer,North
+CUST311847SA,Jabulani Dladla,In-Store,Retailer,West
+CUST411987SA,Owethu Mvelase-Jobe,E-Commerce,Direct,West
+CUST57152SA,Amahle Mngwemkhulu,In-Store,Retailer,South
+CUST91884SA,Thalente Qomazitha-Ntuli,E-Commerce,Direct,South
+CUST629371SA,Mnqobi Gcaba,E-Commerce,Direct,North
+CUST26985SA,Lungile Nyembe,E-Commerce,Direct,East
+CUST305986SA,Mzamo Gubeshe,E-Commerce,Direct,South
+CUST323331SA,Baba Mzamo Mtuswa,E-Commerce,Retailer,South
+CUST938347SA,Mnumzane Bhekani Nyongwana,E-Commerce,Direct,South
+CUST570557SA,Londiwe Memela,E-Commerce,Referral,Central
+CUST928506SA,Nomcebo Kweyama,In-Store,Retailer,North
+CUST467429SA,Mandla Mntambo,E-Commerce,Direct,South
+CUST487648SA,Lwandile Manyoni-Ngungunyana,E-Commerce,Direct,South
+CUST64633SA,Sphiwe Sibhene,E-Commerce,Direct,North
+CUST699891SA,Bhekani Sembathwa,E-Commerce,Direct,East
+CUST360491SA,Bhuti Mthokozisi Vabaza,E-Commerce,Direct,North
+CUST618372SA,Njabulo Dlomo,E-Commerce,Referral,South
+CUST881639SA,Thembisile Ndabandaba,In-Store,Retailer,South
+CUST438967SA,Thabisa Mthabela,E-Commerce,Retailer,West
+CUST600534SA,Mzamo Mathenjwa,In-Store,Direct,South
+CUST82790SA,Zinhle Siwele,In-Store,Direct,South
+CUST36415SA,Sibongile Ngcamane,In-Store,Referral,South
+CUST839333SA,Thabisa Ntshangase-Jama,In-Store,Direct,East
+CUST126124SA,Baba Lungile Khezokhulu,E-Commerce,Direct,West
+CUST222182SA,Dr. Langalibalele Dinangwe,E-Commerce,Direct,East
+CUST443940SA,Sibusiso Mnyandu,E-Commerce,Direct,East
+CUST211727SA,Miss Thuthukile Nombhoco,E-Commerce,Referral,South
+CUST270413SA,Thandazile Dubandlela,In-Store,Direct,South
+CUST91254SA,Owethu Mjoli,In-Store,Retailer,West
+CUST578870SA,Zakhele Maphalala,E-Commerce,Direct,East
+CUST544932SA,Zenzile Bhengu,E-Commerce,Retailer,West
+CUST824758SA,Mama Gugu Mlangatshe,In-Store,Direct,Central
+CUST156911SA,S'fiso Nkwaliyenkosi,E-Commerce,Direct,East
+CUST610981SA,Mr. Zenzele Gence,In-Store,Retailer,East
+CUST590016SA,Mr. Thabani Mashinini,In-Store,Direct,West
+CUST909613SA,Zibuyile Mbulaze,E-Commerce,Retailer,North
+CUST920538SA,Nobuhle Mgilija,In-Store,Retailer,South
+CUST686594SA,Sibongile Nozulu,In-Store,Direct,Central
+CUST496025SA,Lungile Maphalala,In-Store,Direct,West
+CUST422548SA,Sandile Nozulu,In-Store,Direct,North
+CUST713884SA,Mama Bhekizizwe Mjadu,E-Commerce,Direct,East
+CUST932786SA,Thabisile Mahaye,E-Commerce,Retailer,South
+CUST51685SA,Dade Nokulunga Menziwa,E-Commerce,Retailer,East
+CUST21215SA,Thembisile Mathibela,E-Commerce,Direct,North
+CUST326053SA,Thalente Mveni-Sigegede,E-Commerce,Direct,Central
+CUST718119SA,Thando Madlula,E-Commerce,Referral,North
+CUST140913SA,Siyabonga Mntungwa-Maziya,E-Commerce,Direct,North
+CUST282507SA,Mama Sihawukele Nzimande,E-Commerce,Direct,South
+CUST93624SA,Musa Mabuyakhulu,In-Store,Direct,South
+CUST957803SA,Mama Thandeka Mthombeni,In-Store,Direct,West
+CUST796386SA,Zenzile Meyiwa,In-Store,Retailer,North
+CUST860899SA,Nhlanhla Khambule,In-Store,Direct,North
+CUST68804SA,SimphiweyiNkosi Mzoneli-Mkhize,E-Commerce,Retailer,Central
+CUST142239SA,Bhuti Vusumuzi Nhlabathi,E-Commerce,Direct,North
+CUST30354SA,Luyanda Luvuno,In-Store,Direct,North
+CUST877633SA,Lwandile Chiliza,In-Store,Direct,East
+CUST478621SA,Zenzele Mdladla,E-Commerce,Retailer,North
+CUST738862SA,Mandla Mdunge,In-Store,Retailer,North
+CUST863508SA,Nozizwe Mjoli,E-Commerce,Referral,North
+CUST666275SA,Sibusiso Chibi,E-Commerce,Direct,South
+CUST253690SA,Nozibusiso Nombela,In-Store,Direct,East
+CUST467773SA,Thando Msuthu,E-Commerce,Retailer,East
+CUST615388SA,Nomathemba Mbulaze,E-Commerce,Retailer,East
