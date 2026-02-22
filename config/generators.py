@@ -4,6 +4,7 @@ import os
 import csv
 import random
 import uuid
+from dotenv import load_dotenv, find_dotenv
 from faker.providers import BaseProvider
 from utils import (
     CustomerTypeEnum,
@@ -20,7 +21,8 @@ from utils import (
 
 
 
-fake = Faker('zu_ZA')
+load_dotenv(find_dotenv())
+fake = Faker(os.getenv("FAKER_LOCALE", "zu_ZA"))
 #-------Helper functions--------
 _issued_product_codes: set[str] = set()
 _issued_customer_codes: set[str] = set()
@@ -161,10 +163,14 @@ def write_to_csv(data: list[dict], path: str, filename: str, fieldnames: list[st
         writer.writerows(data)
 
 if __name__ == "__main__":
-    products = generate_dim_product(795)
-    customers = generate_dim_customer(250)
+    N_PRODUCTS = int(os.getenv("N_PRODUCTS", 795))
+    N_CUSTOMERS = int(os.getenv("N_CUSTOMERS", 250))
+    N_ORDERS = int(os.getenv("N_ORDERS", 93065))
+    
+    products = generate_dim_product(N_PRODUCTS)
+    customers = generate_dim_customer(N_CUSTOMERS)
     gross_prices = generate_dim_gross_price(products)
-    fact_orders = generate_fact_orders(93065, customers, products, gross_prices)
+    fact_orders = generate_fact_orders(N_ORDERS, customers, products, gross_prices)
     
     PRODUCT_FIELDS = ["product_code", "product", "division", "category", "brand", "variant"]
     CUSTOMER_FIELDS = ["customer_code", "customer_name", "store_name", "customer_type", "channel", "province", "city"]
