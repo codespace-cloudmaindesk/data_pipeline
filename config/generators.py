@@ -1,4 +1,5 @@
 from faker import Faker
+from datetime import date
 import os
 import csv
 import random
@@ -123,7 +124,7 @@ def generate_fact_orders(row_count: int, customers: list[dict], products: list[d
         price_zar = round(random.uniform(min_price, max_price), 2)
         
         fact_orders.append({
-            "order_date": fake.date_this_year(),
+            "order_date": fake.date_between(start_date=date(FISCAL_YEARS[0], 1, 1), end_date=date(FISCAL_YEARS[-1], 12, 31)),
             "customer_code": customer["customer_code"],
             "product_code": product["product_code"],
             "sold_quantity": fake.random_int(min=10, max=999),
@@ -131,12 +132,14 @@ def generate_fact_orders(row_count: int, customers: list[dict], products: list[d
         })
     return fact_orders
 
-def write_to_csv(data: list[dict], path: str, filename: str) -> None:
+def write_to_csv(data: list[dict], path: str, filename: str, fieldnames: list[str] | None = None) -> None:
     """Write a list of dicts to a CSV file, creating directories as needed."""
+    if not data:
+        return
     os.makedirs(path, exist_ok=True)
     filepath = os.path.join(path, filename)
     with open(filepath, "w", newline="") as file:
-        writer = csv.DictWriter(file, fieldnames=data[0].keys())
+        writer = csv.DictWriter(file, fieldnames=fieldnames or data[0].keys(), extrasaction="ignore")
         writer.writeheader()
         writer.writerows(data)
 
@@ -146,9 +149,12 @@ if __name__ == "__main__":
     gross_prices = generate_dim_gross_price(products)
     fact_orders = generate_fact_orders(93065, customers, products)
     
+    PRODUCT_FIELDS = ["product_code", "product", "division", "category", "brand", "variant"]
+    CUSTOMER_FIELDS = ["customer_code", "customer_name", "store_name", "customer_type", "channel", "province", "city"]
+    
     write_to_csv(gross_prices, "../data/raw", "dim_gross_price.csv")
-    write_to_csv(products, "../data/raw", "dim_product.csv")
-    write_to_csv(customers, "../data/raw", "dim_customer.csv")
+    write_to_csv(products, "../data/raw", "dim_product.csv", fieldnames=PRODUCT_FIELDS)
+    write_to_csv(customers, "../data/raw", "dim_customer.csv", fieldnames=CUSTOMER_FIELDS)
     write_to_csv(fact_orders, "../data/raw", "fact_orders.csv")
 
     print(f"Successfully generated {len(gross_prices)} rows of dim_gross_price.csv")

@@ -91,6 +91,7 @@ PRICE_RULES = {
         UnitOfMeasureEnum.GRAMS: (8, 35),
         UnitOfMeasureEnum.KILOGRAMS: (18, 45),
         UnitOfMeasureEnum.EACH: (6, 20),
+        UnitOfMeasureEnum.PACK: (15, 35),
     },
     CategoryEnum.BEVERAGES: {
     UnitOfMeasureEnum.MILLILITRES: (8, 25),
@@ -101,13 +102,16 @@ PRICE_RULES = {
     UnitOfMeasureEnum.MILLILITRES: (10, 35),
     UnitOfMeasureEnum.LITRES: (18, 45),
     UnitOfMeasureEnum.EACH: (12, 30),
+    UnitOfMeasureEnum.GRAMS: (15, 60),
     },
     CategoryEnum.MEAT: {
     UnitOfMeasureEnum.KILOGRAMS: (75, 220),
+    UnitOfMeasureEnum.GRAMS: (20, 80),
     },
     CategoryEnum.PRODUCE: {
     UnitOfMeasureEnum.KILOGRAMS: (10, 45),
     UnitOfMeasureEnum.EACH: (3, 15),
+    UnitOfMeasureEnum.GRAMS: (5, 25),
     },
     CategoryEnum.CLEANING: {
     UnitOfMeasureEnum.MILLILITRES: (20, 80),
@@ -116,6 +120,8 @@ PRICE_RULES = {
     },
     CategoryEnum.SNACKS: {
     UnitOfMeasureEnum.EACH: (5, 25),
+    UnitOfMeasureEnum.GRAMS: (8, 30),
+    UnitOfMeasureEnum.PACK: (20, 60),
     }
 }
 
