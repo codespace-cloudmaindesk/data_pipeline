@@ -1,0 +1,251 @@
+customer_code ,customer_name                  ,store_name       ,customer_type ,channel  ,province      ,city
+CUST-135600   ,Lwandile Nhlabathi             ,Checkers Sixty60 ,Retail        ,Online   ,Gauteng       ,Pretoria
+CUST-244305   ,Mcebisi Cwalile                ,Usave            ,Retail        ,In-Store ,KwaZulu-Natal ,Pietermaritzburg
+CUST-237507   ,Musa Mdunge                    ,Checkers Sixty60 ,Wholesale     ,In-Store ,Gauteng       ,Soweto
+CUST-632675   ,Bhekizizwe Ntsele              ,Checkers Sixty60 ,Retail        ,Online   ,KwaZulu-Natal ,Pietermaritzburg
+CUST-247782   ,Nomathalente Ngubane           ,Usave            ,Bulk          ,In-Store ,Gauteng       ,Soweto
+CUST-363646   ,Ndumiso Mpunzana               ,Checkers         ,Bulk          ,Online   ,Northern Cape ,Kimberley
+CUST-277830   ,Londiwe Manyoni                ,Shoprite         ,Wholesale     ,In-Store ,Gauteng       ,Tembisa
+CUST-568031   ,Mandlakhe Mntambo              ,Usave            ,Wholesale     ,In-Store ,KwaZulu-Natal ,Durban
+CUST-686519   ,Andile Mtolo                   ,Checkers Sixty60 ,Retail        ,Online   ,Gauteng       ,Johannesburg
+CUST-529751   ,Zenzile Nkwakha-Lakaza         ,Checkers         ,Bulk          ,In-Store ,Gauteng       ,Soweto
+CUST-51734    ,Nomathemba Nombela-Phewa       ,Checkers Sixty60 ,Bulk          ,Online   ,Limpopo       ,Polokwane
+CUST-995891   ,Bandile Ncala-Thobeni          ,Shoprite         ,Bulk          ,Online   ,KwaZulu-Natal ,Durban
+CUST-587573   ,Bhekisisa Sangweni             ,Checkers Sixty60 ,Retail        ,Online   ,Gauteng       ,Tembisa
+CUST-465091   ,Mama Thuthukile Luthuli        ,Usave            ,Wholesale     ,In-Store ,Gauteng       ,Tembisa
+CUST-292839   ,Khanyisile Goje                ,Usave            ,Wholesale     ,Online   ,Gauteng       ,Tembisa
+CUST-44943    ,Dumisani Mbotho                ,Usave            ,Wholesale     ,In-Store ,Western Cape  ,Stellenbosch
+CUST-718345   ,Vusumuzi Mvuyana               ,Shoprite         ,Bulk          ,Online   ,Western Cape  ,Stellenbosch
+CUST-731215   ,Olwethu Gcaleka                ,Checkers         ,Wholesale     ,Online   ,Gauteng       ,Soweto
+CUST-683430   ,Nkosazana Nonhlanhla Mbotho    ,Checkers         ,Retail        ,Online   ,North West    ,Rustenburg
+CUST-340853   ,Dr. Mandla Mpungose            ,Shoprite         ,Bulk          ,Online   ,North West    ,Rustenburg
+CUST-500904   ,Sandile Mbatha                 ,Usave            ,Retail        ,Online   ,Western Cape  ,Stellenbosch
+CUST-326107   ,Dr. Luyanda Mafobo             ,Checkers         ,Wholesale     ,In-Store ,North West    ,Rustenburg
+CUST-602027   ,Musa Mathula                   ,Checkers         ,Bulk          ,Online   ,KwaZulu-Natal ,Durban
+CUST-595961   ,Sibusiso Makhoba               ,Shoprite         ,Retail        ,In-Store ,Western Cape  ,Cape Town
+CUST-989704   ,Nonhlanhla Sokhela-Ngwekazi    ,Usave            ,Bulk          ,Online   ,Gauteng       ,Johannesburg
+CUST-851892   ,Mama Bhekokwakhe Mcanco        ,Checkers Sixty60 ,Retail        ,Online   ,Gauteng       ,Tembisa
+CUST-624295   ,Musa Mqungebe                  ,Checkers         ,Retail        ,In-Store ,KwaZulu-Natal ,Durban
+CUST-213571   ,Zinhle Luvuno                  ,Usave            ,Retail        ,Online   ,Gauteng       ,Johannesburg
+CUST-207951   ,Thembeka Ntuli-Mshibe          ,Shoprite         ,Wholesale     ,In-Store ,Gauteng       ,Soweto
+CUST-895800   ,Silondile Shabane              ,Checkers Sixty60 ,Retail        ,Online   ,KwaZulu-Natal ,Durban
+CUST-386852   ,Mr. Minenhle Mantshinga        ,Checkers Sixty60 ,Wholesale     ,In-Store ,Limpopo       ,Polokwane
+CUST-542654   ,Sibusiso Dinangwe              ,Checkers Sixty60 ,Bulk          ,Online   ,KwaZulu-Natal ,Durban
+CUST-328657   ,Bhuti Thalente Nonkosi         ,Checkers         ,Bulk          ,In-Store ,Gauteng       ,Soweto
+CUST-817192   ,Nkosikazi Gugulethu Masilela   ,Checkers Sixty60 ,Retail        ,In-Store ,Gauteng       ,Soweto
+CUST-571593   ,Langalibalele Mwelase-Sijadu   ,Checkers         ,Wholesale     ,Online   ,Gauteng       ,Tembisa
+CUST-919249   ,Mnumzane Zenzele Mthembu       ,Checkers         ,Retail        ,In-Store ,Gauteng       ,Soweto
+CUST-77514    ,Mr. Luyanda Madonsela          ,Shoprite         ,Retail        ,In-Store ,Gauteng       ,Pretoria
+CUST-270004   ,Nkosazana Noxolo Dimbani       ,Shoprite         ,Retail        ,In-Store ,Free State    ,Bloemfontein
+CUST-664611   ,Vusumuzi Mjoli                 ,Shoprite         ,Wholesale     ,In-Store ,North West    ,Rustenburg
+CUST-567478   ,Londiwe Sikhunyana             ,Checkers Sixty60 ,Wholesale     ,In-Store ,Northern Cape ,Kimberley
+CUST-607678   ,Dr. Nozizwe Madi               ,Checkers         ,Wholesale     ,In-Store ,Mpumalanga    ,Mbombela
+CUST-857850   ,Mthokozisi Mhlongo             ,Checkers Sixty60 ,Wholesale     ,Online   ,Northern Cape ,Kimberley
+CUST-133973   ,Mrs. Nomathemba Nyawo          ,Usave            ,Wholesale     ,In-Store ,Free State    ,Bloemfontein
+CUST-90257    ,Zenzele Biyase                 ,Checkers         ,Bulk          ,Online   ,Northern Cape ,Kimberley
+CUST-308231   ,Bandile Ndaba                  ,Checkers Sixty60 ,Bulk          ,Online   ,North West    ,Rustenburg
+CUST-761568   ,SimphiweyiNkosi Mahlalela      ,Shoprite         ,Wholesale     ,Online   ,Gauteng       ,Johannesburg
+CUST-577190   ,Thuthukile Gcaba               ,Checkers Sixty60 ,Wholesale     ,In-Store ,Western Cape  ,Cape Town
+CUST-677961   ,Sihawukele Shandu              ,Checkers         ,Bulk          ,In-Store ,Gauteng       ,Johannesburg
+CUST-763631   ,Nomcebo Njiki-Ndinisa          ,Shoprite         ,Retail        ,In-Store ,Northern Cape ,Kimberley
+CUST-154203   ,Thabani Mhlanya-Gcugcwa        ,Checkers         ,Bulk          ,Online   ,Gauteng       ,Pretoria
+CUST-398008   ,Dade Nomusa Mlangeni           ,Usave            ,Retail        ,Online   ,KwaZulu-Natal ,Durban
+CUST-454221   ,Nkosikazi Nomathalente Khoza   ,Usave            ,Retail        ,Online   ,Mpumalanga    ,Mbombela
+CUST-93540    ,Thalente Mahlobo               ,Checkers Sixty60 ,Bulk          ,Online   ,Gauteng       ,Tembisa
+CUST-632994   ,Sibusisiwe Yei                 ,Checkers Sixty60 ,Bulk          ,Online   ,KwaZulu-Natal ,Pietermaritzburg
+CUST-61550    ,Simphiwe Ndaba                 ,Shoprite         ,Bulk          ,In-Store ,Gauteng       ,Johannesburg
+CUST-972090   ,Nonhlanhla Mtuswa-Qomazitha    ,Checkers         ,Retail        ,Online   ,Northern Cape ,Kimberley
+CUST-530517   ,Owethu Thoyana-Dlebenkomo      ,Checkers         ,Wholesale     ,In-Store ,Northern Cape ,Kimberley
+CUST-978111   ,Dr. Nhlanhla Mngomezulu        ,Checkers Sixty60 ,Bulk          ,In-Store ,KwaZulu-Natal ,Pietermaritzburg
+CUST-261804   ,Mrs. Nomathemba Masilela       ,Shoprite         ,Wholesale     ,Online   ,North West    ,Rustenburg
+CUST-794113   ,Mr. Bandile Masango            ,Shoprite         ,Retail        ,In-Store ,KwaZulu-Natal ,Durban
+CUST-168005   ,Zenzile Simelane-Jobe          ,Checkers Sixty60 ,Retail        ,Online   ,Gauteng       ,Tembisa
+CUST-122222   ,Thembekile Mcoyi               ,Checkers         ,Retail        ,Online   ,KwaZulu-Natal ,Durban
+CUST-718704   ,Nonjabulo Ndlanya              ,Usave            ,Bulk          ,Online   ,Gauteng       ,Tembisa
+CUST-437340   ,Mnumzane Njabulo Ndabansele    ,Usave            ,Retail        ,Online   ,Northern Cape ,Kimberley
+CUST-760315   ,Nkosikazi Olwethu Hlengwa      ,Usave            ,Bulk          ,Online   ,Western Cape  ,Stellenbosch
+CUST-880430   ,Minenhle Mcambe                ,Checkers Sixty60 ,Wholesale     ,Online   ,Limpopo       ,Polokwane
+CUST-433598   ,Dr. Thuthukile Nqumela         ,Usave            ,Bulk          ,In-Store ,Gauteng       ,Soweto
+CUST-530010   ,Jabulani Mafulela-Vundla       ,Checkers         ,Bulk          ,In-Store ,Western Cape  ,Stellenbosch
+CUST-878204   ,Mnqobi Vundla                  ,Usave            ,Bulk          ,In-Store ,KwaZulu-Natal ,Pietermaritzburg
+CUST-446531   ,Vusumuzi Mathaba               ,Checkers Sixty60 ,Wholesale     ,In-Store ,Gauteng       ,Pretoria
+CUST-96703    ,Nomathemba Makhedama           ,Usave            ,Wholesale     ,In-Store ,Free State    ,Bloemfontein
+CUST-876722   ,Mnumzane Jabulani Mhlangu      ,Shoprite         ,Wholesale     ,Online   ,North West    ,Rustenburg
+CUST-325731   ,Lwandile Mathula-Chiliza       ,Shoprite         ,Retail        ,Online   ,North West    ,Rustenburg
+CUST-44671    ,Nomathalente Thumbeza-Sikobi   ,Usave            ,Bulk          ,Online   ,Gauteng       ,Johannesburg
+CUST-553590   ,Baba Mlungisi Mntimande        ,Checkers         ,Bulk          ,Online   ,KwaZulu-Natal ,Durban
+CUST-552986   ,Zenzile Mtolo                  ,Usave            ,Bulk          ,Online   ,Free State    ,Bloemfontein
+CUST-371647   ,Mama Zinhle Thembela           ,Checkers         ,Wholesale     ,In-Store ,Gauteng       ,Pretoria
+CUST-662875   ,S'fiso Nomndayi                ,Usave            ,Wholesale     ,In-Store ,North West    ,Rustenburg
+CUST-433550   ,Mzamo Ncala                    ,Shoprite         ,Wholesale     ,Online   ,Western Cape  ,Cape Town
+CUST-360229   ,Vusumuzi Khumalo               ,Shoprite         ,Wholesale     ,Online   ,Gauteng       ,Soweto
+CUST-998101   ,Miss Thuthukile Msweli         ,Usave            ,Bulk          ,In-Store ,KwaZulu-Natal ,Pietermaritzburg
+CUST-907980   ,Dr. Mthokozisi Ngungunyana     ,Usave            ,Wholesale     ,In-Store ,KwaZulu-Natal ,Pietermaritzburg
+CUST-716342   ,Sihawukele Sondisa             ,Checkers         ,Retail        ,In-Store ,Gauteng       ,Soweto
+CUST-513366   ,Zibuyile Dinwa                 ,Shoprite         ,Wholesale     ,In-Store ,KwaZulu-Natal ,Durban
+CUST-297984   ,Bhuti Jabulani Mwandla         ,Shoprite         ,Wholesale     ,Online   ,Western Cape  ,Stellenbosch
+CUST-881962   ,Nomvula Manzi                  ,Shoprite         ,Retail        ,In-Store ,KwaZulu-Natal ,Durban
+CUST-568670   ,Dr. Thabani Khabalidaka        ,Usave            ,Bulk          ,Online   ,Gauteng       ,Tembisa
+CUST-443277   ,Bhuti Sphiwe Shombela          ,Checkers Sixty60 ,Retail        ,In-Store ,Gauteng       ,Soweto
+CUST-682977   ,Sibusiso Mgilija               ,Usave            ,Wholesale     ,Online   ,Gauteng       ,Soweto
+CUST-547686   ,Nozizwe Mseleku-Bayeni         ,Shoprite         ,Wholesale     ,In-Store ,Gauteng       ,Soweto
+CUST-738283   ,Nonjabulo Makhedama            ,Checkers Sixty60 ,Wholesale     ,Online   ,North West    ,Rustenburg
+CUST-752199   ,Nomvula Khuyameni              ,Shoprite         ,Wholesale     ,Online   ,Northern Cape ,Kimberley
+CUST-300652   ,Nomthandazo Gininda-Mlondo     ,Shoprite         ,Bulk          ,Online   ,Gauteng       ,Tembisa
+CUST-849806   ,Simphiwe Phetha                ,Shoprite         ,Bulk          ,In-Store ,Western Cape  ,Stellenbosch
+CUST-471770   ,Dr. Mandlakhe Ngwekazi         ,Checkers         ,Bulk          ,In-Store ,Gauteng       ,Johannesburg
+CUST-886706   ,Mrs. Nomagugu Xhakaza          ,Checkers         ,Wholesale     ,In-Store ,Northern Cape ,Kimberley
+CUST-553730   ,Andile Thobeni                 ,Shoprite         ,Wholesale     ,Online   ,Gauteng       ,Johannesburg
+CUST-866243   ,Nomalanga Makhubo              ,Checkers Sixty60 ,Wholesale     ,In-Store ,KwaZulu-Natal ,Durban
+CUST-802733   ,Simphiwe Gambu                 ,Usave            ,Bulk          ,Online   ,Gauteng       ,Pretoria
+CUST-181624   ,Miss Thabisile Shezi           ,Checkers         ,Bulk          ,Online   ,KwaZulu-Natal ,Durban
+CUST-822316   ,Ms. Thandiwe Nzima             ,Checkers         ,Retail        ,Online   ,Free State    ,Bloemfontein
+CUST-860905   ,Sphiwe Lubelo                  ,Checkers         ,Bulk          ,Online   ,Free State    ,Bloemfontein
+CUST-353820   ,Nomcebo Jele-Bikelwayo         ,Shoprite         ,Retail        ,Online   ,KwaZulu-Natal ,Durban
+CUST-200637   ,Dr. Bhekokwakhe Madiba         ,Checkers         ,Retail        ,Online   ,North West    ,Rustenburg
+CUST-34007    ,Londiwe Memela                 ,Checkers         ,Retail        ,Online   ,Gauteng       ,Johannesburg
+CUST-718988   ,Baba Sibonelo Shezi            ,Checkers Sixty60 ,Bulk          ,Online   ,Mpumalanga    ,Mbombela
+CUST-730773   ,Mlungisi Bhungane              ,Checkers         ,Wholesale     ,Online   ,Gauteng       ,Johannesburg
+CUST-707755   ,Bhekani Gabhezi                ,Shoprite         ,Retail        ,In-Store ,Gauteng       ,Soweto
+CUST-617653   ,Thandazile Mphankomo           ,Usave            ,Retail        ,In-Store ,Limpopo       ,Polokwane
+CUST-650377   ,Dr. Bandile Mqadi              ,Checkers Sixty60 ,Retail        ,Online   ,Northern Cape ,Kimberley
+CUST-535590   ,Bhekokwakhe Hlubi              ,Checkers Sixty60 ,Wholesale     ,In-Store ,Northern Cape ,Kimberley
+CUST-279954   ,Baba Jabulani Shabane          ,Checkers         ,Retail        ,In-Store ,Mpumalanga    ,Mbombela
+CUST-228001   ,Bhekisisa Nkwakha              ,Checkers         ,Wholesale     ,In-Store ,Limpopo       ,Polokwane
+CUST-411890   ,S'fiso Sikwayo                 ,Checkers         ,Retail        ,Online   ,Northern Cape ,Kimberley
+CUST-278111   ,Zenzele Gule-Ndawo             ,Shoprite         ,Bulk          ,Online   ,Free State    ,Bloemfontein
+CUST-313983   ,Baba Mandla Lubelo             ,Shoprite         ,Bulk          ,Online   ,Gauteng       ,Soweto
+CUST-785330   ,Nomvula Phetha                 ,Usave            ,Bulk          ,Online   ,Northern Cape ,Kimberley
+CUST-913934   ,Sandile Makhanya-Chibini       ,Checkers Sixty60 ,Wholesale     ,Online   ,Gauteng       ,Johannesburg
+CUST-415712   ,Sibonelo Mbende                ,Shoprite         ,Wholesale     ,Online   ,North West    ,Rustenburg
+CUST-83088    ,Sphiwe Mahamba                 ,Shoprite         ,Retail        ,Online   ,Gauteng       ,Johannesburg
+CUST-233461   ,Nothando Nandisa               ,Shoprite         ,Wholesale     ,In-Store ,Western Cape  ,Cape Town
+CUST-443937   ,Mzamo Fihlela                  ,Usave            ,Wholesale     ,Online   ,North West    ,Rustenburg
+CUST-837259   ,Mcebisi Amahle                 ,Checkers Sixty60 ,Bulk          ,Online   ,Free State    ,Bloemfontein
+CUST-1581     ,Mandlakhe Nkwakha              ,Checkers Sixty60 ,Bulk          ,In-Store ,Western Cape  ,Cape Town
+CUST-164032   ,Mzamo Bayeni-Msuthu            ,Checkers Sixty60 ,Wholesale     ,Online   ,Western Cape  ,Cape Town
+CUST-74064    ,Baba Thalente Makhathini       ,Checkers         ,Wholesale     ,Online   ,Free State    ,Bloemfontein
+CUST-451321   ,Dr. Nqobizitha Ntanzi          ,Shoprite         ,Retail        ,In-Store ,Gauteng       ,Tembisa
+CUST-533158   ,Luyanda Gcugcwa                ,Checkers         ,Retail        ,In-Store ,KwaZulu-Natal ,Pietermaritzburg
+CUST-170758   ,Ms. Nomcebo Mafuleka           ,Checkers Sixty60 ,Bulk          ,In-Store ,Gauteng       ,Tembisa
+CUST-407429   ,Dade Thandiwe Sandanezwe       ,Checkers Sixty60 ,Wholesale     ,Online   ,Gauteng       ,Tembisa
+CUST-647255   ,Ndumiso Nene-Mathonsi          ,Shoprite         ,Retail        ,In-Store ,Gauteng       ,Pretoria
+CUST-77269    ,Bhuti Lwandile Mazwi           ,Usave            ,Bulk          ,In-Store ,Western Cape  ,Cape Town
+CUST-619820   ,Zenzele Nhlane-Nyembezi        ,Checkers         ,Bulk          ,Online   ,KwaZulu-Natal ,Pietermaritzburg
+CUST-848276   ,Nomathalente Mhlongo-Lutholoni ,Usave            ,Retail        ,In-Store ,KwaZulu-Natal ,Pietermaritzburg
+CUST-152111   ,Mama Noxolo Hangala            ,Checkers         ,Retail        ,Online   ,KwaZulu-Natal ,Durban
+CUST-426258   ,Olwethu Sembathwa              ,Checkers Sixty60 ,Bulk          ,Online   ,Northern Cape ,Kimberley
+CUST-536603   ,Noxolo Mthembu-Gambuse         ,Checkers Sixty60 ,Bulk          ,Online   ,Gauteng       ,Johannesburg
+CUST-283951   ,Thando Manqele                 ,Usave            ,Retail        ,Online   ,Western Cape  ,Cape Town
+CUST-76091    ,Mama Nomcebo Ngungunyana       ,Shoprite         ,Wholesale     ,Online   ,KwaZulu-Natal ,Durban
+CUST-883860   ,Nozibusiso Phingoshe           ,Checkers Sixty60 ,Retail        ,In-Store ,Western Cape  ,Stellenbosch
+CUST-594963   ,Silondile Anele                ,Shoprite         ,Retail        ,Online   ,North West    ,Rustenburg
+CUST-688708   ,Dr. Mzamo Mazibuko             ,Checkers         ,Wholesale     ,Online   ,KwaZulu-Natal ,Pietermaritzburg
+CUST-73364    ,Bhekizizwe Maphanga            ,Checkers         ,Wholesale     ,Online   ,Western Cape  ,Cape Town
+CUST-816445   ,Ndumiso Mzulwini               ,Shoprite         ,Retail        ,Online   ,Western Cape  ,Stellenbosch
+CUST-560155   ,Thabani Mbongwa                ,Checkers         ,Bulk          ,Online   ,Limpopo       ,Polokwane
+CUST-318525   ,Mandla Mdakane                 ,Checkers         ,Wholesale     ,Online   ,KwaZulu-Natal ,Durban
+CUST-810615   ,Nonjabulo Godide               ,Checkers Sixty60 ,Retail        ,Online   ,Gauteng       ,Soweto
+CUST-47026    ,Sandile Sibaya                 ,Usave            ,Bulk          ,Online   ,KwaZulu-Natal ,Durban
+CUST-962142   ,Andile Songiya                 ,Checkers Sixty60 ,Bulk          ,Online   ,Gauteng       ,Soweto
+CUST-70386    ,Sibusiso Mcambi-Mpikela        ,Checkers         ,Wholesale     ,Online   ,KwaZulu-Natal ,Pietermaritzburg
+CUST-913202   ,Nonhlanhla Ntshiza             ,Checkers         ,Wholesale     ,In-Store ,Free State    ,Bloemfontein
+CUST-450942   ,Busisiwe Guliwe                ,Shoprite         ,Bulk          ,Online   ,Gauteng       ,Pretoria
+CUST-768419   ,Mr. Mandlakhe Langa            ,Shoprite         ,Bulk          ,Online   ,Gauteng       ,Pretoria
+CUST-119461   ,Miss Nomagugu Hlomuka          ,Shoprite         ,Bulk          ,Online   ,Gauteng       ,Pretoria
+CUST-544154   ,Ndumiso Mhlanya-Bantwini       ,Shoprite         ,Bulk          ,Online   ,Western Cape  ,Stellenbosch
+CUST-211639   ,Mr. Mzamo Mncube               ,Shoprite         ,Retail        ,Online   ,KwaZulu-Natal ,Pietermaritzburg
+CUST-103178   ,Sithembiso Siwele              ,Usave            ,Wholesale     ,Online   ,KwaZulu-Natal ,Pietermaritzburg
+CUST-538807   ,Simphiwe Mbanjwa               ,Shoprite         ,Bulk          ,In-Store ,Western Cape  ,Stellenbosch
+CUST-880225   ,Mcebisi Nkwali                 ,Shoprite         ,Retail        ,Online   ,Northern Cape ,Kimberley
+CUST-881859   ,Mandla Godide                  ,Usave            ,Retail        ,Online   ,Gauteng       ,Johannesburg
+CUST-529876   ,Mandlakhe Donda                ,Shoprite         ,Wholesale     ,Online   ,Mpumalanga    ,Mbombela
+CUST-601497   ,Vusumuzi Mathibela             ,Shoprite         ,Bulk          ,Online   ,Gauteng       ,Johannesburg
+CUST-14902    ,Mrs. Thandeka Mawanda          ,Usave            ,Bulk          ,Online   ,Northern Cape ,Kimberley
+CUST-261695   ,Sandile Mkhumbuzi-Dlamdaka     ,Shoprite         ,Retail        ,In-Store ,Gauteng       ,Tembisa
+CUST-370824   ,Lungile Bhovungana             ,Usave            ,Wholesale     ,Online   ,KwaZulu-Natal ,Pietermaritzburg
+CUST-137498   ,Lungile Thusi                  ,Usave            ,Bulk          ,Online   ,Free State    ,Bloemfontein
+CUST-686083   ,Nonjabulo Sikobi-Mabanga       ,Checkers         ,Wholesale     ,Online   ,Mpumalanga    ,Mbombela
+CUST-486494   ,Lwandile Nyandeni-Mafulela     ,Usave            ,Bulk          ,Online   ,Western Cape  ,Cape Town
+CUST-859227   ,Nkosikazi Nomathemba Mazwi     ,Usave            ,Bulk          ,In-Store ,KwaZulu-Natal ,Durban
+CUST-938243   ,Ms. Sibusisiwe Njapha          ,Usave            ,Wholesale     ,In-Store ,Western Cape  ,Cape Town
+CUST-441397   ,Luyanda Masondo-Mnquhe         ,Checkers Sixty60 ,Wholesale     ,In-Store ,Gauteng       ,Pretoria
+CUST-93831    ,Sibusiso Gcwensa               ,Shoprite         ,Wholesale     ,In-Store ,Gauteng       ,Pretoria
+CUST-573944   ,Vusumuzi Makhaye               ,Shoprite         ,Retail        ,In-Store ,Gauteng       ,Pretoria
+CUST-261987   ,Bhuti Mthokozisi Mtshali       ,Checkers         ,Retail        ,Online   ,KwaZulu-Natal ,Pietermaritzburg
+CUST-119382   ,Njabulo Lukhele                ,Shoprite         ,Bulk          ,In-Store ,Free State    ,Bloemfontein
+CUST-345012   ,Lwandile Mthalane              ,Checkers         ,Wholesale     ,In-Store ,Free State    ,Bloemfontein
+CUST-734671   ,Thuthukile Nhlapho             ,Shoprite         ,Wholesale     ,In-Store ,Gauteng       ,Tembisa
+CUST-401676   ,Nonjabulo Ncube                ,Checkers         ,Bulk          ,Online   ,Gauteng       ,Pretoria
+CUST-234440   ,Mandla Mahlaba                 ,Shoprite         ,Retail        ,Online   ,Free State    ,Bloemfontein
+CUST-482516   ,Dr. Musa Maziya                ,Checkers Sixty60 ,Wholesale     ,In-Store ,KwaZulu-Natal ,Pietermaritzburg
+CUST-188830   ,Dr. Thabani Nowanqa            ,Shoprite         ,Retail        ,Online   ,Limpopo       ,Polokwane
+CUST-596976   ,Sphiwe Mgenge                  ,Usave            ,Retail        ,In-Store ,Gauteng       ,Tembisa
+CUST-773899   ,Mnumzane Sphiwe Songiya        ,Checkers Sixty60 ,Retail        ,Online   ,Mpumalanga    ,Mbombela
+CUST-586170   ,Mcebisi Mkhabela               ,Shoprite         ,Wholesale     ,In-Store ,Northern Cape ,Kimberley
+CUST-603348   ,Nomvula Mbili                  ,Checkers         ,Bulk          ,Online   ,KwaZulu-Natal ,Pietermaritzburg
+CUST-722594   ,Khanyisile Mahlase-Khuboni     ,Checkers         ,Retail        ,In-Store ,Gauteng       ,Johannesburg
+CUST-280924   ,Siphesihle Mathwasa            ,Checkers         ,Bulk          ,In-Store ,KwaZulu-Natal ,Pietermaritzburg
+CUST-456632   ,Bhuti Thabani Nomndayi         ,Usave            ,Bulk          ,In-Store ,North West    ,Rustenburg
+CUST-900420   ,Nonjabulo Mayeza               ,Checkers Sixty60 ,Bulk          ,In-Store ,Free State    ,Bloemfontein
+CUST-72841    ,SimphiweyiNkosi Nkwakha        ,Shoprite         ,Wholesale     ,Online   ,Northern Cape ,Kimberley
+CUST-636239   ,Nonhlanhla Hlengwa             ,Shoprite         ,Retail        ,Online   ,North West    ,Rustenburg
+CUST-53478    ,Sithembiso Mshikela            ,Usave            ,Retail        ,In-Store ,Western Cape  ,Stellenbosch
+CUST-922525   ,Zenzele Ndlala                 ,Checkers Sixty60 ,Bulk          ,Online   ,Northern Cape ,Kimberley
+CUST-395289   ,Sphiwe Ndabansele-Galu         ,Shoprite         ,Retail        ,Online   ,Western Cape  ,Stellenbosch
+CUST-854731   ,Thembeka Delwayo               ,Checkers         ,Wholesale     ,In-Store ,North West    ,Rustenburg
+CUST-88481    ,Mandlakhe Dlangamandla-Nyanda  ,Checkers         ,Retail        ,In-Store ,Free State    ,Bloemfontein
+CUST-482821   ,Njabulo Makhaza                ,Usave            ,Bulk          ,In-Store ,Free State    ,Bloemfontein
+CUST-658276   ,Mandla Nyandeni                ,Shoprite         ,Retail        ,In-Store ,Limpopo       ,Polokwane
+CUST-562696   ,SimphiweyiNkosi Njapha         ,Shoprite         ,Wholesale     ,Online   ,Gauteng       ,Pretoria
+CUST-714881   ,Nqobizitha Gumede              ,Checkers Sixty60 ,Wholesale     ,Online   ,KwaZulu-Natal ,Pietermaritzburg
+CUST-697360   ,Nkosikazi Thembekile Ngazitha  ,Checkers Sixty60 ,Wholesale     ,In-Store ,Free State    ,Bloemfontein
+CUST-530625   ,Thalente Nkomo                 ,Usave            ,Wholesale     ,Online   ,KwaZulu-Natal ,Durban
+CUST-738884   ,Nomcebo Shabangu-Nyide         ,Checkers Sixty60 ,Retail        ,Online   ,KwaZulu-Natal ,Durban
+CUST-569334   ,Nomthandazo Vumisa             ,Usave            ,Wholesale     ,Online   ,KwaZulu-Natal ,Pietermaritzburg
+CUST-734009   ,Nomalanga Mathwasa             ,Checkers         ,Wholesale     ,Online   ,Free State    ,Bloemfontein
+CUST-962979   ,Mnqobi Songiya                 ,Usave            ,Wholesale     ,Online   ,KwaZulu-Natal ,Pietermaritzburg
+CUST-575663   ,Luyanda Khubisa                ,Shoprite         ,Bulk          ,In-Store ,KwaZulu-Natal ,Durban
+CUST-274133   ,Bhuti Nhlanhla Mkhwananzi      ,Checkers         ,Retail        ,In-Store ,Gauteng       ,Johannesburg
+CUST-718443   ,Siphesihle Khaba               ,Shoprite         ,Bulk          ,Online   ,Northern Cape ,Kimberley
+CUST-742622   ,Sphiwe Myeni                   ,Usave            ,Wholesale     ,Online   ,Gauteng       ,Tembisa
+CUST-229946   ,Dr. Njabulo Hlengwa            ,Checkers Sixty60 ,Retail        ,In-Store ,KwaZulu-Natal ,Durban
+CUST-857104   ,Luyanda Hangala                ,Checkers Sixty60 ,Bulk          ,In-Store ,Limpopo       ,Polokwane
+CUST-668321   ,Nkazimulo Sengwayo-Sokhwebula  ,Shoprite         ,Bulk          ,In-Store ,Gauteng       ,Soweto
+CUST-485556   ,Nhlanhla Mbhobho               ,Usave            ,Bulk          ,In-Store ,Northern Cape ,Kimberley
+CUST-711145   ,Jabulani Ngema-Jili            ,Usave            ,Retail        ,In-Store ,Northern Cape ,Kimberley
+CUST-266882   ,Thabisa Xala                   ,Checkers Sixty60 ,Wholesale     ,Online   ,Limpopo       ,Polokwane
+CUST-614608   ,Sihawukele Nyawo               ,Checkers         ,Wholesale     ,Online   ,Western Cape  ,Stellenbosch
+CUST-991105   ,Dumisani Dlungwana-Nkwakha     ,Checkers Sixty60 ,Bulk          ,Online   ,Gauteng       ,Pretoria
+CUST-294611   ,Sibongile Madonsela            ,Usave            ,Wholesale     ,In-Store ,Western Cape  ,Stellenbosch
+CUST-314516   ,Nkosikazi Nomagugu Maduna      ,Checkers         ,Bulk          ,In-Store ,Mpumalanga    ,Mbombela
+CUST-279889   ,Mthokozisi Mangethe            ,Shoprite         ,Retail        ,Online   ,KwaZulu-Natal ,Durban
+CUST-362581   ,Mzamo Makhubo-Mhlanya          ,Checkers         ,Wholesale     ,In-Store ,North West    ,Rustenburg
+CUST-608897   ,Baba Bhekani Dlomo             ,Shoprite         ,Wholesale     ,Online   ,Gauteng       ,Soweto
+CUST-118494   ,Amahle Nxasana                 ,Checkers Sixty60 ,Retail        ,Online   ,Gauteng       ,Soweto
+CUST-393883   ,Sibusisiwe Nzimase-Dinabantu   ,Shoprite         ,Bulk          ,Online   ,Limpopo       ,Polokwane
+CUST-165225   ,Nomcebo Vumisa                 ,Shoprite         ,Retail        ,In-Store ,Western Cape  ,Stellenbosch
+CUST-831778   ,Ms. Nomusa Mbulazi             ,Checkers         ,Wholesale     ,Online   ,Gauteng       ,Johannesburg
+CUST-649072   ,Nomcebo Nongalaza              ,Checkers         ,Retail        ,In-Store ,Mpumalanga    ,Mbombela
+CUST-281972   ,Mnumzane Mandla Mfusi          ,Shoprite         ,Retail        ,Online   ,Gauteng       ,Pretoria
+CUST-339292   ,Nkosazana Khanyisile Gabhezi   ,Usave            ,Bulk          ,Online   ,Gauteng       ,Soweto
+CUST-108627   ,Nozizwe Nkabinde-Jele          ,Usave            ,Retail        ,Online   ,Gauteng       ,Pretoria
+CUST-633311   ,Mama Simphiwe Dlakela          ,Checkers Sixty60 ,Bulk          ,In-Store ,Gauteng       ,Pretoria
+CUST-270267   ,Dr. Jabulani Khanyeza          ,Checkers         ,Retail        ,In-Store ,Free State    ,Bloemfontein
+CUST-470384   ,Zibuyile Dikane                ,Checkers         ,Retail        ,Online   ,Gauteng       ,Tembisa
+CUST-686436   ,Dr. Siyabonga Dumisa           ,Checkers         ,Retail        ,Online   ,KwaZulu-Natal ,Durban
+CUST-714918   ,Baba Mcebisi Dlodlo            ,Checkers         ,Wholesale     ,Online   ,Gauteng       ,Pretoria
+CUST-310163   ,Sibonelo Malambule             ,Checkers Sixty60 ,Wholesale     ,In-Store ,Limpopo       ,Polokwane
+CUST-618915   ,Sibusisiwe Jamasijadu          ,Checkers Sixty60 ,Wholesale     ,Online   ,Western Cape  ,Stellenbosch
+CUST-219459   ,Bhuti Mthokozisi Kubheka       ,Checkers Sixty60 ,Bulk          ,Online   ,KwaZulu-Natal ,Durban
+CUST-639651   ,Mandla Khaba                   ,Checkers Sixty60 ,Wholesale     ,In-Store ,Gauteng       ,Pretoria
+CUST-615805   ,Nomcebo Gininda                ,Checkers         ,Bulk          ,Online   ,KwaZulu-Natal ,Pietermaritzburg
+CUST-722432   ,Bhekani Ndabandaba             ,Shoprite         ,Bulk          ,Online   ,Gauteng       ,Johannesburg
+CUST-21824    ,Nkosazana Londiwe Madlala      ,Shoprite         ,Wholesale     ,In-Store ,Northern Cape ,Kimberley
+CUST-791827   ,Bhekani Ngubane                ,Usave            ,Wholesale     ,Online   ,North West    ,Rustenburg
+CUST-430389   ,Lwandile Mnyoni                ,Shoprite         ,Retail        ,Online   ,Western Cape  ,Stellenbosch
+CUST-152326   ,Andile Mbongwa                 ,Usave            ,Wholesale     ,Online   ,Gauteng       ,Tembisa
+CUST-918302   ,Thabisile Sibeko-Nzima         ,Checkers         ,Bulk          ,In-Store ,Northern Cape ,Kimberley
+CUST-60832    ,Thalente Ndabezitha            ,Checkers Sixty60 ,Wholesale     ,Online   ,North West    ,Rustenburg
+CUST-870455   ,Khanyisile Maduma              ,Usave            ,Bulk          ,In-Store ,KwaZulu-Natal ,Durban
+CUST-155439   ,Nkosikazi Mnqobi Bhensela      ,Usave            ,Bulk          ,In-Store ,Western Cape  ,Cape Town

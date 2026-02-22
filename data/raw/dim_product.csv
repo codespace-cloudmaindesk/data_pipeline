@@ -1,0 +1,796 @@
+product_code,product,division,category,brand,variant,category_enum,uom_enum
+SKU-215862,Cola Cappy,Beverages,Drinks & Beverages,Cappy,ml,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.MILLILITRES
+SKU-868182,Boerewors Rainbow Chicken,Fresh Food,Meat & Poultry,Rainbow Chicken,kg,CategoryEnum.MEAT,UnitOfMeasureEnum.KILOGRAMS
+SKU-748310,Boerewors Country Fair,Fresh Food,Meat & Poultry,Country Fair,kg,CategoryEnum.MEAT,UnitOfMeasureEnum.KILOGRAMS
+SKU-726792,Potatoes Freshmark,Fresh Food,Produce,Freshmark,kg,CategoryEnum.PRODUCE,UnitOfMeasureEnum.KILOGRAMS
+SKU-685641,Onions ZZ2,Fresh Food,Produce,ZZ2,kg,CategoryEnum.PRODUCE,UnitOfMeasureEnum.KILOGRAMS
+SKU-627392,Dishwashing Liquid Omo,Household,Cleaning Supplies,Omo,Pack,CategoryEnum.CLEANING,UnitOfMeasureEnum.PACK
+SKU-479889,Bananas Freshmark,Fresh Food,Produce,Freshmark,kg,CategoryEnum.PRODUCE,UnitOfMeasureEnum.KILOGRAMS
+SKU-696561,100% Fruit Juice Cappy,Beverages,Drinks & Beverages,Cappy,ml,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.MILLILITRES
+SKU-405462,Boerewors Karan Beef,Fresh Food,Meat & Poultry,Karan Beef,g,CategoryEnum.MEAT,UnitOfMeasureEnum.GRAMS
+SKU-464130,Floor Cleaner Domestos,Household,Cleaning Supplies,Domestos,ml,CategoryEnum.CLEANING,UnitOfMeasureEnum.MILLILITRES
+SKU-553715,Chocolate Slab Simba,Grocery Essentials,Snacks & Confectionery,Simba,g,CategoryEnum.SNACKS,UnitOfMeasureEnum.GRAMS
+SKU-31472,Salted Chips Beacon,Grocery Essentials,Snacks & Confectionery,Beacon,Pack,CategoryEnum.SNACKS,UnitOfMeasureEnum.PACK
+SKU-645517,Cola Liqui Fruit,Beverages,Drinks & Beverages,Liqui Fruit,L,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.LITRES
+SKU-306381,Flavoured Drink Liqui Fruit,Beverages,Drinks & Beverages,Liqui Fruit,Pack,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.PACK
+SKU-238996,Full Cream Milk Parmalat,Fresh Food,Dairy & Eggs,Parmalat,L,CategoryEnum.DAIRY,UnitOfMeasureEnum.LITRES
+SKU-4615,Onions ZZ2,Fresh Food,Produce,ZZ2,g,CategoryEnum.PRODUCE,UnitOfMeasureEnum.GRAMS
+SKU-276209,Seeded Brown Bread Albany,Fresh Food,Bakery,Albany,g,CategoryEnum.BAKERY,UnitOfMeasureEnum.GRAMS
+SKU-587354,Orange Squash Coca-Cola,Beverages,Drinks & Beverages,Coca-Cola,ml,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.MILLILITRES
+SKU-505633,Potatoes Nature's Choice,Fresh Food,Produce,Nature's Choice,Each,CategoryEnum.PRODUCE,UnitOfMeasureEnum.EACH
+SKU-422572,Full Cream Milk Clover,Fresh Food,Dairy & Eggs,Clover,Each,CategoryEnum.DAIRY,UnitOfMeasureEnum.EACH
+SKU-646723,Washing Powder Sunlight,Household,Cleaning Supplies,Sunlight,ml,CategoryEnum.CLEANING,UnitOfMeasureEnum.MILLILITRES
+SKU-889137,White Bread Albany,Fresh Food,Bakery,Albany,Pack,CategoryEnum.BAKERY,UnitOfMeasureEnum.PACK
+SKU-577848,Bananas Freshmark,Fresh Food,Produce,Freshmark,g,CategoryEnum.PRODUCE,UnitOfMeasureEnum.GRAMS
+SKU-117497,Large Eggs (18) Parmalat,Fresh Food,Dairy & Eggs,Parmalat,ml,CategoryEnum.DAIRY,UnitOfMeasureEnum.MILLILITRES
+SKU-832683,Low Fat Milk Clover,Fresh Food,Dairy & Eggs,Clover,Each,CategoryEnum.DAIRY,UnitOfMeasureEnum.EACH
+SKU-411358,Cheese Snacks Cadbury,Grocery Essentials,Snacks & Confectionery,Cadbury,Pack,CategoryEnum.SNACKS,UnitOfMeasureEnum.PACK
+SKU-497340,Hot Dog Rolls (6pk) Sunbake,Fresh Food,Bakery,Sunbake,Each,CategoryEnum.BAKERY,UnitOfMeasureEnum.EACH
+SKU-38974,Flavoured Drink Cappy,Beverages,Drinks & Beverages,Cappy,Pack,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.PACK
+SKU-55255,Onions ZZ2,Fresh Food,Produce,ZZ2,g,CategoryEnum.PRODUCE,UnitOfMeasureEnum.GRAMS
+SKU-893179,Potatoes Nature's Choice,Fresh Food,Produce,Nature's Choice,kg,CategoryEnum.PRODUCE,UnitOfMeasureEnum.KILOGRAMS
+SKU-395889,Potatoes ZZ2,Fresh Food,Produce,ZZ2,kg,CategoryEnum.PRODUCE,UnitOfMeasureEnum.KILOGRAMS
+SKU-692406,White Bread Sasko,Fresh Food,Bakery,Sasko,Pack,CategoryEnum.BAKERY,UnitOfMeasureEnum.PACK
+SKU-735604,Beef Stewing Rainbow Chicken,Fresh Food,Meat & Poultry,Rainbow Chicken,g,CategoryEnum.MEAT,UnitOfMeasureEnum.GRAMS
+SKU-137951,Beef Stewing Country Fair,Fresh Food,Meat & Poultry,Country Fair,kg,CategoryEnum.MEAT,UnitOfMeasureEnum.KILOGRAMS
+SKU-163729,Hot Dog Rolls (6pk) Albany,Fresh Food,Bakery,Albany,g,CategoryEnum.BAKERY,UnitOfMeasureEnum.GRAMS
+SKU-540356,Cola Liqui Fruit,Beverages,Drinks & Beverages,Liqui Fruit,L,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.LITRES
+SKU-162119,Cola Cappy,Beverages,Drinks & Beverages,Cappy,Pack,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.PACK
+SKU-3276,Sweets Pack Beacon,Grocery Essentials,Snacks & Confectionery,Beacon,Each,CategoryEnum.SNACKS,UnitOfMeasureEnum.EACH
+SKU-460728,Onions Nature's Choice,Fresh Food,Produce,Nature's Choice,Each,CategoryEnum.PRODUCE,UnitOfMeasureEnum.EACH
+SKU-857678,White Bread Sasko,Fresh Food,Bakery,Sasko,g,CategoryEnum.BAKERY,UnitOfMeasureEnum.GRAMS
+SKU-162717,Margarine Ladismith,Fresh Food,Dairy & Eggs,Ladismith,Each,CategoryEnum.DAIRY,UnitOfMeasureEnum.EACH
+SKU-727294,Salted Chips Cadbury,Grocery Essentials,Snacks & Confectionery,Cadbury,Each,CategoryEnum.SNACKS,UnitOfMeasureEnum.EACH
+SKU-825990,Flavoured Drink Cappy,Beverages,Drinks & Beverages,Cappy,Pack,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.PACK
+SKU-32001,Apples Freshmark,Fresh Food,Produce,Freshmark,Each,CategoryEnum.PRODUCE,UnitOfMeasureEnum.EACH
+SKU-658162,White Bread Blue Ribbon,Fresh Food,Bakery,Blue Ribbon,g,CategoryEnum.BAKERY,UnitOfMeasureEnum.GRAMS
+SKU-355205,Full Cream Milk Ladismith,Fresh Food,Dairy & Eggs,Ladismith,g,CategoryEnum.DAIRY,UnitOfMeasureEnum.GRAMS
+SKU-932200,Boerewors Rainbow Chicken,Fresh Food,Meat & Poultry,Rainbow Chicken,kg,CategoryEnum.MEAT,UnitOfMeasureEnum.KILOGRAMS
+SKU-93978,Seeded Brown Bread Blue Ribbon,Fresh Food,Bakery,Blue Ribbon,g,CategoryEnum.BAKERY,UnitOfMeasureEnum.GRAMS
+SKU-332414,Onions Nature's Choice,Fresh Food,Produce,Nature's Choice,g,CategoryEnum.PRODUCE,UnitOfMeasureEnum.GRAMS
+SKU-367090,Margarine Nulaid,Fresh Food,Dairy & Eggs,Nulaid,g,CategoryEnum.DAIRY,UnitOfMeasureEnum.GRAMS
+SKU-986591,Seeded Brown Bread Albany,Fresh Food,Bakery,Albany,Pack,CategoryEnum.BAKERY,UnitOfMeasureEnum.PACK
+SKU-941245,Onions Freshmark,Fresh Food,Produce,Freshmark,Each,CategoryEnum.PRODUCE,UnitOfMeasureEnum.EACH
+SKU-309598,Beef Stewing Rainbow Chicken,Fresh Food,Meat & Poultry,Rainbow Chicken,kg,CategoryEnum.MEAT,UnitOfMeasureEnum.KILOGRAMS
+SKU-295405,Beef Stewing Country Fair,Fresh Food,Meat & Poultry,Country Fair,kg,CategoryEnum.MEAT,UnitOfMeasureEnum.KILOGRAMS
+SKU-90210,Plain Yoghurt Danone,Fresh Food,Dairy & Eggs,Danone,Each,CategoryEnum.DAIRY,UnitOfMeasureEnum.EACH
+SKU-395825,Potatoes Nature's Choice,Fresh Food,Produce,Nature's Choice,kg,CategoryEnum.PRODUCE,UnitOfMeasureEnum.KILOGRAMS
+SKU-111900,Potatoes Nature's Choice,Fresh Food,Produce,Nature's Choice,Each,CategoryEnum.PRODUCE,UnitOfMeasureEnum.EACH
+SKU-406419,Orange Squash Oros,Beverages,Drinks & Beverages,Oros,L,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.LITRES
+SKU-642076,Boerewors Karan Beef,Fresh Food,Meat & Poultry,Karan Beef,g,CategoryEnum.MEAT,UnitOfMeasureEnum.GRAMS
+SKU-790054,Onions Freshmark,Fresh Food,Produce,Freshmark,g,CategoryEnum.PRODUCE,UnitOfMeasureEnum.GRAMS
+SKU-775467,100% Fruit Juice Cappy,Beverages,Drinks & Beverages,Cappy,ml,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.MILLILITRES
+SKU-195195,Large Eggs (18) Danone,Fresh Food,Dairy & Eggs,Danone,g,CategoryEnum.DAIRY,UnitOfMeasureEnum.GRAMS
+SKU-565816,Chocolate Slab Simba,Grocery Essentials,Snacks & Confectionery,Simba,g,CategoryEnum.SNACKS,UnitOfMeasureEnum.GRAMS
+SKU-804143,Flavoured Drink Coca-Cola,Beverages,Drinks & Beverages,Coca-Cola,ml,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.MILLILITRES
+SKU-665745,Floor Cleaner Omo,Household,Cleaning Supplies,Omo,Pack,CategoryEnum.CLEANING,UnitOfMeasureEnum.PACK
+SKU-816415,Dishwashing Liquid Domestos,Household,Cleaning Supplies,Domestos,Pack,CategoryEnum.CLEANING,UnitOfMeasureEnum.PACK
+SKU-487650,Brown Bread Sunbake,Fresh Food,Bakery,Sunbake,g,CategoryEnum.BAKERY,UnitOfMeasureEnum.GRAMS
+SKU-234135,Hot Dog Rolls (6pk) Sunbake,Fresh Food,Bakery,Sunbake,Each,CategoryEnum.BAKERY,UnitOfMeasureEnum.EACH
+SKU-621078,White Bread Albany,Fresh Food,Bakery,Albany,Pack,CategoryEnum.BAKERY,UnitOfMeasureEnum.PACK
+SKU-635252,Chocolate Slab Cadbury,Grocery Essentials,Snacks & Confectionery,Cadbury,Pack,CategoryEnum.SNACKS,UnitOfMeasureEnum.PACK
+SKU-337184,Cheddar Cheese Clover,Fresh Food,Dairy & Eggs,Clover,g,CategoryEnum.DAIRY,UnitOfMeasureEnum.GRAMS
+SKU-867817,Tomatoes Freshmark,Fresh Food,Produce,Freshmark,kg,CategoryEnum.PRODUCE,UnitOfMeasureEnum.KILOGRAMS
+SKU-462508,Beef Stewing Rainbow Chicken,Fresh Food,Meat & Poultry,Rainbow Chicken,kg,CategoryEnum.MEAT,UnitOfMeasureEnum.KILOGRAMS
+SKU-172399,Apples Freshmark,Fresh Food,Produce,Freshmark,g,CategoryEnum.PRODUCE,UnitOfMeasureEnum.GRAMS
+SKU-668937,Chicken Portions Country Fair,Fresh Food,Meat & Poultry,Country Fair,kg,CategoryEnum.MEAT,UnitOfMeasureEnum.KILOGRAMS
+SKU-800279,Sweets Pack Simba,Grocery Essentials,Snacks & Confectionery,Simba,g,CategoryEnum.SNACKS,UnitOfMeasureEnum.GRAMS
+SKU-424698,Bananas Freshmark,Fresh Food,Produce,Freshmark,g,CategoryEnum.PRODUCE,UnitOfMeasureEnum.GRAMS
+SKU-895214,White Bread Sasko,Fresh Food,Bakery,Sasko,Pack,CategoryEnum.BAKERY,UnitOfMeasureEnum.PACK
+SKU-684732,Bleach Omo,Household,Cleaning Supplies,Omo,L,CategoryEnum.CLEANING,UnitOfMeasureEnum.LITRES
+SKU-560897,Beef Stewing Rainbow Chicken,Fresh Food,Meat & Poultry,Rainbow Chicken,g,CategoryEnum.MEAT,UnitOfMeasureEnum.GRAMS
+SKU-742905,Bleach Handy Andy,Household,Cleaning Supplies,Handy Andy,L,CategoryEnum.CLEANING,UnitOfMeasureEnum.LITRES
+SKU-365401,Full Cream Milk Ladismith,Fresh Food,Dairy & Eggs,Ladismith,g,CategoryEnum.DAIRY,UnitOfMeasureEnum.GRAMS
+SKU-887073,Chocolate Slab Doritos,Grocery Essentials,Snacks & Confectionery,Doritos,Each,CategoryEnum.SNACKS,UnitOfMeasureEnum.EACH
+SKU-769804,Chicken Portions Karan Beef,Fresh Food,Meat & Poultry,Karan Beef,kg,CategoryEnum.MEAT,UnitOfMeasureEnum.KILOGRAMS
+SKU-129156,Margarine Clover,Fresh Food,Dairy & Eggs,Clover,L,CategoryEnum.DAIRY,UnitOfMeasureEnum.LITRES
+SKU-532245,Plain Yoghurt Crystal Valley,Fresh Food,Dairy & Eggs,Crystal Valley,Each,CategoryEnum.DAIRY,UnitOfMeasureEnum.EACH
+SKU-304304,Chocolate Slab Cadbury,Grocery Essentials,Snacks & Confectionery,Cadbury,g,CategoryEnum.SNACKS,UnitOfMeasureEnum.GRAMS
+SKU-49250,Full Cream Milk Nulaid,Fresh Food,Dairy & Eggs,Nulaid,ml,CategoryEnum.DAIRY,UnitOfMeasureEnum.MILLILITRES
+SKU-799263,Margarine Crystal Valley,Fresh Food,Dairy & Eggs,Crystal Valley,Each,CategoryEnum.DAIRY,UnitOfMeasureEnum.EACH
+SKU-303810,Cheese Snacks Simba,Grocery Essentials,Snacks & Confectionery,Simba,g,CategoryEnum.SNACKS,UnitOfMeasureEnum.GRAMS
+SKU-508298,Cheese Snacks Doritos,Grocery Essentials,Snacks & Confectionery,Doritos,g,CategoryEnum.SNACKS,UnitOfMeasureEnum.GRAMS
+SKU-353030,Floor Cleaner Handy Andy,Household,Cleaning Supplies,Handy Andy,L,CategoryEnum.CLEANING,UnitOfMeasureEnum.LITRES
+SKU-552301,White Bread Sunbake,Fresh Food,Bakery,Sunbake,Each,CategoryEnum.BAKERY,UnitOfMeasureEnum.EACH
+SKU-220021,Potatoes ZZ2,Fresh Food,Produce,ZZ2,g,CategoryEnum.PRODUCE,UnitOfMeasureEnum.GRAMS
+SKU-456588,White Bread Sunbake,Fresh Food,Bakery,Sunbake,Each,CategoryEnum.BAKERY,UnitOfMeasureEnum.EACH
+SKU-224810,Potato Chips Doritos,Grocery Essentials,Snacks & Confectionery,Doritos,Pack,CategoryEnum.SNACKS,UnitOfMeasureEnum.PACK
+SKU-957936,Cola Coca-Cola,Beverages,Drinks & Beverages,Coca-Cola,L,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.LITRES
+SKU-709359,Washing Powder Domestos,Household,Cleaning Supplies,Domestos,L,CategoryEnum.CLEANING,UnitOfMeasureEnum.LITRES
+SKU-824547,Potato Chips Simba,Grocery Essentials,Snacks & Confectionery,Simba,Each,CategoryEnum.SNACKS,UnitOfMeasureEnum.EACH
+SKU-352501,Seeded Brown Bread Albany,Fresh Food,Bakery,Albany,Each,CategoryEnum.BAKERY,UnitOfMeasureEnum.EACH
+SKU-719280,Brown Bread Blue Ribbon,Fresh Food,Bakery,Blue Ribbon,g,CategoryEnum.BAKERY,UnitOfMeasureEnum.GRAMS
+SKU-353358,100% Fruit Juice Oros,Beverages,Drinks & Beverages,Oros,Pack,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.PACK
+SKU-22155,Apples Freshmark,Fresh Food,Produce,Freshmark,Each,CategoryEnum.PRODUCE,UnitOfMeasureEnum.EACH
+SKU-967552,100% Fruit Juice Oros,Beverages,Drinks & Beverages,Oros,ml,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.MILLILITRES
+SKU-90825,100% Fruit Juice Coca-Cola,Beverages,Drinks & Beverages,Coca-Cola,Pack,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.PACK
+SKU-467066,Chicken Portions Karan Beef,Fresh Food,Meat & Poultry,Karan Beef,kg,CategoryEnum.MEAT,UnitOfMeasureEnum.KILOGRAMS
+SKU-100714,Orange Squash Liqui Fruit,Beverages,Drinks & Beverages,Liqui Fruit,Pack,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.PACK
+SKU-289492,White Bread Albany,Fresh Food,Bakery,Albany,g,CategoryEnum.BAKERY,UnitOfMeasureEnum.GRAMS
+SKU-754243,Orange Squash Oros,Beverages,Drinks & Beverages,Oros,L,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.LITRES
+SKU-613465,Pork Chops Karan Beef,Fresh Food,Meat & Poultry,Karan Beef,kg,CategoryEnum.MEAT,UnitOfMeasureEnum.KILOGRAMS
+SKU-172494,Hot Dog Rolls (6pk) Albany,Fresh Food,Bakery,Albany,Pack,CategoryEnum.BAKERY,UnitOfMeasureEnum.PACK
+SKU-481696,Orange Squash Coca-Cola,Beverages,Drinks & Beverages,Coca-Cola,ml,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.MILLILITRES
+SKU-133327,Chips Beacon,Grocery Essentials,Snacks & Confectionery,Beacon,Each,CategoryEnum.SNACKS,UnitOfMeasureEnum.EACH
+SKU-460653,Sweets Pack Lays,Grocery Essentials,Snacks & Confectionery,Lays,Each,CategoryEnum.SNACKS,UnitOfMeasureEnum.EACH
+SKU-501507,Flavoured Drink Cappy,Beverages,Drinks & Beverages,Cappy,Pack,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.PACK
+SKU-265364,White Bread Sasko,Fresh Food,Bakery,Sasko,Pack,CategoryEnum.BAKERY,UnitOfMeasureEnum.PACK
+SKU-126480,Chips NikNaks,Grocery Essentials,Snacks & Confectionery,NikNaks,Pack,CategoryEnum.SNACKS,UnitOfMeasureEnum.PACK
+SKU-683318,White Bread Sunbake,Fresh Food,Bakery,Sunbake,Each,CategoryEnum.BAKERY,UnitOfMeasureEnum.EACH
+SKU-526432,Brown Bread Albany,Fresh Food,Bakery,Albany,g,CategoryEnum.BAKERY,UnitOfMeasureEnum.GRAMS
+SKU-391050,Hot Dog Rolls (6pk) Blue Ribbon,Fresh Food,Bakery,Blue Ribbon,Pack,CategoryEnum.BAKERY,UnitOfMeasureEnum.PACK
+SKU-495457,Hot Dog Rolls (6pk) Sunbake,Fresh Food,Bakery,Sunbake,Pack,CategoryEnum.BAKERY,UnitOfMeasureEnum.PACK
+SKU-821072,Washing Powder Handy Andy,Household,Cleaning Supplies,Handy Andy,L,CategoryEnum.CLEANING,UnitOfMeasureEnum.LITRES
+SKU-269289,Cheese Snacks Lays,Grocery Essentials,Snacks & Confectionery,Lays,Each,CategoryEnum.SNACKS,UnitOfMeasureEnum.EACH
+SKU-280508,Chips Cadbury,Grocery Essentials,Snacks & Confectionery,Cadbury,g,CategoryEnum.SNACKS,UnitOfMeasureEnum.GRAMS
+SKU-932673,Cheddar Cheese Clover,Fresh Food,Dairy & Eggs,Clover,Each,CategoryEnum.DAIRY,UnitOfMeasureEnum.EACH
+SKU-191069,Seeded Brown Bread Blue Ribbon,Fresh Food,Bakery,Blue Ribbon,Each,CategoryEnum.BAKERY,UnitOfMeasureEnum.EACH
+SKU-961695,Boerewors Country Fair,Fresh Food,Meat & Poultry,Country Fair,kg,CategoryEnum.MEAT,UnitOfMeasureEnum.KILOGRAMS
+SKU-856836,Margarine Ladismith,Fresh Food,Dairy & Eggs,Ladismith,L,CategoryEnum.DAIRY,UnitOfMeasureEnum.LITRES
+SKU-159726,Potatoes ZZ2,Fresh Food,Produce,ZZ2,Each,CategoryEnum.PRODUCE,UnitOfMeasureEnum.EACH
+SKU-584380,100% Fruit Juice Cappy,Beverages,Drinks & Beverages,Cappy,L,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.LITRES
+SKU-907769,Onions ZZ2,Fresh Food,Produce,ZZ2,Each,CategoryEnum.PRODUCE,UnitOfMeasureEnum.EACH
+SKU-686685,Bleach Handy Andy,Household,Cleaning Supplies,Handy Andy,L,CategoryEnum.CLEANING,UnitOfMeasureEnum.LITRES
+SKU-41,Hot Dog Rolls (6pk) Sunbake,Fresh Food,Bakery,Sunbake,Pack,CategoryEnum.BAKERY,UnitOfMeasureEnum.PACK
+SKU-969592,Boerewors Country Fair,Fresh Food,Meat & Poultry,Country Fair,kg,CategoryEnum.MEAT,UnitOfMeasureEnum.KILOGRAMS
+SKU-924898,Washing Powder Omo,Household,Cleaning Supplies,Omo,ml,CategoryEnum.CLEANING,UnitOfMeasureEnum.MILLILITRES
+SKU-80904,Beef Stewing Rainbow Chicken,Fresh Food,Meat & Poultry,Rainbow Chicken,kg,CategoryEnum.MEAT,UnitOfMeasureEnum.KILOGRAMS
+SKU-265418,Washing Powder Omo,Household,Cleaning Supplies,Omo,Pack,CategoryEnum.CLEANING,UnitOfMeasureEnum.PACK
+SKU-622800,Onions Freshmark,Fresh Food,Produce,Freshmark,Each,CategoryEnum.PRODUCE,UnitOfMeasureEnum.EACH
+SKU-138513,Brown Bread Sasko,Fresh Food,Bakery,Sasko,g,CategoryEnum.BAKERY,UnitOfMeasureEnum.GRAMS
+SKU-658930,Salted Chips Lays,Grocery Essentials,Snacks & Confectionery,Lays,g,CategoryEnum.SNACKS,UnitOfMeasureEnum.GRAMS
+SKU-220573,Cheddar Cheese Clover,Fresh Food,Dairy & Eggs,Clover,L,CategoryEnum.DAIRY,UnitOfMeasureEnum.LITRES
+SKU-117358,Flavoured Drink Liqui Fruit,Beverages,Drinks & Beverages,Liqui Fruit,Pack,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.PACK
+SKU-917603,Chicken Portions Karan Beef,Fresh Food,Meat & Poultry,Karan Beef,kg,CategoryEnum.MEAT,UnitOfMeasureEnum.KILOGRAMS
+SKU-181457,Low Fat Milk Danone,Fresh Food,Dairy & Eggs,Danone,ml,CategoryEnum.DAIRY,UnitOfMeasureEnum.MILLILITRES
+SKU-538213,Seeded Brown Bread Sunbake,Fresh Food,Bakery,Sunbake,Each,CategoryEnum.BAKERY,UnitOfMeasureEnum.EACH
+SKU-689524,Margarine Ladismith,Fresh Food,Dairy & Eggs,Ladismith,ml,CategoryEnum.DAIRY,UnitOfMeasureEnum.MILLILITRES
+SKU-108568,Dishwashing Liquid Sunlight,Household,Cleaning Supplies,Sunlight,ml,CategoryEnum.CLEANING,UnitOfMeasureEnum.MILLILITRES
+SKU-365866,Margarine Clover,Fresh Food,Dairy & Eggs,Clover,L,CategoryEnum.DAIRY,UnitOfMeasureEnum.LITRES
+SKU-331527,Cheese Snacks Lays,Grocery Essentials,Snacks & Confectionery,Lays,Each,CategoryEnum.SNACKS,UnitOfMeasureEnum.EACH
+SKU-732319,Chips Doritos,Grocery Essentials,Snacks & Confectionery,Doritos,Pack,CategoryEnum.SNACKS,UnitOfMeasureEnum.PACK
+SKU-615607,Washing Powder Domestos,Household,Cleaning Supplies,Domestos,L,CategoryEnum.CLEANING,UnitOfMeasureEnum.LITRES
+SKU-325234,Chips Simba,Grocery Essentials,Snacks & Confectionery,Simba,Each,CategoryEnum.SNACKS,UnitOfMeasureEnum.EACH
+SKU-447902,Cheddar Cheese Parmalat,Fresh Food,Dairy & Eggs,Parmalat,L,CategoryEnum.DAIRY,UnitOfMeasureEnum.LITRES
+SKU-207440,Large Eggs (18) Parmalat,Fresh Food,Dairy & Eggs,Parmalat,L,CategoryEnum.DAIRY,UnitOfMeasureEnum.LITRES
+SKU-231792,Margarine Parmalat,Fresh Food,Dairy & Eggs,Parmalat,g,CategoryEnum.DAIRY,UnitOfMeasureEnum.GRAMS
+SKU-804092,Cola Oros,Beverages,Drinks & Beverages,Oros,L,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.LITRES
+SKU-560204,Chocolate Slab Lays,Grocery Essentials,Snacks & Confectionery,Lays,Each,CategoryEnum.SNACKS,UnitOfMeasureEnum.EACH
+SKU-162477,Dishwashing Liquid Omo,Household,Cleaning Supplies,Omo,L,CategoryEnum.CLEANING,UnitOfMeasureEnum.LITRES
+SKU-634624,Floor Cleaner Sunlight,Household,Cleaning Supplies,Sunlight,Pack,CategoryEnum.CLEANING,UnitOfMeasureEnum.PACK
+SKU-55899,Cheddar Cheese Clover,Fresh Food,Dairy & Eggs,Clover,g,CategoryEnum.DAIRY,UnitOfMeasureEnum.GRAMS
+SKU-481609,Washing Powder Sunlight,Household,Cleaning Supplies,Sunlight,L,CategoryEnum.CLEANING,UnitOfMeasureEnum.LITRES
+SKU-266765,Cheddar Cheese Crystal Valley,Fresh Food,Dairy & Eggs,Crystal Valley,ml,CategoryEnum.DAIRY,UnitOfMeasureEnum.MILLILITRES
+SKU-840819,Washing Powder Omo,Household,Cleaning Supplies,Omo,L,CategoryEnum.CLEANING,UnitOfMeasureEnum.LITRES
+SKU-344034,Hot Dog Rolls (6pk) Sunbake,Fresh Food,Bakery,Sunbake,Pack,CategoryEnum.BAKERY,UnitOfMeasureEnum.PACK
+SKU-80278,Chocolate Slab Beacon,Grocery Essentials,Snacks & Confectionery,Beacon,Pack,CategoryEnum.SNACKS,UnitOfMeasureEnum.PACK
+SKU-414717,Onions ZZ2,Fresh Food,Produce,ZZ2,Each,CategoryEnum.PRODUCE,UnitOfMeasureEnum.EACH
+SKU-234486,Hot Dog Rolls (6pk) Albany,Fresh Food,Bakery,Albany,Each,CategoryEnum.BAKERY,UnitOfMeasureEnum.EACH
+SKU-762928,Chips Lays,Grocery Essentials,Snacks & Confectionery,Lays,Pack,CategoryEnum.SNACKS,UnitOfMeasureEnum.PACK
+SKU-181693,Beef Stewing Karan Beef,Fresh Food,Meat & Poultry,Karan Beef,kg,CategoryEnum.MEAT,UnitOfMeasureEnum.KILOGRAMS
+SKU-584704,Flavoured Drink Cappy,Beverages,Drinks & Beverages,Cappy,L,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.LITRES
+SKU-962822,Large Eggs (18) Nulaid,Fresh Food,Dairy & Eggs,Nulaid,L,CategoryEnum.DAIRY,UnitOfMeasureEnum.LITRES
+SKU-566319,Full Cream Milk Clover,Fresh Food,Dairy & Eggs,Clover,L,CategoryEnum.DAIRY,UnitOfMeasureEnum.LITRES
+SKU-189060,Seeded Brown Bread Sunbake,Fresh Food,Bakery,Sunbake,g,CategoryEnum.BAKERY,UnitOfMeasureEnum.GRAMS
+SKU-837119,Chips Lays,Grocery Essentials,Snacks & Confectionery,Lays,Pack,CategoryEnum.SNACKS,UnitOfMeasureEnum.PACK
+SKU-893735,Brown Bread Sasko,Fresh Food,Bakery,Sasko,Pack,CategoryEnum.BAKERY,UnitOfMeasureEnum.PACK
+SKU-776704,Cola Oros,Beverages,Drinks & Beverages,Oros,L,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.LITRES
+SKU-381492,Cheese Snacks Beacon,Grocery Essentials,Snacks & Confectionery,Beacon,g,CategoryEnum.SNACKS,UnitOfMeasureEnum.GRAMS
+SKU-364423,Chocolate Slab Simba,Grocery Essentials,Snacks & Confectionery,Simba,Pack,CategoryEnum.SNACKS,UnitOfMeasureEnum.PACK
+SKU-831511,Cheese Snacks NikNaks,Grocery Essentials,Snacks & Confectionery,NikNaks,Each,CategoryEnum.SNACKS,UnitOfMeasureEnum.EACH
+SKU-915225,Onions Freshmark,Fresh Food,Produce,Freshmark,Each,CategoryEnum.PRODUCE,UnitOfMeasureEnum.EACH
+SKU-484517,100% Fruit Juice Coca-Cola,Beverages,Drinks & Beverages,Coca-Cola,ml,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.MILLILITRES
+SKU-494743,Washing Powder Sunlight,Household,Cleaning Supplies,Sunlight,Pack,CategoryEnum.CLEANING,UnitOfMeasureEnum.PACK
+SKU-852110,Bananas Freshmark,Fresh Food,Produce,Freshmark,Each,CategoryEnum.PRODUCE,UnitOfMeasureEnum.EACH
+SKU-652520,Flavoured Drink Coca-Cola,Beverages,Drinks & Beverages,Coca-Cola,Pack,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.PACK
+SKU-966094,Pork Chops Country Fair,Fresh Food,Meat & Poultry,Country Fair,kg,CategoryEnum.MEAT,UnitOfMeasureEnum.KILOGRAMS
+SKU-240743,Hot Dog Rolls (6pk) Sunbake,Fresh Food,Bakery,Sunbake,Pack,CategoryEnum.BAKERY,UnitOfMeasureEnum.PACK
+SKU-287414,Floor Cleaner Sunlight,Household,Cleaning Supplies,Sunlight,L,CategoryEnum.CLEANING,UnitOfMeasureEnum.LITRES
+SKU-946650,Apples ZZ2,Fresh Food,Produce,ZZ2,g,CategoryEnum.PRODUCE,UnitOfMeasureEnum.GRAMS
+SKU-331477,Cola Coca-Cola,Beverages,Drinks & Beverages,Coca-Cola,L,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.LITRES
+SKU-928077,Chicken Portions Karan Beef,Fresh Food,Meat & Poultry,Karan Beef,g,CategoryEnum.MEAT,UnitOfMeasureEnum.GRAMS
+SKU-635209,Boerewors Country Fair,Fresh Food,Meat & Poultry,Country Fair,kg,CategoryEnum.MEAT,UnitOfMeasureEnum.KILOGRAMS
+SKU-268364,Apples Freshmark,Fresh Food,Produce,Freshmark,Each,CategoryEnum.PRODUCE,UnitOfMeasureEnum.EACH
+SKU-697753,Beef Stewing Karan Beef,Fresh Food,Meat & Poultry,Karan Beef,g,CategoryEnum.MEAT,UnitOfMeasureEnum.GRAMS
+SKU-191232,Low Fat Milk Danone,Fresh Food,Dairy & Eggs,Danone,L,CategoryEnum.DAIRY,UnitOfMeasureEnum.LITRES
+SKU-111969,Pork Chops Karan Beef,Fresh Food,Meat & Poultry,Karan Beef,g,CategoryEnum.MEAT,UnitOfMeasureEnum.GRAMS
+SKU-122053,Boerewors Karan Beef,Fresh Food,Meat & Poultry,Karan Beef,kg,CategoryEnum.MEAT,UnitOfMeasureEnum.KILOGRAMS
+SKU-283376,Apples ZZ2,Fresh Food,Produce,ZZ2,kg,CategoryEnum.PRODUCE,UnitOfMeasureEnum.KILOGRAMS
+SKU-872486,Large Eggs (18) Ladismith,Fresh Food,Dairy & Eggs,Ladismith,L,CategoryEnum.DAIRY,UnitOfMeasureEnum.LITRES
+SKU-444370,Orange Squash Oros,Beverages,Drinks & Beverages,Oros,Pack,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.PACK
+SKU-453068,Bleach Domestos,Household,Cleaning Supplies,Domestos,Pack,CategoryEnum.CLEANING,UnitOfMeasureEnum.PACK
+SKU-234957,Hot Dog Rolls (6pk) Sasko,Fresh Food,Bakery,Sasko,Each,CategoryEnum.BAKERY,UnitOfMeasureEnum.EACH
+SKU-888966,Brown Bread Sasko,Fresh Food,Bakery,Sasko,g,CategoryEnum.BAKERY,UnitOfMeasureEnum.GRAMS
+SKU-970046,Tomatoes ZZ2,Fresh Food,Produce,ZZ2,g,CategoryEnum.PRODUCE,UnitOfMeasureEnum.GRAMS
+SKU-92426,Boerewors Country Fair,Fresh Food,Meat & Poultry,Country Fair,kg,CategoryEnum.MEAT,UnitOfMeasureEnum.KILOGRAMS
+SKU-820095,Chicken Portions Karan Beef,Fresh Food,Meat & Poultry,Karan Beef,g,CategoryEnum.MEAT,UnitOfMeasureEnum.GRAMS
+SKU-652546,Orange Squash Liqui Fruit,Beverages,Drinks & Beverages,Liqui Fruit,L,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.LITRES
+SKU-933151,Apples Nature's Choice,Fresh Food,Produce,Nature's Choice,kg,CategoryEnum.PRODUCE,UnitOfMeasureEnum.KILOGRAMS
+SKU-849763,Apples Freshmark,Fresh Food,Produce,Freshmark,g,CategoryEnum.PRODUCE,UnitOfMeasureEnum.GRAMS
+SKU-116444,Hot Dog Rolls (6pk) Albany,Fresh Food,Bakery,Albany,Each,CategoryEnum.BAKERY,UnitOfMeasureEnum.EACH
+SKU-893997,Bleach Omo,Household,Cleaning Supplies,Omo,L,CategoryEnum.CLEANING,UnitOfMeasureEnum.LITRES
+SKU-551134,Boerewors Karan Beef,Fresh Food,Meat & Poultry,Karan Beef,kg,CategoryEnum.MEAT,UnitOfMeasureEnum.KILOGRAMS
+SKU-13227,White Bread Blue Ribbon,Fresh Food,Bakery,Blue Ribbon,g,CategoryEnum.BAKERY,UnitOfMeasureEnum.GRAMS
+SKU-315335,Potatoes Freshmark,Fresh Food,Produce,Freshmark,kg,CategoryEnum.PRODUCE,UnitOfMeasureEnum.KILOGRAMS
+SKU-673649,100% Fruit Juice Coca-Cola,Beverages,Drinks & Beverages,Coca-Cola,L,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.LITRES
+SKU-501858,Beef Stewing Karan Beef,Fresh Food,Meat & Poultry,Karan Beef,kg,CategoryEnum.MEAT,UnitOfMeasureEnum.KILOGRAMS
+SKU-517240,Salted Chips Doritos,Grocery Essentials,Snacks & Confectionery,Doritos,g,CategoryEnum.SNACKS,UnitOfMeasureEnum.GRAMS
+SKU-6739,Chicken Portions Karan Beef,Fresh Food,Meat & Poultry,Karan Beef,kg,CategoryEnum.MEAT,UnitOfMeasureEnum.KILOGRAMS
+SKU-894163,Large Eggs (18) Ladismith,Fresh Food,Dairy & Eggs,Ladismith,ml,CategoryEnum.DAIRY,UnitOfMeasureEnum.MILLILITRES
+SKU-83580,Onions Nature's Choice,Fresh Food,Produce,Nature's Choice,kg,CategoryEnum.PRODUCE,UnitOfMeasureEnum.KILOGRAMS
+SKU-218242,Bleach Domestos,Household,Cleaning Supplies,Domestos,L,CategoryEnum.CLEANING,UnitOfMeasureEnum.LITRES
+SKU-286047,Chicken Portions Country Fair,Fresh Food,Meat & Poultry,Country Fair,g,CategoryEnum.MEAT,UnitOfMeasureEnum.GRAMS
+SKU-140324,Full Cream Milk Clover,Fresh Food,Dairy & Eggs,Clover,g,CategoryEnum.DAIRY,UnitOfMeasureEnum.GRAMS
+SKU-293186,White Bread Sunbake,Fresh Food,Bakery,Sunbake,g,CategoryEnum.BAKERY,UnitOfMeasureEnum.GRAMS
+SKU-551737,Potatoes Freshmark,Fresh Food,Produce,Freshmark,Each,CategoryEnum.PRODUCE,UnitOfMeasureEnum.EACH
+SKU-959746,Dishwashing Liquid Sunlight,Household,Cleaning Supplies,Sunlight,ml,CategoryEnum.CLEANING,UnitOfMeasureEnum.MILLILITRES
+SKU-230325,Large Eggs (18) Parmalat,Fresh Food,Dairy & Eggs,Parmalat,ml,CategoryEnum.DAIRY,UnitOfMeasureEnum.MILLILITRES
+SKU-24365,Large Eggs (18) Danone,Fresh Food,Dairy & Eggs,Danone,ml,CategoryEnum.DAIRY,UnitOfMeasureEnum.MILLILITRES
+SKU-602025,Orange Squash Liqui Fruit,Beverages,Drinks & Beverages,Liqui Fruit,Pack,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.PACK
+SKU-479357,Pork Chops Rainbow Chicken,Fresh Food,Meat & Poultry,Rainbow Chicken,g,CategoryEnum.MEAT,UnitOfMeasureEnum.GRAMS
+SKU-549018,Pork Chops Karan Beef,Fresh Food,Meat & Poultry,Karan Beef,g,CategoryEnum.MEAT,UnitOfMeasureEnum.GRAMS
+SKU-439894,Orange Squash Oros,Beverages,Drinks & Beverages,Oros,Pack,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.PACK
+SKU-881898,Seeded Brown Bread Blue Ribbon,Fresh Food,Bakery,Blue Ribbon,Pack,CategoryEnum.BAKERY,UnitOfMeasureEnum.PACK
+SKU-543084,Cola Oros,Beverages,Drinks & Beverages,Oros,ml,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.MILLILITRES
+SKU-553949,Chocolate Slab NikNaks,Grocery Essentials,Snacks & Confectionery,NikNaks,g,CategoryEnum.SNACKS,UnitOfMeasureEnum.GRAMS
+SKU-37470,100% Fruit Juice Cappy,Beverages,Drinks & Beverages,Cappy,Pack,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.PACK
+SKU-480964,Potato Chips Beacon,Grocery Essentials,Snacks & Confectionery,Beacon,g,CategoryEnum.SNACKS,UnitOfMeasureEnum.GRAMS
+SKU-94420,100% Fruit Juice Liqui Fruit,Beverages,Drinks & Beverages,Liqui Fruit,L,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.LITRES
+SKU-802612,Floor Cleaner Handy Andy,Household,Cleaning Supplies,Handy Andy,ml,CategoryEnum.CLEANING,UnitOfMeasureEnum.MILLILITRES
+SKU-942505,Orange Squash Coca-Cola,Beverages,Drinks & Beverages,Coca-Cola,L,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.LITRES
+SKU-574439,100% Fruit Juice Coca-Cola,Beverages,Drinks & Beverages,Coca-Cola,L,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.LITRES
+SKU-295225,Low Fat Milk Ladismith,Fresh Food,Dairy & Eggs,Ladismith,ml,CategoryEnum.DAIRY,UnitOfMeasureEnum.MILLILITRES
+SKU-379657,Tomatoes Freshmark,Fresh Food,Produce,Freshmark,kg,CategoryEnum.PRODUCE,UnitOfMeasureEnum.KILOGRAMS
+SKU-431190,Bananas Freshmark,Fresh Food,Produce,Freshmark,g,CategoryEnum.PRODUCE,UnitOfMeasureEnum.GRAMS
+SKU-931087,Dishwashing Liquid Domestos,Household,Cleaning Supplies,Domestos,Pack,CategoryEnum.CLEANING,UnitOfMeasureEnum.PACK
+SKU-83738,Salted Chips Beacon,Grocery Essentials,Snacks & Confectionery,Beacon,Each,CategoryEnum.SNACKS,UnitOfMeasureEnum.EACH
+SKU-363720,Orange Squash Coca-Cola,Beverages,Drinks & Beverages,Coca-Cola,L,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.LITRES
+SKU-418803,Washing Powder Sunlight,Household,Cleaning Supplies,Sunlight,Pack,CategoryEnum.CLEANING,UnitOfMeasureEnum.PACK
+SKU-531041,Orange Squash Liqui Fruit,Beverages,Drinks & Beverages,Liqui Fruit,L,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.LITRES
+SKU-888059,White Bread Albany,Fresh Food,Bakery,Albany,Pack,CategoryEnum.BAKERY,UnitOfMeasureEnum.PACK
+SKU-208447,Washing Powder Sunlight,Household,Cleaning Supplies,Sunlight,L,CategoryEnum.CLEANING,UnitOfMeasureEnum.LITRES
+SKU-770707,Beef Stewing Karan Beef,Fresh Food,Meat & Poultry,Karan Beef,g,CategoryEnum.MEAT,UnitOfMeasureEnum.GRAMS
+SKU-411578,Plain Yoghurt Danone,Fresh Food,Dairy & Eggs,Danone,ml,CategoryEnum.DAIRY,UnitOfMeasureEnum.MILLILITRES
+SKU-397970,Cola Coca-Cola,Beverages,Drinks & Beverages,Coca-Cola,L,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.LITRES
+SKU-74082,Pork Chops Country Fair,Fresh Food,Meat & Poultry,Country Fair,kg,CategoryEnum.MEAT,UnitOfMeasureEnum.KILOGRAMS
+SKU-985133,Cola Coca-Cola,Beverages,Drinks & Beverages,Coca-Cola,Pack,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.PACK
+SKU-63479,Floor Cleaner Omo,Household,Cleaning Supplies,Omo,Pack,CategoryEnum.CLEANING,UnitOfMeasureEnum.PACK
+SKU-685037,Plain Yoghurt Danone,Fresh Food,Dairy & Eggs,Danone,L,CategoryEnum.DAIRY,UnitOfMeasureEnum.LITRES
+SKU-314370,Margarine Parmalat,Fresh Food,Dairy & Eggs,Parmalat,g,CategoryEnum.DAIRY,UnitOfMeasureEnum.GRAMS
+SKU-100887,Dishwashing Liquid Domestos,Household,Cleaning Supplies,Domestos,Pack,CategoryEnum.CLEANING,UnitOfMeasureEnum.PACK
+SKU-775455,Orange Squash Cappy,Beverages,Drinks & Beverages,Cappy,L,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.LITRES
+SKU-510751,Hot Dog Rolls (6pk) Albany,Fresh Food,Bakery,Albany,Pack,CategoryEnum.BAKERY,UnitOfMeasureEnum.PACK
+SKU-400556,Seeded Brown Bread Albany,Fresh Food,Bakery,Albany,Each,CategoryEnum.BAKERY,UnitOfMeasureEnum.EACH
+SKU-112759,Dishwashing Liquid Sunlight,Household,Cleaning Supplies,Sunlight,Pack,CategoryEnum.CLEANING,UnitOfMeasureEnum.PACK
+SKU-381653,Beef Stewing Country Fair,Fresh Food,Meat & Poultry,Country Fair,kg,CategoryEnum.MEAT,UnitOfMeasureEnum.KILOGRAMS
+SKU-959350,Seeded Brown Bread Sasko,Fresh Food,Bakery,Sasko,g,CategoryEnum.BAKERY,UnitOfMeasureEnum.GRAMS
+SKU-602042,Washing Powder Domestos,Household,Cleaning Supplies,Domestos,L,CategoryEnum.CLEANING,UnitOfMeasureEnum.LITRES
+SKU-976653,Bleach Omo,Household,Cleaning Supplies,Omo,ml,CategoryEnum.CLEANING,UnitOfMeasureEnum.MILLILITRES
+SKU-424838,Orange Squash Liqui Fruit,Beverages,Drinks & Beverages,Liqui Fruit,Pack,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.PACK
+SKU-596663,Margarine Nulaid,Fresh Food,Dairy & Eggs,Nulaid,g,CategoryEnum.DAIRY,UnitOfMeasureEnum.GRAMS
+SKU-86104,Low Fat Milk Nulaid,Fresh Food,Dairy & Eggs,Nulaid,L,CategoryEnum.DAIRY,UnitOfMeasureEnum.LITRES
+SKU-47399,Floor Cleaner Domestos,Household,Cleaning Supplies,Domestos,L,CategoryEnum.CLEANING,UnitOfMeasureEnum.LITRES
+SKU-783173,Beef Stewing Country Fair,Fresh Food,Meat & Poultry,Country Fair,g,CategoryEnum.MEAT,UnitOfMeasureEnum.GRAMS
+SKU-889180,Potatoes ZZ2,Fresh Food,Produce,ZZ2,g,CategoryEnum.PRODUCE,UnitOfMeasureEnum.GRAMS
+SKU-980255,Hot Dog Rolls (6pk) Sunbake,Fresh Food,Bakery,Sunbake,Each,CategoryEnum.BAKERY,UnitOfMeasureEnum.EACH
+SKU-364466,Seeded Brown Bread Sunbake,Fresh Food,Bakery,Sunbake,Each,CategoryEnum.BAKERY,UnitOfMeasureEnum.EACH
+SKU-381197,Bananas Freshmark,Fresh Food,Produce,Freshmark,kg,CategoryEnum.PRODUCE,UnitOfMeasureEnum.KILOGRAMS
+SKU-130363,Cheese Snacks Cadbury,Grocery Essentials,Snacks & Confectionery,Cadbury,Pack,CategoryEnum.SNACKS,UnitOfMeasureEnum.PACK
+SKU-760068,Chicken Portions Karan Beef,Fresh Food,Meat & Poultry,Karan Beef,kg,CategoryEnum.MEAT,UnitOfMeasureEnum.KILOGRAMS
+SKU-387716,Bleach Handy Andy,Household,Cleaning Supplies,Handy Andy,Pack,CategoryEnum.CLEANING,UnitOfMeasureEnum.PACK
+SKU-902189,Flavoured Drink Cappy,Beverages,Drinks & Beverages,Cappy,ml,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.MILLILITRES
+SKU-766415,Seeded Brown Bread Sunbake,Fresh Food,Bakery,Sunbake,Each,CategoryEnum.BAKERY,UnitOfMeasureEnum.EACH
+SKU-809138,Tomatoes Nature's Choice,Fresh Food,Produce,Nature's Choice,kg,CategoryEnum.PRODUCE,UnitOfMeasureEnum.KILOGRAMS
+SKU-902357,Flavoured Drink Oros,Beverages,Drinks & Beverages,Oros,L,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.LITRES
+SKU-600753,Pork Chops Rainbow Chicken,Fresh Food,Meat & Poultry,Rainbow Chicken,kg,CategoryEnum.MEAT,UnitOfMeasureEnum.KILOGRAMS
+SKU-417464,Potato Chips Simba,Grocery Essentials,Snacks & Confectionery,Simba,g,CategoryEnum.SNACKS,UnitOfMeasureEnum.GRAMS
+SKU-973628,Boerewors Rainbow Chicken,Fresh Food,Meat & Poultry,Rainbow Chicken,kg,CategoryEnum.MEAT,UnitOfMeasureEnum.KILOGRAMS
+SKU-882370,Orange Squash Cappy,Beverages,Drinks & Beverages,Cappy,ml,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.MILLILITRES
+SKU-221344,Margarine Nulaid,Fresh Food,Dairy & Eggs,Nulaid,g,CategoryEnum.DAIRY,UnitOfMeasureEnum.GRAMS
+SKU-596186,Plain Yoghurt Clover,Fresh Food,Dairy & Eggs,Clover,L,CategoryEnum.DAIRY,UnitOfMeasureEnum.LITRES
+SKU-689234,Cola Oros,Beverages,Drinks & Beverages,Oros,ml,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.MILLILITRES
+SKU-324852,Potatoes Freshmark,Fresh Food,Produce,Freshmark,g,CategoryEnum.PRODUCE,UnitOfMeasureEnum.GRAMS
+SKU-516162,Cola Coca-Cola,Beverages,Drinks & Beverages,Coca-Cola,ml,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.MILLILITRES
+SKU-236539,Washing Powder Sunlight,Household,Cleaning Supplies,Sunlight,Pack,CategoryEnum.CLEANING,UnitOfMeasureEnum.PACK
+SKU-369566,Plain Yoghurt Nulaid,Fresh Food,Dairy & Eggs,Nulaid,ml,CategoryEnum.DAIRY,UnitOfMeasureEnum.MILLILITRES
+SKU-956908,Flavoured Drink Coca-Cola,Beverages,Drinks & Beverages,Coca-Cola,L,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.LITRES
+SKU-6040,Flavoured Drink Liqui Fruit,Beverages,Drinks & Beverages,Liqui Fruit,ml,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.MILLILITRES
+SKU-524315,Bananas Freshmark,Fresh Food,Produce,Freshmark,Each,CategoryEnum.PRODUCE,UnitOfMeasureEnum.EACH
+SKU-322540,Bananas ZZ2,Fresh Food,Produce,ZZ2,Each,CategoryEnum.PRODUCE,UnitOfMeasureEnum.EACH
+SKU-242073,Plain Yoghurt Crystal Valley,Fresh Food,Dairy & Eggs,Crystal Valley,L,CategoryEnum.DAIRY,UnitOfMeasureEnum.LITRES
+SKU-654364,Full Cream Milk Danone,Fresh Food,Dairy & Eggs,Danone,ml,CategoryEnum.DAIRY,UnitOfMeasureEnum.MILLILITRES
+SKU-906862,Hot Dog Rolls (6pk) Albany,Fresh Food,Bakery,Albany,Pack,CategoryEnum.BAKERY,UnitOfMeasureEnum.PACK
+SKU-981258,Sweets Pack Doritos,Grocery Essentials,Snacks & Confectionery,Doritos,g,CategoryEnum.SNACKS,UnitOfMeasureEnum.GRAMS
+SKU-429906,Chocolate Slab Doritos,Grocery Essentials,Snacks & Confectionery,Doritos,Pack,CategoryEnum.SNACKS,UnitOfMeasureEnum.PACK
+SKU-307273,Large Eggs (18) Danone,Fresh Food,Dairy & Eggs,Danone,g,CategoryEnum.DAIRY,UnitOfMeasureEnum.GRAMS
+SKU-581924,Plain Yoghurt Nulaid,Fresh Food,Dairy & Eggs,Nulaid,Each,CategoryEnum.DAIRY,UnitOfMeasureEnum.EACH
+SKU-931011,Beef Stewing Rainbow Chicken,Fresh Food,Meat & Poultry,Rainbow Chicken,g,CategoryEnum.MEAT,UnitOfMeasureEnum.GRAMS
+SKU-585116,Potatoes Nature's Choice,Fresh Food,Produce,Nature's Choice,kg,CategoryEnum.PRODUCE,UnitOfMeasureEnum.KILOGRAMS
+SKU-163864,Boerewors Country Fair,Fresh Food,Meat & Poultry,Country Fair,kg,CategoryEnum.MEAT,UnitOfMeasureEnum.KILOGRAMS
+SKU-193096,White Bread Blue Ribbon,Fresh Food,Bakery,Blue Ribbon,Pack,CategoryEnum.BAKERY,UnitOfMeasureEnum.PACK
+SKU-637531,Washing Powder Sunlight,Household,Cleaning Supplies,Sunlight,L,CategoryEnum.CLEANING,UnitOfMeasureEnum.LITRES
+SKU-675974,Sweets Pack Cadbury,Grocery Essentials,Snacks & Confectionery,Cadbury,Each,CategoryEnum.SNACKS,UnitOfMeasureEnum.EACH
+SKU-279619,Tomatoes Nature's Choice,Fresh Food,Produce,Nature's Choice,kg,CategoryEnum.PRODUCE,UnitOfMeasureEnum.KILOGRAMS
+SKU-660361,Orange Squash Cappy,Beverages,Drinks & Beverages,Cappy,ml,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.MILLILITRES
+SKU-334314,Floor Cleaner Domestos,Household,Cleaning Supplies,Domestos,ml,CategoryEnum.CLEANING,UnitOfMeasureEnum.MILLILITRES
+SKU-878546,Chicken Portions Karan Beef,Fresh Food,Meat & Poultry,Karan Beef,g,CategoryEnum.MEAT,UnitOfMeasureEnum.GRAMS
+SKU-87262,Cheddar Cheese Danone,Fresh Food,Dairy & Eggs,Danone,g,CategoryEnum.DAIRY,UnitOfMeasureEnum.GRAMS
+SKU-781228,Chocolate Slab NikNaks,Grocery Essentials,Snacks & Confectionery,NikNaks,g,CategoryEnum.SNACKS,UnitOfMeasureEnum.GRAMS
+SKU-535268,Seeded Brown Bread Sasko,Fresh Food,Bakery,Sasko,Each,CategoryEnum.BAKERY,UnitOfMeasureEnum.EACH
+SKU-927769,Brown Bread Blue Ribbon,Fresh Food,Bakery,Blue Ribbon,Pack,CategoryEnum.BAKERY,UnitOfMeasureEnum.PACK
+SKU-820594,Apples Freshmark,Fresh Food,Produce,Freshmark,g,CategoryEnum.PRODUCE,UnitOfMeasureEnum.GRAMS
+SKU-326810,Dishwashing Liquid Domestos,Household,Cleaning Supplies,Domestos,L,CategoryEnum.CLEANING,UnitOfMeasureEnum.LITRES
+SKU-896080,Bananas ZZ2,Fresh Food,Produce,ZZ2,g,CategoryEnum.PRODUCE,UnitOfMeasureEnum.GRAMS
+SKU-913310,Onions Nature's Choice,Fresh Food,Produce,Nature's Choice,Each,CategoryEnum.PRODUCE,UnitOfMeasureEnum.EACH
+SKU-408648,Potatoes Nature's Choice,Fresh Food,Produce,Nature's Choice,Each,CategoryEnum.PRODUCE,UnitOfMeasureEnum.EACH
+SKU-561377,Bananas Nature's Choice,Fresh Food,Produce,Nature's Choice,kg,CategoryEnum.PRODUCE,UnitOfMeasureEnum.KILOGRAMS
+SKU-751513,Pork Chops Rainbow Chicken,Fresh Food,Meat & Poultry,Rainbow Chicken,g,CategoryEnum.MEAT,UnitOfMeasureEnum.GRAMS
+SKU-235596,Potatoes Freshmark,Fresh Food,Produce,Freshmark,g,CategoryEnum.PRODUCE,UnitOfMeasureEnum.GRAMS
+SKU-736992,Pork Chops Rainbow Chicken,Fresh Food,Meat & Poultry,Rainbow Chicken,kg,CategoryEnum.MEAT,UnitOfMeasureEnum.KILOGRAMS
+SKU-47553,Onions Nature's Choice,Fresh Food,Produce,Nature's Choice,g,CategoryEnum.PRODUCE,UnitOfMeasureEnum.GRAMS
+SKU-555276,Floor Cleaner Handy Andy,Household,Cleaning Supplies,Handy Andy,Pack,CategoryEnum.CLEANING,UnitOfMeasureEnum.PACK
+SKU-847799,Hot Dog Rolls (6pk) Sunbake,Fresh Food,Bakery,Sunbake,g,CategoryEnum.BAKERY,UnitOfMeasureEnum.GRAMS
+SKU-16023,Full Cream Milk Ladismith,Fresh Food,Dairy & Eggs,Ladismith,ml,CategoryEnum.DAIRY,UnitOfMeasureEnum.MILLILITRES
+SKU-394140,Dishwashing Liquid Omo,Household,Cleaning Supplies,Omo,ml,CategoryEnum.CLEANING,UnitOfMeasureEnum.MILLILITRES
+SKU-627565,Plain Yoghurt Clover,Fresh Food,Dairy & Eggs,Clover,Each,CategoryEnum.DAIRY,UnitOfMeasureEnum.EACH
+SKU-735822,100% Fruit Juice Cappy,Beverages,Drinks & Beverages,Cappy,ml,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.MILLILITRES
+SKU-869912,Cheese Snacks Lays,Grocery Essentials,Snacks & Confectionery,Lays,g,CategoryEnum.SNACKS,UnitOfMeasureEnum.GRAMS
+SKU-571024,Orange Squash Oros,Beverages,Drinks & Beverages,Oros,ml,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.MILLILITRES
+SKU-440429,Orange Squash Cappy,Beverages,Drinks & Beverages,Cappy,L,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.LITRES
+SKU-149718,Cheddar Cheese Parmalat,Fresh Food,Dairy & Eggs,Parmalat,g,CategoryEnum.DAIRY,UnitOfMeasureEnum.GRAMS
+SKU-457711,Pork Chops Karan Beef,Fresh Food,Meat & Poultry,Karan Beef,kg,CategoryEnum.MEAT,UnitOfMeasureEnum.KILOGRAMS
+SKU-209093,Chicken Portions Rainbow Chicken,Fresh Food,Meat & Poultry,Rainbow Chicken,g,CategoryEnum.MEAT,UnitOfMeasureEnum.GRAMS
+SKU-786088,Hot Dog Rolls (6pk) Sasko,Fresh Food,Bakery,Sasko,Pack,CategoryEnum.BAKERY,UnitOfMeasureEnum.PACK
+SKU-473267,Bananas Freshmark,Fresh Food,Produce,Freshmark,kg,CategoryEnum.PRODUCE,UnitOfMeasureEnum.KILOGRAMS
+SKU-31281,Cheese Snacks Cadbury,Grocery Essentials,Snacks & Confectionery,Cadbury,g,CategoryEnum.SNACKS,UnitOfMeasureEnum.GRAMS
+SKU-123554,Salted Chips Doritos,Grocery Essentials,Snacks & Confectionery,Doritos,g,CategoryEnum.SNACKS,UnitOfMeasureEnum.GRAMS
+SKU-851963,Potato Chips Doritos,Grocery Essentials,Snacks & Confectionery,Doritos,Pack,CategoryEnum.SNACKS,UnitOfMeasureEnum.PACK
+SKU-830190,Flavoured Drink Liqui Fruit,Beverages,Drinks & Beverages,Liqui Fruit,ml,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.MILLILITRES
+SKU-950401,Tomatoes ZZ2,Fresh Food,Produce,ZZ2,kg,CategoryEnum.PRODUCE,UnitOfMeasureEnum.KILOGRAMS
+SKU-826938,Plain Yoghurt Ladismith,Fresh Food,Dairy & Eggs,Ladismith,ml,CategoryEnum.DAIRY,UnitOfMeasureEnum.MILLILITRES
+SKU-763129,Apples Freshmark,Fresh Food,Produce,Freshmark,kg,CategoryEnum.PRODUCE,UnitOfMeasureEnum.KILOGRAMS
+SKU-245380,Seeded Brown Bread Sasko,Fresh Food,Bakery,Sasko,g,CategoryEnum.BAKERY,UnitOfMeasureEnum.GRAMS
+SKU-274462,White Bread Albany,Fresh Food,Bakery,Albany,Each,CategoryEnum.BAKERY,UnitOfMeasureEnum.EACH
+SKU-996419,Washing Powder Sunlight,Household,Cleaning Supplies,Sunlight,Pack,CategoryEnum.CLEANING,UnitOfMeasureEnum.PACK
+SKU-214340,Bleach Domestos,Household,Cleaning Supplies,Domestos,L,CategoryEnum.CLEANING,UnitOfMeasureEnum.LITRES
+SKU-916098,Sweets Pack Beacon,Grocery Essentials,Snacks & Confectionery,Beacon,Each,CategoryEnum.SNACKS,UnitOfMeasureEnum.EACH
+SKU-856463,Chocolate Slab NikNaks,Grocery Essentials,Snacks & Confectionery,NikNaks,Each,CategoryEnum.SNACKS,UnitOfMeasureEnum.EACH
+SKU-337161,Washing Powder Sunlight,Household,Cleaning Supplies,Sunlight,L,CategoryEnum.CLEANING,UnitOfMeasureEnum.LITRES
+SKU-57871,Apples ZZ2,Fresh Food,Produce,ZZ2,kg,CategoryEnum.PRODUCE,UnitOfMeasureEnum.KILOGRAMS
+SKU-487685,Boerewors Karan Beef,Fresh Food,Meat & Poultry,Karan Beef,kg,CategoryEnum.MEAT,UnitOfMeasureEnum.KILOGRAMS
+SKU-365440,Cola Coca-Cola,Beverages,Drinks & Beverages,Coca-Cola,ml,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.MILLILITRES
+SKU-918668,Flavoured Drink Cappy,Beverages,Drinks & Beverages,Cappy,Pack,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.PACK
+SKU-245110,Beef Stewing Karan Beef,Fresh Food,Meat & Poultry,Karan Beef,kg,CategoryEnum.MEAT,UnitOfMeasureEnum.KILOGRAMS
+SKU-520182,Cheese Snacks Simba,Grocery Essentials,Snacks & Confectionery,Simba,Each,CategoryEnum.SNACKS,UnitOfMeasureEnum.EACH
+SKU-94555,Dishwashing Liquid Domestos,Household,Cleaning Supplies,Domestos,ml,CategoryEnum.CLEANING,UnitOfMeasureEnum.MILLILITRES
+SKU-82175,Salted Chips Cadbury,Grocery Essentials,Snacks & Confectionery,Cadbury,Each,CategoryEnum.SNACKS,UnitOfMeasureEnum.EACH
+SKU-817210,Flavoured Drink Oros,Beverages,Drinks & Beverages,Oros,L,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.LITRES
+SKU-660638,Large Eggs (18) Parmalat,Fresh Food,Dairy & Eggs,Parmalat,ml,CategoryEnum.DAIRY,UnitOfMeasureEnum.MILLILITRES
+SKU-869294,Beef Stewing Country Fair,Fresh Food,Meat & Poultry,Country Fair,g,CategoryEnum.MEAT,UnitOfMeasureEnum.GRAMS
+SKU-835821,Salted Chips Beacon,Grocery Essentials,Snacks & Confectionery,Beacon,g,CategoryEnum.SNACKS,UnitOfMeasureEnum.GRAMS
+SKU-489005,Cola Coca-Cola,Beverages,Drinks & Beverages,Coca-Cola,L,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.LITRES
+SKU-231645,Orange Squash Oros,Beverages,Drinks & Beverages,Oros,Pack,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.PACK
+SKU-12582,Brown Bread Albany,Fresh Food,Bakery,Albany,Pack,CategoryEnum.BAKERY,UnitOfMeasureEnum.PACK
+SKU-387493,Bleach Domestos,Household,Cleaning Supplies,Domestos,L,CategoryEnum.CLEANING,UnitOfMeasureEnum.LITRES
+SKU-51719,Pork Chops Karan Beef,Fresh Food,Meat & Poultry,Karan Beef,g,CategoryEnum.MEAT,UnitOfMeasureEnum.GRAMS
+SKU-445410,Bleach Omo,Household,Cleaning Supplies,Omo,Pack,CategoryEnum.CLEANING,UnitOfMeasureEnum.PACK
+SKU-467758,Orange Squash Liqui Fruit,Beverages,Drinks & Beverages,Liqui Fruit,ml,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.MILLILITRES
+SKU-179623,Seeded Brown Bread Albany,Fresh Food,Bakery,Albany,g,CategoryEnum.BAKERY,UnitOfMeasureEnum.GRAMS
+SKU-490788,Full Cream Milk Parmalat,Fresh Food,Dairy & Eggs,Parmalat,L,CategoryEnum.DAIRY,UnitOfMeasureEnum.LITRES
+SKU-295049,Bananas Freshmark,Fresh Food,Produce,Freshmark,kg,CategoryEnum.PRODUCE,UnitOfMeasureEnum.KILOGRAMS
+SKU-612553,Beef Stewing Rainbow Chicken,Fresh Food,Meat & Poultry,Rainbow Chicken,kg,CategoryEnum.MEAT,UnitOfMeasureEnum.KILOGRAMS
+SKU-367604,Full Cream Milk Clover,Fresh Food,Dairy & Eggs,Clover,Each,CategoryEnum.DAIRY,UnitOfMeasureEnum.EACH
+SKU-793457,Boerewors Rainbow Chicken,Fresh Food,Meat & Poultry,Rainbow Chicken,kg,CategoryEnum.MEAT,UnitOfMeasureEnum.KILOGRAMS
+SKU-322357,Margarine Clover,Fresh Food,Dairy & Eggs,Clover,g,CategoryEnum.DAIRY,UnitOfMeasureEnum.GRAMS
+SKU-71213,Flavoured Drink Coca-Cola,Beverages,Drinks & Beverages,Coca-Cola,L,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.LITRES
+SKU-71618,Seeded Brown Bread Albany,Fresh Food,Bakery,Albany,Each,CategoryEnum.BAKERY,UnitOfMeasureEnum.EACH
+SKU-37275,Washing Powder Omo,Household,Cleaning Supplies,Omo,Pack,CategoryEnum.CLEANING,UnitOfMeasureEnum.PACK
+SKU-93099,Boerewors Karan Beef,Fresh Food,Meat & Poultry,Karan Beef,g,CategoryEnum.MEAT,UnitOfMeasureEnum.GRAMS
+SKU-259845,Brown Bread Sasko,Fresh Food,Bakery,Sasko,g,CategoryEnum.BAKERY,UnitOfMeasureEnum.GRAMS
+SKU-868530,Tomatoes ZZ2,Fresh Food,Produce,ZZ2,kg,CategoryEnum.PRODUCE,UnitOfMeasureEnum.KILOGRAMS
+SKU-485768,Cola Cappy,Beverages,Drinks & Beverages,Cappy,Pack,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.PACK
+SKU-238581,Flavoured Drink Oros,Beverages,Drinks & Beverages,Oros,L,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.LITRES
+SKU-495955,Flavoured Drink Oros,Beverages,Drinks & Beverages,Oros,L,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.LITRES
+SKU-478328,Flavoured Drink Oros,Beverages,Drinks & Beverages,Oros,ml,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.MILLILITRES
+SKU-546309,White Bread Sasko,Fresh Food,Bakery,Sasko,g,CategoryEnum.BAKERY,UnitOfMeasureEnum.GRAMS
+SKU-450213,Margarine Ladismith,Fresh Food,Dairy & Eggs,Ladismith,L,CategoryEnum.DAIRY,UnitOfMeasureEnum.LITRES
+SKU-759025,Cheese Snacks Beacon,Grocery Essentials,Snacks & Confectionery,Beacon,Pack,CategoryEnum.SNACKS,UnitOfMeasureEnum.PACK
+SKU-257396,Washing Powder Sunlight,Household,Cleaning Supplies,Sunlight,Pack,CategoryEnum.CLEANING,UnitOfMeasureEnum.PACK
+SKU-280843,Pork Chops Rainbow Chicken,Fresh Food,Meat & Poultry,Rainbow Chicken,kg,CategoryEnum.MEAT,UnitOfMeasureEnum.KILOGRAMS
+SKU-676861,Orange Squash Liqui Fruit,Beverages,Drinks & Beverages,Liqui Fruit,ml,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.MILLILITRES
+SKU-21652,Washing Powder Sunlight,Household,Cleaning Supplies,Sunlight,ml,CategoryEnum.CLEANING,UnitOfMeasureEnum.MILLILITRES
+SKU-123286,Apples Freshmark,Fresh Food,Produce,Freshmark,g,CategoryEnum.PRODUCE,UnitOfMeasureEnum.GRAMS
+SKU-954629,Potatoes ZZ2,Fresh Food,Produce,ZZ2,g,CategoryEnum.PRODUCE,UnitOfMeasureEnum.GRAMS
+SKU-268957,Full Cream Milk Danone,Fresh Food,Dairy & Eggs,Danone,ml,CategoryEnum.DAIRY,UnitOfMeasureEnum.MILLILITRES
+SKU-970120,Sweets Pack Beacon,Grocery Essentials,Snacks & Confectionery,Beacon,Pack,CategoryEnum.SNACKS,UnitOfMeasureEnum.PACK
+SKU-111564,Boerewors Rainbow Chicken,Fresh Food,Meat & Poultry,Rainbow Chicken,kg,CategoryEnum.MEAT,UnitOfMeasureEnum.KILOGRAMS
+SKU-951532,Dishwashing Liquid Omo,Household,Cleaning Supplies,Omo,Pack,CategoryEnum.CLEANING,UnitOfMeasureEnum.PACK
+SKU-588880,Washing Powder Sunlight,Household,Cleaning Supplies,Sunlight,Pack,CategoryEnum.CLEANING,UnitOfMeasureEnum.PACK
+SKU-536762,White Bread Albany,Fresh Food,Bakery,Albany,Pack,CategoryEnum.BAKERY,UnitOfMeasureEnum.PACK
+SKU-723422,100% Fruit Juice Cappy,Beverages,Drinks & Beverages,Cappy,ml,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.MILLILITRES
+SKU-968221,Chips Cadbury,Grocery Essentials,Snacks & Confectionery,Cadbury,Pack,CategoryEnum.SNACKS,UnitOfMeasureEnum.PACK
+SKU-313103,Cheddar Cheese Danone,Fresh Food,Dairy & Eggs,Danone,Each,CategoryEnum.DAIRY,UnitOfMeasureEnum.EACH
+SKU-424970,Washing Powder Handy Andy,Household,Cleaning Supplies,Handy Andy,ml,CategoryEnum.CLEANING,UnitOfMeasureEnum.MILLILITRES
+SKU-775099,Pork Chops Karan Beef,Fresh Food,Meat & Poultry,Karan Beef,kg,CategoryEnum.MEAT,UnitOfMeasureEnum.KILOGRAMS
+SKU-2957,Sweets Pack Lays,Grocery Essentials,Snacks & Confectionery,Lays,Pack,CategoryEnum.SNACKS,UnitOfMeasureEnum.PACK
+SKU-773739,Potatoes ZZ2,Fresh Food,Produce,ZZ2,g,CategoryEnum.PRODUCE,UnitOfMeasureEnum.GRAMS
+SKU-83740,Orange Squash Coca-Cola,Beverages,Drinks & Beverages,Coca-Cola,ml,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.MILLILITRES
+SKU-326005,Potatoes ZZ2,Fresh Food,Produce,ZZ2,kg,CategoryEnum.PRODUCE,UnitOfMeasureEnum.KILOGRAMS
+SKU-62298,Dishwashing Liquid Omo,Household,Cleaning Supplies,Omo,Pack,CategoryEnum.CLEANING,UnitOfMeasureEnum.PACK
+SKU-496310,Bleach Domestos,Household,Cleaning Supplies,Domestos,Pack,CategoryEnum.CLEANING,UnitOfMeasureEnum.PACK
+SKU-749954,Beef Stewing Country Fair,Fresh Food,Meat & Poultry,Country Fair,kg,CategoryEnum.MEAT,UnitOfMeasureEnum.KILOGRAMS
+SKU-43588,Flavoured Drink Coca-Cola,Beverages,Drinks & Beverages,Coca-Cola,L,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.LITRES
+SKU-778562,Bleach Omo,Household,Cleaning Supplies,Omo,Pack,CategoryEnum.CLEANING,UnitOfMeasureEnum.PACK
+SKU-136987,100% Fruit Juice Oros,Beverages,Drinks & Beverages,Oros,ml,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.MILLILITRES
+SKU-910301,Onions ZZ2,Fresh Food,Produce,ZZ2,kg,CategoryEnum.PRODUCE,UnitOfMeasureEnum.KILOGRAMS
+SKU-669785,Full Cream Milk Clover,Fresh Food,Dairy & Eggs,Clover,ml,CategoryEnum.DAIRY,UnitOfMeasureEnum.MILLILITRES
+SKU-911818,Bananas Nature's Choice,Fresh Food,Produce,Nature's Choice,kg,CategoryEnum.PRODUCE,UnitOfMeasureEnum.KILOGRAMS
+SKU-74118,Beef Stewing Country Fair,Fresh Food,Meat & Poultry,Country Fair,kg,CategoryEnum.MEAT,UnitOfMeasureEnum.KILOGRAMS
+SKU-394763,Washing Powder Sunlight,Household,Cleaning Supplies,Sunlight,Pack,CategoryEnum.CLEANING,UnitOfMeasureEnum.PACK
+SKU-686160,Apples Nature's Choice,Fresh Food,Produce,Nature's Choice,g,CategoryEnum.PRODUCE,UnitOfMeasureEnum.GRAMS
+SKU-94939,Low Fat Milk Crystal Valley,Fresh Food,Dairy & Eggs,Crystal Valley,g,CategoryEnum.DAIRY,UnitOfMeasureEnum.GRAMS
+SKU-57104,Low Fat Milk Ladismith,Fresh Food,Dairy & Eggs,Ladismith,ml,CategoryEnum.DAIRY,UnitOfMeasureEnum.MILLILITRES
+SKU-793684,Large Eggs (18) Parmalat,Fresh Food,Dairy & Eggs,Parmalat,ml,CategoryEnum.DAIRY,UnitOfMeasureEnum.MILLILITRES
+SKU-685806,Plain Yoghurt Danone,Fresh Food,Dairy & Eggs,Danone,L,CategoryEnum.DAIRY,UnitOfMeasureEnum.LITRES
+SKU-385505,Sweets Pack Simba,Grocery Essentials,Snacks & Confectionery,Simba,Pack,CategoryEnum.SNACKS,UnitOfMeasureEnum.PACK
+SKU-71770,White Bread Blue Ribbon,Fresh Food,Bakery,Blue Ribbon,Each,CategoryEnum.BAKERY,UnitOfMeasureEnum.EACH
+SKU-691813,Chicken Portions Country Fair,Fresh Food,Meat & Poultry,Country Fair,kg,CategoryEnum.MEAT,UnitOfMeasureEnum.KILOGRAMS
+SKU-160349,100% Fruit Juice Liqui Fruit,Beverages,Drinks & Beverages,Liqui Fruit,ml,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.MILLILITRES
+SKU-655737,Onions Nature's Choice,Fresh Food,Produce,Nature's Choice,g,CategoryEnum.PRODUCE,UnitOfMeasureEnum.GRAMS
+SKU-754477,Floor Cleaner Domestos,Household,Cleaning Supplies,Domestos,Pack,CategoryEnum.CLEANING,UnitOfMeasureEnum.PACK
+SKU-640029,Orange Squash Cappy,Beverages,Drinks & Beverages,Cappy,ml,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.MILLILITRES
+SKU-478463,Plain Yoghurt Parmalat,Fresh Food,Dairy & Eggs,Parmalat,Each,CategoryEnum.DAIRY,UnitOfMeasureEnum.EACH
+SKU-813489,Bleach Handy Andy,Household,Cleaning Supplies,Handy Andy,L,CategoryEnum.CLEANING,UnitOfMeasureEnum.LITRES
+SKU-40621,Bananas ZZ2,Fresh Food,Produce,ZZ2,g,CategoryEnum.PRODUCE,UnitOfMeasureEnum.GRAMS
+SKU-403004,Dishwashing Liquid Domestos,Household,Cleaning Supplies,Domestos,L,CategoryEnum.CLEANING,UnitOfMeasureEnum.LITRES
+SKU-716900,Pork Chops Rainbow Chicken,Fresh Food,Meat & Poultry,Rainbow Chicken,g,CategoryEnum.MEAT,UnitOfMeasureEnum.GRAMS
+SKU-528999,Cheddar Cheese Ladismith,Fresh Food,Dairy & Eggs,Ladismith,g,CategoryEnum.DAIRY,UnitOfMeasureEnum.GRAMS
+SKU-519318,Potatoes ZZ2,Fresh Food,Produce,ZZ2,g,CategoryEnum.PRODUCE,UnitOfMeasureEnum.GRAMS
+SKU-357226,Seeded Brown Bread Sasko,Fresh Food,Bakery,Sasko,Pack,CategoryEnum.BAKERY,UnitOfMeasureEnum.PACK
+SKU-691554,Boerewors Country Fair,Fresh Food,Meat & Poultry,Country Fair,g,CategoryEnum.MEAT,UnitOfMeasureEnum.GRAMS
+SKU-753398,Full Cream Milk Ladismith,Fresh Food,Dairy & Eggs,Ladismith,ml,CategoryEnum.DAIRY,UnitOfMeasureEnum.MILLILITRES
+SKU-515670,Orange Squash Liqui Fruit,Beverages,Drinks & Beverages,Liqui Fruit,Pack,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.PACK
+SKU-431424,Onions Freshmark,Fresh Food,Produce,Freshmark,kg,CategoryEnum.PRODUCE,UnitOfMeasureEnum.KILOGRAMS
+SKU-18350,Tomatoes ZZ2,Fresh Food,Produce,ZZ2,kg,CategoryEnum.PRODUCE,UnitOfMeasureEnum.KILOGRAMS
+SKU-121855,Bananas Nature's Choice,Fresh Food,Produce,Nature's Choice,g,CategoryEnum.PRODUCE,UnitOfMeasureEnum.GRAMS
+SKU-139338,100% Fruit Juice Liqui Fruit,Beverages,Drinks & Beverages,Liqui Fruit,Pack,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.PACK
+SKU-509654,Chocolate Slab Lays,Grocery Essentials,Snacks & Confectionery,Lays,Pack,CategoryEnum.SNACKS,UnitOfMeasureEnum.PACK
+SKU-467473,Onions Freshmark,Fresh Food,Produce,Freshmark,kg,CategoryEnum.PRODUCE,UnitOfMeasureEnum.KILOGRAMS
+SKU-291495,Seeded Brown Bread Albany,Fresh Food,Bakery,Albany,Each,CategoryEnum.BAKERY,UnitOfMeasureEnum.EACH
+SKU-564338,Pork Chops Karan Beef,Fresh Food,Meat & Poultry,Karan Beef,g,CategoryEnum.MEAT,UnitOfMeasureEnum.GRAMS
+SKU-313378,Cola Coca-Cola,Beverages,Drinks & Beverages,Coca-Cola,L,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.LITRES
+SKU-637646,Dishwashing Liquid Handy Andy,Household,Cleaning Supplies,Handy Andy,L,CategoryEnum.CLEANING,UnitOfMeasureEnum.LITRES
+SKU-894345,Bleach Domestos,Household,Cleaning Supplies,Domestos,ml,CategoryEnum.CLEANING,UnitOfMeasureEnum.MILLILITRES
+SKU-760227,Pork Chops Karan Beef,Fresh Food,Meat & Poultry,Karan Beef,g,CategoryEnum.MEAT,UnitOfMeasureEnum.GRAMS
+SKU-844475,Pork Chops Karan Beef,Fresh Food,Meat & Poultry,Karan Beef,g,CategoryEnum.MEAT,UnitOfMeasureEnum.GRAMS
+SKU-318494,Beef Stewing Country Fair,Fresh Food,Meat & Poultry,Country Fair,g,CategoryEnum.MEAT,UnitOfMeasureEnum.GRAMS
+SKU-320249,Washing Powder Omo,Household,Cleaning Supplies,Omo,ml,CategoryEnum.CLEANING,UnitOfMeasureEnum.MILLILITRES
+SKU-997818,Plain Yoghurt Crystal Valley,Fresh Food,Dairy & Eggs,Crystal Valley,Each,CategoryEnum.DAIRY,UnitOfMeasureEnum.EACH
+SKU-713024,Tomatoes Freshmark,Fresh Food,Produce,Freshmark,kg,CategoryEnum.PRODUCE,UnitOfMeasureEnum.KILOGRAMS
+SKU-556932,100% Fruit Juice Oros,Beverages,Drinks & Beverages,Oros,Pack,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.PACK
+SKU-328436,Flavoured Drink Cappy,Beverages,Drinks & Beverages,Cappy,L,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.LITRES
+SKU-384695,Low Fat Milk Danone,Fresh Food,Dairy & Eggs,Danone,L,CategoryEnum.DAIRY,UnitOfMeasureEnum.LITRES
+SKU-796288,Dishwashing Liquid Sunlight,Household,Cleaning Supplies,Sunlight,L,CategoryEnum.CLEANING,UnitOfMeasureEnum.LITRES
+SKU-281525,Brown Bread Sunbake,Fresh Food,Bakery,Sunbake,Pack,CategoryEnum.BAKERY,UnitOfMeasureEnum.PACK
+SKU-336426,Bleach Omo,Household,Cleaning Supplies,Omo,L,CategoryEnum.CLEANING,UnitOfMeasureEnum.LITRES
+SKU-57312,Salted Chips Lays,Grocery Essentials,Snacks & Confectionery,Lays,Each,CategoryEnum.SNACKS,UnitOfMeasureEnum.EACH
+SKU-378181,Brown Bread Albany,Fresh Food,Bakery,Albany,Pack,CategoryEnum.BAKERY,UnitOfMeasureEnum.PACK
+SKU-157843,Salted Chips Simba,Grocery Essentials,Snacks & Confectionery,Simba,Each,CategoryEnum.SNACKS,UnitOfMeasureEnum.EACH
+SKU-665712,Apples Freshmark,Fresh Food,Produce,Freshmark,g,CategoryEnum.PRODUCE,UnitOfMeasureEnum.GRAMS
+SKU-520937,Bleach Omo,Household,Cleaning Supplies,Omo,Pack,CategoryEnum.CLEANING,UnitOfMeasureEnum.PACK
+SKU-246022,Large Eggs (18) Crystal Valley,Fresh Food,Dairy & Eggs,Crystal Valley,ml,CategoryEnum.DAIRY,UnitOfMeasureEnum.MILLILITRES
+SKU-547192,Seeded Brown Bread Sasko,Fresh Food,Bakery,Sasko,Pack,CategoryEnum.BAKERY,UnitOfMeasureEnum.PACK
+SKU-277062,100% Fruit Juice Oros,Beverages,Drinks & Beverages,Oros,ml,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.MILLILITRES
+SKU-746000,Bleach Handy Andy,Household,Cleaning Supplies,Handy Andy,ml,CategoryEnum.CLEANING,UnitOfMeasureEnum.MILLILITRES
+SKU-216049,Seeded Brown Bread Sasko,Fresh Food,Bakery,Sasko,Each,CategoryEnum.BAKERY,UnitOfMeasureEnum.EACH
+SKU-981937,Flavoured Drink Liqui Fruit,Beverages,Drinks & Beverages,Liqui Fruit,ml,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.MILLILITRES
+SKU-531625,Boerewors Rainbow Chicken,Fresh Food,Meat & Poultry,Rainbow Chicken,g,CategoryEnum.MEAT,UnitOfMeasureEnum.GRAMS
+SKU-962239,Floor Cleaner Sunlight,Household,Cleaning Supplies,Sunlight,Pack,CategoryEnum.CLEANING,UnitOfMeasureEnum.PACK
+SKU-348363,100% Fruit Juice Liqui Fruit,Beverages,Drinks & Beverages,Liqui Fruit,ml,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.MILLILITRES
+SKU-222043,Bleach Domestos,Household,Cleaning Supplies,Domestos,ml,CategoryEnum.CLEANING,UnitOfMeasureEnum.MILLILITRES
+SKU-683072,Pork Chops Country Fair,Fresh Food,Meat & Poultry,Country Fair,g,CategoryEnum.MEAT,UnitOfMeasureEnum.GRAMS
+SKU-374364,Apples Nature's Choice,Fresh Food,Produce,Nature's Choice,g,CategoryEnum.PRODUCE,UnitOfMeasureEnum.GRAMS
+SKU-827521,Beef Stewing Country Fair,Fresh Food,Meat & Poultry,Country Fair,g,CategoryEnum.MEAT,UnitOfMeasureEnum.GRAMS
+SKU-57352,Full Cream Milk Ladismith,Fresh Food,Dairy & Eggs,Ladismith,g,CategoryEnum.DAIRY,UnitOfMeasureEnum.GRAMS
+SKU-684201,Bleach Handy Andy,Household,Cleaning Supplies,Handy Andy,L,CategoryEnum.CLEANING,UnitOfMeasureEnum.LITRES
+SKU-326853,Orange Squash Cappy,Beverages,Drinks & Beverages,Cappy,Pack,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.PACK
+SKU-741223,Potato Chips Simba,Grocery Essentials,Snacks & Confectionery,Simba,Pack,CategoryEnum.SNACKS,UnitOfMeasureEnum.PACK
+SKU-355986,Flavoured Drink Oros,Beverages,Drinks & Beverages,Oros,Pack,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.PACK
+SKU-231635,Large Eggs (18) Ladismith,Fresh Food,Dairy & Eggs,Ladismith,L,CategoryEnum.DAIRY,UnitOfMeasureEnum.LITRES
+SKU-953420,Chocolate Slab Lays,Grocery Essentials,Snacks & Confectionery,Lays,Pack,CategoryEnum.SNACKS,UnitOfMeasureEnum.PACK
+SKU-429373,Seeded Brown Bread Albany,Fresh Food,Bakery,Albany,Each,CategoryEnum.BAKERY,UnitOfMeasureEnum.EACH
+SKU-477445,Bananas Freshmark,Fresh Food,Produce,Freshmark,kg,CategoryEnum.PRODUCE,UnitOfMeasureEnum.KILOGRAMS
+SKU-59026,Low Fat Milk Ladismith,Fresh Food,Dairy & Eggs,Ladismith,ml,CategoryEnum.DAIRY,UnitOfMeasureEnum.MILLILITRES
+SKU-677729,Beef Stewing Karan Beef,Fresh Food,Meat & Poultry,Karan Beef,g,CategoryEnum.MEAT,UnitOfMeasureEnum.GRAMS
+SKU-173723,Low Fat Milk Ladismith,Fresh Food,Dairy & Eggs,Ladismith,Each,CategoryEnum.DAIRY,UnitOfMeasureEnum.EACH
+SKU-405538,Dishwashing Liquid Sunlight,Household,Cleaning Supplies,Sunlight,L,CategoryEnum.CLEANING,UnitOfMeasureEnum.LITRES
+SKU-395091,Chicken Portions Karan Beef,Fresh Food,Meat & Poultry,Karan Beef,kg,CategoryEnum.MEAT,UnitOfMeasureEnum.KILOGRAMS
+SKU-228115,100% Fruit Juice Liqui Fruit,Beverages,Drinks & Beverages,Liqui Fruit,L,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.LITRES
+SKU-210343,Apples Freshmark,Fresh Food,Produce,Freshmark,g,CategoryEnum.PRODUCE,UnitOfMeasureEnum.GRAMS
+SKU-8763,Boerewors Karan Beef,Fresh Food,Meat & Poultry,Karan Beef,g,CategoryEnum.MEAT,UnitOfMeasureEnum.GRAMS
+SKU-269944,Onions Freshmark,Fresh Food,Produce,Freshmark,g,CategoryEnum.PRODUCE,UnitOfMeasureEnum.GRAMS
+SKU-419937,Potatoes Freshmark,Fresh Food,Produce,Freshmark,kg,CategoryEnum.PRODUCE,UnitOfMeasureEnum.KILOGRAMS
+SKU-899654,Brown Bread Blue Ribbon,Fresh Food,Bakery,Blue Ribbon,Each,CategoryEnum.BAKERY,UnitOfMeasureEnum.EACH
+SKU-794408,White Bread Albany,Fresh Food,Bakery,Albany,g,CategoryEnum.BAKERY,UnitOfMeasureEnum.GRAMS
+SKU-489223,Full Cream Milk Danone,Fresh Food,Dairy & Eggs,Danone,Each,CategoryEnum.DAIRY,UnitOfMeasureEnum.EACH
+SKU-28335,Cola Liqui Fruit,Beverages,Drinks & Beverages,Liqui Fruit,L,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.LITRES
+SKU-555920,Seeded Brown Bread Blue Ribbon,Fresh Food,Bakery,Blue Ribbon,Each,CategoryEnum.BAKERY,UnitOfMeasureEnum.EACH
+SKU-74136,Boerewors Rainbow Chicken,Fresh Food,Meat & Poultry,Rainbow Chicken,g,CategoryEnum.MEAT,UnitOfMeasureEnum.GRAMS
+SKU-302762,Margarine Nulaid,Fresh Food,Dairy & Eggs,Nulaid,L,CategoryEnum.DAIRY,UnitOfMeasureEnum.LITRES
+SKU-852914,Low Fat Milk Nulaid,Fresh Food,Dairy & Eggs,Nulaid,Each,CategoryEnum.DAIRY,UnitOfMeasureEnum.EACH
+SKU-941763,Potato Chips Doritos,Grocery Essentials,Snacks & Confectionery,Doritos,Each,CategoryEnum.SNACKS,UnitOfMeasureEnum.EACH
+SKU-348445,Tomatoes Freshmark,Fresh Food,Produce,Freshmark,g,CategoryEnum.PRODUCE,UnitOfMeasureEnum.GRAMS
+SKU-80881,White Bread Sunbake,Fresh Food,Bakery,Sunbake,g,CategoryEnum.BAKERY,UnitOfMeasureEnum.GRAMS
+SKU-364222,Dishwashing Liquid Handy Andy,Household,Cleaning Supplies,Handy Andy,L,CategoryEnum.CLEANING,UnitOfMeasureEnum.LITRES
+SKU-446787,Margarine Clover,Fresh Food,Dairy & Eggs,Clover,g,CategoryEnum.DAIRY,UnitOfMeasureEnum.GRAMS
+SKU-400300,Large Eggs (18) Clover,Fresh Food,Dairy & Eggs,Clover,Each,CategoryEnum.DAIRY,UnitOfMeasureEnum.EACH
+SKU-969078,Potato Chips Cadbury,Grocery Essentials,Snacks & Confectionery,Cadbury,Each,CategoryEnum.SNACKS,UnitOfMeasureEnum.EACH
+SKU-846217,Plain Yoghurt Parmalat,Fresh Food,Dairy & Eggs,Parmalat,ml,CategoryEnum.DAIRY,UnitOfMeasureEnum.MILLILITRES
+SKU-674011,White Bread Sunbake,Fresh Food,Bakery,Sunbake,Pack,CategoryEnum.BAKERY,UnitOfMeasureEnum.PACK
+SKU-463433,Floor Cleaner Domestos,Household,Cleaning Supplies,Domestos,Pack,CategoryEnum.CLEANING,UnitOfMeasureEnum.PACK
+SKU-994584,Margarine Danone,Fresh Food,Dairy & Eggs,Danone,ml,CategoryEnum.DAIRY,UnitOfMeasureEnum.MILLILITRES
+SKU-23707,Floor Cleaner Sunlight,Household,Cleaning Supplies,Sunlight,ml,CategoryEnum.CLEANING,UnitOfMeasureEnum.MILLILITRES
+SKU-567584,Flavoured Drink Oros,Beverages,Drinks & Beverages,Oros,L,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.LITRES
+SKU-102527,Tomatoes Freshmark,Fresh Food,Produce,Freshmark,kg,CategoryEnum.PRODUCE,UnitOfMeasureEnum.KILOGRAMS
+SKU-969158,Dishwashing Liquid Handy Andy,Household,Cleaning Supplies,Handy Andy,Pack,CategoryEnum.CLEANING,UnitOfMeasureEnum.PACK
+SKU-359100,Bananas Freshmark,Fresh Food,Produce,Freshmark,g,CategoryEnum.PRODUCE,UnitOfMeasureEnum.GRAMS
+SKU-962867,Large Eggs (18) Crystal Valley,Fresh Food,Dairy & Eggs,Crystal Valley,ml,CategoryEnum.DAIRY,UnitOfMeasureEnum.MILLILITRES
+SKU-506591,Low Fat Milk Ladismith,Fresh Food,Dairy & Eggs,Ladismith,L,CategoryEnum.DAIRY,UnitOfMeasureEnum.LITRES
+SKU-560019,Flavoured Drink Liqui Fruit,Beverages,Drinks & Beverages,Liqui Fruit,L,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.LITRES
+SKU-725028,Onions Nature's Choice,Fresh Food,Produce,Nature's Choice,kg,CategoryEnum.PRODUCE,UnitOfMeasureEnum.KILOGRAMS
+SKU-528924,White Bread Albany,Fresh Food,Bakery,Albany,g,CategoryEnum.BAKERY,UnitOfMeasureEnum.GRAMS
+SKU-108224,Cola Coca-Cola,Beverages,Drinks & Beverages,Coca-Cola,L,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.LITRES
+SKU-385032,Bleach Omo,Household,Cleaning Supplies,Omo,ml,CategoryEnum.CLEANING,UnitOfMeasureEnum.MILLILITRES
+SKU-52396,Plain Yoghurt Danone,Fresh Food,Dairy & Eggs,Danone,Each,CategoryEnum.DAIRY,UnitOfMeasureEnum.EACH
+SKU-458124,Sweets Pack Beacon,Grocery Essentials,Snacks & Confectionery,Beacon,Pack,CategoryEnum.SNACKS,UnitOfMeasureEnum.PACK
+SKU-249730,Margarine Ladismith,Fresh Food,Dairy & Eggs,Ladismith,L,CategoryEnum.DAIRY,UnitOfMeasureEnum.LITRES
+SKU-784962,Plain Yoghurt Danone,Fresh Food,Dairy & Eggs,Danone,L,CategoryEnum.DAIRY,UnitOfMeasureEnum.LITRES
+SKU-926058,Salted Chips Lays,Grocery Essentials,Snacks & Confectionery,Lays,g,CategoryEnum.SNACKS,UnitOfMeasureEnum.GRAMS
+SKU-138291,Cheddar Cheese Parmalat,Fresh Food,Dairy & Eggs,Parmalat,ml,CategoryEnum.DAIRY,UnitOfMeasureEnum.MILLILITRES
+SKU-509805,Apples Freshmark,Fresh Food,Produce,Freshmark,kg,CategoryEnum.PRODUCE,UnitOfMeasureEnum.KILOGRAMS
+SKU-370344,Chips Cadbury,Grocery Essentials,Snacks & Confectionery,Cadbury,Each,CategoryEnum.SNACKS,UnitOfMeasureEnum.EACH
+SKU-500623,Low Fat Milk Clover,Fresh Food,Dairy & Eggs,Clover,ml,CategoryEnum.DAIRY,UnitOfMeasureEnum.MILLILITRES
+SKU-870689,Low Fat Milk Danone,Fresh Food,Dairy & Eggs,Danone,Each,CategoryEnum.DAIRY,UnitOfMeasureEnum.EACH
+SKU-711842,Floor Cleaner Domestos,Household,Cleaning Supplies,Domestos,Pack,CategoryEnum.CLEANING,UnitOfMeasureEnum.PACK
+SKU-37191,Flavoured Drink Liqui Fruit,Beverages,Drinks & Beverages,Liqui Fruit,Pack,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.PACK
+SKU-559434,Potatoes Nature's Choice,Fresh Food,Produce,Nature's Choice,Each,CategoryEnum.PRODUCE,UnitOfMeasureEnum.EACH
+SKU-794562,Brown Bread Sunbake,Fresh Food,Bakery,Sunbake,g,CategoryEnum.BAKERY,UnitOfMeasureEnum.GRAMS
+SKU-241431,Sweets Pack NikNaks,Grocery Essentials,Snacks & Confectionery,NikNaks,g,CategoryEnum.SNACKS,UnitOfMeasureEnum.GRAMS
+SKU-881789,Apples Nature's Choice,Fresh Food,Produce,Nature's Choice,g,CategoryEnum.PRODUCE,UnitOfMeasureEnum.GRAMS
+SKU-144322,Boerewors Karan Beef,Fresh Food,Meat & Poultry,Karan Beef,g,CategoryEnum.MEAT,UnitOfMeasureEnum.GRAMS
+SKU-429490,Apples Freshmark,Fresh Food,Produce,Freshmark,Each,CategoryEnum.PRODUCE,UnitOfMeasureEnum.EACH
+SKU-178308,Full Cream Milk Ladismith,Fresh Food,Dairy & Eggs,Ladismith,g,CategoryEnum.DAIRY,UnitOfMeasureEnum.GRAMS
+SKU-241027,Flavoured Drink Oros,Beverages,Drinks & Beverages,Oros,L,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.LITRES
+SKU-93384,Beef Stewing Karan Beef,Fresh Food,Meat & Poultry,Karan Beef,g,CategoryEnum.MEAT,UnitOfMeasureEnum.GRAMS
+SKU-733432,Chocolate Slab Cadbury,Grocery Essentials,Snacks & Confectionery,Cadbury,g,CategoryEnum.SNACKS,UnitOfMeasureEnum.GRAMS
+SKU-978486,Chocolate Slab Lays,Grocery Essentials,Snacks & Confectionery,Lays,g,CategoryEnum.SNACKS,UnitOfMeasureEnum.GRAMS
+SKU-319053,Dishwashing Liquid Handy Andy,Household,Cleaning Supplies,Handy Andy,L,CategoryEnum.CLEANING,UnitOfMeasureEnum.LITRES
+SKU-784720,Pork Chops Country Fair,Fresh Food,Meat & Poultry,Country Fair,kg,CategoryEnum.MEAT,UnitOfMeasureEnum.KILOGRAMS
+SKU-924066,Cheese Snacks Beacon,Grocery Essentials,Snacks & Confectionery,Beacon,Pack,CategoryEnum.SNACKS,UnitOfMeasureEnum.PACK
+SKU-627148,Dishwashing Liquid Domestos,Household,Cleaning Supplies,Domestos,ml,CategoryEnum.CLEANING,UnitOfMeasureEnum.MILLILITRES
+SKU-623762,Potato Chips Doritos,Grocery Essentials,Snacks & Confectionery,Doritos,g,CategoryEnum.SNACKS,UnitOfMeasureEnum.GRAMS
+SKU-756345,Chicken Portions Karan Beef,Fresh Food,Meat & Poultry,Karan Beef,g,CategoryEnum.MEAT,UnitOfMeasureEnum.GRAMS
+SKU-258308,Large Eggs (18) Parmalat,Fresh Food,Dairy & Eggs,Parmalat,L,CategoryEnum.DAIRY,UnitOfMeasureEnum.LITRES
+SKU-42288,Cheddar Cheese Crystal Valley,Fresh Food,Dairy & Eggs,Crystal Valley,g,CategoryEnum.DAIRY,UnitOfMeasureEnum.GRAMS
+SKU-767511,Full Cream Milk Danone,Fresh Food,Dairy & Eggs,Danone,L,CategoryEnum.DAIRY,UnitOfMeasureEnum.LITRES
+SKU-824309,Apples Freshmark,Fresh Food,Produce,Freshmark,Each,CategoryEnum.PRODUCE,UnitOfMeasureEnum.EACH
+SKU-674995,Bleach Handy Andy,Household,Cleaning Supplies,Handy Andy,Pack,CategoryEnum.CLEANING,UnitOfMeasureEnum.PACK
+SKU-467672,Hot Dog Rolls (6pk) Albany,Fresh Food,Bakery,Albany,g,CategoryEnum.BAKERY,UnitOfMeasureEnum.GRAMS
+SKU-862401,Washing Powder Domestos,Household,Cleaning Supplies,Domestos,ml,CategoryEnum.CLEANING,UnitOfMeasureEnum.MILLILITRES
+SKU-984523,Apples Freshmark,Fresh Food,Produce,Freshmark,kg,CategoryEnum.PRODUCE,UnitOfMeasureEnum.KILOGRAMS
+SKU-851504,Chicken Portions Rainbow Chicken,Fresh Food,Meat & Poultry,Rainbow Chicken,g,CategoryEnum.MEAT,UnitOfMeasureEnum.GRAMS
+SKU-325584,Hot Dog Rolls (6pk) Sunbake,Fresh Food,Bakery,Sunbake,Pack,CategoryEnum.BAKERY,UnitOfMeasureEnum.PACK
+SKU-57622,Large Eggs (18) Parmalat,Fresh Food,Dairy & Eggs,Parmalat,L,CategoryEnum.DAIRY,UnitOfMeasureEnum.LITRES
+SKU-64690,Pork Chops Country Fair,Fresh Food,Meat & Poultry,Country Fair,g,CategoryEnum.MEAT,UnitOfMeasureEnum.GRAMS
+SKU-781091,Seeded Brown Bread Albany,Fresh Food,Bakery,Albany,Pack,CategoryEnum.BAKERY,UnitOfMeasureEnum.PACK
+SKU-798839,100% Fruit Juice Cappy,Beverages,Drinks & Beverages,Cappy,ml,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.MILLILITRES
+SKU-352816,Pork Chops Karan Beef,Fresh Food,Meat & Poultry,Karan Beef,g,CategoryEnum.MEAT,UnitOfMeasureEnum.GRAMS
+SKU-425775,100% Fruit Juice Oros,Beverages,Drinks & Beverages,Oros,ml,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.MILLILITRES
+SKU-824122,Tomatoes ZZ2,Fresh Food,Produce,ZZ2,g,CategoryEnum.PRODUCE,UnitOfMeasureEnum.GRAMS
+SKU-688839,Flavoured Drink Cappy,Beverages,Drinks & Beverages,Cappy,L,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.LITRES
+SKU-114569,Potato Chips Cadbury,Grocery Essentials,Snacks & Confectionery,Cadbury,Each,CategoryEnum.SNACKS,UnitOfMeasureEnum.EACH
+SKU-783028,Pork Chops Country Fair,Fresh Food,Meat & Poultry,Country Fair,g,CategoryEnum.MEAT,UnitOfMeasureEnum.GRAMS
+SKU-856303,100% Fruit Juice Oros,Beverages,Drinks & Beverages,Oros,ml,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.MILLILITRES
+SKU-490919,Floor Cleaner Domestos,Household,Cleaning Supplies,Domestos,Pack,CategoryEnum.CLEANING,UnitOfMeasureEnum.PACK
+SKU-649614,100% Fruit Juice Liqui Fruit,Beverages,Drinks & Beverages,Liqui Fruit,ml,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.MILLILITRES
+SKU-591067,Salted Chips Beacon,Grocery Essentials,Snacks & Confectionery,Beacon,g,CategoryEnum.SNACKS,UnitOfMeasureEnum.GRAMS
+SKU-255321,Low Fat Milk Danone,Fresh Food,Dairy & Eggs,Danone,Each,CategoryEnum.DAIRY,UnitOfMeasureEnum.EACH
+SKU-537770,Apples Nature's Choice,Fresh Food,Produce,Nature's Choice,Each,CategoryEnum.PRODUCE,UnitOfMeasureEnum.EACH
+SKU-644817,Seeded Brown Bread Albany,Fresh Food,Bakery,Albany,g,CategoryEnum.BAKERY,UnitOfMeasureEnum.GRAMS
+SKU-116476,Hot Dog Rolls (6pk) Blue Ribbon,Fresh Food,Bakery,Blue Ribbon,Pack,CategoryEnum.BAKERY,UnitOfMeasureEnum.PACK
+SKU-803008,Sweets Pack Beacon,Grocery Essentials,Snacks & Confectionery,Beacon,Each,CategoryEnum.SNACKS,UnitOfMeasureEnum.EACH
+SKU-480184,100% Fruit Juice Cappy,Beverages,Drinks & Beverages,Cappy,Pack,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.PACK
+SKU-524504,Full Cream Milk Crystal Valley,Fresh Food,Dairy & Eggs,Crystal Valley,ml,CategoryEnum.DAIRY,UnitOfMeasureEnum.MILLILITRES
+SKU-156480,White Bread Albany,Fresh Food,Bakery,Albany,g,CategoryEnum.BAKERY,UnitOfMeasureEnum.GRAMS
+SKU-489699,Potatoes Nature's Choice,Fresh Food,Produce,Nature's Choice,Each,CategoryEnum.PRODUCE,UnitOfMeasureEnum.EACH
+SKU-203167,Cheddar Cheese Clover,Fresh Food,Dairy & Eggs,Clover,ml,CategoryEnum.DAIRY,UnitOfMeasureEnum.MILLILITRES
+SKU-145026,Chocolate Slab Lays,Grocery Essentials,Snacks & Confectionery,Lays,Pack,CategoryEnum.SNACKS,UnitOfMeasureEnum.PACK
+SKU-563346,Full Cream Milk Danone,Fresh Food,Dairy & Eggs,Danone,L,CategoryEnum.DAIRY,UnitOfMeasureEnum.LITRES
+SKU-20248,100% Fruit Juice Coca-Cola,Beverages,Drinks & Beverages,Coca-Cola,ml,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.MILLILITRES
+SKU-196960,Margarine Ladismith,Fresh Food,Dairy & Eggs,Ladismith,g,CategoryEnum.DAIRY,UnitOfMeasureEnum.GRAMS
+SKU-916652,Chicken Portions Country Fair,Fresh Food,Meat & Poultry,Country Fair,kg,CategoryEnum.MEAT,UnitOfMeasureEnum.KILOGRAMS
+SKU-157823,Tomatoes Freshmark,Fresh Food,Produce,Freshmark,g,CategoryEnum.PRODUCE,UnitOfMeasureEnum.GRAMS
+SKU-927251,Potato Chips Beacon,Grocery Essentials,Snacks & Confectionery,Beacon,g,CategoryEnum.SNACKS,UnitOfMeasureEnum.GRAMS
+SKU-69809,Floor Cleaner Handy Andy,Household,Cleaning Supplies,Handy Andy,L,CategoryEnum.CLEANING,UnitOfMeasureEnum.LITRES
+SKU-202499,Bananas Freshmark,Fresh Food,Produce,Freshmark,g,CategoryEnum.PRODUCE,UnitOfMeasureEnum.GRAMS
+SKU-263825,Bleach Omo,Household,Cleaning Supplies,Omo,L,CategoryEnum.CLEANING,UnitOfMeasureEnum.LITRES
+SKU-335188,Cola Oros,Beverages,Drinks & Beverages,Oros,ml,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.MILLILITRES
+SKU-256272,Flavoured Drink Liqui Fruit,Beverages,Drinks & Beverages,Liqui Fruit,ml,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.MILLILITRES
+SKU-292693,Low Fat Milk Ladismith,Fresh Food,Dairy & Eggs,Ladismith,g,CategoryEnum.DAIRY,UnitOfMeasureEnum.GRAMS
+SKU-575650,Floor Cleaner Omo,Household,Cleaning Supplies,Omo,Pack,CategoryEnum.CLEANING,UnitOfMeasureEnum.PACK
+SKU-892724,Beef Stewing Karan Beef,Fresh Food,Meat & Poultry,Karan Beef,kg,CategoryEnum.MEAT,UnitOfMeasureEnum.KILOGRAMS
+SKU-8681,Apples ZZ2,Fresh Food,Produce,ZZ2,kg,CategoryEnum.PRODUCE,UnitOfMeasureEnum.KILOGRAMS
+SKU-276081,Beef Stewing Country Fair,Fresh Food,Meat & Poultry,Country Fair,kg,CategoryEnum.MEAT,UnitOfMeasureEnum.KILOGRAMS
+SKU-96180,Chicken Portions Country Fair,Fresh Food,Meat & Poultry,Country Fair,g,CategoryEnum.MEAT,UnitOfMeasureEnum.GRAMS
+SKU-137772,Apples Freshmark,Fresh Food,Produce,Freshmark,Each,CategoryEnum.PRODUCE,UnitOfMeasureEnum.EACH
+SKU-268976,Chicken Portions Country Fair,Fresh Food,Meat & Poultry,Country Fair,g,CategoryEnum.MEAT,UnitOfMeasureEnum.GRAMS
+SKU-955435,Cheddar Cheese Parmalat,Fresh Food,Dairy & Eggs,Parmalat,Each,CategoryEnum.DAIRY,UnitOfMeasureEnum.EACH
+SKU-224213,Dishwashing Liquid Domestos,Household,Cleaning Supplies,Domestos,ml,CategoryEnum.CLEANING,UnitOfMeasureEnum.MILLILITRES
+SKU-26020,Pork Chops Karan Beef,Fresh Food,Meat & Poultry,Karan Beef,g,CategoryEnum.MEAT,UnitOfMeasureEnum.GRAMS
+SKU-526208,Chicken Portions Country Fair,Fresh Food,Meat & Poultry,Country Fair,g,CategoryEnum.MEAT,UnitOfMeasureEnum.GRAMS
+SKU-346322,Plain Yoghurt Crystal Valley,Fresh Food,Dairy & Eggs,Crystal Valley,ml,CategoryEnum.DAIRY,UnitOfMeasureEnum.MILLILITRES
+SKU-793194,Plain Yoghurt Ladismith,Fresh Food,Dairy & Eggs,Ladismith,ml,CategoryEnum.DAIRY,UnitOfMeasureEnum.MILLILITRES
+SKU-530527,Orange Squash Coca-Cola,Beverages,Drinks & Beverages,Coca-Cola,ml,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.MILLILITRES
+SKU-73704,Onions Freshmark,Fresh Food,Produce,Freshmark,kg,CategoryEnum.PRODUCE,UnitOfMeasureEnum.KILOGRAMS
+SKU-856224,Potatoes Freshmark,Fresh Food,Produce,Freshmark,kg,CategoryEnum.PRODUCE,UnitOfMeasureEnum.KILOGRAMS
+SKU-843857,Flavoured Drink Coca-Cola,Beverages,Drinks & Beverages,Coca-Cola,ml,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.MILLILITRES
+SKU-806835,Boerewors Rainbow Chicken,Fresh Food,Meat & Poultry,Rainbow Chicken,kg,CategoryEnum.MEAT,UnitOfMeasureEnum.KILOGRAMS
+SKU-475438,Brown Bread Albany,Fresh Food,Bakery,Albany,g,CategoryEnum.BAKERY,UnitOfMeasureEnum.GRAMS
+SKU-504765,Onions ZZ2,Fresh Food,Produce,ZZ2,g,CategoryEnum.PRODUCE,UnitOfMeasureEnum.GRAMS
+SKU-751479,Cola Coca-Cola,Beverages,Drinks & Beverages,Coca-Cola,ml,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.MILLILITRES
+SKU-598998,Salted Chips NikNaks,Grocery Essentials,Snacks & Confectionery,NikNaks,Pack,CategoryEnum.SNACKS,UnitOfMeasureEnum.PACK
+SKU-161718,Apples Freshmark,Fresh Food,Produce,Freshmark,kg,CategoryEnum.PRODUCE,UnitOfMeasureEnum.KILOGRAMS
+SKU-897639,Chocolate Slab Cadbury,Grocery Essentials,Snacks & Confectionery,Cadbury,g,CategoryEnum.SNACKS,UnitOfMeasureEnum.GRAMS
+SKU-210512,Large Eggs (18) Crystal Valley,Fresh Food,Dairy & Eggs,Crystal Valley,Each,CategoryEnum.DAIRY,UnitOfMeasureEnum.EACH
+SKU-886354,Bleach Omo,Household,Cleaning Supplies,Omo,L,CategoryEnum.CLEANING,UnitOfMeasureEnum.LITRES
+SKU-348761,Brown Bread Sasko,Fresh Food,Bakery,Sasko,Each,CategoryEnum.BAKERY,UnitOfMeasureEnum.EACH
+SKU-377040,Low Fat Milk Nulaid,Fresh Food,Dairy & Eggs,Nulaid,L,CategoryEnum.DAIRY,UnitOfMeasureEnum.LITRES
+SKU-599711,Washing Powder Omo,Household,Cleaning Supplies,Omo,L,CategoryEnum.CLEANING,UnitOfMeasureEnum.LITRES
+SKU-874323,White Bread Sunbake,Fresh Food,Bakery,Sunbake,Pack,CategoryEnum.BAKERY,UnitOfMeasureEnum.PACK
+SKU-188898,Chocolate Slab Cadbury,Grocery Essentials,Snacks & Confectionery,Cadbury,Each,CategoryEnum.SNACKS,UnitOfMeasureEnum.EACH
+SKU-727206,White Bread Blue Ribbon,Fresh Food,Bakery,Blue Ribbon,g,CategoryEnum.BAKERY,UnitOfMeasureEnum.GRAMS
+SKU-6526,Apples Nature's Choice,Fresh Food,Produce,Nature's Choice,kg,CategoryEnum.PRODUCE,UnitOfMeasureEnum.KILOGRAMS
+SKU-340507,Dishwashing Liquid Sunlight,Household,Cleaning Supplies,Sunlight,Pack,CategoryEnum.CLEANING,UnitOfMeasureEnum.PACK
+SKU-363005,Dishwashing Liquid Domestos,Household,Cleaning Supplies,Domestos,ml,CategoryEnum.CLEANING,UnitOfMeasureEnum.MILLILITRES
+SKU-477214,Salted Chips Beacon,Grocery Essentials,Snacks & Confectionery,Beacon,g,CategoryEnum.SNACKS,UnitOfMeasureEnum.GRAMS
+SKU-542382,Pork Chops Country Fair,Fresh Food,Meat & Poultry,Country Fair,g,CategoryEnum.MEAT,UnitOfMeasureEnum.GRAMS
+SKU-394269,Cheese Snacks Cadbury,Grocery Essentials,Snacks & Confectionery,Cadbury,Pack,CategoryEnum.SNACKS,UnitOfMeasureEnum.PACK
+SKU-340751,100% Fruit Juice Cappy,Beverages,Drinks & Beverages,Cappy,Pack,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.PACK
+SKU-702841,Beef Stewing Karan Beef,Fresh Food,Meat & Poultry,Karan Beef,kg,CategoryEnum.MEAT,UnitOfMeasureEnum.KILOGRAMS
+SKU-413512,Tomatoes ZZ2,Fresh Food,Produce,ZZ2,g,CategoryEnum.PRODUCE,UnitOfMeasureEnum.GRAMS
+SKU-222325,Cheddar Cheese Ladismith,Fresh Food,Dairy & Eggs,Ladismith,g,CategoryEnum.DAIRY,UnitOfMeasureEnum.GRAMS
+SKU-532172,Beef Stewing Rainbow Chicken,Fresh Food,Meat & Poultry,Rainbow Chicken,kg,CategoryEnum.MEAT,UnitOfMeasureEnum.KILOGRAMS
+SKU-669434,Hot Dog Rolls (6pk) Blue Ribbon,Fresh Food,Bakery,Blue Ribbon,g,CategoryEnum.BAKERY,UnitOfMeasureEnum.GRAMS
+SKU-639980,Low Fat Milk Danone,Fresh Food,Dairy & Eggs,Danone,g,CategoryEnum.DAIRY,UnitOfMeasureEnum.GRAMS
+SKU-659578,Flavoured Drink Oros,Beverages,Drinks & Beverages,Oros,Pack,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.PACK
+SKU-986501,100% Fruit Juice Oros,Beverages,Drinks & Beverages,Oros,Pack,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.PACK
+SKU-711869,Orange Squash Cappy,Beverages,Drinks & Beverages,Cappy,ml,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.MILLILITRES
+SKU-426880,Pork Chops Rainbow Chicken,Fresh Food,Meat & Poultry,Rainbow Chicken,g,CategoryEnum.MEAT,UnitOfMeasureEnum.GRAMS
+SKU-245352,Orange Squash Coca-Cola,Beverages,Drinks & Beverages,Coca-Cola,Pack,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.PACK
+SKU-615991,Beef Stewing Rainbow Chicken,Fresh Food,Meat & Poultry,Rainbow Chicken,kg,CategoryEnum.MEAT,UnitOfMeasureEnum.KILOGRAMS
+SKU-40513,Chocolate Slab Simba,Grocery Essentials,Snacks & Confectionery,Simba,Pack,CategoryEnum.SNACKS,UnitOfMeasureEnum.PACK
+SKU-290667,Bananas Nature's Choice,Fresh Food,Produce,Nature's Choice,kg,CategoryEnum.PRODUCE,UnitOfMeasureEnum.KILOGRAMS
+SKU-585965,Hot Dog Rolls (6pk) Blue Ribbon,Fresh Food,Bakery,Blue Ribbon,Each,CategoryEnum.BAKERY,UnitOfMeasureEnum.EACH
+SKU-446306,100% Fruit Juice Liqui Fruit,Beverages,Drinks & Beverages,Liqui Fruit,ml,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.MILLILITRES
+SKU-55800,Brown Bread Blue Ribbon,Fresh Food,Bakery,Blue Ribbon,g,CategoryEnum.BAKERY,UnitOfMeasureEnum.GRAMS
+SKU-578426,Dishwashing Liquid Domestos,Household,Cleaning Supplies,Domestos,Pack,CategoryEnum.CLEANING,UnitOfMeasureEnum.PACK
+SKU-309965,Beef Stewing Rainbow Chicken,Fresh Food,Meat & Poultry,Rainbow Chicken,g,CategoryEnum.MEAT,UnitOfMeasureEnum.GRAMS
+SKU-441866,Low Fat Milk Danone,Fresh Food,Dairy & Eggs,Danone,ml,CategoryEnum.DAIRY,UnitOfMeasureEnum.MILLILITRES
+SKU-747641,Full Cream Milk Ladismith,Fresh Food,Dairy & Eggs,Ladismith,Each,CategoryEnum.DAIRY,UnitOfMeasureEnum.EACH
+SKU-872202,Brown Bread Sunbake,Fresh Food,Bakery,Sunbake,g,CategoryEnum.BAKERY,UnitOfMeasureEnum.GRAMS
+SKU-532964,Chicken Portions Karan Beef,Fresh Food,Meat & Poultry,Karan Beef,g,CategoryEnum.MEAT,UnitOfMeasureEnum.GRAMS
+SKU-119762,Flavoured Drink Liqui Fruit,Beverages,Drinks & Beverages,Liqui Fruit,L,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.LITRES
+SKU-549589,Bleach Sunlight,Household,Cleaning Supplies,Sunlight,Pack,CategoryEnum.CLEANING,UnitOfMeasureEnum.PACK
+SKU-496080,Sweets Pack Doritos,Grocery Essentials,Snacks & Confectionery,Doritos,Each,CategoryEnum.SNACKS,UnitOfMeasureEnum.EACH
+SKU-729290,Dishwashing Liquid Omo,Household,Cleaning Supplies,Omo,ml,CategoryEnum.CLEANING,UnitOfMeasureEnum.MILLILITRES
+SKU-831796,Orange Squash Liqui Fruit,Beverages,Drinks & Beverages,Liqui Fruit,L,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.LITRES
+SKU-50557,Cola Coca-Cola,Beverages,Drinks & Beverages,Coca-Cola,Pack,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.PACK
+SKU-559549,Bleach Sunlight,Household,Cleaning Supplies,Sunlight,L,CategoryEnum.CLEANING,UnitOfMeasureEnum.LITRES
+SKU-132875,Beef Stewing Karan Beef,Fresh Food,Meat & Poultry,Karan Beef,g,CategoryEnum.MEAT,UnitOfMeasureEnum.GRAMS
+SKU-546218,Onions Nature's Choice,Fresh Food,Produce,Nature's Choice,kg,CategoryEnum.PRODUCE,UnitOfMeasureEnum.KILOGRAMS
+SKU-579437,Tomatoes Nature's Choice,Fresh Food,Produce,Nature's Choice,kg,CategoryEnum.PRODUCE,UnitOfMeasureEnum.KILOGRAMS
+SKU-579049,Flavoured Drink Oros,Beverages,Drinks & Beverages,Oros,ml,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.MILLILITRES
+SKU-612855,Brown Bread Sasko,Fresh Food,Bakery,Sasko,g,CategoryEnum.BAKERY,UnitOfMeasureEnum.GRAMS
+SKU-264421,Large Eggs (18) Ladismith,Fresh Food,Dairy & Eggs,Ladismith,ml,CategoryEnum.DAIRY,UnitOfMeasureEnum.MILLILITRES
+SKU-293283,Potatoes Freshmark,Fresh Food,Produce,Freshmark,Each,CategoryEnum.PRODUCE,UnitOfMeasureEnum.EACH
+SKU-800194,White Bread Blue Ribbon,Fresh Food,Bakery,Blue Ribbon,Pack,CategoryEnum.BAKERY,UnitOfMeasureEnum.PACK
+SKU-31786,Beef Stewing Country Fair,Fresh Food,Meat & Poultry,Country Fair,g,CategoryEnum.MEAT,UnitOfMeasureEnum.GRAMS
+SKU-577052,Low Fat Milk Nulaid,Fresh Food,Dairy & Eggs,Nulaid,Each,CategoryEnum.DAIRY,UnitOfMeasureEnum.EACH
+SKU-651557,Onions Freshmark,Fresh Food,Produce,Freshmark,Each,CategoryEnum.PRODUCE,UnitOfMeasureEnum.EACH
+SKU-716904,Low Fat Milk Parmalat,Fresh Food,Dairy & Eggs,Parmalat,ml,CategoryEnum.DAIRY,UnitOfMeasureEnum.MILLILITRES
+SKU-239747,Boerewors Karan Beef,Fresh Food,Meat & Poultry,Karan Beef,g,CategoryEnum.MEAT,UnitOfMeasureEnum.GRAMS
+SKU-745107,100% Fruit Juice Coca-Cola,Beverages,Drinks & Beverages,Coca-Cola,ml,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.MILLILITRES
+SKU-646598,Full Cream Milk Ladismith,Fresh Food,Dairy & Eggs,Ladismith,ml,CategoryEnum.DAIRY,UnitOfMeasureEnum.MILLILITRES
+SKU-374233,Pork Chops Rainbow Chicken,Fresh Food,Meat & Poultry,Rainbow Chicken,g,CategoryEnum.MEAT,UnitOfMeasureEnum.GRAMS
+SKU-134581,White Bread Sasko,Fresh Food,Bakery,Sasko,Each,CategoryEnum.BAKERY,UnitOfMeasureEnum.EACH
+SKU-930722,Salted Chips Doritos,Grocery Essentials,Snacks & Confectionery,Doritos,g,CategoryEnum.SNACKS,UnitOfMeasureEnum.GRAMS
+SKU-479268,Hot Dog Rolls (6pk) Albany,Fresh Food,Bakery,Albany,Each,CategoryEnum.BAKERY,UnitOfMeasureEnum.EACH
+SKU-590798,Plain Yoghurt Crystal Valley,Fresh Food,Dairy & Eggs,Crystal Valley,g,CategoryEnum.DAIRY,UnitOfMeasureEnum.GRAMS
+SKU-191961,Orange Squash Cappy,Beverages,Drinks & Beverages,Cappy,ml,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.MILLILITRES
+SKU-378209,Cola Oros,Beverages,Drinks & Beverages,Oros,ml,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.MILLILITRES
+SKU-365277,Salted Chips Simba,Grocery Essentials,Snacks & Confectionery,Simba,Pack,CategoryEnum.SNACKS,UnitOfMeasureEnum.PACK
+SKU-401292,100% Fruit Juice Liqui Fruit,Beverages,Drinks & Beverages,Liqui Fruit,Pack,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.PACK
+SKU-473898,Low Fat Milk Nulaid,Fresh Food,Dairy & Eggs,Nulaid,g,CategoryEnum.DAIRY,UnitOfMeasureEnum.GRAMS
+SKU-642085,Pork Chops Country Fair,Fresh Food,Meat & Poultry,Country Fair,g,CategoryEnum.MEAT,UnitOfMeasureEnum.GRAMS
+SKU-334725,Seeded Brown Bread Blue Ribbon,Fresh Food,Bakery,Blue Ribbon,g,CategoryEnum.BAKERY,UnitOfMeasureEnum.GRAMS
+SKU-922850,Flavoured Drink Oros,Beverages,Drinks & Beverages,Oros,ml,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.MILLILITRES
+SKU-461662,Salted Chips Simba,Grocery Essentials,Snacks & Confectionery,Simba,Pack,CategoryEnum.SNACKS,UnitOfMeasureEnum.PACK
+SKU-854871,Bleach Omo,Household,Cleaning Supplies,Omo,ml,CategoryEnum.CLEANING,UnitOfMeasureEnum.MILLILITRES
+SKU-895687,Hot Dog Rolls (6pk) Blue Ribbon,Fresh Food,Bakery,Blue Ribbon,Each,CategoryEnum.BAKERY,UnitOfMeasureEnum.EACH
+SKU-736668,Hot Dog Rolls (6pk) Sasko,Fresh Food,Bakery,Sasko,g,CategoryEnum.BAKERY,UnitOfMeasureEnum.GRAMS
+SKU-928483,100% Fruit Juice Coca-Cola,Beverages,Drinks & Beverages,Coca-Cola,Pack,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.PACK
+SKU-711494,Cheddar Cheese Nulaid,Fresh Food,Dairy & Eggs,Nulaid,g,CategoryEnum.DAIRY,UnitOfMeasureEnum.GRAMS
+SKU-296893,Floor Cleaner Handy Andy,Household,Cleaning Supplies,Handy Andy,L,CategoryEnum.CLEANING,UnitOfMeasureEnum.LITRES
+SKU-167028,Seeded Brown Bread Sunbake,Fresh Food,Bakery,Sunbake,Pack,CategoryEnum.BAKERY,UnitOfMeasureEnum.PACK
+SKU-581016,Flavoured Drink Oros,Beverages,Drinks & Beverages,Oros,Pack,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.PACK
+SKU-609742,Flavoured Drink Coca-Cola,Beverages,Drinks & Beverages,Coca-Cola,ml,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.MILLILITRES
+SKU-759442,Hot Dog Rolls (6pk) Blue Ribbon,Fresh Food,Bakery,Blue Ribbon,g,CategoryEnum.BAKERY,UnitOfMeasureEnum.GRAMS
+SKU-977495,Dishwashing Liquid Handy Andy,Household,Cleaning Supplies,Handy Andy,Pack,CategoryEnum.CLEANING,UnitOfMeasureEnum.PACK
+SKU-960631,Flavoured Drink Oros,Beverages,Drinks & Beverages,Oros,ml,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.MILLILITRES
+SKU-718971,Cheddar Cheese Crystal Valley,Fresh Food,Dairy & Eggs,Crystal Valley,g,CategoryEnum.DAIRY,UnitOfMeasureEnum.GRAMS
+SKU-350605,Salted Chips Lays,Grocery Essentials,Snacks & Confectionery,Lays,Pack,CategoryEnum.SNACKS,UnitOfMeasureEnum.PACK
+SKU-765847,Floor Cleaner Omo,Household,Cleaning Supplies,Omo,Pack,CategoryEnum.CLEANING,UnitOfMeasureEnum.PACK
+SKU-508662,Bananas Freshmark,Fresh Food,Produce,Freshmark,g,CategoryEnum.PRODUCE,UnitOfMeasureEnum.GRAMS
+SKU-421687,Beef Stewing Country Fair,Fresh Food,Meat & Poultry,Country Fair,kg,CategoryEnum.MEAT,UnitOfMeasureEnum.KILOGRAMS
+SKU-305972,100% Fruit Juice Liqui Fruit,Beverages,Drinks & Beverages,Liqui Fruit,L,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.LITRES
+SKU-502117,Boerewors Country Fair,Fresh Food,Meat & Poultry,Country Fair,kg,CategoryEnum.MEAT,UnitOfMeasureEnum.KILOGRAMS
+SKU-948446,Sweets Pack Doritos,Grocery Essentials,Snacks & Confectionery,Doritos,Pack,CategoryEnum.SNACKS,UnitOfMeasureEnum.PACK
+SKU-667774,Bleach Domestos,Household,Cleaning Supplies,Domestos,ml,CategoryEnum.CLEANING,UnitOfMeasureEnum.MILLILITRES
+SKU-169436,Washing Powder Sunlight,Household,Cleaning Supplies,Sunlight,ml,CategoryEnum.CLEANING,UnitOfMeasureEnum.MILLILITRES
+SKU-513373,Boerewors Country Fair,Fresh Food,Meat & Poultry,Country Fair,g,CategoryEnum.MEAT,UnitOfMeasureEnum.GRAMS
+SKU-436870,Margarine Clover,Fresh Food,Dairy & Eggs,Clover,ml,CategoryEnum.DAIRY,UnitOfMeasureEnum.MILLILITRES
+SKU-501085,Boerewors Country Fair,Fresh Food,Meat & Poultry,Country Fair,kg,CategoryEnum.MEAT,UnitOfMeasureEnum.KILOGRAMS
+SKU-87104,Beef Stewing Country Fair,Fresh Food,Meat & Poultry,Country Fair,g,CategoryEnum.MEAT,UnitOfMeasureEnum.GRAMS
+SKU-962096,Brown Bread Blue Ribbon,Fresh Food,Bakery,Blue Ribbon,Each,CategoryEnum.BAKERY,UnitOfMeasureEnum.EACH
+SKU-256110,Floor Cleaner Sunlight,Household,Cleaning Supplies,Sunlight,L,CategoryEnum.CLEANING,UnitOfMeasureEnum.LITRES
+SKU-721420,Salted Chips Cadbury,Grocery Essentials,Snacks & Confectionery,Cadbury,Each,CategoryEnum.SNACKS,UnitOfMeasureEnum.EACH
+SKU-735153,Low Fat Milk Nulaid,Fresh Food,Dairy & Eggs,Nulaid,Each,CategoryEnum.DAIRY,UnitOfMeasureEnum.EACH
+SKU-833707,White Bread Sunbake,Fresh Food,Bakery,Sunbake,Each,CategoryEnum.BAKERY,UnitOfMeasureEnum.EACH
+SKU-521265,Brown Bread Albany,Fresh Food,Bakery,Albany,g,CategoryEnum.BAKERY,UnitOfMeasureEnum.GRAMS
+SKU-746051,Orange Squash Coca-Cola,Beverages,Drinks & Beverages,Coca-Cola,Pack,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.PACK
+SKU-878943,Chicken Portions Country Fair,Fresh Food,Meat & Poultry,Country Fair,kg,CategoryEnum.MEAT,UnitOfMeasureEnum.KILOGRAMS
+SKU-675227,Washing Powder Omo,Household,Cleaning Supplies,Omo,L,CategoryEnum.CLEANING,UnitOfMeasureEnum.LITRES
+SKU-831172,Cheddar Cheese Parmalat,Fresh Food,Dairy & Eggs,Parmalat,g,CategoryEnum.DAIRY,UnitOfMeasureEnum.GRAMS
+SKU-7552,100% Fruit Juice Cappy,Beverages,Drinks & Beverages,Cappy,Pack,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.PACK
+SKU-472573,Chocolate Slab NikNaks,Grocery Essentials,Snacks & Confectionery,NikNaks,Pack,CategoryEnum.SNACKS,UnitOfMeasureEnum.PACK
+SKU-448645,Plain Yoghurt Clover,Fresh Food,Dairy & Eggs,Clover,g,CategoryEnum.DAIRY,UnitOfMeasureEnum.GRAMS
+SKU-298622,White Bread Albany,Fresh Food,Bakery,Albany,Pack,CategoryEnum.BAKERY,UnitOfMeasureEnum.PACK
+SKU-878,Flavoured Drink Coca-Cola,Beverages,Drinks & Beverages,Coca-Cola,L,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.LITRES
+SKU-931132,Potatoes Freshmark,Fresh Food,Produce,Freshmark,Each,CategoryEnum.PRODUCE,UnitOfMeasureEnum.EACH
+SKU-865878,Sweets Pack NikNaks,Grocery Essentials,Snacks & Confectionery,NikNaks,Each,CategoryEnum.SNACKS,UnitOfMeasureEnum.EACH
+SKU-923142,Sweets Pack Simba,Grocery Essentials,Snacks & Confectionery,Simba,Pack,CategoryEnum.SNACKS,UnitOfMeasureEnum.PACK
+SKU-843697,Brown Bread Albany,Fresh Food,Bakery,Albany,Pack,CategoryEnum.BAKERY,UnitOfMeasureEnum.PACK
+SKU-122783,Cola Coca-Cola,Beverages,Drinks & Beverages,Coca-Cola,L,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.LITRES
+SKU-643158,Seeded Brown Bread Sunbake,Fresh Food,Bakery,Sunbake,Pack,CategoryEnum.BAKERY,UnitOfMeasureEnum.PACK
+SKU-294107,100% Fruit Juice Coca-Cola,Beverages,Drinks & Beverages,Coca-Cola,ml,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.MILLILITRES
+SKU-248554,Sweets Pack Cadbury,Grocery Essentials,Snacks & Confectionery,Cadbury,Pack,CategoryEnum.SNACKS,UnitOfMeasureEnum.PACK
+SKU-775345,Apples ZZ2,Fresh Food,Produce,ZZ2,g,CategoryEnum.PRODUCE,UnitOfMeasureEnum.GRAMS
+SKU-287036,Beef Stewing Country Fair,Fresh Food,Meat & Poultry,Country Fair,kg,CategoryEnum.MEAT,UnitOfMeasureEnum.KILOGRAMS
+SKU-111056,Pork Chops Rainbow Chicken,Fresh Food,Meat & Poultry,Rainbow Chicken,kg,CategoryEnum.MEAT,UnitOfMeasureEnum.KILOGRAMS
+SKU-956403,Dishwashing Liquid Domestos,Household,Cleaning Supplies,Domestos,Pack,CategoryEnum.CLEANING,UnitOfMeasureEnum.PACK
+SKU-34656,Margarine Parmalat,Fresh Food,Dairy & Eggs,Parmalat,Each,CategoryEnum.DAIRY,UnitOfMeasureEnum.EACH
+SKU-484193,Flavoured Drink Liqui Fruit,Beverages,Drinks & Beverages,Liqui Fruit,L,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.LITRES
+SKU-559894,Onions Freshmark,Fresh Food,Produce,Freshmark,kg,CategoryEnum.PRODUCE,UnitOfMeasureEnum.KILOGRAMS
+SKU-335319,Plain Yoghurt Ladismith,Fresh Food,Dairy & Eggs,Ladismith,Each,CategoryEnum.DAIRY,UnitOfMeasureEnum.EACH
+SKU-350233,Boerewors Country Fair,Fresh Food,Meat & Poultry,Country Fair,g,CategoryEnum.MEAT,UnitOfMeasureEnum.GRAMS
+SKU-22776,Beef Stewing Country Fair,Fresh Food,Meat & Poultry,Country Fair,kg,CategoryEnum.MEAT,UnitOfMeasureEnum.KILOGRAMS
+SKU-43040,Sweets Pack Beacon,Grocery Essentials,Snacks & Confectionery,Beacon,Each,CategoryEnum.SNACKS,UnitOfMeasureEnum.EACH
+SKU-184678,Tomatoes ZZ2,Fresh Food,Produce,ZZ2,g,CategoryEnum.PRODUCE,UnitOfMeasureEnum.GRAMS
+SKU-294554,Chicken Portions Karan Beef,Fresh Food,Meat & Poultry,Karan Beef,kg,CategoryEnum.MEAT,UnitOfMeasureEnum.KILOGRAMS
+SKU-833784,Seeded Brown Bread Sasko,Fresh Food,Bakery,Sasko,g,CategoryEnum.BAKERY,UnitOfMeasureEnum.GRAMS
+SKU-545570,Potato Chips Doritos,Grocery Essentials,Snacks & Confectionery,Doritos,Each,CategoryEnum.SNACKS,UnitOfMeasureEnum.EACH
+SKU-398496,Cheese Snacks NikNaks,Grocery Essentials,Snacks & Confectionery,NikNaks,Each,CategoryEnum.SNACKS,UnitOfMeasureEnum.EACH
+SKU-912298,Plain Yoghurt Ladismith,Fresh Food,Dairy & Eggs,Ladismith,ml,CategoryEnum.DAIRY,UnitOfMeasureEnum.MILLILITRES
+SKU-872787,Low Fat Milk Crystal Valley,Fresh Food,Dairy & Eggs,Crystal Valley,Each,CategoryEnum.DAIRY,UnitOfMeasureEnum.EACH
+SKU-519165,Beef Stewing Karan Beef,Fresh Food,Meat & Poultry,Karan Beef,g,CategoryEnum.MEAT,UnitOfMeasureEnum.GRAMS
+SKU-980961,Brown Bread Blue Ribbon,Fresh Food,Bakery,Blue Ribbon,Each,CategoryEnum.BAKERY,UnitOfMeasureEnum.EACH
+SKU-927321,Pork Chops Country Fair,Fresh Food,Meat & Poultry,Country Fair,kg,CategoryEnum.MEAT,UnitOfMeasureEnum.KILOGRAMS
+SKU-955291,Chicken Portions Country Fair,Fresh Food,Meat & Poultry,Country Fair,kg,CategoryEnum.MEAT,UnitOfMeasureEnum.KILOGRAMS
+SKU-526452,Cola Liqui Fruit,Beverages,Drinks & Beverages,Liqui Fruit,ml,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.MILLILITRES
+SKU-148252,Flavoured Drink Cappy,Beverages,Drinks & Beverages,Cappy,Pack,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.PACK
+SKU-678027,100% Fruit Juice Coca-Cola,Beverages,Drinks & Beverages,Coca-Cola,Pack,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.PACK
+SKU-616804,Potatoes Freshmark,Fresh Food,Produce,Freshmark,Each,CategoryEnum.PRODUCE,UnitOfMeasureEnum.EACH
+SKU-33207,Salted Chips Cadbury,Grocery Essentials,Snacks & Confectionery,Cadbury,Pack,CategoryEnum.SNACKS,UnitOfMeasureEnum.PACK
+SKU-767069,Flavoured Drink Cappy,Beverages,Drinks & Beverages,Cappy,Pack,CategoryEnum.BEVERAGES,UnitOfMeasureEnum.PACK
+SKU-860943,Beef Stewing Country Fair,Fresh Food,Meat & Poultry,Country Fair,g,CategoryEnum.MEAT,UnitOfMeasureEnum.GRAMS
+SKU-116157,Dishwashing Liquid Handy Andy,Household,Cleaning Supplies,Handy Andy,Pack,CategoryEnum.CLEANING,UnitOfMeasureEnum.PACK
