@@ -22,15 +22,25 @@ from utils import (
 
 fake = Faker('zu_ZA')
 #-------Helper functions--------
+_issued_product_codes: set[str] = set()
+_issued_customer_codes: set[str] = set()
 
 def _product_code():
-    return f"SKU-{fake.random_number(digits=6)}"
+    while True:
+        code = f"SKU-{fake.random_number(digits=6, fix_len=True):06d}"
+        if code not in _issued_product_codes:
+            _issued_product_codes.add(code)
+            return code
 
 def _product_name(category: CategoryEnum, brand: str):
     return f"{fake.random_element(PRODUCT_REGISTRY[category]['items'])} {brand}"
 
 def _customer_code():
-    return f"CUST-{fake.random_number(digits=6)}"
+    while True:
+        code = f"CUST-{fake.random_number(digits=6, fix_len=True):06d}"
+        if code not in _issued_customer_codes:
+            _issued_customer_codes.add(code)
+            return code
 
 
 def generate_dim_product(row_count: int) -> list[dict]:
@@ -102,7 +112,7 @@ def generate_dim_gross_price(products: list[dict]) -> list[dict]:
 
     return gross_prices
 
-def generate_fact_orders(row_count: int, customers: list[dict], products: list[dict]) -> list[dict]:
+def generate_fact_orders(row_count: int, customers: list[dict], products: list[dict], gross_prices: list[dict]) -> list[dict]:
     """Generate fact order rows referencing valid product and customer codes."""
     fact_orders: list[dict] = []
     
@@ -113,22 +123,29 @@ def generate_fact_orders(row_count: int, customers: list[dict], products: list[d
     
     if not valid_products or not customers:
         return fact_orders
+        
+    prices_lookup = {
+        (p["product_code"], p["year"]): p["price_zar"]
+        for p in gross_prices
+    }
 
     for _ in range(row_count):
         customer = random.choice(customers)
         product = random.choice(valid_products)
         
-        category = product["category_enum"]
-        uom = product["uom_enum"]
-        min_price, max_price = PRICE_RULES[category][uom]
-        price_zar = round(random.uniform(min_price, max_price), 2)
+        order_date = fake.date_between(start_date=date(FISCAL_YEARS[0], 1, 1), end_date=date(FISCAL_YEARS[-1], 12, 31))
+        order_year = order_date.year
+        
+        unit_price = prices_lookup.get((product["product_code"], order_year), 0.0)
+        sold_quantity = fake.random_int(min=10, max=999)
+        gross_amount = round(unit_price * sold_quantity, 2)
         
         fact_orders.append({
-            "order_date": fake.date_between(start_date=date(FISCAL_YEARS[0], 1, 1), end_date=date(FISCAL_YEARS[-1], 12, 31)),
+            "order_date": order_date,
             "customer_code": customer["customer_code"],
             "product_code": product["product_code"],
-            "sold_quantity": fake.random_int(min=10, max=999),
-            "gross_amount": price_zar
+            "sold_quantity": sold_quantity,
+            "gross_amount": gross_amount
         })
     return fact_orders
 
@@ -147,7 +164,7 @@ if __name__ == "__main__":
     products = generate_dim_product(795)
     customers = generate_dim_customer(250)
     gross_prices = generate_dim_gross_price(products)
-    fact_orders = generate_fact_orders(93065, customers, products)
+    fact_orders = generate_fact_orders(93065, customers, products, gross_prices)
     
     PRODUCT_FIELDS = ["product_code", "product", "division", "category", "brand", "variant"]
     CUSTOMER_FIELDS = ["customer_code", "customer_name", "store_name", "customer_type", "channel", "province", "city"]
