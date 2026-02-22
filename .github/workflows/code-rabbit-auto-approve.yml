@@ -1,0 +1,146 @@
+name: Fully Autonomous PR Handling
+
+on:
+  pull_request:
+    types:
+      - opened
+      - edited
+      - reopened
+      - ready_for_review
+      - synchronize
+
+jobs:
+  auto-pr:
+    runs-on: ubuntu-latest
+    if: github.event.pull_request.head.repo.full_name == github.repository
+    permissions:
+       pull-requests: write
+       contents: read
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Wait 10 minutes
+        run: sleep 600
+      
+
+      - name: Wait for all checks and CodeRabbit comments
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          PR_NUMBER=${{ github.event.pull_request.number }}
+          REPO=${{ github.repository }}
+          HEAD_SHA=${{ github.event.pull_request.head.sha }}
+      
+          echo "Waiting for all checks and CodeRabbit comments on commit $HEAD_SHA..."
+      
+          max_wait=1800  # 30 minutes max wait
+          elapsed=0
+          sleep_interval=30  # seconds between status checks
+      
+          while [ $elapsed -lt $max_wait ]; do
+            # Fetch all check runs for this commit except this workflow
+            check_runs=$(gh api repos/$REPO/commits/$HEAD_SHA/check-runs \
+              --jq '.check_runs[] | select(.name != "auto-pr") | {name: .name, status: .status, conclusion: .conclusion}')
+      
+            # Count pending checks
+            pending_checks=$(echo "$check_runs" | jq '[. | select(.status=="queued" or .status=="in_progress")] | length')
+      
+            # Get CodeRabbit check status
+            coderabbit_status=$(echo "$check_runs" | jq -r '. | select(.name=="CodeRabbit") | .status')
+      
+            if [ -z "$coderabbit_status" ]; then
+              echo "CodeRabbit check not found yet."
+              pending_checks=$((pending_checks+1))
+            elif [ "$coderabbit_status" != "completed" ]; then
+              echo "CodeRabbit check is not completed yet."
+              pending_checks=$((pending_checks+1))
+            fi
+      
+            # Get number of CodeRabbit comments
+            comment_count=0
+            if [ "$coderabbit_status" == "completed" ]; then
+              comment_count=$(gh pr review-comments list $PR_NUMBER --repo $REPO --author CodeRabbit --json id --jq 'length')
+              if [ "$comment_count" -lt 2 ]; then
+                echo "CodeRabbit has only $comment_count comments. Waiting 90s for more..."
+                sleep 90
+                elapsed=$((elapsed+90))
+                continue
+              fi
+            fi
+      
+            total_pending=$((pending_checks))
+      
+            if [ "$total_pending" -eq 0 ]; then
+              echo "All checks completed and CodeRabbit has sufficient comments!"
+              sleep 5  # short buffer before next step
+              break
+            fi
+      
+            echo "Still waiting for checks or CodeRabbit comments..."
+            sleep $sleep_interval
+            elapsed=$((elapsed+sleep_interval))
+          done
+      
+          if [ $elapsed -ge $max_wait ]; then
+            echo "Timeout reached. Some checks or CodeRabbit comments may still be pending."
+            exit 1
+          fi
+      
+      - name: Check all checks passed
+        id: check_status
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          PR_NUMBER=${{ github.event.pull_request.number }}
+          REPO=${{ github.repository }}
+          HEAD_SHA=${{ github.event.pull_request.head.sha }}
+          
+          # Get all check runs excluding this workflow
+          failed=$(gh api repos/$REPO/commits/$HEAD_SHA/check-runs \
+            --jq '[.check_runs[] | select(.name != "auto-pr") | select(.conclusion != "success" and .conclusion != "skipped" and .conclusion != null)] | length')
+          
+          echo "Failed checks: $failed"
+          echo "failed=$failed" >> $GITHUB_OUTPUT
+          
+          if [ "$failed" -gt 0 ]; then
+            echo "Some checks failed. Listing failed checks:"
+            gh api repos/$REPO/commits/$HEAD_SHA/check-runs \
+              --jq '.check_runs[] | select(.name != "auto-pr") | select(.conclusion != "success" and .conclusion != "skipped" and .conclusion != null) | "- \(.name): \(.conclusion)"'
+          fi
+
+      - name: Check unresolved threads
+        id: check_threads
+        if: steps.check_status.outputs.failed == '0'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          PR_NUMBER=${{ github.event.pull_request.number }}
+          REPO=${{ github.repository }}
+
+          # Use the GraphQL API to get unresolved review threads
+          unresolved=$(gh api graphql -f query='
+            query($owner: String!, $repo: String!, $number: Int!) {
+              repository(owner: $owner, name: $repo) {
+                pullRequest(number: $number) {
+                  reviewThreads(first: 100) {
+                    nodes {
+                      isResolved
+                    }
+                  }
+                }
+              }
+            }' -f owner="${REPO%/*}" -f repo="${REPO#*/}" -F number=$PR_NUMBER \
+            --jq '.data.repository.pullRequest.reviewThreads.nodes | map(select(.isResolved == false)) | length')
+
+          echo "Unresolved threads: $unresolved"
+          echo "unresolved=$unresolved" >> $GITHUB_OUTPUT
+
+      - name: Approve PR
+        if: success() && steps.check_status.outputs.failed == '0' && steps.check_threads.outputs.unresolved == '0'
+        env:
+          GH_TOKEN: ${{ secrets.CODE_RABBIT_TOKEN }}
+        run: |
+          PR_NUMBER=${{ github.event.pull_request.number }}
+          gh pr review $PR_NUMBER --approve --body "All checks passed and conversations resolved ✅" --repo ${{ github.repository }}
