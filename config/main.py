@@ -63,11 +63,18 @@ def current_load_timestamp():
     return datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
 def _generate_unique_code(prefix: str, issued_codes: set) -> str:
+
+    MAX_ATTEMPTS = 10_000
+    attempts = 0
+
     while True:
         code = f"{prefix}-{fake.random_number(digits=6, fix_len=True):06d}"
         if code not in issued_codes:
             issued_codes.add(code)
             return code
+        attempts += 1
+        if attempts >= MAX_ATTEMPTS:
+            raise RuntimeError(f"Exhausted unique code space for prefix '{prefix}'")
 
 def _product_code():
     return _generate_unique_code("SKU", _issued_product_codes)
@@ -82,7 +89,7 @@ def _generate_order_dates(row_count: int, chunk_size: int) -> list:
     """Generate a randomized list of dates grouped into chunks."""
     dates = []
     remaining = row_count
-    
+   
     while remaining > 0:
         current_chunk = chunk_size or random.randint(3, 10)
         
@@ -249,10 +256,17 @@ def generate_orders(row_count: int, customers: list[dict], products: list[dict],
         discount_amount = round(gross_sales_amount * 0.03, 2)
         net_sales_amount = round(gross_sales_amount - discount_amount, 2)
 
+        order_hour = random.randint(0, 23)
+        order_minute = random.randint(0, 59)
+        order_second = random.randint(0, 59)
+        order_dt = datetime.combine(order_date, datetime.min.time()).replace(
+            hour=order_hour, minute=order_minute, second=order_second
+        )
+
         orders.append({
             "order_id": _order_id(),
             "order_date": order_date,
-            "order_timestamp": order_date,
+            "order_timestamp": order_dt.strftime("%Y-%m-%d %H:%M:%S"),
             "customer_code": customer["customer_code"],
             "product_sku": product["product_sku"],
             "store_code": customer["store_code"],
