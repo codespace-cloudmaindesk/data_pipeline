@@ -22,6 +22,29 @@ from constants import (
     ChildCompanyEnum,
 )
 
+def inject_data_issues(data: list[dict], nullable_fields: list[str], duplicate_prob: float = 0.02, null_prob: float = 0.03) -> list[dict]:
+    """Injects realistic data issues like nulls and duplicates into the dataset."""
+    result = []
+    
+    for row in data:
+        # 1. Null Injection
+        if random.random() < null_prob and nullable_fields:
+            field_to_null = random.choice(nullable_fields)
+            row[field_to_null] = None
+        
+        result.append(row)
+        
+        # 2. Duplicate Injection
+        if random.random() < duplicate_prob:
+            # Create a shallow copy and potentially alter batch_id or timestamp to simulate a re-run or replay
+            duplicate_row = row.copy()
+            if random.random() < 0.5:
+                # 50% chance the duplicate arrived in a different batch/time
+                duplicate_row["load_timestamp"] = current_load_timestamp()
+            result.append(duplicate_row)
+            
+    return result
+
 
 
 load_dotenv(find_dotenv())
@@ -197,6 +220,23 @@ def generate_orders(row_count: int, customers: list[dict], products: list[dict],
         gross_price = random.choice(gross_prices)
         order_date = order_dates[i]
         
+        # Late Arrival Injection: ~2% of orders have their load_timestamp delayed
+        order_load_timestamp = load_timestamp
+        if random.random() < 0.02:
+            # Delay the load timestamp by 1 to 5 days after the order date
+            # Assuming current time is date of the run, this simulates late arriving data
+            try:
+                if isinstance(order_date, date):
+                    dt = datetime.combine(order_date, datetime.min.time())
+                else:
+                    dt = order_date
+                    
+                delay_days = random.randint(1, 5)
+                late_dt = dt + timedelta(days=delay_days)
+                order_load_timestamp = late_dt.strftime("%Y-%m-%d %H:%M:%S")
+            except Exception:
+                pass
+
         orders.append({
             "order_id": _order_id(),
             "order_date": order_date,
@@ -215,7 +255,7 @@ def generate_orders(row_count: int, customers: list[dict], products: list[dict],
             "valid_from": gross_price["valid_from"],
             "valid_to": gross_price["valid_to"],
             "source_system":random.choice([SourceSystemEnum.POS,SourceSystemEnum.ONLINE]).value,
-            "load_timestamp": load_timestamp,
+            "load_timestamp": order_load_timestamp,
             "batch_id": batch_id,
         })
 
@@ -257,6 +297,13 @@ def main():
     print(f"Generating {N_ORDERS} orders...")
     gross_prices = generate_gross_price(products)
     orders = generate_orders(N_ORDERS, customers, products, gross_prices, CHUNK_SIZE)
+    
+    # Inject Data Issues
+    print("Injecting data issues...")
+    products = inject_data_issues(products, nullable_fields=["brand", "division", "standard_cost", "pack_size"])
+    customers = inject_data_issues(customers, nullable_fields=["city", "province", "channel", "store_name"])
+    gross_prices = inject_data_issues(gross_prices, nullable_fields=["currency", "price_type"])
+    orders = inject_data_issues(orders, nullable_fields=["discount_amount", "payment_method", "quantity", "channel"])
     
     PRODUCT_FIELDS = ["product_sku", "product_name", "brand", "division", "category", "pack_size", "variant","standard_cost", "supplier_name", "source_system", "load_timestamp", "batch_id"]
     CUSTOMER_FIELDS = ["customer_code", "customer_name", "customer_type", "channel", "store_code","store_name", "city", "province", "source_system", "load_timestamp", "batch_id"]

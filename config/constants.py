@@ -130,7 +130,7 @@ class PriceTypeEnum(Enum):
 class SourceSystemEnum(Enum):
     SAP_ERP = "SAP_ERP"
     POS = "POS"
-    PRICING_ENGINE = "PricingEngine"
+    PRICING_ENGINE = "Shoprite X"
     CRM = "CRM"
     LOYALTY = "LoyaltySystem"
     ONLINE = "OnlinePlatform"
