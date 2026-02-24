@@ -1,0 +1,1201 @@
+product_sku,product_name,brand,division,category,pack_size,variant,standard_cost,supplier_name,source_system,load_timestamp,batch_id
+SKU-639988,Nature's Choice Bananas,Nature's Choice,Fresh Food,Produce,1,,21.87,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-637110,Sasko Premium White Bread,Sasko,Fresh Food,Bakery,1,,19.37,Pioneer Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-600602,Freshmark Apples,Freshmark,Fresh Food,Produce,1.5,,28.03,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-991579,Albany Hot Dog Rolls,Albany,Fresh Food,Bakery,6,,18.21,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-810651,Championship Boerewors Thick Boerewors,Championship Boerewors,Fresh Food,Meat & Poultry,1,,102.14,Shoprite Private Label,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-251421,Lays Lightly Salted Chips,Lays,Grocery Essentials,Snacks & Confectionery,120,,19.29,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-280980,Albany White Bread,Albany,Fresh Food,Bakery,1,,17.09,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-899694,Coca-Cola Coca-Cola No Sugar,Coca-Cola,Beverages,Drinks & Beverages,2,,22.53,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-406902,Liqui Fruit 100% Fruit Juice,Liqui Fruit,Beverages,Drinks & Beverages,1,,24.07,Pioneer Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-509801,Farmbest Pork Chops,Farmbest,Fresh Food,Meat & Poultry,1,,81.29,Farmbest,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-396906,Clover Full Cream Milk,Clover,Fresh Food,Dairy & Eggs,2,,36.41,Clover SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-301343,Rainbow Chicken Chicken Mixed Portions (IQF),Rainbow Chicken,Fresh Food,Meat & Poultry,2,,90.38,RCL Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-838796,Ladismith Cheddar Cheese,Ladismith,Fresh Food,Dairy & Eggs,400,,53.94,Woodlands Dairy,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-579369,Steakhouse Classic Beef T-Bone Steak,Steakhouse Classic,Fresh Food,Meat & Poultry,1,,138.38,Shoprite House Brand,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-698670,Sunbake Brown Bread,Sunbake,Fresh Food,Bakery,1,,15.2,RCL Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-317440,Country Fair Chicken Braaipack,Country Fair,Fresh Food,Meat & Poultry,1.5,,94.67,Astral Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-355493,Albany Brown Bread,Albany,Fresh Food,Bakery,1,,13.86,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-307013,Albany Hot Dog Rolls,Albany,Fresh Food,Bakery,6,,18.1,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-650976,Freshmark Apples,Freshmark,Fresh Food,Produce,1.5,,22.02,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-388899,Domestos Thick Bleach,Domestos,Household,Cleaning Supplies,750,,36.57,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-670003,Oros Orange Squash,Oros,Beverages,Drinks & Beverages,2,,40.27,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-871431,Cappy Orange Juice Blend,Cappy,Beverages,Drinks & Beverages,1.5,,27.23,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-793341,Nulaid Large Eggs,Nulaid,Fresh Food,Dairy & Eggs,18,,49.2,Quantum Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-591308,Omo Auto Washing Powder,Omo,Household,Cleaning Supplies,2,,95.74,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-883758,Liqui Fruit 100% Fruit Juice,Liqui Fruit,Beverages,Drinks & Beverages,1,,25.04,Pioneer Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-294010,Country Fair Chicken Braaipack,Country Fair,Fresh Food,Meat & Poultry,1.5,,91.82,Astral Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-415048,Cadbury Dairy Milk Chocolate Slab,Cadbury,Grocery Essentials,Snacks & Confectionery,150,,27.88,Mondelez,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-519146,Blue Ribbon White Bread,Blue Ribbon,Fresh Food,Bakery,1,,17.54,Premier FMCG,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-800948,Ladismith Cheddar Cheese,Ladismith,Fresh Food,Dairy & Eggs,400,,55.79,Woodlands Dairy,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-495626,Rainbow Chicken Chicken Mixed Portions (IQF),Rainbow Chicken,Fresh Food,Meat & Poultry,2,,103.07,RCL Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-143306,Albany Brown Bread,Albany,Fresh Food,Bakery,1,,15.77,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-697419,Simba Smoked Beef Chips,Simba,Grocery Essentials,Snacks & Confectionery,120,,18.01,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-497265,Domestos Thick Bleach,Domestos,Household,Cleaning Supplies,750,,37.1,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-957566,Sasko Premium White Bread,Sasko,Fresh Food,Bakery,1,,16.87,Pioneer Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-408976,Lays Lightly Salted Chips,Lays,Grocery Essentials,Snacks & Confectionery,120,,21.03,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-600158,Nulaid Extra Large Eggs,Nulaid,Fresh Food,Dairy & Eggs,30,,82.32,Quantum Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-927296,Domestos Thick Bleach,Domestos,Household,Cleaning Supplies,750,,32.05,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-196641,Freshmark Apples,Freshmark,Fresh Food,Produce,1.5,,28.57,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-689213,NikNaks Cheese Snacks,NikNaks,Grocery Essentials,Snacks & Confectionery,135,,16.11,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-777394,Farmbest Pork Chops,Farmbest,Fresh Food,Meat & Poultry,1,,87.14,Farmbest,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-434324,Championship Boerewors Thick Boerewors,Championship Boerewors,Fresh Food,Meat & Poultry,1,,102.0,Shoprite Private Label,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-561612,ZZ2 Tomatoes,ZZ2,Fresh Food,Produce,1,,20.82,ZZ2,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-723119,Championship Boerewors Thick Boerewors,Championship Boerewors,Fresh Food,Meat & Poultry,1,,90.9,Shoprite Private Label,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-923394,Farmbest Pork Chops,Farmbest,Fresh Food,Meat & Poultry,1,,88.5,Farmbest,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-674774,Simba Cheese & Onion Chips,Simba,Grocery Essentials,Snacks & Confectionery,120,,19.91,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-889001,Sunlight Dishwashing Liquid,Sunlight,Household,Cleaning Supplies,750,,29.56,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-656695,Albany Brown Bread,Albany,Fresh Food,Bakery,1,,13.02,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-407406,Sasko Premium White Bread,Sasko,Fresh Food,Bakery,1,,15.77,Pioneer Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-280581,Omo Auto Washing Powder,Omo,Household,Cleaning Supplies,2,,97.74,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-651172,Omo Auto Washing Powder,Omo,Household,Cleaning Supplies,2,,104.94,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-697655,Ladismith Cheddar Cheese,Ladismith,Fresh Food,Dairy & Eggs,400,,50.31,Woodlands Dairy,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-671256,Liqui Fruit 100% Fruit Juice,Liqui Fruit,Beverages,Drinks & Beverages,1,,22.46,Pioneer Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-785335,Parmalat Cheddar Cheese,Parmalat,Fresh Food,Dairy & Eggs,400,,51.5,Parmalat,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-399123,Steakhouse Classic Beef T-Bone Steak,Steakhouse Classic,Fresh Food,Meat & Poultry,1,,118.78,Shoprite House Brand,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-301515,Sunbake Brown Bread,Sunbake,Fresh Food,Bakery,1,,16.71,RCL Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-324883,Championship Boerewors Thick Boerewors,Championship Boerewors,Fresh Food,Meat & Poultry,1,,102.35,Shoprite Private Label,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-407293,ZZ2 Tomatoes,ZZ2,Fresh Food,Produce,1,,23.0,ZZ2,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-597148,Farmbest Pork Chops,Farmbest,Fresh Food,Meat & Poultry,1,,87.33,Farmbest,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-936003,Freshmark Potatoes,Freshmark,Fresh Food,Produce,2,,32.96,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-464061,Freshmark Potatoes,Freshmark,Fresh Food,Produce,2,,39.45,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-568114,Freshmark Potatoes,Freshmark,Fresh Food,Produce,2,,37.42,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-615593,Ladismith Cheddar Cheese,Ladismith,Fresh Food,Dairy & Eggs,400,,50.91,Woodlands Dairy,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-482015,Crystal Valley Plain Yoghurt,Crystal Valley,Fresh Food,Dairy & Eggs,1,,34.84,Lancewood,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-354137,Handy Andy Ammonia Floor Cleaner,Handy Andy,Household,Cleaning Supplies,750,,30.06,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-368675,Simba Cheese & Onion Chips,Simba,Grocery Essentials,Snacks & Confectionery,120,,16.9,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-666314,Albany Hot Dog Rolls,Albany,Fresh Food,Bakery,6,,19.51,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-254962,Oros Orange Squash,Oros,Beverages,Drinks & Beverages,2,,38.74,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-642727,Country Fair Chicken Braaipack,Country Fair,Fresh Food,Meat & Poultry,1.5,,92.13,Astral Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-725612,Albany White Bread,Albany,Fresh Food,Bakery,1,,16.75,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-962482,Handy Andy Ammonia Floor Cleaner,Handy Andy,Household,Cleaning Supplies,750,,31.16,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-532438,Oros Orange Squash,Oros,Beverages,Drinks & Beverages,2,,39.84,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-783912,Crystal Valley Plain Yoghurt,Crystal Valley,Fresh Food,Dairy & Eggs,1,,28.93,Lancewood,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-621798,Freshmark Potatoes,Freshmark,Fresh Food,Produce,2,,33.94,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-583238,Championship Boerewors Thick Boerewors,Championship Boerewors,Fresh Food,Meat & Poultry,1,,88.13,Shoprite Private Label,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-660494,Championship Boerewors Thick Boerewors,Championship Boerewors,Fresh Food,Meat & Poultry,1,,97.54,Shoprite Private Label,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-172467,Freshmark Apples,Freshmark,Fresh Food,Produce,1.5,,24.39,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-330340,Simba Smoked Beef Chips,Simba,Grocery Essentials,Snacks & Confectionery,120,,19.83,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-217945,Freshmark Onions,Freshmark,Fresh Food,Produce,1,,20.35,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-412091,Freshmark Potatoes,Freshmark,Fresh Food,Produce,2,,30.29,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-286668,Lays Lightly Salted Chips,Lays,Grocery Essentials,Snacks & Confectionery,120,,18.2,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-578889,Championship Boerewors Thick Boerewors,Championship Boerewors,Fresh Food,Meat & Poultry,1,,90.22,Shoprite Private Label,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-628327,Cadbury Dairy Milk Chocolate Slab,Cadbury,Grocery Essentials,Snacks & Confectionery,150,,29.21,Mondelez,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-283422,Freshmark Apples,Freshmark,Fresh Food,Produce,1.5,,29.51,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-809893,Sunlight Dishwashing Liquid,Sunlight,Household,Cleaning Supplies,750,,30.26,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-573160,Domestos Thick Bleach,Domestos,Household,Cleaning Supplies,750,,35.34,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-289466,Danone NutriDay Plain Yoghurt,Danone,Fresh Food,Dairy & Eggs,1,,37.13,Danone,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-917961,Albany Hot Dog Rolls,Albany,Fresh Food,Bakery,6,,19.12,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-346125,Albany Brown Bread,Albany,Fresh Food,Bakery,1,,14.07,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-183011,Doritos Sweet Chilli Pepper Chips,Doritos,Grocery Essentials,Snacks & Confectionery,145,,22.25,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-595054,Sasko Premium White Bread,Sasko,Fresh Food,Bakery,1,,16.99,Pioneer Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-365992,Albany White Bread,Albany,Fresh Food,Bakery,1,,14.6,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-677422,Freshmark Onions,Freshmark,Fresh Food,Produce,1,,17.39,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-845138,Ladismith Cheddar Cheese,Ladismith,Fresh Food,Dairy & Eggs,400,,51.42,Woodlands Dairy,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-672085,Doritos Sweet Chilli Pepper Chips,Doritos,Grocery Essentials,Snacks & Confectionery,145,,21.44,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-300310,Omo Auto Washing Powder,Omo,Household,Cleaning Supplies,2,,104.19,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-908106,Liqui Fruit 100% Fruit Juice,Liqui Fruit,Beverages,Drinks & Beverages,1,,23.31,Pioneer Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-306321,Freshmark Apples,Freshmark,Fresh Food,Produce,1.5,,24.25,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-823303,Parmalat Cheddar Cheese,Parmalat,Fresh Food,Dairy & Eggs,400,,58.14,Parmalat,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-470578,Albany Brown Bread,Albany,Fresh Food,Bakery,1,,15.53,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-154440,Freshmark Onions,Freshmark,Fresh Food,Produce,1,,18.04,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-953885,Omo Auto Washing Powder,Omo,Household,Cleaning Supplies,2,,99.75,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-539802,Danone NutriDay Plain Yoghurt,Danone,Fresh Food,Dairy & Eggs,1,,35.8,Danone,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-224282,Danone NutriDay Plain Yoghurt,Danone,Fresh Food,Dairy & Eggs,1,,33.92,Danone,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-114190,Cappy Orange Juice Blend,Cappy,Beverages,Drinks & Beverages,1.5,,30.79,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-810646,Domestos Thick Bleach,Domestos,Household,Cleaning Supplies,750,,34.78,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-796603,Domestos Thick Bleach,Domestos,Household,Cleaning Supplies,750,,32.36,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-476597,Championship Boerewors Thick Boerewors,Championship Boerewors,Fresh Food,Meat & Poultry,1,,104.57,Shoprite Private Label,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-124596,Farmbest Pork Chops,Farmbest,Fresh Food,Meat & Poultry,1,,96.64,Farmbest,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-661789,Country Fair Chicken Braaipack,Country Fair,Fresh Food,Meat & Poultry,1.5,,85.72,Astral Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-343986,Omo Auto Washing Powder,Omo,Household,Cleaning Supplies,2,,95.01,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-693523,Coca-Cola Coca-Cola No Sugar,Coca-Cola,Beverages,Drinks & Beverages,2,,21.74,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-331302,Lays Lightly Salted Chips,Lays,Grocery Essentials,Snacks & Confectionery,120,,20.07,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-628239,Ladismith Cheddar Cheese,Ladismith,Fresh Food,Dairy & Eggs,400,,52.31,Woodlands Dairy,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-726779,Lays Lightly Salted Chips,Lays,Grocery Essentials,Snacks & Confectionery,120,,19.54,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-275845,Albany White Bread,Albany,Fresh Food,Bakery,1,,17.43,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-853489,Simba Cheese & Onion Chips,Simba,Grocery Essentials,Snacks & Confectionery,120,,17.28,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-202319,Parmalat Cheddar Cheese,Parmalat,Fresh Food,Dairy & Eggs,400,,51.65,Parmalat,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-751918,Nulaid Large Eggs,Nulaid,Fresh Food,Dairy & Eggs,18,,48.93,Quantum Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-908499,Simba Smoked Beef Chips,Simba,Grocery Essentials,Snacks & Confectionery,120,,17.22,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-657524,Danone NutriDay Plain Yoghurt,Danone,Fresh Food,Dairy & Eggs,1,,34.35,Danone,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-551943,Simba Cheese & Onion Chips,Simba,Grocery Essentials,Snacks & Confectionery,120,,18.51,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-720428,Albany Hot Dog Rolls,Albany,Fresh Food,Bakery,6,,22.95,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-411978,Coca-Cola Coca-Cola No Sugar,Coca-Cola,Beverages,Drinks & Beverages,2,,21.05,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-423267,Clover Low Fat Milk,Clover,Fresh Food,Dairy & Eggs,2,,37.75,Clover SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-883080,ZZ2 Tomatoes,ZZ2,Fresh Food,Produce,1,,24.12,ZZ2,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-458048,Cappy Orange Juice Blend,Cappy,Beverages,Drinks & Beverages,1.5,,31.78,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-228172,Crystal Valley Plain Yoghurt,Crystal Valley,Fresh Food,Dairy & Eggs,1,,35.95,Lancewood,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-429176,Coca-Cola Coca-Cola No Sugar,Coca-Cola,Beverages,Drinks & Beverages,2,,21.26,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-976068,Sasko Premium White Bread,Sasko,Fresh Food,Bakery,1,,17.42,Pioneer Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-266687,Simba Cheese & Onion Chips,Simba,Grocery Essentials,Snacks & Confectionery,120,,16.95,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-295021,Crystal Valley Plain Yoghurt,Crystal Valley,Fresh Food,Dairy & Eggs,1,,35.02,Lancewood,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-132638,Albany White Bread,Albany,Fresh Food,Bakery,1,,16.96,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-459073,Beacon Sweets Pack,Beacon,Grocery Essentials,Snacks & Confectionery,100,,17.68,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-663917,Nulaid Extra Large Eggs,Nulaid,Fresh Food,Dairy & Eggs,30,,77.15,Quantum Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-807441,Nature's Choice Bananas,Nature's Choice,Fresh Food,Produce,1,,23.6,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-148461,Sasko Premium White Bread,Sasko,Fresh Food,Bakery,1,,18.26,Pioneer Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-480742,Ladismith Cheddar Cheese,Ladismith,Fresh Food,Dairy & Eggs,400,,56.22,Woodlands Dairy,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-674000,Cadbury Dairy Milk Chocolate Slab,Cadbury,Grocery Essentials,Snacks & Confectionery,150,,30.33,Mondelez,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-498781,Lays Lightly Salted Chips,Lays,Grocery Essentials,Snacks & Confectionery,120,,21.92,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-630803,Simba Cheese & Onion Chips,Simba,Grocery Essentials,Snacks & Confectionery,120,,18.22,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-144689,Nulaid Large Eggs,Nulaid,Fresh Food,Dairy & Eggs,18,,50.78,Quantum Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-405670,Parmalat Cheddar Cheese,Parmalat,Fresh Food,Dairy & Eggs,400,,53.94,Parmalat,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-406499,Coca-Cola Coca-Cola No Sugar,Coca-Cola,Beverages,Drinks & Beverages,2,,21.65,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-967516,Freshmark Apples,Freshmark,Fresh Food,Produce,1.5,,28.04,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-223473,Nature's Choice Bananas,Nature's Choice,Fresh Food,Produce,1,,21.14,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-103536,Rainbow Chicken Fresh Whole Chicken,Rainbow Chicken,Fresh Food,Meat & Poultry,1.5,,72.21,RCL Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-429874,Cappy Orange Juice Blend,Cappy,Beverages,Drinks & Beverages,1.5,,29.76,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-774225,Doritos Sweet Chilli Pepper Chips,Doritos,Grocery Essentials,Snacks & Confectionery,145,,18.26,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-290362,Albany Hot Dog Rolls,Albany,Fresh Food,Bakery,6,,19.09,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-403210,Cappy Orange Juice Blend,Cappy,Beverages,Drinks & Beverages,1.5,,30.94,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-176525,Albany White Bread,Albany,Fresh Food,Bakery,1,,17.39,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-988900,Doritos Sweet Chilli Pepper Chips,Doritos,Grocery Essentials,Snacks & Confectionery,145,,22.62,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-901777,Rainbow Chicken Chicken Mixed Portions (IQF),Rainbow Chicken,Fresh Food,Meat & Poultry,2,,98.37,RCL Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-551342,Danone NutriDay Plain Yoghurt,Danone,Fresh Food,Dairy & Eggs,1,,34.45,Danone,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-638335,NikNaks Cheese Snacks,NikNaks,Grocery Essentials,Snacks & Confectionery,135,,14.04,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-940621,Liqui Fruit 100% Fruit Juice,Liqui Fruit,Beverages,Drinks & Beverages,1,,26.03,Pioneer Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-541970,Nulaid Large Eggs,Nulaid,Fresh Food,Dairy & Eggs,18,,45.25,Quantum Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-936764,Simba Cheese & Onion Chips,Simba,Grocery Essentials,Snacks & Confectionery,120,,16.95,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-430614,Sunbake Brown Bread,Sunbake,Fresh Food,Bakery,1,,16.58,RCL Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-561218,Sasko Premium White Bread,Sasko,Fresh Food,Bakery,1,,16.15,Pioneer Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-131353,Clover Low Fat Milk,Clover,Fresh Food,Dairy & Eggs,2,,33.74,Clover SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-737498,Sasko Premium White Bread,Sasko,Fresh Food,Bakery,1,,19.37,Pioneer Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-722788,Cappy Orange Juice Blend,Cappy,Beverages,Drinks & Beverages,1.5,,28.75,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-664258,Cadbury Dairy Milk Chocolate Slab,Cadbury,Grocery Essentials,Snacks & Confectionery,150,,27.97,Mondelez,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-900607,Coca-Cola Coca-Cola No Sugar,Coca-Cola,Beverages,Drinks & Beverages,2,,21.74,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-481778,Danone NutriDay Plain Yoghurt,Danone,Fresh Food,Dairy & Eggs,1,,35.99,Danone,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-764991,ZZ2 Tomatoes,ZZ2,Fresh Food,Produce,1,,27.77,ZZ2,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-107631,Doritos Sweet Chilli Pepper Chips,Doritos,Grocery Essentials,Snacks & Confectionery,145,,20.22,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-444127,Lays Lightly Salted Chips,Lays,Grocery Essentials,Snacks & Confectionery,120,,18.26,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-257839,Domestos Thick Bleach,Domestos,Household,Cleaning Supplies,750,,33.27,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-441260,Doritos Sweet Chilli Pepper Chips,Doritos,Grocery Essentials,Snacks & Confectionery,145,,19.42,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-193058,Cadbury Dairy Milk Chocolate Slab,Cadbury,Grocery Essentials,Snacks & Confectionery,150,,28.25,Mondelez,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-284092,Blue Ribbon White Bread,Blue Ribbon,Fresh Food,Bakery,1,,15.35,Premier FMCG,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-984967,Steakhouse Classic Beef T-Bone Steak,Steakhouse Classic,Fresh Food,Meat & Poultry,1,,113.21,Shoprite House Brand,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-987161,Nulaid Large Eggs,Nulaid,Fresh Food,Dairy & Eggs,18,,51.9,Quantum Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-912568,Omo Auto Washing Powder,Omo,Household,Cleaning Supplies,2,,88.47,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-124983,Nature's Choice Bananas,Nature's Choice,Fresh Food,Produce,1,,20.92,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-455807,Clover Full Cream Milk,Clover,Fresh Food,Dairy & Eggs,2,,36.08,Clover SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-434783,Steakhouse Classic Beef T-Bone Steak,Steakhouse Classic,Fresh Food,Meat & Poultry,1,,128.76,Shoprite House Brand,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-808545,Albany Brown Bread,Albany,Fresh Food,Bakery,1,,13.49,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-407565,Nature's Choice Bananas,Nature's Choice,Fresh Food,Produce,1,,21.16,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-854601,Liqui Fruit 100% Fruit Juice,Liqui Fruit,Beverages,Drinks & Beverages,1,,22.14,Pioneer Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-742310,Albany Hot Dog Rolls,Albany,Fresh Food,Bakery,6,,22.53,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-904587,Domestos Thick Bleach,Domestos,Household,Cleaning Supplies,750,,37.65,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-653055,Simba Cheese & Onion Chips,Simba,Grocery Essentials,Snacks & Confectionery,120,,16.94,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-287078,Freshmark Potatoes,Freshmark,Fresh Food,Produce,2,,35.66,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-455511,ZZ2 Tomatoes,ZZ2,Fresh Food,Produce,1,,26.6,ZZ2,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-694679,Albany White Bread,Albany,Fresh Food,Bakery,1,,15.24,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-956836,Nature's Choice Bananas,Nature's Choice,Fresh Food,Produce,1,,24.32,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-632944,Liqui Fruit 100% Fruit Juice,Liqui Fruit,Beverages,Drinks & Beverages,1,,23.09,Pioneer Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-402132,Sunlight Dishwashing Liquid,Sunlight,Household,Cleaning Supplies,750,,31.47,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-568550,Beacon Sweets Pack,Beacon,Grocery Essentials,Snacks & Confectionery,100,,18.23,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-142139,Albany Hot Dog Rolls,Albany,Fresh Food,Bakery,6,,18.33,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-617899,Country Fair Chicken Braaipack,Country Fair,Fresh Food,Meat & Poultry,1.5,,75.34,Astral Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-178065,Crystal Valley Plain Yoghurt,Crystal Valley,Fresh Food,Dairy & Eggs,1,,32.37,Lancewood,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-758155,Beacon Sweets Pack,Beacon,Grocery Essentials,Snacks & Confectionery,100,,18.71,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-458154,Cadbury Dairy Milk Chocolate Slab,Cadbury,Grocery Essentials,Snacks & Confectionery,150,,27.24,Mondelez,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-900047,Coca-Cola Coca-Cola Original,Coca-Cola,Beverages,Drinks & Beverages,2,,22.78,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-373200,Cappy Orange Juice Blend,Cappy,Beverages,Drinks & Beverages,1.5,,25.16,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-528390,Crystal Valley Plain Yoghurt,Crystal Valley,Fresh Food,Dairy & Eggs,1,,28.17,Lancewood,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-695498,Nulaid Large Eggs,Nulaid,Fresh Food,Dairy & Eggs,18,,46.3,Quantum Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-671749,Country Fair Chicken Braaipack,Country Fair,Fresh Food,Meat & Poultry,1.5,,92.74,Astral Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-244229,Rainbow Chicken Fresh Whole Chicken,Rainbow Chicken,Fresh Food,Meat & Poultry,1.5,,86.42,RCL Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-392970,Liqui Fruit 100% Fruit Juice,Liqui Fruit,Beverages,Drinks & Beverages,1,,22.11,Pioneer Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-329584,Freshmark Onions,Freshmark,Fresh Food,Produce,1,,18.37,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-194499,Albany White Bread,Albany,Fresh Food,Bakery,1,,17.91,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-772072,Ladismith Cheddar Cheese,Ladismith,Fresh Food,Dairy & Eggs,400,,56.76,Woodlands Dairy,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-512089,Simba Smoked Beef Chips,Simba,Grocery Essentials,Snacks & Confectionery,120,,18.16,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-656704,Nulaid Large Eggs,Nulaid,Fresh Food,Dairy & Eggs,18,,45.01,Quantum Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-768279,Nature's Choice Bananas,Nature's Choice,Fresh Food,Produce,1,,19.61,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-192278,Handy Andy Ammonia Floor Cleaner,Handy Andy,Household,Cleaning Supplies,750,,31.49,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-771344,Blue Ribbon White Bread,Blue Ribbon,Fresh Food,Bakery,1,,17.65,Premier FMCG,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-512443,Country Fair Chicken Braaipack,Country Fair,Fresh Food,Meat & Poultry,1.5,,90.95,Astral Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-954476,Liqui Fruit 100% Fruit Juice,Liqui Fruit,Beverages,Drinks & Beverages,1,,25.45,Pioneer Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-777563,NikNaks Cheese Snacks,NikNaks,Grocery Essentials,Snacks & Confectionery,135,,16.4,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-480953,Lays Lightly Salted Chips,Lays,Grocery Essentials,Snacks & Confectionery,120,,21.22,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-542877,Albany Brown Bread,Albany,Fresh Food,Bakery,1,,13.15,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-260383,Sasko Premium White Bread,Sasko,Fresh Food,Bakery,1,,16.75,Pioneer Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-564116,Domestos Thick Bleach,Domestos,Household,Cleaning Supplies,750,,32.88,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-300025,Doritos Sweet Chilli Pepper Chips,Doritos,Grocery Essentials,Snacks & Confectionery,145,,21.55,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-264522,Nulaid Large Eggs,Nulaid,Fresh Food,Dairy & Eggs,18,,50.05,Quantum Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-209132,Lays Lightly Salted Chips,Lays,Grocery Essentials,Snacks & Confectionery,120,,21.67,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-260413,Handy Andy Ammonia Floor Cleaner,Handy Andy,Household,Cleaning Supplies,750,,31.82,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-692502,Sunbake Brown Bread,Sunbake,Fresh Food,Bakery,1,,15.88,RCL Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-727438,Simba Cheese & Onion Chips,Simba,Grocery Essentials,Snacks & Confectionery,120,,19.75,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-800436,Championship Boerewors Thick Boerewors,Championship Boerewors,Fresh Food,Meat & Poultry,1,,88.59,Shoprite Private Label,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-505261,Cadbury Dairy Milk Chocolate Slab,Cadbury,Grocery Essentials,Snacks & Confectionery,150,,29.56,Mondelez,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-186337,Coca-Cola Coca-Cola No Sugar,Coca-Cola,Beverages,Drinks & Beverages,2,,21.13,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-639555,Clover Low Fat Milk,Clover,Fresh Food,Dairy & Eggs,2,,35.87,Clover SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-354814,Albany White Bread,Albany,Fresh Food,Bakery,1,,16.72,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-512932,NikNaks Cheese Snacks,NikNaks,Grocery Essentials,Snacks & Confectionery,135,,17.05,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-572960,Parmalat Cheddar Cheese,Parmalat,Fresh Food,Dairy & Eggs,400,,52.25,Parmalat,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-558792,Farmbest Pork Chops,Farmbest,Fresh Food,Meat & Poultry,1,,81.05,Farmbest,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-817739,Coca-Cola Coca-Cola Original,Coca-Cola,Beverages,Drinks & Beverages,2,,21.2,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-633716,Nature's Choice Bananas,Nature's Choice,Fresh Food,Produce,1,,22.48,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-489558,Freshmark Apples,Freshmark,Fresh Food,Produce,1.5,,22.75,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-349064,Country Fair Chicken Braaipack,Country Fair,Fresh Food,Meat & Poultry,1.5,,85.31,Astral Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-415622,Nulaid Extra Large Eggs,Nulaid,Fresh Food,Dairy & Eggs,30,,76.15,Quantum Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-503497,Nulaid Large Eggs,Nulaid,Fresh Food,Dairy & Eggs,18,,45.42,Quantum Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-525563,Liqui Fruit 100% Fruit Juice,Liqui Fruit,Beverages,Drinks & Beverages,1,,24.05,Pioneer Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-991882,Oros Orange Squash,Oros,Beverages,Drinks & Beverages,2,,42.89,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-801063,Beacon Sweets Pack,Beacon,Grocery Essentials,Snacks & Confectionery,100,,16.71,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-267104,Albany Hot Dog Rolls,Albany,Fresh Food,Bakery,6,,19.58,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-318746,Clover Full Cream Milk,Clover,Fresh Food,Dairy & Eggs,2,,32.61,Clover SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-778428,Omo Auto Washing Powder,Omo,Household,Cleaning Supplies,2,,91.1,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-810378,Parmalat Cheddar Cheese,Parmalat,Fresh Food,Dairy & Eggs,400,,56.15,Parmalat,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-771507,Lays Lightly Salted Chips,Lays,Grocery Essentials,Snacks & Confectionery,120,,18.72,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-490778,Rainbow Chicken Fresh Whole Chicken,Rainbow Chicken,Fresh Food,Meat & Poultry,1.5,,85.56,RCL Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-320025,Steakhouse Classic Beef T-Bone Steak,Steakhouse Classic,Fresh Food,Meat & Poultry,1,,130.47,Shoprite House Brand,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-700262,Oros Orange Squash,Oros,Beverages,Drinks & Beverages,2,,44.59,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-244905,NikNaks Cheese Snacks,NikNaks,Grocery Essentials,Snacks & Confectionery,135,,17.66,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-184798,Oros Orange Squash,Oros,Beverages,Drinks & Beverages,2,,39.54,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-200721,Simba Smoked Beef Chips,Simba,Grocery Essentials,Snacks & Confectionery,120,,19.35,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-212905,Lays Lightly Salted Chips,Lays,Grocery Essentials,Snacks & Confectionery,120,,19.77,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-439388,Danone NutriDay Plain Yoghurt,Danone,Fresh Food,Dairy & Eggs,1,,35.44,Danone,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-776462,Albany Brown Bread,Albany,Fresh Food,Bakery,1,,13.09,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-603609,Domestos Thick Bleach,Domestos,Household,Cleaning Supplies,750,,37.79,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-131883,Albany White Bread,Albany,Fresh Food,Bakery,1,,16.34,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-592886,Rainbow Chicken Fresh Whole Chicken,Rainbow Chicken,Fresh Food,Meat & Poultry,1.5,,79.37,RCL Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-314266,Steakhouse Classic Beef T-Bone Steak,Steakhouse Classic,Fresh Food,Meat & Poultry,1,,129.53,Shoprite House Brand,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-826541,Albany Hot Dog Rolls,Albany,Fresh Food,Bakery,6,,21.14,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-638485,Farmbest Pork Chops,Farmbest,Fresh Food,Meat & Poultry,1,,86.69,Farmbest,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-206075,Sasko Premium White Bread,Sasko,Fresh Food,Bakery,1,,17.52,Pioneer Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-668793,Freshmark Apples,Freshmark,Fresh Food,Produce,1.5,,23.44,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-587094,Coca-Cola Coca-Cola Original,Coca-Cola,Beverages,Drinks & Beverages,2,,21.03,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-564437,Sunbake Brown Bread,Sunbake,Fresh Food,Bakery,1,,13.08,RCL Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-560627,Rainbow Chicken Chicken Mixed Portions (IQF),Rainbow Chicken,Fresh Food,Meat & Poultry,2,,94.56,RCL Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-683878,Albany White Bread,Albany,Fresh Food,Bakery,1,,16.76,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-678479,Oros Orange Squash,Oros,Beverages,Drinks & Beverages,2,,42.23,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-307997,Cappy Orange Juice Blend,Cappy,Beverages,Drinks & Beverages,1.5,,30.46,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-316046,Cadbury Dairy Milk Chocolate Slab,Cadbury,Grocery Essentials,Snacks & Confectionery,150,,26.28,Mondelez,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-951833,Oros Orange Squash,Oros,Beverages,Drinks & Beverages,2,,40.9,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-710269,Clover Low Fat Milk,Clover,Fresh Food,Dairy & Eggs,2,,34.52,Clover SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-746178,Beacon Sweets Pack,Beacon,Grocery Essentials,Snacks & Confectionery,100,,19.32,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-342274,Liqui Fruit 100% Fruit Juice,Liqui Fruit,Beverages,Drinks & Beverages,1,,27.65,Pioneer Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-351742,Domestos Thick Bleach,Domestos,Household,Cleaning Supplies,750,,35.2,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-803183,ZZ2 Tomatoes,ZZ2,Fresh Food,Produce,1,,23.98,ZZ2,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-567974,Omo Auto Washing Powder,Omo,Household,Cleaning Supplies,2,,101.36,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-392991,Farmbest Pork Chops,Farmbest,Fresh Food,Meat & Poultry,1,,80.9,Farmbest,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-141085,Albany Hot Dog Rolls,Albany,Fresh Food,Bakery,6,,19.14,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-300523,Domestos Thick Bleach,Domestos,Household,Cleaning Supplies,750,,33.85,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-235677,Freshmark Apples,Freshmark,Fresh Food,Produce,1.5,,27.75,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-145138,Championship Boerewors Thick Boerewors,Championship Boerewors,Fresh Food,Meat & Poultry,1,,94.63,Shoprite Private Label,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-769737,Beacon Sweets Pack,Beacon,Grocery Essentials,Snacks & Confectionery,100,,17.44,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-107082,Clover Full Cream Milk,Clover,Fresh Food,Dairy & Eggs,2,,35.59,Clover SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-710202,Blue Ribbon White Bread,Blue Ribbon,Fresh Food,Bakery,1,,17.8,Premier FMCG,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-623956,Domestos Thick Bleach,Domestos,Household,Cleaning Supplies,750,,34.06,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-705297,Cappy Orange Juice Blend,Cappy,Beverages,Drinks & Beverages,1.5,,31.2,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-262397,Simba Cheese & Onion Chips,Simba,Grocery Essentials,Snacks & Confectionery,120,,18.34,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-796965,Steakhouse Classic Beef T-Bone Steak,Steakhouse Classic,Fresh Food,Meat & Poultry,1,,138.84,Shoprite House Brand,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-398282,Sunbake Brown Bread,Sunbake,Fresh Food,Bakery,1,,14.75,RCL Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-862663,Domestos Thick Bleach,Domestos,Household,Cleaning Supplies,750,,35.69,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-630368,Beacon Sweets Pack,Beacon,Grocery Essentials,Snacks & Confectionery,100,,15.83,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-225478,Country Fair Chicken Braaipack,Country Fair,Fresh Food,Meat & Poultry,1.5,,83.25,Astral Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-583955,Rainbow Chicken Fresh Whole Chicken,Rainbow Chicken,Fresh Food,Meat & Poultry,1.5,,77.08,RCL Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-258084,Beacon Sweets Pack,Beacon,Grocery Essentials,Snacks & Confectionery,100,,18.37,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-674735,Steakhouse Classic Beef T-Bone Steak,Steakhouse Classic,Fresh Food,Meat & Poultry,1,,115.6,Shoprite House Brand,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-904204,Beacon Sweets Pack,Beacon,Grocery Essentials,Snacks & Confectionery,100,,17.95,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-360847,Farmbest Pork Chops,Farmbest,Fresh Food,Meat & Poultry,1,,85.05,Farmbest,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-551853,Parmalat Cheddar Cheese,Parmalat,Fresh Food,Dairy & Eggs,400,,51.2,Parmalat,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-407958,Sunlight Dishwashing Liquid,Sunlight,Household,Cleaning Supplies,750,,32.15,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-689514,Freshmark Apples,Freshmark,Fresh Food,Produce,1.5,,25.37,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-969006,Freshmark Apples,Freshmark,Fresh Food,Produce,1.5,,28.53,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-546792,Sunbake Brown Bread,Sunbake,Fresh Food,Bakery,1,,15.38,RCL Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-474234,Clover Full Cream Milk,Clover,Fresh Food,Dairy & Eggs,2,,35.76,Clover SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-556439,Crystal Valley Plain Yoghurt,Crystal Valley,Fresh Food,Dairy & Eggs,1,,31.79,Lancewood,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-265090,Sasko Premium White Bread,Sasko,Fresh Food,Bakery,1,,18.6,Pioneer Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-227413,Sunlight Dishwashing Liquid,Sunlight,Household,Cleaning Supplies,750,,33.79,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-580010,ZZ2 Tomatoes,ZZ2,Fresh Food,Produce,1,,23.95,ZZ2,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-190453,Blue Ribbon White Bread,Blue Ribbon,Fresh Food,Bakery,1,,15.57,Premier FMCG,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-420232,Ladismith Cheddar Cheese,Ladismith,Fresh Food,Dairy & Eggs,400,,50.36,Woodlands Dairy,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-469230,Freshmark Potatoes,Freshmark,Fresh Food,Produce,2,,32.11,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-678516,Clover Low Fat Milk,Clover,Fresh Food,Dairy & Eggs,2,,35.83,Clover SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-970390,Liqui Fruit 100% Fruit Juice,Liqui Fruit,Beverages,Drinks & Beverages,1,,27.7,Pioneer Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-584743,Domestos Thick Bleach,Domestos,Household,Cleaning Supplies,750,,32.42,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-890247,Cadbury Dairy Milk Chocolate Slab,Cadbury,Grocery Essentials,Snacks & Confectionery,150,,30.65,Mondelez,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-526369,Albany Brown Bread,Albany,Fresh Food,Bakery,1,,16.99,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-948157,Sunlight Dishwashing Liquid,Sunlight,Household,Cleaning Supplies,750,,33.12,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-183747,Cadbury Dairy Milk Chocolate Slab,Cadbury,Grocery Essentials,Snacks & Confectionery,150,,26.27,Mondelez,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-606874,Freshmark Apples,Freshmark,Fresh Food,Produce,1.5,,28.06,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-933218,Simba Cheese & Onion Chips,Simba,Grocery Essentials,Snacks & Confectionery,120,,16.21,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-984137,Farmbest Pork Chops,Farmbest,Fresh Food,Meat & Poultry,1,,95.39,Farmbest,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-211723,Parmalat Cheddar Cheese,Parmalat,Fresh Food,Dairy & Eggs,400,,50.41,Parmalat,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-169130,Clover Full Cream Milk,Clover,Fresh Food,Dairy & Eggs,2,,32.38,Clover SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-889782,Nulaid Extra Large Eggs,Nulaid,Fresh Food,Dairy & Eggs,30,,84.46,Quantum Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-160889,Danone NutriDay Plain Yoghurt,Danone,Fresh Food,Dairy & Eggs,1,,36.03,Danone,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-142230,Cappy Orange Juice Blend,Cappy,Beverages,Drinks & Beverages,1.5,,29.42,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-631434,Blue Ribbon White Bread,Blue Ribbon,Fresh Food,Bakery,1,,15.18,Premier FMCG,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-124278,Simba Smoked Beef Chips,Simba,Grocery Essentials,Snacks & Confectionery,120,,17.45,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-888601,Freshmark Onions,Freshmark,Fresh Food,Produce,1,,17.78,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-254339,Nulaid Large Eggs,Nulaid,Fresh Food,Dairy & Eggs,18,,46.95,Quantum Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-888352,Nature's Choice Bananas,Nature's Choice,Fresh Food,Produce,1,,21.74,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-213234,Albany White Bread,Albany,Fresh Food,Bakery,1,,16.23,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-506250,Country Fair Chicken Braaipack,Country Fair,Fresh Food,Meat & Poultry,1.5,,75.75,Astral Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-692109,Clover Low Fat Milk,Clover,Fresh Food,Dairy & Eggs,2,,33.72,Clover SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-457753,Parmalat Cheddar Cheese,Parmalat,Fresh Food,Dairy & Eggs,400,,51.33,Parmalat,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-629255,Sunlight Dishwashing Liquid,Sunlight,Household,Cleaning Supplies,750,,35.78,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-494104,Handy Andy Ammonia Floor Cleaner,Handy Andy,Household,Cleaning Supplies,750,,26.14,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-838330,Lays Lightly Salted Chips,Lays,Grocery Essentials,Snacks & Confectionery,120,,20.76,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-929371,Rainbow Chicken Fresh Whole Chicken,Rainbow Chicken,Fresh Food,Meat & Poultry,1.5,,72.68,RCL Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-138208,Rainbow Chicken Fresh Whole Chicken,Rainbow Chicken,Fresh Food,Meat & Poultry,1.5,,89.29,RCL Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-118206,Oros Orange Squash,Oros,Beverages,Drinks & Beverages,2,,39.02,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-659453,Simba Cheese & Onion Chips,Simba,Grocery Essentials,Snacks & Confectionery,120,,17.53,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-980089,Freshmark Apples,Freshmark,Fresh Food,Produce,1.5,,31.16,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-917218,Coca-Cola Coca-Cola No Sugar,Coca-Cola,Beverages,Drinks & Beverages,2,,21.97,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-453798,Championship Boerewors Thick Boerewors,Championship Boerewors,Fresh Food,Meat & Poultry,1,,93.4,Shoprite Private Label,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-736662,Freshmark Potatoes,Freshmark,Fresh Food,Produce,2,,36.19,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-663479,Crystal Valley Plain Yoghurt,Crystal Valley,Fresh Food,Dairy & Eggs,1,,33.7,Lancewood,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-929783,Omo Auto Washing Powder,Omo,Household,Cleaning Supplies,2,,89.62,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-421269,Doritos Sweet Chilli Pepper Chips,Doritos,Grocery Essentials,Snacks & Confectionery,145,,20.24,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-876331,Danone NutriDay Plain Yoghurt,Danone,Fresh Food,Dairy & Eggs,1,,33.77,Danone,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-629766,Crystal Valley Plain Yoghurt,Crystal Valley,Fresh Food,Dairy & Eggs,1,,35.16,Lancewood,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-559262,Parmalat Cheddar Cheese,Parmalat,Fresh Food,Dairy & Eggs,400,,55.36,Parmalat,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-520025,Steakhouse Classic Beef T-Bone Steak,Steakhouse Classic,Fresh Food,Meat & Poultry,1,,111.56,Shoprite House Brand,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-195558,Cappy Orange Juice Blend,Cappy,Beverages,Drinks & Beverages,1.5,,28.81,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-369542,Coca-Cola Coca-Cola No Sugar,Coca-Cola,Beverages,Drinks & Beverages,2,,25.65,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-151408,Danone NutriDay Plain Yoghurt,Danone,Fresh Food,Dairy & Eggs,1,,34.44,Danone,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-749370,Sasko Premium White Bread,Sasko,Fresh Food,Bakery,1,,18.97,Pioneer Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-897126,Doritos Sweet Chilli Pepper Chips,Doritos,Grocery Essentials,Snacks & Confectionery,145,,18.67,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-966600,Rainbow Chicken Chicken Mixed Portions (IQF),Rainbow Chicken,Fresh Food,Meat & Poultry,2,,86.47,RCL Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-636262,Sunlight Dishwashing Liquid,Sunlight,Household,Cleaning Supplies,750,,34.93,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-596345,Nulaid Large Eggs,Nulaid,Fresh Food,Dairy & Eggs,18,,46.99,Quantum Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-868589,Doritos Sweet Chilli Pepper Chips,Doritos,Grocery Essentials,Snacks & Confectionery,145,,18.17,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-101022,Albany Hot Dog Rolls,Albany,Fresh Food,Bakery,6,,20.14,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-787534,Albany White Bread,Albany,Fresh Food,Bakery,1,,15.38,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-732510,Country Fair Chicken Braaipack,Country Fair,Fresh Food,Meat & Poultry,1.5,,80.53,Astral Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-970969,Danone NutriDay Plain Yoghurt,Danone,Fresh Food,Dairy & Eggs,1,,36.31,Danone,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-211335,Danone NutriDay Plain Yoghurt,Danone,Fresh Food,Dairy & Eggs,1,,30.55,Danone,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-293297,Steakhouse Classic Beef T-Bone Steak,Steakhouse Classic,Fresh Food,Meat & Poultry,1,,110.27,Shoprite House Brand,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-387684,ZZ2 Tomatoes,ZZ2,Fresh Food,Produce,1,,27.51,ZZ2,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-920822,Country Fair Chicken Braaipack,Country Fair,Fresh Food,Meat & Poultry,1.5,,94.62,Astral Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-663686,Nulaid Large Eggs,Nulaid,Fresh Food,Dairy & Eggs,18,,45.96,Quantum Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-219411,Domestos Thick Bleach,Domestos,Household,Cleaning Supplies,750,,35.58,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-178237,Sasko Premium White Bread,Sasko,Fresh Food,Bakery,1,,19.51,Pioneer Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-956910,Clover Low Fat Milk,Clover,Fresh Food,Dairy & Eggs,2,,37.45,Clover SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-989872,Coca-Cola Coca-Cola Original,Coca-Cola,Beverages,Drinks & Beverages,2,,25.93,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-672346,Freshmark Onions,Freshmark,Fresh Food,Produce,1,,16.96,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-565490,Oros Orange Squash,Oros,Beverages,Drinks & Beverages,2,,38.61,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-289808,Coca-Cola Coca-Cola Original,Coca-Cola,Beverages,Drinks & Beverages,2,,23.63,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-150349,Farmbest Pork Chops,Farmbest,Fresh Food,Meat & Poultry,1,,91.71,Farmbest,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-505777,Clover Low Fat Milk,Clover,Fresh Food,Dairy & Eggs,2,,36.77,Clover SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-411673,Freshmark Potatoes,Freshmark,Fresh Food,Produce,2,,39.22,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-739323,Cadbury Dairy Milk Chocolate Slab,Cadbury,Grocery Essentials,Snacks & Confectionery,150,,31.79,Mondelez,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-734364,Sunlight Dishwashing Liquid,Sunlight,Household,Cleaning Supplies,750,,31.95,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-404505,Nulaid Extra Large Eggs,Nulaid,Fresh Food,Dairy & Eggs,30,,77.52,Quantum Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-301258,Omo Auto Washing Powder,Omo,Household,Cleaning Supplies,2,,103.95,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-644566,Sunbake Brown Bread,Sunbake,Fresh Food,Bakery,1,,14.49,RCL Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-827622,Liqui Fruit 100% Fruit Juice,Liqui Fruit,Beverages,Drinks & Beverages,1,,24.42,Pioneer Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-789471,Cappy Orange Juice Blend,Cappy,Beverages,Drinks & Beverages,1.5,,28.39,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-275912,Doritos Sweet Chilli Pepper Chips,Doritos,Grocery Essentials,Snacks & Confectionery,145,,21.64,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-677683,Championship Boerewors Thick Boerewors,Championship Boerewors,Fresh Food,Meat & Poultry,1,,104.37,Shoprite Private Label,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-286979,Blue Ribbon White Bread,Blue Ribbon,Fresh Food,Bakery,1,,15.93,Premier FMCG,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-389486,Omo Auto Washing Powder,Omo,Household,Cleaning Supplies,2,,95.15,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-152002,Farmbest Pork Chops,Farmbest,Fresh Food,Meat & Poultry,1,,84.71,Farmbest,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-561757,Nature's Choice Bananas,Nature's Choice,Fresh Food,Produce,1,,20.67,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-669915,Sunbake Brown Bread,Sunbake,Fresh Food,Bakery,1,,14.89,RCL Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-172879,ZZ2 Tomatoes,ZZ2,Fresh Food,Produce,1,,20.57,ZZ2,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-660482,Albany Brown Bread,Albany,Fresh Food,Bakery,1,,14.68,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-196231,Domestos Thick Bleach,Domestos,Household,Cleaning Supplies,750,,34.57,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-628723,NikNaks Cheese Snacks,NikNaks,Grocery Essentials,Snacks & Confectionery,135,,16.87,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-798270,Doritos Sweet Chilli Pepper Chips,Doritos,Grocery Essentials,Snacks & Confectionery,145,,22.42,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-816475,Rainbow Chicken Fresh Whole Chicken,Rainbow Chicken,Fresh Food,Meat & Poultry,1.5,,71.38,RCL Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-569463,Domestos Thick Bleach,Domestos,Household,Cleaning Supplies,750,,32.29,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-837876,Nulaid Extra Large Eggs,Nulaid,Fresh Food,Dairy & Eggs,30,,84.92,Quantum Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-972670,Freshmark Onions,Freshmark,Fresh Food,Produce,1,,20.26,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-232924,Steakhouse Classic Beef T-Bone Steak,Steakhouse Classic,Fresh Food,Meat & Poultry,1,,119.68,Shoprite House Brand,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-881225,Liqui Fruit 100% Fruit Juice,Liqui Fruit,Beverages,Drinks & Beverages,1,,23.27,Pioneer Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-316781,Ladismith Cheddar Cheese,Ladismith,Fresh Food,Dairy & Eggs,400,,49.95,Woodlands Dairy,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-606804,Parmalat Cheddar Cheese,Parmalat,Fresh Food,Dairy & Eggs,400,,55.76,Parmalat,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-527966,Rainbow Chicken Chicken Mixed Portions (IQF),Rainbow Chicken,Fresh Food,Meat & Poultry,2,,98.14,RCL Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-352856,Parmalat Cheddar Cheese,Parmalat,Fresh Food,Dairy & Eggs,400,,55.92,Parmalat,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-219148,Freshmark Apples,Freshmark,Fresh Food,Produce,1.5,,22.51,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-510912,Coca-Cola Coca-Cola No Sugar,Coca-Cola,Beverages,Drinks & Beverages,2,,21.18,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-502859,Omo Auto Washing Powder,Omo,Household,Cleaning Supplies,2,,97.21,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-820686,Beacon Sweets Pack,Beacon,Grocery Essentials,Snacks & Confectionery,100,,16.96,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-854523,Ladismith Cheddar Cheese,Ladismith,Fresh Food,Dairy & Eggs,400,,56.4,Woodlands Dairy,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-499428,Albany Brown Bread,Albany,Fresh Food,Bakery,1,,15.17,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-116023,Freshmark Onions,Freshmark,Fresh Food,Produce,1,,17.23,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-547018,Nature's Choice Bananas,Nature's Choice,Fresh Food,Produce,1,,20.17,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-614309,Country Fair Chicken Braaipack,Country Fair,Fresh Food,Meat & Poultry,1.5,,87.0,Astral Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-381051,Blue Ribbon White Bread,Blue Ribbon,Fresh Food,Bakery,1,,14.47,Premier FMCG,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-244432,Coca-Cola Coca-Cola No Sugar,Coca-Cola,Beverages,Drinks & Beverages,2,,21.95,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-748623,Freshmark Potatoes,Freshmark,Fresh Food,Produce,2,,30.9,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-847425,Danone NutriDay Plain Yoghurt,Danone,Fresh Food,Dairy & Eggs,1,,32.65,Danone,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-525486,Steakhouse Classic Beef T-Bone Steak,Steakhouse Classic,Fresh Food,Meat & Poultry,1,,115.06,Shoprite House Brand,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-991107,Steakhouse Classic Beef T-Bone Steak,Steakhouse Classic,Fresh Food,Meat & Poultry,1,,128.59,Shoprite House Brand,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-643508,Simba Cheese & Onion Chips,Simba,Grocery Essentials,Snacks & Confectionery,120,,19.32,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-459367,Championship Boerewors Thick Boerewors,Championship Boerewors,Fresh Food,Meat & Poultry,1,,97.3,Shoprite Private Label,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-620200,Rainbow Chicken Chicken Mixed Portions (IQF),Rainbow Chicken,Fresh Food,Meat & Poultry,2,,86.3,RCL Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-944190,Clover Full Cream Milk,Clover,Fresh Food,Dairy & Eggs,2,,34.85,Clover SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-292071,Doritos Sweet Chilli Pepper Chips,Doritos,Grocery Essentials,Snacks & Confectionery,145,,19.19,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-350980,Clover Full Cream Milk,Clover,Fresh Food,Dairy & Eggs,2,,37.36,Clover SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-353812,Freshmark Onions,Freshmark,Fresh Food,Produce,1,,21.48,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-220244,Sunlight Dishwashing Liquid,Sunlight,Household,Cleaning Supplies,750,,32.09,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-279388,Steakhouse Classic Beef T-Bone Steak,Steakhouse Classic,Fresh Food,Meat & Poultry,1,,138.22,Shoprite House Brand,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-625510,Sunbake Brown Bread,Sunbake,Fresh Food,Bakery,1,,15.08,RCL Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-458236,Albany White Bread,Albany,Fresh Food,Bakery,1,,15.62,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-179483,Coca-Cola Coca-Cola Original,Coca-Cola,Beverages,Drinks & Beverages,2,,24.55,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-391530,Liqui Fruit 100% Fruit Juice,Liqui Fruit,Beverages,Drinks & Beverages,1,,22.48,Pioneer Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-410215,Oros Orange Squash,Oros,Beverages,Drinks & Beverages,2,,40.91,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-867257,Rainbow Chicken Fresh Whole Chicken,Rainbow Chicken,Fresh Food,Meat & Poultry,1.5,,88.87,RCL Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-437302,Freshmark Potatoes,Freshmark,Fresh Food,Produce,2,,37.0,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-902953,Ladismith Cheddar Cheese,Ladismith,Fresh Food,Dairy & Eggs,400,,49.25,Woodlands Dairy,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-404563,Clover Full Cream Milk,Clover,Fresh Food,Dairy & Eggs,2,,36.51,Clover SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-435663,Clover Low Fat Milk,Clover,Fresh Food,Dairy & Eggs,2,,32.27,Clover SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-548665,Handy Andy Ammonia Floor Cleaner,Handy Andy,Household,Cleaning Supplies,750,,32.26,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-402477,Clover Low Fat Milk,Clover,Fresh Food,Dairy & Eggs,2,,35.51,Clover SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-547943,Parmalat Cheddar Cheese,Parmalat,Fresh Food,Dairy & Eggs,400,,59.73,Parmalat,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-539382,Doritos Sweet Chilli Pepper Chips,Doritos,Grocery Essentials,Snacks & Confectionery,145,,22.83,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-881385,Rainbow Chicken Chicken Mixed Portions (IQF),Rainbow Chicken,Fresh Food,Meat & Poultry,2,,88.5,RCL Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-157734,Omo Auto Washing Powder,Omo,Household,Cleaning Supplies,2,,101.79,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-978637,Simba Smoked Beef Chips,Simba,Grocery Essentials,Snacks & Confectionery,120,,16.65,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-864039,Coca-Cola Coca-Cola Original,Coca-Cola,Beverages,Drinks & Beverages,2,,21.67,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-615443,Cappy Orange Juice Blend,Cappy,Beverages,Drinks & Beverages,1.5,,25.12,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-183356,Nulaid Large Eggs,Nulaid,Fresh Food,Dairy & Eggs,18,,47.07,Quantum Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-704663,Nulaid Large Eggs,Nulaid,Fresh Food,Dairy & Eggs,18,,50.99,Quantum Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-940718,Rainbow Chicken Fresh Whole Chicken,Rainbow Chicken,Fresh Food,Meat & Poultry,1.5,,70.3,RCL Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-865767,Omo Auto Washing Powder,Omo,Household,Cleaning Supplies,2,,87.54,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-816240,Omo Auto Washing Powder,Omo,Household,Cleaning Supplies,2,,89.77,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-873644,Nulaid Large Eggs,Nulaid,Fresh Food,Dairy & Eggs,18,,50.16,Quantum Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-313260,Nulaid Extra Large Eggs,Nulaid,Fresh Food,Dairy & Eggs,30,,77.07,Quantum Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-371410,Coca-Cola Coca-Cola Original,Coca-Cola,Beverages,Drinks & Beverages,2,,24.88,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-230946,Freshmark Onions,Freshmark,Fresh Food,Produce,1,,19.46,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-598565,Lays Lightly Salted Chips,Lays,Grocery Essentials,Snacks & Confectionery,120,,19.24,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-917769,Coca-Cola Coca-Cola No Sugar,Coca-Cola,Beverages,Drinks & Beverages,2,,21.23,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-770549,Clover Full Cream Milk,Clover,Fresh Food,Dairy & Eggs,2,,37.49,Clover SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-300427,Oros Orange Squash,Oros,Beverages,Drinks & Beverages,2,,43.6,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-881650,Simba Cheese & Onion Chips,Simba,Grocery Essentials,Snacks & Confectionery,120,,19.3,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-394122,Beacon Sweets Pack,Beacon,Grocery Essentials,Snacks & Confectionery,100,,15.37,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-888021,Nulaid Large Eggs,Nulaid,Fresh Food,Dairy & Eggs,18,,47.7,Quantum Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-835594,Rainbow Chicken Chicken Mixed Portions (IQF),Rainbow Chicken,Fresh Food,Meat & Poultry,2,,91.96,RCL Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-317794,Albany White Bread,Albany,Fresh Food,Bakery,1,,14.91,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-533383,Rainbow Chicken Chicken Mixed Portions (IQF),Rainbow Chicken,Fresh Food,Meat & Poultry,2,,101.11,RCL Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-438172,Handy Andy Ammonia Floor Cleaner,Handy Andy,Household,Cleaning Supplies,750,,29.0,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-188530,Domestos Thick Bleach,Domestos,Household,Cleaning Supplies,750,,35.02,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-211863,Cadbury Dairy Milk Chocolate Slab,Cadbury,Grocery Essentials,Snacks & Confectionery,150,,29.07,Mondelez,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-135296,Coca-Cola Coca-Cola Original,Coca-Cola,Beverages,Drinks & Beverages,2,,22.89,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-853008,Omo Auto Washing Powder,Omo,Household,Cleaning Supplies,2,,88.27,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-315608,Sunlight Dishwashing Liquid,Sunlight,Household,Cleaning Supplies,750,,31.25,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-256557,Clover Full Cream Milk,Clover,Fresh Food,Dairy & Eggs,2,,37.0,Clover SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-629756,Cappy Orange Juice Blend,Cappy,Beverages,Drinks & Beverages,1.5,,28.27,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-156601,Freshmark Apples,Freshmark,Fresh Food,Produce,1.5,,30.46,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-283366,Danone NutriDay Plain Yoghurt,Danone,Fresh Food,Dairy & Eggs,1,,36.69,Danone,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-754864,Nature's Choice Bananas,Nature's Choice,Fresh Food,Produce,1,,20.22,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-278894,Crystal Valley Plain Yoghurt,Crystal Valley,Fresh Food,Dairy & Eggs,1,,30.88,Lancewood,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-133723,Crystal Valley Plain Yoghurt,Crystal Valley,Fresh Food,Dairy & Eggs,1,,34.57,Lancewood,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-940286,Doritos Sweet Chilli Pepper Chips,Doritos,Grocery Essentials,Snacks & Confectionery,145,,19.09,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-314045,Freshmark Apples,Freshmark,Fresh Food,Produce,1.5,,29.72,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-648542,Liqui Fruit 100% Fruit Juice,Liqui Fruit,Beverages,Drinks & Beverages,1,,26.85,Pioneer Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-129256,Championship Boerewors Thick Boerewors,Championship Boerewors,Fresh Food,Meat & Poultry,1,,95.09,Shoprite Private Label,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-876158,Steakhouse Classic Beef T-Bone Steak,Steakhouse Classic,Fresh Food,Meat & Poultry,1,,139.75,Shoprite House Brand,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-441960,Lays Lightly Salted Chips,Lays,Grocery Essentials,Snacks & Confectionery,120,,20.84,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-244638,Omo Auto Washing Powder,Omo,Household,Cleaning Supplies,2,,103.75,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-627451,Clover Full Cream Milk,Clover,Fresh Food,Dairy & Eggs,2,,37.96,Clover SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-102411,Sunlight Dishwashing Liquid,Sunlight,Household,Cleaning Supplies,750,,35.68,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-812548,Ladismith Cheddar Cheese,Ladismith,Fresh Food,Dairy & Eggs,400,,49.7,Woodlands Dairy,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-864350,Beacon Sweets Pack,Beacon,Grocery Essentials,Snacks & Confectionery,100,,16.12,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-937118,Coca-Cola Coca-Cola No Sugar,Coca-Cola,Beverages,Drinks & Beverages,2,,23.84,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-399921,Lays Lightly Salted Chips,Lays,Grocery Essentials,Snacks & Confectionery,120,,21.41,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-659421,Farmbest Pork Chops,Farmbest,Fresh Food,Meat & Poultry,1,,85.4,Farmbest,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-168002,Simba Smoked Beef Chips,Simba,Grocery Essentials,Snacks & Confectionery,120,,19.87,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-519840,Parmalat Cheddar Cheese,Parmalat,Fresh Food,Dairy & Eggs,400,,59.37,Parmalat,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-465404,Handy Andy Ammonia Floor Cleaner,Handy Andy,Household,Cleaning Supplies,750,,27.6,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-437334,Simba Cheese & Onion Chips,Simba,Grocery Essentials,Snacks & Confectionery,120,,17.08,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-520807,Oros Orange Squash,Oros,Beverages,Drinks & Beverages,2,,39.16,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-393114,Oros Orange Squash,Oros,Beverages,Drinks & Beverages,2,,44.17,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-871199,Championship Boerewors Thick Boerewors,Championship Boerewors,Fresh Food,Meat & Poultry,1,,88.47,Shoprite Private Label,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-352137,Freshmark Potatoes,Freshmark,Fresh Food,Produce,2,,35.44,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-741798,Simba Smoked Beef Chips,Simba,Grocery Essentials,Snacks & Confectionery,120,,16.36,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-321979,Danone NutriDay Plain Yoghurt,Danone,Fresh Food,Dairy & Eggs,1,,35.99,Danone,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-525162,ZZ2 Tomatoes,ZZ2,Fresh Food,Produce,1,,26.82,ZZ2,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-817806,Doritos Sweet Chilli Pepper Chips,Doritos,Grocery Essentials,Snacks & Confectionery,145,,19.65,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-211961,Liqui Fruit 100% Fruit Juice,Liqui Fruit,Beverages,Drinks & Beverages,1,,25.54,Pioneer Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-664544,Country Fair Chicken Braaipack,Country Fair,Fresh Food,Meat & Poultry,1.5,,93.25,Astral Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-464414,Coca-Cola Coca-Cola No Sugar,Coca-Cola,Beverages,Drinks & Beverages,2,,24.2,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-556712,Albany Brown Bread,Albany,Fresh Food,Bakery,1,,14.03,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-762294,Handy Andy Ammonia Floor Cleaner,Handy Andy,Household,Cleaning Supplies,750,,29.56,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-207811,Oros Orange Squash,Oros,Beverages,Drinks & Beverages,2,,38.98,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-409946,Beacon Sweets Pack,Beacon,Grocery Essentials,Snacks & Confectionery,100,,19.92,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-875305,Blue Ribbon White Bread,Blue Ribbon,Fresh Food,Bakery,1,,17.89,Premier FMCG,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-138252,Country Fair Chicken Braaipack,Country Fair,Fresh Food,Meat & Poultry,1.5,,88.33,Astral Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-711258,Liqui Fruit 100% Fruit Juice,Liqui Fruit,Beverages,Drinks & Beverages,1,,22.93,Pioneer Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-668984,Domestos Thick Bleach,Domestos,Household,Cleaning Supplies,750,,37.77,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-706551,Oros Orange Squash,Oros,Beverages,Drinks & Beverages,2,,40.82,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-508155,Simba Smoked Beef Chips,Simba,Grocery Essentials,Snacks & Confectionery,120,,18.53,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-592187,Crystal Valley Plain Yoghurt,Crystal Valley,Fresh Food,Dairy & Eggs,1,,34.19,Lancewood,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-925780,Nulaid Large Eggs,Nulaid,Fresh Food,Dairy & Eggs,18,,50.02,Quantum Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-474163,Freshmark Potatoes,Freshmark,Fresh Food,Produce,2,,39.97,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-271084,Liqui Fruit 100% Fruit Juice,Liqui Fruit,Beverages,Drinks & Beverages,1,,22.67,Pioneer Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-765794,Albany Brown Bread,Albany,Fresh Food,Bakery,1,,16.06,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-618167,Clover Low Fat Milk,Clover,Fresh Food,Dairy & Eggs,2,,37.48,Clover SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-360543,Omo Auto Washing Powder,Omo,Household,Cleaning Supplies,2,,86.43,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-445065,Championship Boerewors Thick Boerewors,Championship Boerewors,Fresh Food,Meat & Poultry,1,,90.66,Shoprite Private Label,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-430439,Liqui Fruit 100% Fruit Juice,Liqui Fruit,Beverages,Drinks & Beverages,1,,25.77,Pioneer Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-956373,Nulaid Large Eggs,Nulaid,Fresh Food,Dairy & Eggs,18,,50.81,Quantum Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-377400,Simba Smoked Beef Chips,Simba,Grocery Essentials,Snacks & Confectionery,120,,16.58,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-801595,Parmalat Cheddar Cheese,Parmalat,Fresh Food,Dairy & Eggs,400,,59.96,Parmalat,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-164412,Albany Brown Bread,Albany,Fresh Food,Bakery,1,,16.66,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-834890,Ladismith Cheddar Cheese,Ladismith,Fresh Food,Dairy & Eggs,400,,54.86,Woodlands Dairy,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-898492,Crystal Valley Plain Yoghurt,Crystal Valley,Fresh Food,Dairy & Eggs,1,,32.03,Lancewood,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-489412,Rainbow Chicken Fresh Whole Chicken,Rainbow Chicken,Fresh Food,Meat & Poultry,1.5,,86.71,RCL Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-311893,Cappy Orange Juice Blend,Cappy,Beverages,Drinks & Beverages,1.5,,29.74,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-789100,Domestos Thick Bleach,Domestos,Household,Cleaning Supplies,750,,35.88,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-539412,Sunbake Brown Bread,Sunbake,Fresh Food,Bakery,1,,16.5,RCL Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-880368,Albany Brown Bread,Albany,Fresh Food,Bakery,1,,15.03,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-763248,Cappy Orange Juice Blend,Cappy,Beverages,Drinks & Beverages,1.5,,29.1,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-964553,Crystal Valley Plain Yoghurt,Crystal Valley,Fresh Food,Dairy & Eggs,1,,35.7,Lancewood,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-633286,Freshmark Potatoes,Freshmark,Fresh Food,Produce,2,,30.49,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-170998,Handy Andy Ammonia Floor Cleaner,Handy Andy,Household,Cleaning Supplies,750,,31.13,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-329416,Sunbake Brown Bread,Sunbake,Fresh Food,Bakery,1,,16.0,RCL Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-355760,Coca-Cola Coca-Cola Original,Coca-Cola,Beverages,Drinks & Beverages,2,,25.13,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-933972,Cadbury Dairy Milk Chocolate Slab,Cadbury,Grocery Essentials,Snacks & Confectionery,150,,28.77,Mondelez,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-807771,Albany Hot Dog Rolls,Albany,Fresh Food,Bakery,6,,21.33,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-316209,Coca-Cola Coca-Cola No Sugar,Coca-Cola,Beverages,Drinks & Beverages,2,,24.9,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-113131,Nature's Choice Bananas,Nature's Choice,Fresh Food,Produce,1,,18.88,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-551099,Freshmark Potatoes,Freshmark,Fresh Food,Produce,2,,34.96,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-626563,Albany Hot Dog Rolls,Albany,Fresh Food,Bakery,6,,21.1,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-398336,Doritos Sweet Chilli Pepper Chips,Doritos,Grocery Essentials,Snacks & Confectionery,145,,20.35,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-550674,Steakhouse Classic Beef T-Bone Steak,Steakhouse Classic,Fresh Food,Meat & Poultry,1,,129.16,Shoprite House Brand,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-743797,Lays Lightly Salted Chips,Lays,Grocery Essentials,Snacks & Confectionery,120,,18.78,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-394694,Domestos Thick Bleach,Domestos,Household,Cleaning Supplies,750,,32.64,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-103506,Albany Hot Dog Rolls,Albany,Fresh Food,Bakery,6,,22.93,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-988748,Handy Andy Ammonia Floor Cleaner,Handy Andy,Household,Cleaning Supplies,750,,32.41,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-186979,Handy Andy Ammonia Floor Cleaner,Handy Andy,Household,Cleaning Supplies,750,,30.82,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-457152,Sunlight Dishwashing Liquid,Sunlight,Household,Cleaning Supplies,750,,30.96,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-808030,Cadbury Dairy Milk Chocolate Slab,Cadbury,Grocery Essentials,Snacks & Confectionery,150,,27.86,Mondelez,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-850069,Albany White Bread,Albany,Fresh Food,Bakery,1,,15.55,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-161184,Nulaid Large Eggs,Nulaid,Fresh Food,Dairy & Eggs,18,,50.48,Quantum Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-392024,Coca-Cola Coca-Cola No Sugar,Coca-Cola,Beverages,Drinks & Beverages,2,,23.77,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-932638,Freshmark Onions,Freshmark,Fresh Food,Produce,1,,17.31,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-575437,ZZ2 Tomatoes,ZZ2,Fresh Food,Produce,1,,22.51,ZZ2,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-395665,ZZ2 Tomatoes,ZZ2,Fresh Food,Produce,1,,20.92,ZZ2,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-884784,Lays Lightly Salted Chips,Lays,Grocery Essentials,Snacks & Confectionery,120,,21.14,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-483252,Country Fair Chicken Braaipack,Country Fair,Fresh Food,Meat & Poultry,1.5,,78.7,Astral Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-169220,Freshmark Potatoes,Freshmark,Fresh Food,Produce,2,,31.73,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-488287,Clover Full Cream Milk,Clover,Fresh Food,Dairy & Eggs,2,,35.79,Clover SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-749728,Albany White Bread,Albany,Fresh Food,Bakery,1,,17.6,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-197284,Sunlight Dishwashing Liquid,Sunlight,Household,Cleaning Supplies,750,,33.41,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-510529,Parmalat Cheddar Cheese,Parmalat,Fresh Food,Dairy & Eggs,400,,51.02,Parmalat,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-856175,Simba Cheese & Onion Chips,Simba,Grocery Essentials,Snacks & Confectionery,120,,19.98,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-372329,Nulaid Extra Large Eggs,Nulaid,Fresh Food,Dairy & Eggs,30,,77.19,Quantum Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-392295,Cappy Orange Juice Blend,Cappy,Beverages,Drinks & Beverages,1.5,,25.75,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-642494,Country Fair Chicken Braaipack,Country Fair,Fresh Food,Meat & Poultry,1.5,,78.72,Astral Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-515022,Sunbake Brown Bread,Sunbake,Fresh Food,Bakery,1,,14.56,RCL Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-684647,Coca-Cola Coca-Cola Original,Coca-Cola,Beverages,Drinks & Beverages,2,,24.92,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-180681,Albany Hot Dog Rolls,Albany,Fresh Food,Bakery,6,,21.62,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-799269,Cadbury Dairy Milk Chocolate Slab,Cadbury,Grocery Essentials,Snacks & Confectionery,150,,29.91,Mondelez,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-714510,Parmalat Cheddar Cheese,Parmalat,Fresh Food,Dairy & Eggs,400,,50.4,Parmalat,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-157828,Clover Low Fat Milk,Clover,Fresh Food,Dairy & Eggs,2,,36.71,Clover SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-276051,Rainbow Chicken Chicken Mixed Portions (IQF),Rainbow Chicken,Fresh Food,Meat & Poultry,2,,93.66,RCL Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-580553,Parmalat Cheddar Cheese,Parmalat,Fresh Food,Dairy & Eggs,400,,56.96,Parmalat,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-338295,Crystal Valley Plain Yoghurt,Crystal Valley,Fresh Food,Dairy & Eggs,1,,35.11,Lancewood,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-914783,Championship Boerewors Thick Boerewors,Championship Boerewors,Fresh Food,Meat & Poultry,1,,96.68,Shoprite Private Label,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-554727,Lays Lightly Salted Chips,Lays,Grocery Essentials,Snacks & Confectionery,120,,18.15,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-541776,Crystal Valley Plain Yoghurt,Crystal Valley,Fresh Food,Dairy & Eggs,1,,30.4,Lancewood,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-330353,Omo Auto Washing Powder,Omo,Household,Cleaning Supplies,2,,95.19,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-690074,Sunlight Dishwashing Liquid,Sunlight,Household,Cleaning Supplies,750,,34.58,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-471600,Freshmark Apples,Freshmark,Fresh Food,Produce,1.5,,23.62,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-748779,Liqui Fruit 100% Fruit Juice,Liqui Fruit,Beverages,Drinks & Beverages,1,,25.57,Pioneer Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-438918,NikNaks Cheese Snacks,NikNaks,Grocery Essentials,Snacks & Confectionery,135,,14.49,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-282473,Farmbest Pork Chops,Farmbest,Fresh Food,Meat & Poultry,1,,96.95,Farmbest,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-138842,Parmalat Cheddar Cheese,Parmalat,Fresh Food,Dairy & Eggs,400,,53.05,Parmalat,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-397187,Freshmark Potatoes,Freshmark,Fresh Food,Produce,2,,39.6,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-986434,Omo Auto Washing Powder,Omo,Household,Cleaning Supplies,2,,85.12,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-693688,Rainbow Chicken Fresh Whole Chicken,Rainbow Chicken,Fresh Food,Meat & Poultry,1.5,,72.57,RCL Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-854807,Nulaid Extra Large Eggs,Nulaid,Fresh Food,Dairy & Eggs,30,,82.03,Quantum Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-753574,ZZ2 Tomatoes,ZZ2,Fresh Food,Produce,1,,24.9,ZZ2,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-801051,Oros Orange Squash,Oros,Beverages,Drinks & Beverages,2,,41.82,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-313011,Coca-Cola Coca-Cola Original,Coca-Cola,Beverages,Drinks & Beverages,2,,23.52,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-555430,Farmbest Pork Chops,Farmbest,Fresh Food,Meat & Poultry,1,,96.6,Farmbest,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-319720,Championship Boerewors Thick Boerewors,Championship Boerewors,Fresh Food,Meat & Poultry,1,,99.83,Shoprite Private Label,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-601649,Oros Orange Squash,Oros,Beverages,Drinks & Beverages,2,,41.49,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-218090,Sunbake Brown Bread,Sunbake,Fresh Food,Bakery,1,,14.83,RCL Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-449580,Simba Cheese & Onion Chips,Simba,Grocery Essentials,Snacks & Confectionery,120,,16.09,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-444329,Championship Boerewors Thick Boerewors,Championship Boerewors,Fresh Food,Meat & Poultry,1,,102.99,Shoprite Private Label,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-607614,Beacon Sweets Pack,Beacon,Grocery Essentials,Snacks & Confectionery,100,,19.8,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-465909,Rainbow Chicken Fresh Whole Chicken,Rainbow Chicken,Fresh Food,Meat & Poultry,1.5,,71.5,RCL Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-301666,Rainbow Chicken Fresh Whole Chicken,Rainbow Chicken,Fresh Food,Meat & Poultry,1.5,,76.37,RCL Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-613563,Albany Brown Bread,Albany,Fresh Food,Bakery,1,,16.41,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-148788,Country Fair Chicken Braaipack,Country Fair,Fresh Food,Meat & Poultry,1.5,,93.27,Astral Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-238788,Simba Cheese & Onion Chips,Simba,Grocery Essentials,Snacks & Confectionery,120,,19.24,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-616534,Rainbow Chicken Chicken Mixed Portions (IQF),Rainbow Chicken,Fresh Food,Meat & Poultry,2,,99.96,RCL Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-905936,Oros Orange Squash,Oros,Beverages,Drinks & Beverages,2,,41.86,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-299933,Oros Orange Squash,Oros,Beverages,Drinks & Beverages,2,,39.92,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-100864,Farmbest Pork Chops,Farmbest,Fresh Food,Meat & Poultry,1,,83.21,Farmbest,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-572711,Doritos Sweet Chilli Pepper Chips,Doritos,Grocery Essentials,Snacks & Confectionery,145,,20.44,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-591331,Steakhouse Classic Beef T-Bone Steak,Steakhouse Classic,Fresh Food,Meat & Poultry,1,,129.99,Shoprite House Brand,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-427144,Freshmark Onions,Freshmark,Fresh Food,Produce,1,,20.03,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-747053,Rainbow Chicken Fresh Whole Chicken,Rainbow Chicken,Fresh Food,Meat & Poultry,1.5,,80.04,RCL Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-473522,Ladismith Cheddar Cheese,Ladismith,Fresh Food,Dairy & Eggs,400,,50.91,Woodlands Dairy,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-948895,ZZ2 Tomatoes,ZZ2,Fresh Food,Produce,1,,23.75,ZZ2,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-774704,Lays Lightly Salted Chips,Lays,Grocery Essentials,Snacks & Confectionery,120,,21.95,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-638996,Farmbest Pork Chops,Farmbest,Fresh Food,Meat & Poultry,1,,85.66,Farmbest,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-416980,Simba Cheese & Onion Chips,Simba,Grocery Essentials,Snacks & Confectionery,120,,17.98,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-853612,Country Fair Chicken Braaipack,Country Fair,Fresh Food,Meat & Poultry,1.5,,80.92,Astral Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-612890,Farmbest Pork Chops,Farmbest,Fresh Food,Meat & Poultry,1,,86.76,Farmbest,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-339663,Oros Orange Squash,Oros,Beverages,Drinks & Beverages,2,,44.86,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-903854,Nulaid Extra Large Eggs,Nulaid,Fresh Food,Dairy & Eggs,30,,78.3,Quantum Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-734664,Omo Auto Washing Powder,Omo,Household,Cleaning Supplies,2,,104.38,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-222326,Freshmark Onions,Freshmark,Fresh Food,Produce,1,,18.5,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-423342,Ladismith Cheddar Cheese,Ladismith,Fresh Food,Dairy & Eggs,400,,51.33,Woodlands Dairy,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-633951,Championship Boerewors Thick Boerewors,Championship Boerewors,Fresh Food,Meat & Poultry,1,,96.06,Shoprite Private Label,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-732498,Steakhouse Classic Beef T-Bone Steak,Steakhouse Classic,Fresh Food,Meat & Poultry,1,,131.47,Shoprite House Brand,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-164878,Sasko Premium White Bread,Sasko,Fresh Food,Bakery,1,,17.6,Pioneer Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-401151,Blue Ribbon White Bread,Blue Ribbon,Fresh Food,Bakery,1,,16.34,Premier FMCG,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-125870,Cadbury Dairy Milk Chocolate Slab,Cadbury,Grocery Essentials,Snacks & Confectionery,150,,29.6,Mondelez,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-891242,Steakhouse Classic Beef T-Bone Steak,Steakhouse Classic,Fresh Food,Meat & Poultry,1,,136.93,Shoprite House Brand,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-156074,Simba Cheese & Onion Chips,Simba,Grocery Essentials,Snacks & Confectionery,120,,18.63,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-145068,Lays Lightly Salted Chips,Lays,Grocery Essentials,Snacks & Confectionery,120,,18.73,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-755257,Beacon Sweets Pack,Beacon,Grocery Essentials,Snacks & Confectionery,100,,19.39,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-605688,Farmbest Pork Chops,Farmbest,Fresh Food,Meat & Poultry,1,,88.23,Farmbest,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-191827,Handy Andy Ammonia Floor Cleaner,Handy Andy,Household,Cleaning Supplies,750,,27.53,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-482160,Blue Ribbon White Bread,Blue Ribbon,Fresh Food,Bakery,1,,14.2,Premier FMCG,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-887955,Parmalat Cheddar Cheese,Parmalat,Fresh Food,Dairy & Eggs,400,,59.15,Parmalat,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-442059,Nature's Choice Bananas,Nature's Choice,Fresh Food,Produce,1,,18.37,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-998235,Clover Low Fat Milk,Clover,Fresh Food,Dairy & Eggs,2,,37.57,Clover SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-187571,Freshmark Onions,Freshmark,Fresh Food,Produce,1,,19.14,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-662547,Simba Smoked Beef Chips,Simba,Grocery Essentials,Snacks & Confectionery,120,,18.3,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-233274,Omo Auto Washing Powder,Omo,Household,Cleaning Supplies,2,,94.51,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-194279,Coca-Cola Coca-Cola No Sugar,Coca-Cola,Beverages,Drinks & Beverages,2,,24.45,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-320990,Ladismith Cheddar Cheese,Ladismith,Fresh Food,Dairy & Eggs,400,,51.93,Woodlands Dairy,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-153701,Liqui Fruit 100% Fruit Juice,Liqui Fruit,Beverages,Drinks & Beverages,1,,25.58,Pioneer Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-290427,Sunbake Brown Bread,Sunbake,Fresh Food,Bakery,1,,13.5,RCL Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-725790,Coca-Cola Coca-Cola No Sugar,Coca-Cola,Beverages,Drinks & Beverages,2,,23.82,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-897605,Albany Hot Dog Rolls,Albany,Fresh Food,Bakery,6,,19.4,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-393249,Cappy Orange Juice Blend,Cappy,Beverages,Drinks & Beverages,1.5,,25.0,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-620071,Liqui Fruit 100% Fruit Juice,Liqui Fruit,Beverages,Drinks & Beverages,1,,26.02,Pioneer Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-441977,Albany Brown Bread,Albany,Fresh Food,Bakery,1,,16.23,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-684010,Ladismith Cheddar Cheese,Ladismith,Fresh Food,Dairy & Eggs,400,,54.02,Woodlands Dairy,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-173072,Sasko Premium White Bread,Sasko,Fresh Food,Bakery,1,,18.88,Pioneer Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-782360,Simba Cheese & Onion Chips,Simba,Grocery Essentials,Snacks & Confectionery,120,,17.39,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-635708,Simba Cheese & Onion Chips,Simba,Grocery Essentials,Snacks & Confectionery,120,,19.45,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-372015,Coca-Cola Coca-Cola No Sugar,Coca-Cola,Beverages,Drinks & Beverages,2,,24.19,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-737988,Parmalat Cheddar Cheese,Parmalat,Fresh Food,Dairy & Eggs,400,,50.41,Parmalat,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-358185,Parmalat Cheddar Cheese,Parmalat,Fresh Food,Dairy & Eggs,400,,57.02,Parmalat,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-299198,Nulaid Large Eggs,Nulaid,Fresh Food,Dairy & Eggs,18,,49.74,Quantum Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-171711,Parmalat Cheddar Cheese,Parmalat,Fresh Food,Dairy & Eggs,400,,53.77,Parmalat,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-955502,Coca-Cola Coca-Cola Original,Coca-Cola,Beverages,Drinks & Beverages,2,,24.08,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-389944,Sunlight Dishwashing Liquid,Sunlight,Household,Cleaning Supplies,750,,31.05,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-510082,Crystal Valley Plain Yoghurt,Crystal Valley,Fresh Food,Dairy & Eggs,1,,35.25,Lancewood,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-311713,Sasko Premium White Bread,Sasko,Fresh Food,Bakery,1,,17.99,Pioneer Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-548365,Coca-Cola Coca-Cola Original,Coca-Cola,Beverages,Drinks & Beverages,2,,21.03,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-602651,Clover Low Fat Milk,Clover,Fresh Food,Dairy & Eggs,2,,34.77,Clover SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-446128,Liqui Fruit 100% Fruit Juice,Liqui Fruit,Beverages,Drinks & Beverages,1,,25.48,Pioneer Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-723042,Nulaid Extra Large Eggs,Nulaid,Fresh Food,Dairy & Eggs,30,,83.04,Quantum Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-448374,Nulaid Extra Large Eggs,Nulaid,Fresh Food,Dairy & Eggs,30,,76.83,Quantum Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-946956,Freshmark Potatoes,Freshmark,Fresh Food,Produce,2,,37.68,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-846312,Domestos Thick Bleach,Domestos,Household,Cleaning Supplies,750,,32.87,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-923057,ZZ2 Tomatoes,ZZ2,Fresh Food,Produce,1,,23.51,ZZ2,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-987711,Championship Boerewors Thick Boerewors,Championship Boerewors,Fresh Food,Meat & Poultry,1,,86.16,Shoprite Private Label,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-322823,Cadbury Dairy Milk Chocolate Slab,Cadbury,Grocery Essentials,Snacks & Confectionery,150,,28.68,Mondelez,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-439092,Cadbury Dairy Milk Chocolate Slab,Cadbury,Grocery Essentials,Snacks & Confectionery,150,,26.3,Mondelez,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-132264,Sunbake Brown Bread,Sunbake,Fresh Food,Bakery,1,,15.52,RCL Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-202703,Oros Orange Squash,Oros,Beverages,Drinks & Beverages,2,,42.98,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-630309,Farmbest Pork Chops,Farmbest,Fresh Food,Meat & Poultry,1,,88.86,Farmbest,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-828674,Coca-Cola Coca-Cola Original,Coca-Cola,Beverages,Drinks & Beverages,2,,24.22,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-744533,Sunlight Dishwashing Liquid,Sunlight,Household,Cleaning Supplies,750,,35.26,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-256648,Nulaid Extra Large Eggs,Nulaid,Fresh Food,Dairy & Eggs,30,,79.05,Quantum Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-534464,Parmalat Cheddar Cheese,Parmalat,Fresh Food,Dairy & Eggs,400,,50.77,Parmalat,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-383929,Country Fair Chicken Braaipack,Country Fair,Fresh Food,Meat & Poultry,1.5,,84.57,Astral Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-937957,Crystal Valley Plain Yoghurt,Crystal Valley,Fresh Food,Dairy & Eggs,1,,32.06,Lancewood,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-549520,Crystal Valley Plain Yoghurt,Crystal Valley,Fresh Food,Dairy & Eggs,1,,31.13,Lancewood,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-876759,Freshmark Onions,Freshmark,Fresh Food,Produce,1,,20.17,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-597480,Oros Orange Squash,Oros,Beverages,Drinks & Beverages,2,,41.46,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-700176,Oros Orange Squash,Oros,Beverages,Drinks & Beverages,2,,43.97,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-440472,Danone NutriDay Plain Yoghurt,Danone,Fresh Food,Dairy & Eggs,1,,32.13,Danone,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-889697,ZZ2 Tomatoes,ZZ2,Fresh Food,Produce,1,,22.16,ZZ2,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-131162,Coca-Cola Coca-Cola No Sugar,Coca-Cola,Beverages,Drinks & Beverages,2,,21.3,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-327771,Coca-Cola Coca-Cola Original,Coca-Cola,Beverages,Drinks & Beverages,2,,25.71,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-490326,Freshmark Apples,Freshmark,Fresh Food,Produce,1.5,,26.83,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-467659,Albany White Bread,Albany,Fresh Food,Bakery,1,,14.69,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-199297,Beacon Sweets Pack,Beacon,Grocery Essentials,Snacks & Confectionery,100,,17.86,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-325869,Coca-Cola Coca-Cola No Sugar,Coca-Cola,Beverages,Drinks & Beverages,2,,23.17,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-636026,Coca-Cola Coca-Cola Original,Coca-Cola,Beverages,Drinks & Beverages,2,,25.02,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-256816,Nulaid Extra Large Eggs,Nulaid,Fresh Food,Dairy & Eggs,30,,83.74,Quantum Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-102350,Liqui Fruit 100% Fruit Juice,Liqui Fruit,Beverages,Drinks & Beverages,1,,27.64,Pioneer Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-744148,Country Fair Chicken Braaipack,Country Fair,Fresh Food,Meat & Poultry,1.5,,85.46,Astral Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-105439,Lays Lightly Salted Chips,Lays,Grocery Essentials,Snacks & Confectionery,120,,19.92,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-353707,Cappy Orange Juice Blend,Cappy,Beverages,Drinks & Beverages,1.5,,26.53,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-321173,Farmbest Pork Chops,Farmbest,Fresh Food,Meat & Poultry,1,,96.47,Farmbest,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-287453,Albany White Bread,Albany,Fresh Food,Bakery,1,,17.26,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-563841,Albany White Bread,Albany,Fresh Food,Bakery,1,,16.94,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-562051,Nature's Choice Bananas,Nature's Choice,Fresh Food,Produce,1,,20.27,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-787653,Domestos Thick Bleach,Domestos,Household,Cleaning Supplies,750,,33.41,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-546331,Nulaid Large Eggs,Nulaid,Fresh Food,Dairy & Eggs,18,,48.69,Quantum Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-763894,Farmbest Pork Chops,Farmbest,Fresh Food,Meat & Poultry,1,,85.13,Farmbest,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-907815,Danone NutriDay Plain Yoghurt,Danone,Fresh Food,Dairy & Eggs,1,,36.68,Danone,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-107943,Championship Boerewors Thick Boerewors,Championship Boerewors,Fresh Food,Meat & Poultry,1,,99.93,Shoprite Private Label,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-998159,Nulaid Large Eggs,Nulaid,Fresh Food,Dairy & Eggs,18,,47.94,Quantum Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-463414,Domestos Thick Bleach,Domestos,Household,Cleaning Supplies,750,,34.04,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-503305,Oros Orange Squash,Oros,Beverages,Drinks & Beverages,2,,42.92,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-717133,Beacon Sweets Pack,Beacon,Grocery Essentials,Snacks & Confectionery,100,,18.31,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-464918,Sunlight Dishwashing Liquid,Sunlight,Household,Cleaning Supplies,750,,33.98,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-162337,Rainbow Chicken Chicken Mixed Portions (IQF),Rainbow Chicken,Fresh Food,Meat & Poultry,2,,90.11,RCL Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-406634,Clover Low Fat Milk,Clover,Fresh Food,Dairy & Eggs,2,,33.29,Clover SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-454918,Sunlight Dishwashing Liquid,Sunlight,Household,Cleaning Supplies,750,,33.23,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-737246,Rainbow Chicken Chicken Mixed Portions (IQF),Rainbow Chicken,Fresh Food,Meat & Poultry,2,,94.24,RCL Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-423908,Championship Boerewors Thick Boerewors,Championship Boerewors,Fresh Food,Meat & Poultry,1,,87.63,Shoprite Private Label,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-110591,Championship Boerewors Thick Boerewors,Championship Boerewors,Fresh Food,Meat & Poultry,1,,103.09,Shoprite Private Label,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-974179,Coca-Cola Coca-Cola No Sugar,Coca-Cola,Beverages,Drinks & Beverages,2,,23.49,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-477667,ZZ2 Tomatoes,ZZ2,Fresh Food,Produce,1,,22.6,ZZ2,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-251884,Simba Smoked Beef Chips,Simba,Grocery Essentials,Snacks & Confectionery,120,,19.27,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-521099,Coca-Cola Coca-Cola No Sugar,Coca-Cola,Beverages,Drinks & Beverages,2,,23.21,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-798817,Doritos Sweet Chilli Pepper Chips,Doritos,Grocery Essentials,Snacks & Confectionery,145,,19.6,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-151591,Nature's Choice Bananas,Nature's Choice,Fresh Food,Produce,1,,20.88,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-637295,Simba Cheese & Onion Chips,Simba,Grocery Essentials,Snacks & Confectionery,120,,19.38,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-765218,Championship Boerewors Thick Boerewors,Championship Boerewors,Fresh Food,Meat & Poultry,1,,99.87,Shoprite Private Label,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-910238,Sunbake Brown Bread,Sunbake,Fresh Food,Bakery,1,,15.75,RCL Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-916763,Simba Smoked Beef Chips,Simba,Grocery Essentials,Snacks & Confectionery,120,,19.77,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-172579,Coca-Cola Coca-Cola No Sugar,Coca-Cola,Beverages,Drinks & Beverages,2,,25.47,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-396097,Nulaid Extra Large Eggs,Nulaid,Fresh Food,Dairy & Eggs,30,,79.07,Quantum Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-626764,Rainbow Chicken Fresh Whole Chicken,Rainbow Chicken,Fresh Food,Meat & Poultry,1.5,,78.41,RCL Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-511538,Freshmark Onions,Freshmark,Fresh Food,Produce,1,,16.44,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-670267,Nulaid Large Eggs,Nulaid,Fresh Food,Dairy & Eggs,18,,47.83,Quantum Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-492347,Handy Andy Ammonia Floor Cleaner,Handy Andy,Household,Cleaning Supplies,750,,28.84,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-224296,Clover Low Fat Milk,Clover,Fresh Food,Dairy & Eggs,2,,33.28,Clover SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-718041,Beacon Sweets Pack,Beacon,Grocery Essentials,Snacks & Confectionery,100,,19.68,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-533293,Championship Boerewors Thick Boerewors,Championship Boerewors,Fresh Food,Meat & Poultry,1,,100.2,Shoprite Private Label,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-142736,Sasko Premium White Bread,Sasko,Fresh Food,Bakery,1,,18.06,Pioneer Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-790695,Danone NutriDay Plain Yoghurt,Danone,Fresh Food,Dairy & Eggs,1,,34.37,Danone,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-506420,Rainbow Chicken Chicken Mixed Portions (IQF),Rainbow Chicken,Fresh Food,Meat & Poultry,2,,98.95,RCL Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-854785,Rainbow Chicken Chicken Mixed Portions (IQF),Rainbow Chicken,Fresh Food,Meat & Poultry,2,,100.17,RCL Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-949373,Freshmark Onions,Freshmark,Fresh Food,Produce,1,,20.61,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-131467,Nature's Choice Bananas,Nature's Choice,Fresh Food,Produce,1,,19.16,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-475269,Handy Andy Ammonia Floor Cleaner,Handy Andy,Household,Cleaning Supplies,750,,29.21,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-149923,NikNaks Cheese Snacks,NikNaks,Grocery Essentials,Snacks & Confectionery,135,,15.43,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-278645,Nature's Choice Bananas,Nature's Choice,Fresh Food,Produce,1,,21.56,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-635180,Freshmark Apples,Freshmark,Fresh Food,Produce,1.5,,29.5,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-553897,Beacon Sweets Pack,Beacon,Grocery Essentials,Snacks & Confectionery,100,,15.07,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-466330,Sunlight Dishwashing Liquid,Sunlight,Household,Cleaning Supplies,750,,32.94,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-974295,Steakhouse Classic Beef T-Bone Steak,Steakhouse Classic,Fresh Food,Meat & Poultry,1,,111.16,Shoprite House Brand,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-680246,Ladismith Cheddar Cheese,Ladismith,Fresh Food,Dairy & Eggs,400,,56.36,Woodlands Dairy,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-916861,Oros Orange Squash,Oros,Beverages,Drinks & Beverages,2,,42.56,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-192144,Freshmark Potatoes,Freshmark,Fresh Food,Produce,2,,34.25,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-968429,Albany Hot Dog Rolls,Albany,Fresh Food,Bakery,6,,22.79,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-661588,Beacon Sweets Pack,Beacon,Grocery Essentials,Snacks & Confectionery,100,,17.54,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-396895,Nulaid Extra Large Eggs,Nulaid,Fresh Food,Dairy & Eggs,30,,78.32,Quantum Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-463703,Steakhouse Classic Beef T-Bone Steak,Steakhouse Classic,Fresh Food,Meat & Poultry,1,,113.28,Shoprite House Brand,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-475429,Ladismith Cheddar Cheese,Ladismith,Fresh Food,Dairy & Eggs,400,,50.89,Woodlands Dairy,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-819362,Clover Low Fat Milk,Clover,Fresh Food,Dairy & Eggs,2,,36.87,Clover SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-238100,NikNaks Cheese Snacks,NikNaks,Grocery Essentials,Snacks & Confectionery,135,,15.09,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-981886,Cappy Orange Juice Blend,Cappy,Beverages,Drinks & Beverages,1.5,,27.08,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-166833,Cadbury Dairy Milk Chocolate Slab,Cadbury,Grocery Essentials,Snacks & Confectionery,150,,27.1,Mondelez,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-589279,Cappy Orange Juice Blend,Cappy,Beverages,Drinks & Beverages,1.5,,31.97,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-285579,Clover Low Fat Milk,Clover,Fresh Food,Dairy & Eggs,2,,34.97,Clover SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-966354,Steakhouse Classic Beef T-Bone Steak,Steakhouse Classic,Fresh Food,Meat & Poultry,1,,127.75,Shoprite House Brand,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-937981,NikNaks Cheese Snacks,NikNaks,Grocery Essentials,Snacks & Confectionery,135,,14.74,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-117643,Albany White Bread,Albany,Fresh Food,Bakery,1,,17.79,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-482514,Sasko Premium White Bread,Sasko,Fresh Food,Bakery,1,,16.74,Pioneer Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-458616,Steakhouse Classic Beef T-Bone Steak,Steakhouse Classic,Fresh Food,Meat & Poultry,1,,133.87,Shoprite House Brand,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-917380,Oros Orange Squash,Oros,Beverages,Drinks & Beverages,2,,39.89,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-490707,Farmbest Pork Chops,Farmbest,Fresh Food,Meat & Poultry,1,,85.81,Farmbest,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-585758,Blue Ribbon White Bread,Blue Ribbon,Fresh Food,Bakery,1,,17.18,Premier FMCG,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-798793,Freshmark Onions,Freshmark,Fresh Food,Produce,1,,19.8,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-318102,Championship Boerewors Thick Boerewors,Championship Boerewors,Fresh Food,Meat & Poultry,1,,90.83,Shoprite Private Label,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-376635,Nulaid Large Eggs,Nulaid,Fresh Food,Dairy & Eggs,18,,47.64,Quantum Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-558931,Country Fair Chicken Braaipack,Country Fair,Fresh Food,Meat & Poultry,1.5,,92.2,Astral Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-398528,Beacon Sweets Pack,Beacon,Grocery Essentials,Snacks & Confectionery,100,,18.82,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-350036,Albany Hot Dog Rolls,Albany,Fresh Food,Bakery,6,,21.22,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-872530,Simba Cheese & Onion Chips,Simba,Grocery Essentials,Snacks & Confectionery,120,,19.9,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-178405,Cadbury Dairy Milk Chocolate Slab,Cadbury,Grocery Essentials,Snacks & Confectionery,150,,27.7,Mondelez,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-182339,Handy Andy Ammonia Floor Cleaner,Handy Andy,Household,Cleaning Supplies,750,,28.73,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-213837,Albany White Bread,Albany,Fresh Food,Bakery,1,,16.62,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-174133,Simba Smoked Beef Chips,Simba,Grocery Essentials,Snacks & Confectionery,120,,16.23,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-183548,Clover Full Cream Milk,Clover,Fresh Food,Dairy & Eggs,2,,36.0,Clover SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-887028,Rainbow Chicken Chicken Mixed Portions (IQF),Rainbow Chicken,Fresh Food,Meat & Poultry,2,,91.13,RCL Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-589958,Ladismith Cheddar Cheese,Ladismith,Fresh Food,Dairy & Eggs,400,,52.73,Woodlands Dairy,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-314050,Omo Auto Washing Powder,Omo,Household,Cleaning Supplies,2,,98.49,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-213026,Steakhouse Classic Beef T-Bone Steak,Steakhouse Classic,Fresh Food,Meat & Poultry,1,,117.86,Shoprite House Brand,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-753315,Freshmark Apples,Freshmark,Fresh Food,Produce,1.5,,25.96,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-692870,Albany Brown Bread,Albany,Fresh Food,Bakery,1,,13.98,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-812264,Rainbow Chicken Fresh Whole Chicken,Rainbow Chicken,Fresh Food,Meat & Poultry,1.5,,80.1,RCL Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-565762,Oros Orange Squash,Oros,Beverages,Drinks & Beverages,2,,43.23,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-276760,Farmbest Pork Chops,Farmbest,Fresh Food,Meat & Poultry,1,,96.23,Farmbest,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-621369,Clover Full Cream Milk,Clover,Fresh Food,Dairy & Eggs,2,,32.63,Clover SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-298831,Parmalat Cheddar Cheese,Parmalat,Fresh Food,Dairy & Eggs,400,,51.75,Parmalat,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-447699,Clover Full Cream Milk,Clover,Fresh Food,Dairy & Eggs,2,,35.18,Clover SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-712867,Ladismith Cheddar Cheese,Ladismith,Fresh Food,Dairy & Eggs,400,,50.26,Woodlands Dairy,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-247672,Sasko Premium White Bread,Sasko,Fresh Food,Bakery,1,,19.39,Pioneer Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-659776,Simba Smoked Beef Chips,Simba,Grocery Essentials,Snacks & Confectionery,120,,17.68,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-377704,Cappy Orange Juice Blend,Cappy,Beverages,Drinks & Beverages,1.5,,26.79,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-605638,Clover Full Cream Milk,Clover,Fresh Food,Dairy & Eggs,2,,34.2,Clover SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-508628,Liqui Fruit 100% Fruit Juice,Liqui Fruit,Beverages,Drinks & Beverages,1,,27.01,Pioneer Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-940715,Freshmark Onions,Freshmark,Fresh Food,Produce,1,,20.48,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-545224,Freshmark Apples,Freshmark,Fresh Food,Produce,1.5,,28.78,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-199901,Rainbow Chicken Chicken Mixed Portions (IQF),Rainbow Chicken,Fresh Food,Meat & Poultry,2,,104.29,RCL Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-129026,Crystal Valley Plain Yoghurt,Crystal Valley,Fresh Food,Dairy & Eggs,1,,33.85,Lancewood,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-923795,Handy Andy Ammonia Floor Cleaner,Handy Andy,Household,Cleaning Supplies,750,,31.71,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-279240,Handy Andy Ammonia Floor Cleaner,Handy Andy,Household,Cleaning Supplies,750,,30.0,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-218617,Cappy Orange Juice Blend,Cappy,Beverages,Drinks & Beverages,1.5,,31.51,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-370088,Liqui Fruit 100% Fruit Juice,Liqui Fruit,Beverages,Drinks & Beverages,1,,24.98,Pioneer Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-880433,Coca-Cola Coca-Cola No Sugar,Coca-Cola,Beverages,Drinks & Beverages,2,,21.18,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-892101,Country Fair Chicken Braaipack,Country Fair,Fresh Food,Meat & Poultry,1.5,,89.73,Astral Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-870823,Sunbake Brown Bread,Sunbake,Fresh Food,Bakery,1,,14.22,RCL Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-465470,Clover Full Cream Milk,Clover,Fresh Food,Dairy & Eggs,2,,37.06,Clover SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-924804,Oros Orange Squash,Oros,Beverages,Drinks & Beverages,2,,43.4,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-520151,Beacon Sweets Pack,Beacon,Grocery Essentials,Snacks & Confectionery,100,,15.23,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-615487,Championship Boerewors Thick Boerewors,Championship Boerewors,Fresh Food,Meat & Poultry,1,,95.69,Shoprite Private Label,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-875743,Sunbake Brown Bread,Sunbake,Fresh Food,Bakery,1,,16.67,RCL Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-264498,Steakhouse Classic Beef T-Bone Steak,Steakhouse Classic,Fresh Food,Meat & Poultry,1,,131.35,Shoprite House Brand,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-671257,Liqui Fruit 100% Fruit Juice,Liqui Fruit,Beverages,Drinks & Beverages,1,,23.58,Pioneer Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-596139,Simba Cheese & Onion Chips,Simba,Grocery Essentials,Snacks & Confectionery,120,,16.18,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-302368,Championship Boerewors Thick Boerewors,Championship Boerewors,Fresh Food,Meat & Poultry,1,,93.49,Shoprite Private Label,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-198264,Crystal Valley Plain Yoghurt,Crystal Valley,Fresh Food,Dairy & Eggs,1,,31.16,Lancewood,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-888312,NikNaks Cheese Snacks,NikNaks,Grocery Essentials,Snacks & Confectionery,135,,14.66,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-281061,Championship Boerewors Thick Boerewors,Championship Boerewors,Fresh Food,Meat & Poultry,1,,101.02,Shoprite Private Label,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-273722,Lays Lightly Salted Chips,Lays,Grocery Essentials,Snacks & Confectionery,120,,19.69,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-718545,Rainbow Chicken Fresh Whole Chicken,Rainbow Chicken,Fresh Food,Meat & Poultry,1.5,,72.05,RCL Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-457394,Handy Andy Ammonia Floor Cleaner,Handy Andy,Household,Cleaning Supplies,750,,30.06,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-989739,Coca-Cola Coca-Cola No Sugar,Coca-Cola,Beverages,Drinks & Beverages,2,,24.31,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-482746,Nulaid Large Eggs,Nulaid,Fresh Food,Dairy & Eggs,18,,48.47,Quantum Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-973428,Coca-Cola Coca-Cola No Sugar,Coca-Cola,Beverages,Drinks & Beverages,2,,21.29,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-225925,Clover Full Cream Milk,Clover,Fresh Food,Dairy & Eggs,2,,33.32,Clover SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-766804,Freshmark Potatoes,Freshmark,Fresh Food,Produce,2,,31.79,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-638539,ZZ2 Tomatoes,ZZ2,Fresh Food,Produce,1,,26.43,ZZ2,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-951732,Nulaid Extra Large Eggs,Nulaid,Fresh Food,Dairy & Eggs,30,,75.27,Quantum Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-500596,Danone NutriDay Plain Yoghurt,Danone,Fresh Food,Dairy & Eggs,1,,31.08,Danone,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-261182,Simba Cheese & Onion Chips,Simba,Grocery Essentials,Snacks & Confectionery,120,,18.2,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-156138,Danone NutriDay Plain Yoghurt,Danone,Fresh Food,Dairy & Eggs,1,,31.29,Danone,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-482540,Sasko Premium White Bread,Sasko,Fresh Food,Bakery,1,,15.95,Pioneer Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-482387,Ladismith Cheddar Cheese,Ladismith,Fresh Food,Dairy & Eggs,400,,50.91,Woodlands Dairy,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-396995,Farmbest Pork Chops,Farmbest,Fresh Food,Meat & Poultry,1,,95.46,Farmbest,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-764226,Sunbake Brown Bread,Sunbake,Fresh Food,Bakery,1,,14.54,RCL Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-225024,Coca-Cola Coca-Cola Original,Coca-Cola,Beverages,Drinks & Beverages,2,,22.02,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-627983,Simba Smoked Beef Chips,Simba,Grocery Essentials,Snacks & Confectionery,120,,16.46,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-118869,Simba Cheese & Onion Chips,Simba,Grocery Essentials,Snacks & Confectionery,120,,18.56,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-251037,Simba Smoked Beef Chips,Simba,Grocery Essentials,Snacks & Confectionery,120,,19.8,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-333559,Blue Ribbon White Bread,Blue Ribbon,Fresh Food,Bakery,1,,15.31,Premier FMCG,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-343749,Simba Cheese & Onion Chips,Simba,Grocery Essentials,Snacks & Confectionery,120,,16.63,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-749194,Nulaid Extra Large Eggs,Nulaid,Fresh Food,Dairy & Eggs,30,,78.79,Quantum Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-897570,Coca-Cola Coca-Cola No Sugar,Coca-Cola,Beverages,Drinks & Beverages,2,,21.58,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-366970,Nulaid Extra Large Eggs,Nulaid,Fresh Food,Dairy & Eggs,30,,82.46,Quantum Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-319330,Danone NutriDay Plain Yoghurt,Danone,Fresh Food,Dairy & Eggs,1,,34.15,Danone,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-274900,Freshmark Potatoes,Freshmark,Fresh Food,Produce,2,,36.26,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-562804,Rainbow Chicken Chicken Mixed Portions (IQF),Rainbow Chicken,Fresh Food,Meat & Poultry,2,,100.4,RCL Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-650261,Cadbury Dairy Milk Chocolate Slab,Cadbury,Grocery Essentials,Snacks & Confectionery,150,,27.17,Mondelez,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-617320,Freshmark Potatoes,Freshmark,Fresh Food,Produce,2,,36.68,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-468924,Beacon Sweets Pack,Beacon,Grocery Essentials,Snacks & Confectionery,100,,15.39,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-976378,Freshmark Onions,Freshmark,Fresh Food,Produce,1,,15.59,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-531280,Nulaid Large Eggs,Nulaid,Fresh Food,Dairy & Eggs,18,,50.81,Quantum Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-353545,Crystal Valley Plain Yoghurt,Crystal Valley,Fresh Food,Dairy & Eggs,1,,33.05,Lancewood,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-785794,Farmbest Pork Chops,Farmbest,Fresh Food,Meat & Poultry,1,,99.0,Farmbest,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-860958,Steakhouse Classic Beef T-Bone Steak,Steakhouse Classic,Fresh Food,Meat & Poultry,1,,121.18,Shoprite House Brand,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-938307,Clover Full Cream Milk,Clover,Fresh Food,Dairy & Eggs,2,,36.36,Clover SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-480079,Country Fair Chicken Braaipack,Country Fair,Fresh Food,Meat & Poultry,1.5,,92.12,Astral Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-434213,Rainbow Chicken Chicken Mixed Portions (IQF),Rainbow Chicken,Fresh Food,Meat & Poultry,2,,94.93,RCL Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-873786,Sunlight Dishwashing Liquid,Sunlight,Household,Cleaning Supplies,750,,30.53,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-576096,Domestos Thick Bleach,Domestos,Household,Cleaning Supplies,750,,36.13,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-174225,Cappy Orange Juice Blend,Cappy,Beverages,Drinks & Beverages,1.5,,31.83,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-247881,Freshmark Apples,Freshmark,Fresh Food,Produce,1.5,,24.31,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-760293,Steakhouse Classic Beef T-Bone Steak,Steakhouse Classic,Fresh Food,Meat & Poultry,1,,118.58,Shoprite House Brand,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-492291,NikNaks Cheese Snacks,NikNaks,Grocery Essentials,Snacks & Confectionery,135,,16.84,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-732647,Albany Hot Dog Rolls,Albany,Fresh Food,Bakery,6,,21.44,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-702201,Country Fair Chicken Braaipack,Country Fair,Fresh Food,Meat & Poultry,1.5,,93.17,Astral Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-448240,Nature's Choice Bananas,Nature's Choice,Fresh Food,Produce,1,,20.84,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-408945,Cadbury Dairy Milk Chocolate Slab,Cadbury,Grocery Essentials,Snacks & Confectionery,150,,29.76,Mondelez,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-745249,Farmbest Pork Chops,Farmbest,Fresh Food,Meat & Poultry,1,,86.38,Farmbest,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-495126,Handy Andy Ammonia Floor Cleaner,Handy Andy,Household,Cleaning Supplies,750,,27.78,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-855828,Albany Brown Bread,Albany,Fresh Food,Bakery,1,,16.35,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-325498,Lays Lightly Salted Chips,Lays,Grocery Essentials,Snacks & Confectionery,120,,19.8,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-400145,Championship Boerewors Thick Boerewors,Championship Boerewors,Fresh Food,Meat & Poultry,1,,91.6,Shoprite Private Label,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-538165,Danone NutriDay Plain Yoghurt,Danone,Fresh Food,Dairy & Eggs,1,,35.35,Danone,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-534412,Farmbest Pork Chops,Farmbest,Fresh Food,Meat & Poultry,1,,85.52,Farmbest,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-425721,Rainbow Chicken Chicken Mixed Portions (IQF),Rainbow Chicken,Fresh Food,Meat & Poultry,2,,104.87,RCL Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-416600,Parmalat Cheddar Cheese,Parmalat,Fresh Food,Dairy & Eggs,400,,55.75,Parmalat,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-353488,Domestos Thick Bleach,Domestos,Household,Cleaning Supplies,750,,35.37,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-668603,ZZ2 Tomatoes,ZZ2,Fresh Food,Produce,1,,21.48,ZZ2,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-941627,Steakhouse Classic Beef T-Bone Steak,Steakhouse Classic,Fresh Food,Meat & Poultry,1,,118.83,Shoprite House Brand,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-653851,Oros Orange Squash,Oros,Beverages,Drinks & Beverages,2,,44.67,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-227944,Country Fair Chicken Braaipack,Country Fair,Fresh Food,Meat & Poultry,1.5,,81.19,Astral Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-734331,Freshmark Onions,Freshmark,Fresh Food,Produce,1,,18.66,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-612964,Cappy Orange Juice Blend,Cappy,Beverages,Drinks & Beverages,1.5,,30.51,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-179941,Beacon Sweets Pack,Beacon,Grocery Essentials,Snacks & Confectionery,100,,19.04,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-697185,Ladismith Cheddar Cheese,Ladismith,Fresh Food,Dairy & Eggs,400,,56.07,Woodlands Dairy,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-446234,NikNaks Cheese Snacks,NikNaks,Grocery Essentials,Snacks & Confectionery,135,,15.83,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-107320,Domestos Thick Bleach,Domestos,Household,Cleaning Supplies,750,,33.87,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-703596,Championship Boerewors Thick Boerewors,Championship Boerewors,Fresh Food,Meat & Poultry,1,,90.71,Shoprite Private Label,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-880546,Parmalat Cheddar Cheese,Parmalat,Fresh Food,Dairy & Eggs,400,,54.06,Parmalat,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-998501,ZZ2 Tomatoes,ZZ2,Fresh Food,Produce,1,,23.36,ZZ2,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-519848,Rainbow Chicken Fresh Whole Chicken,Rainbow Chicken,Fresh Food,Meat & Poultry,1.5,,87.72,RCL Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-320230,ZZ2 Tomatoes,ZZ2,Fresh Food,Produce,1,,27.65,ZZ2,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-207933,Rainbow Chicken Fresh Whole Chicken,Rainbow Chicken,Fresh Food,Meat & Poultry,1.5,,89.27,RCL Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-859842,NikNaks Cheese Snacks,NikNaks,Grocery Essentials,Snacks & Confectionery,135,,16.45,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-342108,NikNaks Cheese Snacks,NikNaks,Grocery Essentials,Snacks & Confectionery,135,,16.17,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-152635,Sunbake Brown Bread,Sunbake,Fresh Food,Bakery,1,,16.02,RCL Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-503677,Crystal Valley Plain Yoghurt,Crystal Valley,Fresh Food,Dairy & Eggs,1,,29.68,Lancewood,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-334518,Clover Full Cream Milk,Clover,Fresh Food,Dairy & Eggs,2,,37.14,Clover SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-300937,Country Fair Chicken Braaipack,Country Fair,Fresh Food,Meat & Poultry,1.5,,79.35,Astral Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-810166,Albany Hot Dog Rolls,Albany,Fresh Food,Bakery,6,,21.05,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-799427,Freshmark Onions,Freshmark,Fresh Food,Produce,1,,16.52,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-186230,NikNaks Cheese Snacks,NikNaks,Grocery Essentials,Snacks & Confectionery,135,,16.57,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-948553,Oros Orange Squash,Oros,Beverages,Drinks & Beverages,2,,41.49,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-486114,Omo Auto Washing Powder,Omo,Household,Cleaning Supplies,2,,100.83,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-582177,Rainbow Chicken Fresh Whole Chicken,Rainbow Chicken,Fresh Food,Meat & Poultry,1.5,,86.35,RCL Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-804398,Clover Full Cream Milk,Clover,Fresh Food,Dairy & Eggs,2,,37.68,Clover SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-313059,Simba Cheese & Onion Chips,Simba,Grocery Essentials,Snacks & Confectionery,120,,18.58,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-185873,Albany White Bread,Albany,Fresh Food,Bakery,1,,16.97,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-883798,NikNaks Cheese Snacks,NikNaks,Grocery Essentials,Snacks & Confectionery,135,,14.5,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-126847,Nature's Choice Bananas,Nature's Choice,Fresh Food,Produce,1,,24.49,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-168480,Handy Andy Ammonia Floor Cleaner,Handy Andy,Household,Cleaning Supplies,750,,31.29,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-140085,Sunbake Brown Bread,Sunbake,Fresh Food,Bakery,1,,16.81,RCL Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-373786,Albany White Bread,Albany,Fresh Food,Bakery,1,,15.87,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-669018,Sunlight Dishwashing Liquid,Sunlight,Household,Cleaning Supplies,750,,31.52,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-933224,Domestos Thick Bleach,Domestos,Household,Cleaning Supplies,750,,32.14,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-591528,Clover Low Fat Milk,Clover,Fresh Food,Dairy & Eggs,2,,35.66,Clover SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-844526,Domestos Thick Bleach,Domestos,Household,Cleaning Supplies,750,,35.57,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-252062,Nulaid Extra Large Eggs,Nulaid,Fresh Food,Dairy & Eggs,30,,80.39,Quantum Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-652115,Clover Full Cream Milk,Clover,Fresh Food,Dairy & Eggs,2,,37.57,Clover SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-143607,Rainbow Chicken Fresh Whole Chicken,Rainbow Chicken,Fresh Food,Meat & Poultry,1.5,,81.29,RCL Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-492286,Albany Brown Bread,Albany,Fresh Food,Bakery,1,,15.01,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-357249,Danone NutriDay Plain Yoghurt,Danone,Fresh Food,Dairy & Eggs,1,,36.12,Danone,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-358005,Coca-Cola Coca-Cola No Sugar,Coca-Cola,Beverages,Drinks & Beverages,2,,24.36,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-961563,Coca-Cola Coca-Cola Original,Coca-Cola,Beverages,Drinks & Beverages,2,,25.36,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-390145,Freshmark Apples,Freshmark,Fresh Food,Produce,1.5,,24.15,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-206725,Country Fair Chicken Braaipack,Country Fair,Fresh Food,Meat & Poultry,1.5,,91.16,Astral Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-741450,Lays Lightly Salted Chips,Lays,Grocery Essentials,Snacks & Confectionery,120,,18.8,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-356224,Country Fair Chicken Braaipack,Country Fair,Fresh Food,Meat & Poultry,1.5,,94.23,Astral Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-748217,Liqui Fruit 100% Fruit Juice,Liqui Fruit,Beverages,Drinks & Beverages,1,,22.66,Pioneer Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-229109,Simba Smoked Beef Chips,Simba,Grocery Essentials,Snacks & Confectionery,120,,16.81,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-536101,ZZ2 Tomatoes,ZZ2,Fresh Food,Produce,1,,22.15,ZZ2,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-125633,Crystal Valley Plain Yoghurt,Crystal Valley,Fresh Food,Dairy & Eggs,1,,33.98,Lancewood,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-443476,Simba Cheese & Onion Chips,Simba,Grocery Essentials,Snacks & Confectionery,120,,16.31,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-296439,Handy Andy Ammonia Floor Cleaner,Handy Andy,Household,Cleaning Supplies,750,,32.04,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-564400,Farmbest Pork Chops,Farmbest,Fresh Food,Meat & Poultry,1,,85.39,Farmbest,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-523467,Freshmark Potatoes,Freshmark,Fresh Food,Produce,2,,34.78,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-372091,Country Fair Chicken Braaipack,Country Fair,Fresh Food,Meat & Poultry,1.5,,85.84,Astral Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-681770,Albany Hot Dog Rolls,Albany,Fresh Food,Bakery,6,,19.81,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-790633,Blue Ribbon White Bread,Blue Ribbon,Fresh Food,Bakery,1,,15.71,Premier FMCG,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-882447,Sasko Premium White Bread,Sasko,Fresh Food,Bakery,1,,18.34,Pioneer Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-782434,Albany Hot Dog Rolls,Albany,Fresh Food,Bakery,6,,18.31,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-370431,Sunlight Dishwashing Liquid,Sunlight,Household,Cleaning Supplies,750,,34.56,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-843377,Albany Brown Bread,Albany,Fresh Food,Bakery,1,,14.72,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-223994,Albany Hot Dog Rolls,Albany,Fresh Food,Bakery,6,,21.68,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-122833,Liqui Fruit 100% Fruit Juice,Liqui Fruit,Beverages,Drinks & Beverages,1,,27.33,Pioneer Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-570961,Cappy Orange Juice Blend,Cappy,Beverages,Drinks & Beverages,1.5,,30.67,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-510478,Handy Andy Ammonia Floor Cleaner,Handy Andy,Household,Cleaning Supplies,750,,26.54,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-351229,Clover Full Cream Milk,Clover,Fresh Food,Dairy & Eggs,2,,37.0,Clover SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-413375,Danone NutriDay Plain Yoghurt,Danone,Fresh Food,Dairy & Eggs,1,,30.26,Danone,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-154443,Liqui Fruit 100% Fruit Juice,Liqui Fruit,Beverages,Drinks & Beverages,1,,27.3,Pioneer Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-621943,Rainbow Chicken Chicken Mixed Portions (IQF),Rainbow Chicken,Fresh Food,Meat & Poultry,2,,91.33,RCL Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-472822,Steakhouse Classic Beef T-Bone Steak,Steakhouse Classic,Fresh Food,Meat & Poultry,1,,116.2,Shoprite House Brand,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-794400,Coca-Cola Coca-Cola No Sugar,Coca-Cola,Beverages,Drinks & Beverages,2,,23.73,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-423878,Farmbest Pork Chops,Farmbest,Fresh Food,Meat & Poultry,1,,83.75,Farmbest,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-543365,Cadbury Dairy Milk Chocolate Slab,Cadbury,Grocery Essentials,Snacks & Confectionery,150,,30.81,Mondelez,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-288815,Championship Boerewors Thick Boerewors,Championship Boerewors,Fresh Food,Meat & Poultry,1,,100.97,Shoprite Private Label,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-665727,Domestos Thick Bleach,Domestos,Household,Cleaning Supplies,750,,37.1,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-479539,Lays Lightly Salted Chips,Lays,Grocery Essentials,Snacks & Confectionery,120,,21.3,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-671093,Albany White Bread,Albany,Fresh Food,Bakery,1,,14.44,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-490567,Crystal Valley Plain Yoghurt,Crystal Valley,Fresh Food,Dairy & Eggs,1,,31.01,Lancewood,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-356699,Omo Auto Washing Powder,Omo,Household,Cleaning Supplies,2,,85.42,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-974989,Albany Brown Bread,Albany,Fresh Food,Bakery,1,,14.67,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-952862,Coca-Cola Coca-Cola Original,Coca-Cola,Beverages,Drinks & Beverages,2,,21.34,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-163652,Clover Full Cream Milk,Clover,Fresh Food,Dairy & Eggs,2,,34.97,Clover SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-170857,Sasko Premium White Bread,Sasko,Fresh Food,Bakery,1,,16.76,Pioneer Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-576540,Handy Andy Ammonia Floor Cleaner,Handy Andy,Household,Cleaning Supplies,750,,26.93,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-382149,Domestos Thick Bleach,Domestos,Household,Cleaning Supplies,750,,37.29,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-584217,Sasko Premium White Bread,Sasko,Fresh Food,Bakery,1,,19.44,Pioneer Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-696978,Nulaid Large Eggs,Nulaid,Fresh Food,Dairy & Eggs,18,,50.2,Quantum Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-189256,Omo Auto Washing Powder,Omo,Household,Cleaning Supplies,2,,90.5,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-841055,Freshmark Onions,Freshmark,Fresh Food,Produce,1,,20.12,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-295911,Cadbury Dairy Milk Chocolate Slab,Cadbury,Grocery Essentials,Snacks & Confectionery,150,,28.37,Mondelez,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-406519,Nulaid Large Eggs,Nulaid,Fresh Food,Dairy & Eggs,18,,47.57,Quantum Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-727092,Beacon Sweets Pack,Beacon,Grocery Essentials,Snacks & Confectionery,100,,19.02,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-970715,Albany Brown Bread,Albany,Fresh Food,Bakery,1,,16.54,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-825966,Doritos Sweet Chilli Pepper Chips,Doritos,Grocery Essentials,Snacks & Confectionery,145,,21.14,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-434387,Oros Orange Squash,Oros,Beverages,Drinks & Beverages,2,,44.41,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-830763,Nulaid Extra Large Eggs,Nulaid,Fresh Food,Dairy & Eggs,30,,80.37,Quantum Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-570554,Oros Orange Squash,Oros,Beverages,Drinks & Beverages,2,,38.9,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-339082,Farmbest Pork Chops,Farmbest,Fresh Food,Meat & Poultry,1,,85.0,Farmbest,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-347528,Cadbury Dairy Milk Chocolate Slab,Cadbury,Grocery Essentials,Snacks & Confectionery,150,,30.81,Mondelez,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-623925,Nulaid Large Eggs,Nulaid,Fresh Food,Dairy & Eggs,18,,51.29,Quantum Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-527411,Sasko Premium White Bread,Sasko,Fresh Food,Bakery,1,,15.87,Pioneer Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-838302,Sasko Premium White Bread,Sasko,Fresh Food,Bakery,1,,19.9,Pioneer Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-640132,Freshmark Onions,Freshmark,Fresh Food,Produce,1,,18.28,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-117858,Albany White Bread,Albany,Fresh Food,Bakery,1,,16.09,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-501673,Lays Lightly Salted Chips,Lays,Grocery Essentials,Snacks & Confectionery,120,,21.74,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-297493,ZZ2 Tomatoes,ZZ2,Fresh Food,Produce,1,,25.73,ZZ2,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-815333,Danone NutriDay Plain Yoghurt,Danone,Fresh Food,Dairy & Eggs,1,,32.14,Danone,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-896301,Albany Hot Dog Rolls,Albany,Fresh Food,Bakery,6,,19.45,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-131437,Albany White Bread,Albany,Fresh Food,Bakery,1,,17.06,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-559270,Danone NutriDay Plain Yoghurt,Danone,Fresh Food,Dairy & Eggs,1,,34.69,Danone,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-312128,Rainbow Chicken Fresh Whole Chicken,Rainbow Chicken,Fresh Food,Meat & Poultry,1.5,,74.68,RCL Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-332672,Coca-Cola Coca-Cola No Sugar,Coca-Cola,Beverages,Drinks & Beverages,2,,21.8,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-973886,Nulaid Large Eggs,Nulaid,Fresh Food,Dairy & Eggs,18,,47.97,Quantum Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-896596,Freshmark Apples,Freshmark,Fresh Food,Produce,1.5,,23.16,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-430434,Freshmark Onions,Freshmark,Fresh Food,Produce,1,,19.83,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-148736,Freshmark Apples,Freshmark,Fresh Food,Produce,1.5,,29.51,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-691332,Coca-Cola Coca-Cola No Sugar,Coca-Cola,Beverages,Drinks & Beverages,2,,22.09,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-644708,Clover Low Fat Milk,Clover,Fresh Food,Dairy & Eggs,2,,34.92,Clover SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-852199,Albany Hot Dog Rolls,Albany,Fresh Food,Bakery,6,,20.39,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-164033,Simba Cheese & Onion Chips,Simba,Grocery Essentials,Snacks & Confectionery,120,,18.17,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-710818,ZZ2 Tomatoes,ZZ2,Fresh Food,Produce,1,,23.14,ZZ2,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-834475,Albany White Bread,Albany,Fresh Food,Bakery,1,,15.07,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-974109,Albany Hot Dog Rolls,Albany,Fresh Food,Bakery,6,,21.73,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-981685,Albany White Bread,Albany,Fresh Food,Bakery,1,,17.97,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-448134,Liqui Fruit 100% Fruit Juice,Liqui Fruit,Beverages,Drinks & Beverages,1,,24.31,Pioneer Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-398953,Blue Ribbon White Bread,Blue Ribbon,Fresh Food,Bakery,1,,14.48,Premier FMCG,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-266967,Crystal Valley Plain Yoghurt,Crystal Valley,Fresh Food,Dairy & Eggs,1,,33.78,Lancewood,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-511277,Clover Low Fat Milk,Clover,Fresh Food,Dairy & Eggs,2,,36.86,Clover SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-524969,Sunlight Dishwashing Liquid,Sunlight,Household,Cleaning Supplies,750,,35.3,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-552024,Domestos Thick Bleach,Domestos,Household,Cleaning Supplies,750,,32.02,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-321353,Freshmark Potatoes,Freshmark,Fresh Food,Produce,2,,36.46,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-993593,Freshmark Onions,Freshmark,Fresh Food,Produce,1,,18.44,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-811928,Clover Low Fat Milk,Clover,Fresh Food,Dairy & Eggs,2,,34.92,Clover SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-587865,Rainbow Chicken Chicken Mixed Portions (IQF),Rainbow Chicken,Fresh Food,Meat & Poultry,2,,86.1,RCL Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-777605,Clover Low Fat Milk,Clover,Fresh Food,Dairy & Eggs,2,,34.57,Clover SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-444942,Nature's Choice Bananas,Nature's Choice,Fresh Food,Produce,1,,19.02,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-137238,Simba Cheese & Onion Chips,Simba,Grocery Essentials,Snacks & Confectionery,120,,17.86,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-133813,Blue Ribbon White Bread,Blue Ribbon,Fresh Food,Bakery,1,,16.58,Premier FMCG,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-619015,Blue Ribbon White Bread,Blue Ribbon,Fresh Food,Bakery,1,,15.52,Premier FMCG,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-549512,Freshmark Potatoes,Freshmark,Fresh Food,Produce,2,,34.25,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-854055,Doritos Sweet Chilli Pepper Chips,Doritos,Grocery Essentials,Snacks & Confectionery,145,,20.35,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-811920,Blue Ribbon White Bread,Blue Ribbon,Fresh Food,Bakery,1,,15.73,Premier FMCG,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-794856,Beacon Sweets Pack,Beacon,Grocery Essentials,Snacks & Confectionery,100,,15.56,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-127620,Rainbow Chicken Fresh Whole Chicken,Rainbow Chicken,Fresh Food,Meat & Poultry,1.5,,70.1,RCL Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-946039,Nulaid Extra Large Eggs,Nulaid,Fresh Food,Dairy & Eggs,30,,80.79,Quantum Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-504400,Albany White Bread,Albany,Fresh Food,Bakery,1,,14.51,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-880468,Simba Cheese & Onion Chips,Simba,Grocery Essentials,Snacks & Confectionery,120,,19.83,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-608438,ZZ2 Tomatoes,ZZ2,Fresh Food,Produce,1,,27.35,ZZ2,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-352804,Country Fair Chicken Braaipack,Country Fair,Fresh Food,Meat & Poultry,1.5,,75.38,Astral Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-265881,Ladismith Cheddar Cheese,Ladismith,Fresh Food,Dairy & Eggs,400,,53.25,Woodlands Dairy,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-277008,Country Fair Chicken Braaipack,Country Fair,Fresh Food,Meat & Poultry,1.5,,76.92,Astral Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-462184,Coca-Cola Coca-Cola No Sugar,Coca-Cola,Beverages,Drinks & Beverages,2,,23.74,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-871213,Rainbow Chicken Chicken Mixed Portions (IQF),Rainbow Chicken,Fresh Food,Meat & Poultry,2,,102.83,RCL Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-137097,NikNaks Cheese Snacks,NikNaks,Grocery Essentials,Snacks & Confectionery,135,,14.17,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-937592,Ladismith Cheddar Cheese,Ladismith,Fresh Food,Dairy & Eggs,400,,52.47,Woodlands Dairy,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-560129,Nature's Choice Bananas,Nature's Choice,Fresh Food,Produce,1,,20.02,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-205614,NikNaks Cheese Snacks,NikNaks,Grocery Essentials,Snacks & Confectionery,135,,16.87,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-491954,Albany White Bread,Albany,Fresh Food,Bakery,1,,15.35,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-285557,Ladismith Cheddar Cheese,Ladismith,Fresh Food,Dairy & Eggs,400,,51.66,Woodlands Dairy,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-156399,Parmalat Cheddar Cheese,Parmalat,Fresh Food,Dairy & Eggs,400,,54.8,Parmalat,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-776424,Blue Ribbon White Bread,Blue Ribbon,Fresh Food,Bakery,1,,14.48,Premier FMCG,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-853911,Sunbake Brown Bread,Sunbake,Fresh Food,Bakery,1,,14.94,RCL Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-380187,Albany Hot Dog Rolls,Albany,Fresh Food,Bakery,6,,21.32,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-819889,Albany Brown Bread,Albany,Fresh Food,Bakery,1,,13.76,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-844369,Rainbow Chicken Chicken Mixed Portions (IQF),Rainbow Chicken,Fresh Food,Meat & Poultry,2,,90.98,RCL Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-582143,Simba Cheese & Onion Chips,Simba,Grocery Essentials,Snacks & Confectionery,120,,16.54,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-364302,Handy Andy Ammonia Floor Cleaner,Handy Andy,Household,Cleaning Supplies,750,,31.77,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-489320,Coca-Cola Coca-Cola No Sugar,Coca-Cola,Beverages,Drinks & Beverages,2,,25.8,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-778923,Clover Full Cream Milk,Clover,Fresh Food,Dairy & Eggs,2,,35.75,Clover SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-824172,Clover Full Cream Milk,Clover,Fresh Food,Dairy & Eggs,2,,32.56,Clover SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-242436,Nulaid Extra Large Eggs,Nulaid,Fresh Food,Dairy & Eggs,30,,83.59,Quantum Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-647635,Clover Low Fat Milk,Clover,Fresh Food,Dairy & Eggs,2,,33.93,Clover SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-375936,Danone NutriDay Plain Yoghurt,Danone,Fresh Food,Dairy & Eggs,1,,33.81,Danone,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-242100,Clover Low Fat Milk,Clover,Fresh Food,Dairy & Eggs,2,,37.44,Clover SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-666866,Freshmark Potatoes,Freshmark,Fresh Food,Produce,2,,39.53,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-777536,Freshmark Onions,Freshmark,Fresh Food,Produce,1,,16.32,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-472023,Handy Andy Ammonia Floor Cleaner,Handy Andy,Household,Cleaning Supplies,750,,27.84,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-474181,Sasko Premium White Bread,Sasko,Fresh Food,Bakery,1,,16.68,Pioneer Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-736860,Omo Auto Washing Powder,Omo,Household,Cleaning Supplies,2,,101.26,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-357464,Albany Hot Dog Rolls,Albany,Fresh Food,Bakery,6,,20.18,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-338574,Clover Low Fat Milk,Clover,Fresh Food,Dairy & Eggs,2,,32.75,Clover SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-154339,Handy Andy Ammonia Floor Cleaner,Handy Andy,Household,Cleaning Supplies,750,,30.26,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-280348,Sunlight Dishwashing Liquid,Sunlight,Household,Cleaning Supplies,750,,32.42,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-563732,Doritos Sweet Chilli Pepper Chips,Doritos,Grocery Essentials,Snacks & Confectionery,145,,22.4,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-351259,Albany White Bread,Albany,Fresh Food,Bakery,1,,15.98,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-609123,NikNaks Cheese Snacks,NikNaks,Grocery Essentials,Snacks & Confectionery,135,,14.13,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-425688,Lays Lightly Salted Chips,Lays,Grocery Essentials,Snacks & Confectionery,120,,18.55,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-644336,Oros Orange Squash,Oros,Beverages,Drinks & Beverages,2,,40.22,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-397728,Steakhouse Classic Beef T-Bone Steak,Steakhouse Classic,Fresh Food,Meat & Poultry,1,,134.48,Shoprite House Brand,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-231119,Cadbury Dairy Milk Chocolate Slab,Cadbury,Grocery Essentials,Snacks & Confectionery,150,,29.37,Mondelez,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-835536,Blue Ribbon White Bread,Blue Ribbon,Fresh Food,Bakery,1,,17.32,Premier FMCG,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-141881,Clover Low Fat Milk,Clover,Fresh Food,Dairy & Eggs,2,,36.07,Clover SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-145722,Clover Low Fat Milk,Clover,Fresh Food,Dairy & Eggs,2,,37.39,Clover SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-285938,Handy Andy Ammonia Floor Cleaner,Handy Andy,Household,Cleaning Supplies,750,,30.39,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-520735,Beacon Sweets Pack,Beacon,Grocery Essentials,Snacks & Confectionery,100,,16.22,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-180244,Ladismith Cheddar Cheese,Ladismith,Fresh Food,Dairy & Eggs,400,,48.34,Woodlands Dairy,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-499240,Omo Auto Washing Powder,Omo,Household,Cleaning Supplies,2,,102.71,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-953754,Parmalat Cheddar Cheese,Parmalat,Fresh Food,Dairy & Eggs,400,,55.41,Parmalat,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-673089,Freshmark Apples,Freshmark,Fresh Food,Produce,1.5,,22.17,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-161195,Albany Brown Bread,Albany,Fresh Food,Bakery,1,,13.64,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-372791,Ladismith Cheddar Cheese,Ladismith,Fresh Food,Dairy & Eggs,400,,49.78,Woodlands Dairy,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-535450,Ladismith Cheddar Cheese,Ladismith,Fresh Food,Dairy & Eggs,400,,55.32,Woodlands Dairy,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-287535,Doritos Sweet Chilli Pepper Chips,Doritos,Grocery Essentials,Snacks & Confectionery,145,,20.29,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-923414,Liqui Fruit 100% Fruit Juice,Liqui Fruit,Beverages,Drinks & Beverages,1,,24.58,Pioneer Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-228067,Farmbest Pork Chops,Farmbest,Fresh Food,Meat & Poultry,1,,84.02,Farmbest,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-650580,Nature's Choice Bananas,Nature's Choice,Fresh Food,Produce,1,,22.3,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-197251,Omo Auto Washing Powder,Omo,Household,Cleaning Supplies,2,,103.28,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-974473,Rainbow Chicken Chicken Mixed Portions (IQF),Rainbow Chicken,Fresh Food,Meat & Poultry,2,,89.24,RCL Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-642916,Crystal Valley Plain Yoghurt,Crystal Valley,Fresh Food,Dairy & Eggs,1,,28.83,Lancewood,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-838975,Liqui Fruit 100% Fruit Juice,Liqui Fruit,Beverages,Drinks & Beverages,1,,23.73,Pioneer Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-478406,Oros Orange Squash,Oros,Beverages,Drinks & Beverages,2,,44.09,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-357387,Rainbow Chicken Chicken Mixed Portions (IQF),Rainbow Chicken,Fresh Food,Meat & Poultry,2,,85.17,RCL Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-234333,Simba Smoked Beef Chips,Simba,Grocery Essentials,Snacks & Confectionery,120,,18.96,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-882615,Domestos Thick Bleach,Domestos,Household,Cleaning Supplies,750,,32.86,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-119245,Simba Cheese & Onion Chips,Simba,Grocery Essentials,Snacks & Confectionery,120,,16.81,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-903580,Freshmark Potatoes,Freshmark,Fresh Food,Produce,2,,30.75,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-892495,NikNaks Cheese Snacks,NikNaks,Grocery Essentials,Snacks & Confectionery,135,,15.95,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-836602,Freshmark Onions,Freshmark,Fresh Food,Produce,1,,21.11,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-734745,Liqui Fruit 100% Fruit Juice,Liqui Fruit,Beverages,Drinks & Beverages,1,,27.75,Pioneer Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-417439,Championship Boerewors Thick Boerewors,Championship Boerewors,Fresh Food,Meat & Poultry,1,,94.45,Shoprite Private Label,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-817867,Domestos Thick Bleach,Domestos,Household,Cleaning Supplies,750,,34.62,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-586762,Championship Boerewors Thick Boerewors,Championship Boerewors,Fresh Food,Meat & Poultry,1,,97.74,Shoprite Private Label,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-924802,Cadbury Dairy Milk Chocolate Slab,Cadbury,Grocery Essentials,Snacks & Confectionery,150,,30.36,Mondelez,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-388627,Farmbest Pork Chops,Farmbest,Fresh Food,Meat & Poultry,1,,86.36,Farmbest,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-272809,Steakhouse Classic Beef T-Bone Steak,Steakhouse Classic,Fresh Food,Meat & Poultry,1,,127.71,Shoprite House Brand,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-850647,Coca-Cola Coca-Cola Original,Coca-Cola,Beverages,Drinks & Beverages,2,,22.58,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-179375,Clover Low Fat Milk,Clover,Fresh Food,Dairy & Eggs,2,,32.07,Clover SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-813170,Danone NutriDay Plain Yoghurt,Danone,Fresh Food,Dairy & Eggs,1,,37.45,Danone,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-953152,Blue Ribbon White Bread,Blue Ribbon,Fresh Food,Bakery,1,,17.55,Premier FMCG,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-812188,Albany Hot Dog Rolls,Albany,Fresh Food,Bakery,6,,22.47,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-540880,Nulaid Extra Large Eggs,Nulaid,Fresh Food,Dairy & Eggs,30,,77.41,Quantum Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-898714,ZZ2 Tomatoes,ZZ2,Fresh Food,Produce,1,,23.48,ZZ2,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-987216,Nulaid Extra Large Eggs,Nulaid,Fresh Food,Dairy & Eggs,30,,79.26,Quantum Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-738391,Omo Auto Washing Powder,Omo,Household,Cleaning Supplies,2,,93.79,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-914080,Ladismith Cheddar Cheese,Ladismith,Fresh Food,Dairy & Eggs,400,,50.55,Woodlands Dairy,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-825601,Blue Ribbon White Bread,Blue Ribbon,Fresh Food,Bakery,1,,15.49,Premier FMCG,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-545559,Oros Orange Squash,Oros,Beverages,Drinks & Beverages,2,,40.76,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-997464,Simba Smoked Beef Chips,Simba,Grocery Essentials,Snacks & Confectionery,120,,18.99,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-890423,Cadbury Dairy Milk Chocolate Slab,Cadbury,Grocery Essentials,Snacks & Confectionery,150,,29.13,Mondelez,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-464829,Coca-Cola Coca-Cola No Sugar,Coca-Cola,Beverages,Drinks & Beverages,2,,23.61,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-285561,NikNaks Cheese Snacks,NikNaks,Grocery Essentials,Snacks & Confectionery,135,,16.22,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-372471,Doritos Sweet Chilli Pepper Chips,Doritos,Grocery Essentials,Snacks & Confectionery,145,,19.52,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-781028,Championship Boerewors Thick Boerewors,Championship Boerewors,Fresh Food,Meat & Poultry,1,,91.25,Shoprite Private Label,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-114932,Clover Full Cream Milk,Clover,Fresh Food,Dairy & Eggs,2,,37.84,Clover SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-740478,Freshmark Onions,Freshmark,Fresh Food,Produce,1,,17.46,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-388720,Steakhouse Classic Beef T-Bone Steak,Steakhouse Classic,Fresh Food,Meat & Poultry,1,,123.17,Shoprite House Brand,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-283961,Nulaid Extra Large Eggs,Nulaid,Fresh Food,Dairy & Eggs,30,,76.57,Quantum Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-551949,Farmbest Pork Chops,Farmbest,Fresh Food,Meat & Poultry,1,,99.66,Farmbest,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-109799,Simba Smoked Beef Chips,Simba,Grocery Essentials,Snacks & Confectionery,120,,16.55,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-375361,NikNaks Cheese Snacks,NikNaks,Grocery Essentials,Snacks & Confectionery,135,,16.63,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-620304,Handy Andy Ammonia Floor Cleaner,Handy Andy,Household,Cleaning Supplies,750,,27.54,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-913542,Sunbake Brown Bread,Sunbake,Fresh Food,Bakery,1,,14.0,RCL Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-872105,Simba Cheese & Onion Chips,Simba,Grocery Essentials,Snacks & Confectionery,120,,19.85,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-721730,Freshmark Onions,Freshmark,Fresh Food,Produce,1,,19.9,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-541842,Simba Cheese & Onion Chips,Simba,Grocery Essentials,Snacks & Confectionery,120,,17.86,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-442568,Omo Auto Washing Powder,Omo,Household,Cleaning Supplies,2,,85.15,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-766677,Albany Brown Bread,Albany,Fresh Food,Bakery,1,,16.68,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-411483,Farmbest Pork Chops,Farmbest,Fresh Food,Meat & Poultry,1,,84.44,Farmbest,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-390745,Cadbury Dairy Milk Chocolate Slab,Cadbury,Grocery Essentials,Snacks & Confectionery,150,,27.66,Mondelez,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-346782,Freshmark Apples,Freshmark,Fresh Food,Produce,1.5,,23.13,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-889811,Cadbury Dairy Milk Chocolate Slab,Cadbury,Grocery Essentials,Snacks & Confectionery,150,,30.51,Mondelez,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-878083,Beacon Sweets Pack,Beacon,Grocery Essentials,Snacks & Confectionery,100,,15.86,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-328877,Sunbake Brown Bread,Sunbake,Fresh Food,Bakery,1,,13.93,RCL Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-658585,Doritos Sweet Chilli Pepper Chips,Doritos,Grocery Essentials,Snacks & Confectionery,145,,20.92,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-167069,Beacon Sweets Pack,Beacon,Grocery Essentials,Snacks & Confectionery,100,,18.55,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-963510,Domestos Thick Bleach,Domestos,Household,Cleaning Supplies,750,,35.06,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-934297,Clover Full Cream Milk,Clover,Fresh Food,Dairy & Eggs,2,,36.21,Clover SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-844034,Lays Lightly Salted Chips,Lays,Grocery Essentials,Snacks & Confectionery,120,,18.97,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-652506,Freshmark Potatoes,Freshmark,Fresh Food,Produce,2,,32.51,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-588945,Omo Auto Washing Powder,Omo,Household,Cleaning Supplies,2,,96.4,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-862365,Cappy Orange Juice Blend,Cappy,Beverages,Drinks & Beverages,1.5,,25.26,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-543215,Parmalat Cheddar Cheese,Parmalat,Fresh Food,Dairy & Eggs,400,,55.27,Parmalat,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-998762,Albany Hot Dog Rolls,Albany,Fresh Food,Bakery,6,,22.71,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-970314,Lays Lightly Salted Chips,Lays,Grocery Essentials,Snacks & Confectionery,120,,20.89,PepsiCo,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-755983,Freshmark Onions,Freshmark,Fresh Food,Produce,1,,20.87,Freshmark,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-372446,Clover Low Fat Milk,Clover,Fresh Food,Dairy & Eggs,2,,32.33,Clover SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-241846,Sunbake Brown Bread,Sunbake,Fresh Food,Bakery,1,,13.93,RCL Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-257115,Clover Low Fat Milk,Clover,Fresh Food,Dairy & Eggs,2,,35.37,Clover SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-452405,Albany Hot Dog Rolls,Albany,Fresh Food,Bakery,6,,22.14,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-770825,Sasko Premium White Bread,Sasko,Fresh Food,Bakery,1,,19.8,Pioneer Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-971818,Albany White Bread,Albany,Fresh Food,Bakery,1,,16.26,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-177709,Nulaid Large Eggs,Nulaid,Fresh Food,Dairy & Eggs,18,,50.58,Quantum Foods,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-319264,Handy Andy Ammonia Floor Cleaner,Handy Andy,Household,Cleaning Supplies,750,,29.65,Unilever,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-796941,Coca-Cola Coca-Cola No Sugar,Coca-Cola,Beverages,Drinks & Beverages,2,,23.02,Coca-Cola Beverages SA,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-468309,Cadbury Dairy Milk Chocolate Slab,Cadbury,Grocery Essentials,Snacks & Confectionery,150,,29.26,Mondelez,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-657682,Crystal Valley Plain Yoghurt,Crystal Valley,Fresh Food,Dairy & Eggs,1,,33.65,Lancewood,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-360919,Danone NutriDay Plain Yoghurt,Danone,Fresh Food,Dairy & Eggs,1,,31.91,Danone,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-751158,Danone NutriDay Plain Yoghurt,Danone,Fresh Food,Dairy & Eggs,1,,34.33,Danone,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
+SKU-670131,Albany Hot Dog Rolls,Albany,Fresh Food,Bakery,6,,18.96,Tiger Brands,SAP_ERP,2026-02-24 03:55:58,BATCH-20260224-01
