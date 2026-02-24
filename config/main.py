@@ -127,7 +127,7 @@ def generate_product(row_count: int) -> list[dict]:
             "brand": brand,
             "division": division_enum.value,
             "category": category_enum.value.category_name,
-            "unit_of_measure(varients)": uom_enum.value,
+            "variant": uom_enum.value,
             "pack_size": pack_size,
             "standard_cost": standard_cost,
             "supplier_name": template["supplier"].value,
@@ -212,13 +212,20 @@ def generate_orders(row_count: int, customers: list[dict], products: list[dict],
     batch_id = generate_batch_id()
     load_timestamp = current_load_timestamp()
 
+    gross_prices_by_sku: dict[str, list[dict]] = {}
+    for gp in gross_prices:
+        gross_prices_by_sku.setdefault(gp["product_sku"], []).append(gp)
+
     order_dates = _generate_order_dates(row_count, chunk_size)
 
     for i in range(row_count):
         customer = random.choice(customers)
         product = random.choice(products)
-        gross_price = random.choice(gross_prices)
+        price_pool = gross_prices_by_sku.get(product["product_sku"], gross_prices)
+        gross_price = random.choice(price_pool)
         order_date = order_dates[i]
+
+        
         
         # Late Arrival Injection: ~2% of orders have their load_timestamp delayed
         order_load_timestamp = load_timestamp
@@ -237,6 +244,11 @@ def generate_orders(row_count: int, customers: list[dict], products: list[dict],
             except Exception:
                 pass
 
+        quantity = random.randint(10, 999)
+        gross_sales_amount = round(gross_price["gross_price"] * quantity, 2)
+        discount_amount = round(gross_sales_amount * 0.03, 2)
+        net_sales_amount = round(gross_sales_amount - discount_amount, 2)
+
         orders.append({
             "order_id": _order_id(),
             "order_date": order_date,
@@ -245,10 +257,10 @@ def generate_orders(row_count: int, customers: list[dict], products: list[dict],
             "product_sku": product["product_sku"],
             "store_code": customer["store_code"],
             "channel": customer["channel"],
-            "quantity": random.randint(10, 999),
-            "gross_sales_amount": gross_price["gross_price"],
-            "discount_amount": round(gross_price["gross_price"] * 0.03, 2),
-            "net_sales_amount": round(gross_price["gross_price"] - (gross_price["gross_price"] * 0.03), 2),
+            "quantity": quantity,
+            "gross_sales_amount": gross_sales_amount,
+            "discount_amount": discount_amount,
+            "net_sales_amount": net_sales_amount,
             "payment_method": random.choice(list(PaymentMethodEnum)).value,
             "currency": gross_price["currency"],
             "price_type": gross_price["price_type"],
