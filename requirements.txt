@@ -2,3 +2,4 @@ faker
 numpy
 pandas
 python-dotenv
+pyyaml
