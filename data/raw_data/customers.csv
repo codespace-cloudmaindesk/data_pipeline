@@ -1,508 +1,501 @@
 customer_code,customer_name,customer_type,channel,store_code,store_name,city,province,source_system,load_timestamp,batch_id
-CUST-776148,Nomalanga Bhejelibomvu,Bulk,In-Store,CHK,Checkers,Kimberley,Northern Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-156777,Siyabonga Mgilija,Bulk,Online,CHK,Checkers,Pretoria,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-780411,Sibusiso Qomazitha,Wholesale,Online,USV,Usave,Bloemfontein,Free State,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-129389,Dumisile Mpikela-Mbongwa,Retail,In-Store,CHK,Checkers,Mbombela,Mpumalanga,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-521349,Bhuti Langalibalele Mavuso,Bulk,Online,C60,Checkers Sixty60,Bloemfontein,Free State,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-506956,Nhlanhla Mashasha-Mabhena,Wholesale,In-Store,USV,Usave,Stellenbosch,Western Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-337155,Thembile Nqumela,Wholesale,Online,SHOP,Shoprite,Pretoria,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-192467,Dade Nomthandazo Nkamzwayo,Retail,In-Store,USV,Usave,Pretoria,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-446298,Mnumzane Njabulo Manyoni,Wholesale,Online,C60,Checkers Sixty60,Stellenbosch,Western Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-164228,Nomusa Maseko,Bulk,Online,USV,Usave,Pretoria,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-250362,Andile Xhakaza,Retail,In-Store,CHK,Checkers,Pietermaritzburg,KwaZulu-Natal,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-795240,S'fiso Sikwayo,Wholesale,Online,USV,Usave,Pretoria,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-581936,Thabisa Mkhithi-Mdotshana,Bulk,Online,USV,Usave,Pretoria,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-111778,Zinhle Sigagu,Retail,In-Store,CHK,Checkers,Rustenburg,North West,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-507691,Thabisile Madlula-Magwaza,Retail,Online,SHOP,Shoprite,Kimberley,Northern Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-418293,Mzamo Ngiba,Bulk,Online,SHOP,Shoprite,Mbombela,Mpumalanga,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-756444,Thandazile Ndimande-Magutshwa,Bulk,Online,CHK,Checkers,Johannesburg,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-270064,Noxolo Nyanda,Wholesale,In-Store,SHOP,Shoprite,Soweto,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-612207,Mnqobi Mthanti,Retail,,CHK,Checkers,Tembisa,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-898961,Thembekile Mabhena,Retail,Online,USV,Usave,Polokwane,Limpopo,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-870197,Silondile Mnomiya,Bulk,In-Store,CHK,Checkers,Tembisa,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-274641,Nqobizitha Khukhuza,Retail,In-Store,USV,Usave,Bloemfontein,Free State,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-652129,S'fiso Mthiya,Bulk,Online,USV,Usave,Polokwane,Limpopo,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-301072,Bhekani Manzezulu,Bulk,Online,CHK,Checkers,Rustenburg,North West,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-226818,Nomalanga Bhedleni,Bulk,In-Store,SHOP,Shoprite,Cape Town,Western Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-454239,Siyabonga Sigegede,Bulk,In-Store,USV,Usave,Polokwane,Limpopo,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-526853,Baba Musa Mgabadeli,Wholesale,In-Store,USV,Usave,Stellenbosch,Western Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-909284,Thembisile Mkhize,Retail,In-Store,USV,Usave,Johannesburg,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-791011,Nkosazana Nomathalente Ntenga,Retail,Online,C60,Checkers Sixty60,Tembisa,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-882865,Nonjabulo Dlakadla,Wholesale,Online,C60,Checkers Sixty60,Tembisa,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-889659,Mcebisi Mlotshwa,Retail,Online,C60,Checkers Sixty60,Stellenbosch,Western Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-884565,Mrs. Nobuhle Sithuli,Retail,Online,SHOP,Shoprite,Durban,KwaZulu-Natal,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-552313,Nobantu Sibindi,Retail,Online,C60,Checkers Sixty60,Cape Town,Western Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-120065,Thembekile Mabuza,Wholesale,Online,USV,Usave,Rustenburg,North West,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-802405,Bandile Thobeni,Wholesale,In-Store,USV,Usave,Rustenburg,North West,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-653210,Luyanda Jili,Bulk,In-Store,USV,Usave,Pietermaritzburg,KwaZulu-Natal,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-889557,Vusumuzi Khuboni,Bulk,Online,CHK,Checkers,Polokwane,Limpopo,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-692143,Njabulo Masibekela,Retail,In-Store,SHOP,Shoprite,Pretoria,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-645585,Andile Magagula,Bulk,Online,CHK,Checkers,Bloemfontein,Free State,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-381139,Nomathemba Mashaba,Bulk,In-Store,CHK,Checkers,Kimberley,Northern Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-178758,Sibusiso Mangena,Retail,Online,SHOP,Shoprite,Soweto,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-551436,Thandazile Langa,Retail,Online,USV,Usave,Pretoria,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-980780,Nkosazana Nomathemba Ngcamane,Bulk,Online,C60,Checkers Sixty60,Johannesburg,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-861523,Mzamo Nkomose,Retail,Online,SHOP,Shoprite,Mbombela,Mpumalanga,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-363625,Vusumuzi Mvuyana,Bulk,In-Store,SHOP,Shoprite,Cape Town,Western Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-879307,Thalente Mvubu,Bulk,Online,C60,Checkers Sixty60,Polokwane,Limpopo,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-875849,Dr. Nomcebo Mgilija,Bulk,In-Store,CHK,Checkers,Kimberley,Northern Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-534668,Vusumuzi Bhedleni,Wholesale,In-Store,CHK,Checkers,Polokwane,Limpopo,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-518573,Mcebisi Khumalo,Retail,In-Store,SHOP,Shoprite,,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-534442,Njabulo Magwaza,Retail,Online,SHOP,Shoprite,Tembisa,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-373132,Sithembiso Thoyana,Retail,In-Store,USV,Usave,Kimberley,Northern Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-334799,Amahle Thoyana,Wholesale,In-Store,C60,Checkers Sixty60,Polokwane,Limpopo,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-111016,Silondile Mkholo-Vezi,Bulk,Online,USV,Usave,Soweto,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-386832,Mandlakhe Gabhisa,Retail,Online,SHOP,Shoprite,Pietermaritzburg,KwaZulu-Natal,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-902417,Jabulani Hlomuka-Mbili,Retail,Online,USV,Usave,Tembisa,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-536255,Miss Sibongile Mlangeni,Bulk,In-Store,USV,Usave,Cape Town,Western Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-648719,Bandile Nongalaza,Retail,In-Store,SHOP,Shoprite,Durban,KwaZulu-Natal,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-842551,Bhekisisa Dlakadla,Retail,Online,CHK,Checkers,Pretoria,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-962102,Siphesihle Sangwani,Retail,In-Store,USV,Usave,Tembisa,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-268609,Mnumzane Sibusiso Lakaza,Wholesale,Online,USV,Usave,Bloemfontein,Free State,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-497695,Noxolo Hlumakazi,Wholesale,Online,CHK,Checkers,Stellenbosch,Western Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-413539,Nomasonto Mhlangu,Retail,Online,USV,Usave,Durban,KwaZulu-Natal,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-669791,Zibuyile Gubhuza,Wholesale,Online,SHOP,Shoprite,Rustenburg,North West,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-941828,Sphiwe Madide-Magoza,Bulk,In-Store,USV,Usave,Mbombela,Mpumalanga,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-206259,Nomagugu Sikhunyana,Bulk,Online,SHOP,Shoprite,Soweto,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-657776,Nkosikazi Owethu Mzobe,Wholesale,Online,CHK,Checkers,Johannesburg,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-246015,Silondile Sokhulu,Bulk,In-Store,C60,Checkers Sixty60,Kimberley,Northern Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-422508,Sibonelo Mtimande,Bulk,In-Store,CHK,Checkers,Johannesburg,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-822257,Mr. Langalibalele Ngiba,Retail,In-Store,C60,Checkers Sixty60,Polokwane,Limpopo,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-903517,Dumisani Mkholo,Wholesale,Online,USV,Usave,Pretoria,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-477448,Zibuyile Mthalane-Nduli,Bulk,Online,USV,Usave,Pretoria,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-639475,Ms. Silondile Mthethwa,Retail,Online,SHOP,Shoprite,Soweto,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-313990,Nozibusiso Nzamela,Wholesale,Online,USV,Usave,Soweto,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-214820,Langalibalele Fakazi-Mthonti,Bulk,Online,USV,Usave,Mbombela,Mpumalanga,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-180455,Thembekile Msomi,Bulk,In-Store,USV,Usave,Cape Town,Western Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-133323,Bhekokwakhe Mnqamu-Khaphela,Retail,In-Store,SHOP,Shoprite,Mbombela,Mpumalanga,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-770883,Thalente Mbongwe,Wholesale,Online,USV,Usave,Pretoria,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-218743,Dr. Bhekizizwe Mqungebe,Bulk,In-Store,C60,Checkers Sixty60,Polokwane,Limpopo,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-799393,Silondile Magagula-Mntungwa,Bulk,Online,USV,Usave,Bloemfontein,Free State,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-598219,Minenhle Ndosi,Retail,In-Store,SHOP,Shoprite,Bloemfontein,Free State,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-416638,Mandlakhe Mlungwana,Wholesale,Online,CHK,Checkers,Cape Town,Western Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-887514,Simphiwe Luvuno,Bulk,Online,C60,Checkers Sixty60,Pietermaritzburg,KwaZulu-Natal,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-825581,Mandla Nogantshi,Wholesale,In-Store,USV,Usave,Kimberley,Northern Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-772057,Minenhle Ngubeni-Maphalala,Bulk,In-Store,CHK,Checkers,Durban,KwaZulu-Natal,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-807103,Njabulo Nhlanhla,Retail,In-Store,C60,Checkers Sixty60,Durban,KwaZulu-Natal,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-580683,Dade Khanyisile Jamasijadu,Bulk,Online,CHK,Checkers,Kimberley,Northern Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-717005,Ndumiso Mdletshe,Bulk,In-Store,SHOP,Shoprite,Durban,KwaZulu-Natal,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-819903,Gugu Mbatshazwa,Bulk,Online,SHOP,Shoprite,Rustenburg,North West,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-554407,Thembile Kweyama,Bulk,Online,C60,Checkers Sixty60,Soweto,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-915339,Nkosikazi Thuthukile Manzi,Retail,In-Store,SHOP,Shoprite,Pietermaritzburg,KwaZulu-Natal,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-498111,Lwandile Ndawo-Msane,Retail,In-Store,USV,Usave,Pietermaritzburg,KwaZulu-Natal,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-410497,Mrs. Thandeka Sondini,Wholesale,In-Store,SHOP,Shoprite,Soweto,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-325973,Nomagugu Madela,Bulk,Online,USV,Usave,Polokwane,Limpopo,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-631783,Minenhle Mbuli,Wholesale,Online,C60,Checkers Sixty60,Mbombela,Mpumalanga,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-909176,Dade Noxolo Mdlenevu,Wholesale,In-Store,CHK,Checkers,Mbombela,Mpumalanga,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-909176,Dade Noxolo Mdlenevu,Wholesale,In-Store,CHK,Checkers,Mbombela,Mpumalanga,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-224502,Sibongile Andile,Retail,Online,USV,Usave,Pietermaritzburg,KwaZulu-Natal,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-147161,Dr. Langalibalele Xaba,Bulk,In-Store,SHOP,Shoprite,Polokwane,Limpopo,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-316979,Mandla Sithole,Wholesale,Online,C60,Checkers Sixty60,Soweto,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-777423,Siphesihle Mathebula,Bulk,Online,USV,Usave,Kimberley,Northern Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-325102,Mr. Thabani Mashaba,Bulk,In-Store,CHK,Checkers,Polokwane,Limpopo,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-111555,Mnqobi Delwayo,Wholesale,In-Store,CHK,Checkers,Pretoria,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-482192,Lungile Nontanda,Wholesale,Online,C60,Checkers Sixty60,Stellenbosch,Western Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-137233,Dade Silondile Tukane,Bulk,Online,SHOP,Shoprite,Polokwane,Limpopo,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-898450,Zakhele Mbhense,Retail,Online,CHK,Checkers,Soweto,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-123481,Zakhele Mdlanyoka,Bulk,In-Store,CHK,Checkers,Pietermaritzburg,KwaZulu-Natal,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-465699,SimphiweyiNkosi Manana,Retail,Online,USV,Usave,Durban,KwaZulu-Natal,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-468916,Dr. Thabisile Ntshiza,Retail,Online,C60,Checkers Sixty60,Pietermaritzburg,KwaZulu-Natal,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-267418,Thandiwe Dlomo,Bulk,Online,C60,Checkers Sixty60,Durban,KwaZulu-Natal,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-855876,Mr. Minenhle Phoseka,Retail,Online,USV,Usave,Durban,KwaZulu-Natal,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-442258,Baba Luyanda Phikela,Retail,Online,USV,Usave,Kimberley,Northern Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-724643,Dr. Mthokozisi Mbongwe,Retail,In-Store,USV,Usave,Kimberley,Northern Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-808400,Mnumzane Sandile Mathaba,Wholesale,Online,CHK,Checkers,Tembisa,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-808400,Mnumzane Sandile Mathaba,Wholesale,Online,CHK,Checkers,Tembisa,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-770292,Sibusiso Mlotshwa,Wholesale,In-Store,C60,Checkers Sixty60,Johannesburg,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-455930,Lungile Mshiyane,Bulk,In-Store,USV,Usave,Bloemfontein,Free State,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-169350,Thalente Gcaleka,Wholesale,In-Store,SHOP,Shoprite,Polokwane,Limpopo,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-916993,Mlungisi Mathunjwa,Wholesale,Online,SHOP,Shoprite,Mbombela,Mpumalanga,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-516955,Musa Mayisela,Bulk,In-Store,USV,Usave,Cape Town,Western Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-690425,Dr. Sithembiso Bantwini,Wholesale,In-Store,SHOP,Shoprite,Soweto,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-469061,Sibusisiwe Magujwa,Retail,In-Store,CHK,Checkers,Pretoria,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-226890,Mnumzane Mthokozisi Mphemba,Retail,In-Store,SHOP,Shoprite,Pietermaritzburg,KwaZulu-Natal,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-928114,Jabulani Mbhulangwe,Wholesale,Online,CHK,Checkers,Polokwane,Limpopo,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-174895,Busisiwe Gabela,Bulk,Online,CHK,Checkers,Johannesburg,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-580523,Minenhle Mbatha,Bulk,Online,SHOP,Shoprite,Cape Town,Western Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-299187,Sphiwe Malevu,Retail,In-Store,C60,Checkers Sixty60,Johannesburg,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-381165,Thembile Mashiya,Bulk,In-Store,USV,Usave,Cape Town,Western Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-329446,Thabisile Mangcamane,Bulk,Online,C60,Checkers Sixty60,Stellenbosch,Western Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-987294,Siyabonga Nkosi-Shabane,Wholesale,Online,C60,Checkers Sixty60,Kimberley,Northern Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-173303,Nomvula Menziwa,Bulk,Online,USV,Usave,Rustenburg,North West,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-741818,Nozizwe Mbuyise,Bulk,In-Store,CHK,Checkers,Durban,KwaZulu-Natal,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-312974,Noxolo Madinane,Wholesale,Online,USV,Usave,Kimberley,Northern Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-912479,Nobuhle Msane,Bulk,Online,SHOP,Shoprite,Rustenburg,North West,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-530676,Khanyisile Jokiwe,Retail,Online,C60,Checkers Sixty60,Mbombela,Mpumalanga,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-519113,Mrs. Siphesihle Delwayo,Retail,Online,C60,Checkers Sixty60,Johannesburg,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-438512,Sibusisiwe Mbili,Bulk,In-Store,USV,Usave,Soweto,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-281395,Thandazile Duma,Retail,Online,CHK,Checkers,Soweto,,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-716471,Nkosazana Nomthandazo Lakaza,Bulk,In-Store,CHK,Checkers,Cape Town,Western Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-887164,Owethu Vangisa-Ncwane,Wholesale,In-Store,USV,Usave,Soweto,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-597436,Nkosazana Amahle Ngcamu,Wholesale,In-Store,C60,Checkers Sixty60,Durban,KwaZulu-Natal,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-108499,Ndumiso Mbongwa-Nenzi,Bulk,Online,CHK,Checkers,Stellenbosch,Western Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-466528,Nobuhle Nodanga,Wholesale,Online,SHOP,Shoprite,,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-140229,Lwandile Mgabhi,Bulk,In-Store,USV,Usave,Polokwane,Limpopo,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-565686,Baba Sphiwe Jali,Bulk,Online,USV,Usave,Stellenbosch,Western Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-308483,Mr. Jabulani Mamba,Retail,In-Store,USV,Usave,Pietermaritzburg,KwaZulu-Natal,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-401730,Siyabonga Mshengu,Wholesale,In-Store,CHK,Checkers,Kimberley,Northern Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-443099,Mrs. Olwethu Anele,Bulk,Online,CHK,Checkers,Pretoria,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-251534,Ms. Mnqobi Shinga,Wholesale,Online,CHK,Checkers,Johannesburg,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-689769,Dr. Nomasonto Langeni,Wholesale,Online,CHK,Checkers,Mbombela,Mpumalanga,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-135808,Bhuti Thabani Mantshinga,Retail,Online,USV,Usave,Pietermaritzburg,KwaZulu-Natal,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-684496,Dade Owethu Mahamba,Retail,Online,SHOP,Shoprite,Stellenbosch,Western Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-819155,Gugu Ndwandwe,Retail,In-Store,USV,Usave,Kimberley,Northern Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-927597,Musa Gadlela,Retail,In-Store,SHOP,Shoprite,Polokwane,Limpopo,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-687139,Bhuti Mandlakhe Sikhunyana,Wholesale,In-Store,USV,Usave,Cape Town,Western Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-975580,Zinhle Ncala,Bulk,Online,CHK,Checkers,Pretoria,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-694882,Luyanda Mazwi,Wholesale,In-Store,SHOP,Shoprite,Mbombela,Mpumalanga,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-114113,Nhlanhla Sijadu,Retail,In-Store,SHOP,Shoprite,Cape Town,Western Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-656741,Mrs. Nonjabulo Khosini,Wholesale,In-Store,C60,Checkers Sixty60,Soweto,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-841976,Dade Nomvula Mgobhozi,Wholesale,Online,C60,Checkers Sixty60,Soweto,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-756354,Mlungisi Gotsholo,Bulk,In-Store,USV,Usave,Stellenbosch,Western Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-951851,Dade Thuthukile Magolwana,Retail,Online,SHOP,Shoprite,Rustenburg,North West,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-700775,Nkazimulo Maphisa,Wholesale,In-Store,SHOP,Shoprite,Rustenburg,North West,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-888564,Mnumzane Sandile Mabaso,Retail,In-Store,C60,Checkers Sixty60,Tembisa,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-358940,Dumisile Songiya,Bulk,Online,CHK,Checkers,Soweto,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-426411,Lungile Mngoma,Retail,In-Store,C60,Checkers Sixty60,Cape Town,Western Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-636954,Nobuhle Bophela,Retail,Online,SHOP,Shoprite,Durban,KwaZulu-Natal,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-307698,Njabulo Hlophe,Wholesale,Online,C60,Checkers Sixty60,Rustenburg,North West,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-602327,Siyabonga Mdaka,Wholesale,Online,USV,Usave,Cape Town,Western Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-657558,Sibonelo Nowanqa,Bulk,Online,CHK,Checkers,Rustenburg,North West,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-940106,Dr. Nhlanhla Nkwali,Wholesale,In-Store,C60,Checkers Sixty60,Soweto,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-769182,Mama Thembekile Ndlovu,Bulk,Online,CHK,Checkers,Johannesburg,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-994940,Sphiwe Nyongwana,Wholesale,In-Store,CHK,Checkers,Stellenbosch,Western Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-628856,Dumisani Mazwi,Retail,Online,SHOP,Shoprite,Polokwane,Limpopo,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-500754,Simphiwe Gabhezi-Masikane,Wholesale,In-Store,SHOP,Shoprite,Rustenburg,North West,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-786536,Nkosikazi Siphesihle Shengele,Bulk,In-Store,SHOP,Shoprite,Polokwane,Limpopo,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-786536,Nkosikazi Siphesihle Shengele,Bulk,In-Store,SHOP,Shoprite,Polokwane,Limpopo,CRM,2026-02-24 04:09:54,BATCH-20260224-01
-CUST-327845,Nomusa Dubandlela-Caluza,Wholesale,Online,SHOP,Shoprite,Pretoria,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-208600,Simphiwe Nzamela,Bulk,Online,CHK,Checkers,Kimberley,Northern Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-942847,Mnumzane Andile Mazibuko,Retail,Online,C60,Checkers Sixty60,Kimberley,Northern Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-158032,Gugu Ndiyema-Nyathi,Retail,In-Store,C60,Checkers Sixty60,Durban,KwaZulu-Natal,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-236547,Nhlanhla Mncube,Wholesale,Online,C60,Checkers Sixty60,Pretoria,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-242136,Mr. Sibusiso Mnqayi,Wholesale,In-Store,C60,Checkers Sixty60,Durban,KwaZulu-Natal,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-203104,Baba Thalente Mdotshana,Wholesale,Online,SHOP,Shoprite,,Limpopo,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-806918,Bhekani Gabhisa-Mshibe,Retail,Online,USV,Usave,Johannesburg,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-714406,Nobantu Sibeko,Wholesale,Online,C60,Checkers Sixty60,Rustenburg,North West,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-514342,Sibusisiwe Maduma,Retail,Online,USV,Usave,Pietermaritzburg,KwaZulu-Natal,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-134380,Dr. Minenhle Khwela,Wholesale,Online,C60,Checkers Sixty60,Polokwane,Limpopo,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-775436,Siphesihle Shezi-Mahaye,Bulk,In-Store,C60,Checkers Sixty60,Kimberley,Northern Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-370899,Mnumzane Lwandile Tukane,Bulk,In-Store,CHK,Checkers,Bloemfontein,Free State,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-687772,Nkosazana Nomthandazo Vangisa,Retail,In-Store,C60,Checkers Sixty60,Polokwane,Limpopo,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-685151,Bhuti Mthokozisi Ndosi,Retail,In-Store,USV,Usave,Kimberley,Northern Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-353622,Langalibalele Ngcamane,Retail,In-Store,CHK,Checkers,Pretoria,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-490474,Minenhle Mhlongo,Bulk,In-Store,C60,Checkers Sixty60,Durban,KwaZulu-Natal,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-285297,Siyabonga Jokiwe,Wholesale,In-Store,C60,Checkers Sixty60,Rustenburg,North West,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-841020,Miss Olwethu Dlangamandla,Bulk,In-Store,SHOP,Shoprite,Pretoria,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-741013,Bhuti Minenhle Nandisa,Bulk,Online,C60,Checkers Sixty60,Johannesburg,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-977874,Mnumzane Sibonelo Nkumane,Bulk,In-Store,C60,Checkers Sixty60,Mbombela,Mpumalanga,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-110673,Bhekizizwe Gubeshe,Wholesale,In-Store,CHK,Checkers,Cape Town,Western Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-711487,Baba Bandile Mayisela,Retail,Online,USV,Usave,Mbombela,Mpumalanga,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-667409,Mr. Zenzele Hlubi,Bulk,In-Store,USV,Usave,Pretoria,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-478292,S'fiso Sitolotolo,Retail,Online,USV,Usave,Cape Town,Western Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-109978,Nkosikazi Nonjabulo Luvuno,Bulk,In-Store,USV,Usave,Tembisa,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-759021,Miss Thalente Makhaye,Bulk,In-Store,CHK,Checkers,Soweto,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-645011,Dade Bhekizizwe Sandanezwe,Retail,In-Store,SHOP,Shoprite,Pretoria,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-186429,Dr. Dumisani Ntaka,Wholesale,In-Store,USV,Usave,Polokwane,Limpopo,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-576142,Baba Thabani Yengwa,Retail,In-Store,C60,Checkers Sixty60,Johannesburg,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-731297,Lungile Khumbuza,Bulk,In-Store,USV,Usave,Pretoria,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-464291,Sphiwe Dlamdaka,Wholesale,Online,SHOP,Shoprite,Bloemfontein,Free State,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-804059,Sandile Nkomose,Retail,Online,SHOP,Shoprite,Bloemfontein,Free State,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-670097,Thalente Qomazitha-Mdlanyoka,Bulk,In-Store,CHK,Checkers,Kimberley,Northern Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-822668,Sibonelo Sithombo-Sibaya,Wholesale,In-Store,CHK,Checkers,Johannesburg,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-858789,Nozizwe Nontanda,Bulk,Online,CHK,Checkers,Pretoria,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-681506,Zinhle Malevu,Retail,In-Store,CHK,Checkers,Tembisa,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-647394,Dade Olwethu Sokhwebula,Retail,In-Store,C60,,Durban,KwaZulu-Natal,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-107179,Thandiwe Sishi,Wholesale,Online,SHOP,Shoprite,Durban,KwaZulu-Natal,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-446501,Londisizwe Sompisi,Retail,Online,C60,Checkers Sixty60,Mbombela,Mpumalanga,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-949970,Bhekani Mabhena-Ngubane,Retail,In-Store,SHOP,Shoprite,Polokwane,Limpopo,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-635027,SimphiweyiNkosi Phoswa,Retail,Online,USV,Usave,Cape Town,Western Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-606417,Thembekile Gatsheni,Bulk,Online,SHOP,Shoprite,Tembisa,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-798090,Mlungisi Jele,Wholesale,Online,CHK,Checkers,Rustenburg,North West,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-680791,Vusumuzi Bhensela-Mthalane,Retail,Online,USV,Usave,,Mpumalanga,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-624091,SimphiweyiNkosi Mayisela-Masina,Bulk,In-Store,CHK,Checkers,Polokwane,Limpopo,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-168652,Lwandile Mdonswa-Mdlenevu,Wholesale,Online,C60,Checkers Sixty60,Rustenburg,North West,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-879509,Nomasonto Godide-Kunene,Bulk,In-Store,CHK,Checkers,Cape Town,Western Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-602143,Dr. Nomusa Myeza,Wholesale,Online,SHOP,Shoprite,Tembisa,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-466997,Sibonelo Blose-Phethela,Wholesale,In-Store,SHOP,Shoprite,Cape Town,Western Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-953676,Mthokozisi Mabaso-Manqele,Retail,In-Store,CHK,Checkers,Polokwane,Limpopo,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-351687,Musa Hlatshwayo,Wholesale,Online,SHOP,Shoprite,Polokwane,Limpopo,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-587451,Dumisani Mthethwa-Dlabane,Bulk,In-Store,SHOP,Shoprite,Pretoria,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-449273,Mr. Sibonelo Ngomane,Bulk,In-Store,USV,Usave,Kimberley,Northern Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-890122,Siphesihle Mthimkhulu,Bulk,Online,C60,Checkers Sixty60,Durban,KwaZulu-Natal,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-687050,Sithembiso Gwagwa-Dikane,Wholesale,In-Store,CHK,Checkers,Soweto,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-301377,Mcebisi Nkwaliyenkosi,Wholesale,In-Store,USV,Usave,Bloemfontein,Free State,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-156993,Thabani Fakazi,Wholesale,Online,SHOP,Shoprite,Johannesburg,,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-524252,Bhekani Shabane,Retail,Online,CHK,Checkers,Johannesburg,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-573123,Miss Nomasonto Gwagwa,Bulk,In-Store,SHOP,Shoprite,Rustenburg,North West,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-631312,Sibonelo Mbeje,Retail,In-Store,SHOP,Shoprite,Rustenburg,North West,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-968049,Lwandile Mlungisi,Retail,In-Store,SHOP,Shoprite,Soweto,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-307011,Lungile Thusi,Wholesale,In-Store,USV,Usave,Stellenbosch,Western Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-178934,Sibusisiwe Dlangamandla,Bulk,In-Store,SHOP,Shoprite,Soweto,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-147522,Thabani Ndinisa,Wholesale,In-Store,CHK,Checkers,Pretoria,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-653846,Thalente Mnyandu,Retail,In-Store,USV,Usave,Kimberley,Northern Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-604640,Thabani Mzimela,Retail,In-Store,CHK,Checkers,Bloemfontein,Free State,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-372534,Thabani Sibeko-Kweyama,Wholesale,In-Store,CHK,Checkers,Stellenbosch,Western Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-695156,Ms. Khanyisile Shamase,Retail,Online,CHK,Checkers,Mbombela,Mpumalanga,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-344349,Thandazile Mdotshana-Mdladla,Wholesale,In-Store,USV,Usave,Polokwane,Limpopo,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-435394,Mrs. Thembisile Ncusi,Bulk,In-Store,C60,Checkers Sixty60,Polokwane,Limpopo,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-497536,S'fiso Ludonga,Bulk,In-Store,C60,Checkers Sixty60,Pretoria,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-869903,Bhuti S'fiso Mlungwana,Wholesale,Online,USV,Usave,Rustenburg,North West,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-301580,Mr. S'fiso Dludla,Bulk,Online,CHK,Checkers,Pretoria,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-946641,Minenhle Thuliswayo-Thabekhulu,Bulk,Online,SHOP,Shoprite,Mbombela,Mpumalanga,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-379268,Nomathemba Mnomiya,Bulk,Online,USV,Usave,Tembisa,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-477662,Baba Lwandile Mehloluhlaza,Wholesale,Online,C60,Checkers Sixty60,Pretoria,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-304110,Sibongile Nkwanyana,Bulk,Online,CHK,Checkers,Stellenbosch,Western Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-565540,Mnumzane Thabani Mkhabela,Retail,Online,USV,Usave,Stellenbosch,Western Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-158527,Nomthandazo Mavuso-Hadebe,Bulk,Online,CHK,Checkers,Kimberley,Northern Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-695158,Bhuti Nhlanhla Mangena,Retail,Online,C60,Checkers Sixty60,Bloemfontein,Free State,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-338580,Baba Jabulani Gwamanda,Retail,Online,C60,Checkers Sixty60,Cape Town,Western Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-156245,Luyanda Madi,Bulk,Online,C60,Checkers Sixty60,Durban,KwaZulu-Natal,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-872568,Bhuti Zenzele Mashasha,Wholesale,Online,USV,Usave,Cape Town,Western Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-229814,Mrs. Thembekile Fakude,Wholesale,Online,SHOP,Shoprite,Rustenburg,North West,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-781565,Thabisile Magononde,Retail,In-Store,C60,Checkers Sixty60,Mbombela,Mpumalanga,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-640885,Sibusiso Mshengu,Wholesale,In-Store,C60,Checkers Sixty60,Tembisa,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-994976,Nomalanga Shinga,Bulk,Online,USV,Usave,Durban,KwaZulu-Natal,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-994976,Nomalanga Shinga,Bulk,Online,USV,Usave,Durban,KwaZulu-Natal,CRM,2026-02-24 04:09:54,BATCH-20260224-01
-CUST-112866,Bhuti SimphiweyiNkosi Mantshinga,Bulk,In-Store,SHOP,Shoprite,Polokwane,Limpopo,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-526403,Mnumzane Mzamo Gwala,Retail,In-Store,SHOP,Shoprite,Bloemfontein,Free State,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-799337,Mandla Makhunga,Bulk,Online,USV,Usave,Johannesburg,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-459140,Bhuti S'fiso Mtuswa,Wholesale,In-Store,USV,Usave,Pietermaritzburg,KwaZulu-Natal,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-802557,Mlungisi Nonkosi,Retail,Online,USV,Usave,Johannesburg,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-626504,Siphesihle Ndlanzi,Bulk,Online,USV,Usave,Mbombela,Mpumalanga,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-140466,Gugulethu Sabelo-Mjadu,Retail,Online,SHOP,Shoprite,Mbombela,Mpumalanga,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-141490,Baba Lungile Khambule,Retail,Online,C60,Checkers Sixty60,Durban,KwaZulu-Natal,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-106285,Sibusiso Mtolo-Masibekela,Bulk,Online,C60,Checkers Sixty60,Rustenburg,North West,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-877641,Langalibalele Mangede,Bulk,In-Store,CHK,Checkers,Polokwane,Limpopo,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-827532,Dade Nokulunga Malevu,Bulk,Online,SHOP,Shoprite,Stellenbosch,Western Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-287165,Noxolo Cibane,Bulk,Online,CHK,Checkers,Tembisa,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-334875,Andile Mondise,Retail,Online,USV,Usave,Bloemfontein,Free State,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-859209,Mzamo Gigaba,Wholesale,In-Store,USV,Usave,Bloemfontein,Free State,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-272356,Sibongile Nqumela-Lubelo,Bulk,Online,USV,Usave,Soweto,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-564367,Jabulani Bantwini-Qwabe,Bulk,In-Store,C60,Checkers Sixty60,Tembisa,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-934951,Dr. Andile Mncwabe,Wholesale,Online,C60,Checkers Sixty60,Stellenbosch,Western Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-965268,Owethu Nkundlande,Retail,Online,SHOP,Shoprite,Rustenburg,North West,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-978100,Bandile Siyeshe,Wholesale,In-Store,C60,Checkers Sixty60,Cape Town,Western Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-662128,Mcebisi Ndiyema-Ngobese,Wholesale,Online,C60,Checkers Sixty60,Mbombela,Mpumalanga,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-769025,Nkosikazi Sithembiso Mzobe,Retail,Online,USV,Usave,Tembisa,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-282665,Nkosikazi Nokulunga Mbongwe,Wholesale,Online,C60,Checkers Sixty60,Cape Town,Western Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-606562,Ndumiso Goba,Wholesale,Online,USV,Usave,Johannesburg,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-431526,Thabisile Mnqayi-Nombhoco,Bulk,In-Store,CHK,Checkers,Bloemfontein,Free State,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-504816,Londisizwe Mzobe,Retail,Online,USV,Usave,Kimberley,Northern Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-807227,Simphiwe Nkosi,Bulk,Online,USV,Usave,Bloemfontein,Free State,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-128903,Mzamo Menziwa,Wholesale,In-Store,SHOP,Shoprite,Cape Town,Western Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-615721,Dr. Simphiwe Ngobese,Bulk,Online,CHK,Checkers,Rustenburg,North West,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-523700,Vusumuzi Mgabhi,Bulk,Online,SHOP,Shoprite,Pietermaritzburg,KwaZulu-Natal,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-713842,Thando Sibiya,Retail,In-Store,CHK,Checkers,Pietermaritzburg,KwaZulu-Natal,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-287229,Owethu Chagwe,Bulk,In-Store,C60,Checkers Sixty60,Durban,KwaZulu-Natal,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-930818,Ms. Nothando Dindela,Bulk,In-Store,USV,Usave,Polokwane,Limpopo,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-793571,Bhuti Vusumuzi Mpumuza,Wholesale,Online,CHK,Checkers,Johannesburg,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-224998,Thembile Mnqamu,Wholesale,Online,USV,Usave,Johannesburg,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-860164,SimphiweyiNkosi Njiki,Wholesale,In-Store,C60,Checkers Sixty60,Stellenbosch,Western Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-541706,S'fiso Mdlenevu,Bulk,In-Store,SHOP,Shoprite,Bloemfontein,Free State,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-983397,Zenzile Lembede,Wholesale,Online,SHOP,Shoprite,Durban,KwaZulu-Natal,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-874476,Mrs. Nozibusiso Mdluli,Wholesale,Online,C60,Checkers Sixty60,Soweto,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-336046,Bhekizizwe Njomane,Retail,Online,C60,Checkers Sixty60,Johannesburg,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-512751,Nozibusiso Nkosi,Retail,In-Store,USV,Usave,Bloemfontein,Free State,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-512751,Nozibusiso Nkosi,Retail,In-Store,USV,Usave,Bloemfontein,Free State,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-811387,Dumisani Mnangwe,Bulk,Online,CHK,,Mbombela,Mpumalanga,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-665760,Thembile Fakazi,Wholesale,In-Store,C60,Checkers Sixty60,Pietermaritzburg,KwaZulu-Natal,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-792269,Nkosikazi Busisiwe Mathwasa,Retail,Online,C60,Checkers Sixty60,Johannesburg,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-935008,Siyabonga Nyanda,Retail,Online,USV,Usave,Bloemfontein,Free State,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-149241,Siphesihle Gcumisa-Gabhisa,Wholesale,In-Store,CHK,Checkers,Pietermaritzburg,KwaZulu-Natal,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-245180,Thembeka Sibeko,Retail,Online,C60,Checkers Sixty60,Rustenburg,North West,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-540135,Sandile Sompisi,Wholesale,Online,SHOP,Shoprite,Tembisa,,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-548273,Mthokozisi Sothole,Wholesale,Online,C60,Checkers Sixty60,Bloemfontein,Free State,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-126613,Mnumzane Zenzele Thusini,Retail,In-Store,SHOP,Shoprite,Stellenbosch,Western Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-237375,Olwethu Gubulundu,Wholesale,Online,SHOP,Shoprite,Rustenburg,North West,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-697790,Musa Ntshalintshali,Retail,Online,C60,Checkers Sixty60,Tembisa,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-692683,Nomvula Magutshwa,Bulk,In-Store,USV,Usave,Tembisa,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-599764,Baba Lungile Mawanda,Bulk,Online,CHK,Checkers,Soweto,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-346276,Bhuti Bhekani Mahlangu,Bulk,Online,CHK,Checkers,Kimberley,Northern Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-114996,Lungile Lukhele,Retail,Online,USV,Usave,Soweto,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-777551,Mnumzane Mandlakhe Mnqamu,Wholesale,Online,CHK,Checkers,Soweto,,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-201506,Nkosazana Bhekisisa Sikhosana,Bulk,In-Store,SHOP,Shoprite,Johannesburg,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-172683,Lwandile Thembekwayo,Retail,Online,C60,Checkers Sixty60,Durban,KwaZulu-Natal,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-598925,Bhuti Sibusiso Ndlovu,Bulk,Online,CHK,Checkers,Tembisa,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-426634,Musa Gwacela-Khuboni,Bulk,Online,SHOP,Shoprite,Tembisa,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-744216,Busisiwe Ncusi,Wholesale,In-Store,CHK,Checkers,Pretoria,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-703103,Musa Nala,Wholesale,Online,CHK,Checkers,Tembisa,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-438713,Mrs. Bhekisisa Jobe,Wholesale,In-Store,SHOP,Shoprite,Soweto,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-443506,Bandile Mbotho,Bulk,In-Store,USV,Usave,Pietermaritzburg,KwaZulu-Natal,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-952740,Sphiwe Hhoyiyane-Mathwasa,Retail,In-Store,SHOP,Shoprite,Rustenburg,North West,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-674985,Luyanda Mahamba,Bulk,In-Store,C60,Checkers Sixty60,Cape Town,Western Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-397275,Nonjabulo Gwagwa,Wholesale,Online,C60,Checkers Sixty60,Mbombela,Mpumalanga,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-791896,Bhuti Nhlanhla Mhlanya,Retail,In-Store,USV,Usave,Tembisa,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-325471,Thando Magujwa,Retail,Online,CHK,Checkers,Pietermaritzburg,KwaZulu-Natal,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-512629,Dr. Thandeka Mahlase,Retail,Online,C60,Checkers Sixty60,Pietermaritzburg,KwaZulu-Natal,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-566480,Siphesihle Bikelwayo,Retail,In-Store,CHK,Checkers,Bloemfontein,Free State,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-640755,Thuthukile Mnikathi-Sitolotolo,Wholesale,Online,USV,Usave,Pretoria,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-657760,Thando Khathini-Songiya,Bulk,In-Store,SHOP,Shoprite,Bloemfontein,Free State,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-289066,Mnumzane Luyanda Gamede,Wholesale,In-Store,USV,Usave,Pretoria,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-220218,Thalente Ndlovu,Bulk,In-Store,C60,Checkers Sixty60,Stellenbosch,Western Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-727521,Dr. Nonjabulo Sondini,Retail,Online,SHOP,Shoprite,Pietermaritzburg,KwaZulu-Natal,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-579083,Mrs. Nomthandazo Mayeza,Retail,Online,CHK,Checkers,Pretoria,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-579083,Mrs. Nomthandazo Mayeza,Retail,Online,CHK,Checkers,Pretoria,Gauteng,CRM,2026-02-24 04:09:54,BATCH-20260224-01
-CUST-990167,Mama Nonhlanhla Ndabansele,Wholesale,In-Store,USV,Usave,Mbombela,Mpumalanga,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-449356,Thandazile Ndlondlo,Retail,In-Store,USV,Usave,Rustenburg,North West,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-249177,Thuthukile Nyokayebululu,Wholesale,Online,CHK,Checkers,Soweto,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-442025,Mnumzane Mandlakhe Bhejelibomvu,Retail,In-Store,USV,Usave,,KwaZulu-Natal,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-611109,Baba Bhekani Jili,Bulk,In-Store,USV,Usave,Soweto,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-406773,Sandile Sangweni,Retail,Online,CHK,Checkers,Stellenbosch,Western Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-826361,Mr. Sibonelo Nkosi,Retail,In-Store,C60,Checkers Sixty60,Tembisa,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-941512,Mnumzane Langalibalele Dindela,Wholesale,Online,C60,Checkers Sixty60,Stellenbosch,Western Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-957333,Zakhele Mzomba,Wholesale,Online,C60,Checkers Sixty60,Pietermaritzburg,KwaZulu-Natal,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-123715,Sandile Mnomiya,Wholesale,In-Store,C60,Checkers Sixty60,Pietermaritzburg,KwaZulu-Natal,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-992220,Nobuhle Mawanda,Wholesale,Online,CHK,Checkers,Pretoria,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-968943,Thabani Ntshiza,Retail,In-Store,SHOP,Shoprite,Tembisa,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-645830,Mandlakhe Mlawula,Wholesale,Online,SHOP,Shoprite,Tembisa,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-539374,Nkazimulo Nombhoco,Wholesale,In-Store,CHK,Checkers,Tembisa,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-539105,Dr. Vusumuzi Bhovungana,Bulk,In-Store,USV,Usave,Durban,KwaZulu-Natal,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-238268,Sphiwe Mkhokeleleki,Bulk,Online,CHK,Checkers,Pietermaritzburg,KwaZulu-Natal,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-309331,Nkosazana Mnqobi Mbhobho,Bulk,Online,CHK,Checkers,Pietermaritzburg,KwaZulu-Natal,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-779890,Nomagugu Mafulela,Retail,Online,SHOP,Shoprite,Tembisa,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-256520,Thembisile Thela,Retail,Online,SHOP,Shoprite,Soweto,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-422391,Ms. Olwethu Mnyandu,Wholesale,In-Store,USV,Usave,Polokwane,Limpopo,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-238652,Mnumzane Lungile Kheswa,Bulk,In-Store,CHK,Checkers,Kimberley,Northern Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-263772,Londiwe Galu,Retail,In-Store,CHK,Checkers,Soweto,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-556375,Nonjabulo Gagashe,Retail,In-Store,C60,Checkers Sixty60,Johannesburg,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-712603,Noxolo Mngomezulu-Mhlanga,Retail,In-Store,C60,Checkers Sixty60,Polokwane,Limpopo,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-341601,Silondile Dludlu,Retail,Online,C60,Checkers Sixty60,Soweto,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-703208,Mandlakhe Gamede,Bulk,In-Store,C60,Checkers Sixty60,Pietermaritzburg,KwaZulu-Natal,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-131394,Mr. Bhekani Vumisa,Bulk,Online,CHK,Checkers,Pietermaritzburg,KwaZulu-Natal,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-508854,Dr. Nomusa Mavela,Bulk,In-Store,C60,Checkers Sixty60,Tembisa,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-306127,Thalente Hlabangane,Retail,Online,CHK,Checkers,Mbombela,Mpumalanga,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-589744,Miss Thuthukile Miya,Bulk,In-Store,C60,Checkers Sixty60,Tembisa,,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-887192,Silondile Shamase-Nyawokhulu,Wholesale,In-Store,CHK,Checkers,Rustenburg,North West,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-740897,Lungile Mpumuza,Wholesale,Online,USV,Usave,Bloemfontein,Free State,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-443016,Baba Lungile Dlamane,Wholesale,In-Store,SHOP,Shoprite,Rustenburg,North West,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-777189,Zenzele Mkholo,Bulk,Online,SHOP,Shoprite,Mbombela,Mpumalanga,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-142042,Dr. Nomagugu Nxumalo,Wholesale,In-Store,USV,Usave,Soweto,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-797162,Nqobizitha Makhunga,Retail,Online,SHOP,Shoprite,Cape Town,Western Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-483068,Nkosikazi Amahle Kubheka,Retail,Online,USV,Usave,Polokwane,Limpopo,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-697781,Zinhle Mnguni-Mavuso,Retail,In-Store,CHK,Checkers,Stellenbosch,Western Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-857890,Mrs. Ndumiso Mahlalela,Retail,Online,SHOP,Shoprite,Bloemfontein,Free State,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-696291,SimphiweyiNkosi Mzomba,Wholesale,Online,C60,Checkers Sixty60,Tembisa,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-511470,Mr. Sandile Shezi,Retail,In-Store,C60,Checkers Sixty60,Bloemfontein,Free State,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-145313,Nozizwe Sembathwa,Wholesale,Online,CHK,Checkers,Cape Town,Western Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-860476,Thandazile Mbungela,Wholesale,In-Store,CHK,Checkers,Durban,KwaZulu-Natal,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-900041,S'fiso Nzima-Gwamanda,Retail,In-Store,SHOP,Shoprite,Mbombela,Mpumalanga,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-660111,Nomvula Mnyoni,Bulk,Online,C60,Checkers Sixty60,Stellenbosch,Western Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-678124,Dr. Nobuhle Gasa,Retail,Online,C60,Checkers Sixty60,Mbombela,Mpumalanga,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-695768,Dr. Siyabonga Hlela,Wholesale,In-Store,C60,Checkers Sixty60,Pietermaritzburg,KwaZulu-Natal,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-711145,SimphiweyiNkosi Nhleko,Wholesale,In-Store,SHOP,Shoprite,Johannesburg,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-649941,Ndumiso Mzilankatha,Bulk,In-Store,CHK,Checkers,Bloemfontein,Free State,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-135642,Nomathemba Galu,Bulk,Online,C60,Checkers Sixty60,Cape Town,Western Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-796792,Sibonelo Manana-Khabalidaka,Retail,In-Store,CHK,Checkers,Rustenburg,North West,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-322862,Thabani Mashiya,Wholesale,In-Store,SHOP,Shoprite,Durban,KwaZulu-Natal,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-220100,Thalente Gwija,Bulk,Online,SHOP,Shoprite,Cape Town,Western Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-972528,Nkosikazi Zinhle Mzizi,Bulk,Online,CHK,Checkers,Pietermaritzburg,KwaZulu-Natal,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-769759,Ms. Owethu Msuthu,Bulk,Online,SHOP,Shoprite,Rustenburg,North West,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-662476,Sibonelo Ntaka,Retail,In-Store,USV,Usave,Pietermaritzburg,KwaZulu-Natal,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-188841,Nonhlanhla Madela,Bulk,In-Store,CHK,Checkers,Rustenburg,North West,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-296092,Mrs. Sihawukele Nkabinde,Bulk,In-Store,SHOP,Shoprite,Pretoria,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-258796,Sibusisiwe Vabaza,Bulk,In-Store,USV,Usave,Kimberley,Northern Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-411653,Siyabonga Madiba,Retail,In-Store,SHOP,Shoprite,Mbombela,Mpumalanga,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-346928,Lwandile Madela,Retail,In-Store,SHOP,Shoprite,Soweto,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-293385,Mzamo Mcambe,Wholesale,Online,C60,Checkers Sixty60,Cape Town,Western Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-782225,Nozibusiso Mbili,Retail,In-Store,USV,Usave,Durban,KwaZulu-Natal,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-610867,Nkosazana Siphesihle Mbatshazwa,Bulk,In-Store,USV,Usave,Polokwane,Limpopo,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-998134,Nobuhle Luqe,Bulk,In-Store,SHOP,Shoprite,Bloemfontein,Free State,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-188564,Sandile Nkwakha,Retail,Online,C60,Checkers Sixty60,Johannesburg,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-713277,Dade Nonjabulo Mdlumbi,Bulk,In-Store,SHOP,Shoprite,Durban,KwaZulu-Natal,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-388242,Mlungisi Khulu,Wholesale,In-Store,USV,Usave,Rustenburg,North West,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-156986,Nqobizitha Thole,Bulk,In-Store,CHK,Checkers,Cape Town,Western Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-972571,Siphesihle Sotobe,Wholesale,In-Store,SHOP,Shoprite,Stellenbosch,Western Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-190312,Langalibalele Mnyandu,Wholesale,In-Store,SHOP,Shoprite,Polokwane,Limpopo,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-242681,Zakhele Shengele,Retail,In-Store,C60,Checkers Sixty60,Durban,KwaZulu-Natal,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-896393,SimphiweyiNkosi Malambule,Retail,In-Store,CHK,Checkers,Pietermaritzburg,KwaZulu-Natal,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-609088,Thabisa Mashimane,Retail,Online,CHK,Checkers,Pretoria,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-983595,Siyabonga Gumbi,Bulk,In-Store,C60,Checkers Sixty60,Cape Town,Western Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-595372,Mzamo Nonkululeko-Ngiba,Wholesale,Online,SHOP,Shoprite,Tembisa,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-709545,Sithembiso Mdlumbi,Wholesale,Online,CHK,Checkers,Pretoria,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-725269,Nomvula Soduba,Bulk,Online,SHOP,Shoprite,Tembisa,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-538409,Zenzele Mdakane,Retail,In-Store,C60,Checkers Sixty60,Pietermaritzburg,KwaZulu-Natal,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-917462,Bhuti Andile Madinane,Retail,In-Store,USV,Usave,Johannesburg,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-920272,Nomagugu Mbhense-Mthalane,Retail,In-Store,CHK,Checkers,Tembisa,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-228369,Mnumzane Minenhle Mcoyi,Retail,In-Store,SHOP,Shoprite,Bloemfontein,Free State,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-536686,Dade Dumisani Mthiya,Bulk,Online,SHOP,Shoprite,Tembisa,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-991208,Musa Mngadi,Bulk,Online,SHOP,Shoprite,Pretoria,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-683951,Ms. Bhekisisa Sibalukhulu,Bulk,In-Store,C60,Checkers Sixty60,Pretoria,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-851816,Langalibalele Siyeshe,Wholesale,Online,C60,Checkers Sixty60,Polokwane,Limpopo,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-386897,Andile Ngubeni,Wholesale,In-Store,CHK,Checkers,Pretoria,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-412894,Nomthandazo Mathaba,Retail,Online,SHOP,Shoprite,Durban,KwaZulu-Natal,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-480923,Sithembiso Ntenga,Retail,In-Store,SHOP,Shoprite,Pretoria,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-172038,Mr. Musa Mangena,Wholesale,In-Store,SHOP,Shoprite,Rustenburg,North West,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-569992,Thandiwe Makhoba,Retail,Online,USV,Usave,Bloemfontein,Free State,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-971505,Dr. Nomalanga Mavundla,Bulk,Online,USV,Usave,Cape Town,Western Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-545944,Mandlakhe Mvuyana,Retail,Online,CHK,Checkers,Soweto,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-660665,Sibonelo Dinwa,Retail,In-Store,C60,Checkers Sixty60,Polokwane,Limpopo,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-471604,Mandla Mbamali,Wholesale,In-Store,CHK,Checkers,Soweto,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-475543,Mrs. Nothando Yei,Retail,In-Store,USV,Usave,Pretoria,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-851163,Thandeka Mpumuza,Bulk,Online,SHOP,Shoprite,Stellenbosch,Western Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-442768,S'fiso Ngcemu,Wholesale,Online,C60,Checkers Sixty60,Durban,KwaZulu-Natal,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-863193,Lungile Mkhwananzi,Retail,Online,C60,Checkers Sixty60,Rustenburg,North West,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-613904,Zibuyile Mnqayi,Wholesale,In-Store,C60,Checkers Sixty60,Rustenburg,North West,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-712373,Sibusiso Dubandlela,Retail,Online,C60,Checkers Sixty60,Soweto,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-333530,Mrs. Nothando Mayise,Wholesale,Online,CHK,,Mbombela,Mpumalanga,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-796871,Bhekokwakhe Njinji,Wholesale,In-Store,USV,Usave,Cape Town,Western Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-362756,SimphiweyiNkosi Phuthini,Bulk,In-Store,SHOP,Shoprite,Cape Town,Western Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-943228,Andile Mvelase,Wholesale,Online,USV,Usave,Johannesburg,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-122888,Vusumuzi Gabhisa,Retail,In-Store,USV,Usave,Kimberley,Northern Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-197830,Baba Bandile Dimbani,Wholesale,In-Store,CHK,Checkers,Johannesburg,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-168791,Nkosikazi Thembisile Gagashe,Bulk,In-Store,C60,Checkers Sixty60,Soweto,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-706771,Dr. Njabulo Mgobhozi,Wholesale,Online,SHOP,Shoprite,Durban,KwaZulu-Natal,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-591055,Mrs. Sibusisiwe Thwala,Bulk,Online,CHK,Checkers,Pretoria,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-389270,Nonjabulo Mntimande,Retail,In-Store,C60,Checkers Sixty60,Rustenburg,North West,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-596711,Siphesihle Anele-Wela,Retail,In-Store,CHK,Checkers,Tembisa,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-718343,Miss Nomusa Kheswa,Bulk,In-Store,C60,Checkers Sixty60,Soweto,,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-329704,Gugulethu Shozi,Bulk,In-Store,USV,Usave,Mbombela,Mpumalanga,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-874983,Nothando Phethela,Bulk,In-Store,SHOP,Shoprite,Mbombela,Mpumalanga,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-817077,Miss Nomagugu Dunge,Wholesale,In-Store,CHK,Checkers,Pietermaritzburg,KwaZulu-Natal,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-338614,Mrs. Nomalanga Mavela,Bulk,In-Store,C60,Checkers Sixty60,Polokwane,Limpopo,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-766428,Sandile Mnquhe,Bulk,In-Store,SHOP,Shoprite,Polokwane,Limpopo,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-769020,Thabani Mbeje,Retail,Online,SHOP,Shoprite,Pretoria,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-947129,Sibusiso Shelembe,Wholesale,Online,CHK,Checkers,Johannesburg,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-986806,Zakhele Mkhonza,Wholesale,Online,C60,Checkers Sixty60,Johannesburg,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-388090,Dumisani Madlala-Gedeza,Bulk,Online,CHK,Checkers,Kimberley,Northern Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-307687,Mandla Mkhwananzi-Ngonini,Retail,In-Store,C60,Checkers Sixty60,Johannesburg,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-230916,Luyanda Made,Bulk,Online,USV,Usave,Stellenbosch,Western Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-449961,Thabani Mpila,Retail,Online,CHK,Checkers,Pretoria,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-889873,Nkazimulo Nhlane,Wholesale,,SHOP,Shoprite,Soweto,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-631071,Langalibalele Dlamini-Kubheka,Retail,Online,SHOP,Shoprite,Tembisa,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-411534,Ndumiso Mkholo,Bulk,Online,CHK,Checkers,Soweto,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-704399,Vusumuzi Mbuyazi,Wholesale,In-Store,SHOP,,Bloemfontein,Free State,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-773718,Luyanda Mcusi,Retail,In-Store,CHK,Checkers,Tembisa,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-390046,Mama Thandeka Jama,Wholesale,In-Store,CHK,Checkers,Stellenbosch,Western Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-707056,Thandazile Mbuyisa,Retail,Online,C60,Checkers Sixty60,Tembisa,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-808284,S'fiso Gugushe,Wholesale,Online,C60,Checkers Sixty60,Bloemfontein,Free State,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-548872,Sibusisiwe Sabelo,Wholesale,Online,C60,Checkers Sixty60,Pietermaritzburg,KwaZulu-Natal,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-981360,Nhlanhla Mavuso,Bulk,Online,CHK,Checkers,Durban,KwaZulu-Natal,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-665419,Londiwe Malambule-Nyawose,Bulk,Online,SHOP,Shoprite,Polokwane,Limpopo,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-834664,Thuthukile Mzila-Mkholo,Bulk,Online,USV,Usave,Mbombela,Mpumalanga,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-273768,Bhekizizwe Gxabhashe,Retail,In-Store,C60,Checkers Sixty60,Bloemfontein,Free State,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-160089,Thembekile Dubandlela,Retail,Online,C60,Checkers Sixty60,Johannesburg,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-625765,Thembeka Mavela,Bulk,,USV,Usave,Cape Town,Western Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-466310,Mrs. Dumisani Mkhonza,Retail,In-Store,USV,Usave,Rustenburg,North West,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-359011,Lwandile Mbhobho,Bulk,Online,CHK,Checkers,Stellenbosch,Western Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-694161,Nothando Mangethe,Retail,Online,SHOP,Shoprite,Cape Town,Western Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-530970,Lwandile Ntshalintshali,Retail,Online,C60,Checkers Sixty60,Kimberley,Northern Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-175434,Mr. Thalente Nkwanyana,Bulk,In-Store,C60,Checkers Sixty60,Rustenburg,North West,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-857219,Bandile Duyaza-Cenge,Bulk,In-Store,USV,Usave,Mbombela,Mpumalanga,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-857219,Bandile Duyaza-Cenge,Bulk,In-Store,USV,Usave,Mbombela,Mpumalanga,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-981819,Olwethu Blose-Dumakude,Wholesale,Online,USV,Usave,Bloemfontein,Free State,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-674329,Nkazimulo Mthinti,Wholesale,In-Store,SHOP,Shoprite,Cape Town,Western Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-385616,Mnqobi Khwane,Bulk,In-Store,CHK,Checkers,Stellenbosch,Western Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-969919,Nomalanga Hhoyiyane,Wholesale,Online,SHOP,Shoprite,Pretoria,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-980370,Nomasonto Mlangeni,Bulk,In-Store,USV,Usave,Kimberley,Northern Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-803491,Mrs. Sibusisiwe Khathini,Bulk,In-Store,C60,Checkers Sixty60,Kimberley,Northern Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-901596,Nkosikazi Bhekisisa Mkhathini,Wholesale,Online,CHK,Checkers,Pietermaritzburg,KwaZulu-Natal,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-323936,Ms. Thandiwe Ngidi,Bulk,In-Store,USV,Usave,Mbombela,Mpumalanga,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-314749,Minenhle Manzezulu,Wholesale,Online,C60,Checkers Sixty60,Mbombela,Mpumalanga,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-459340,Thembekile Xaba-Khathi,Retail,In-Store,USV,Usave,Pretoria,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-722259,Londiwe Siyeshe,Bulk,In-Store,USV,Usave,Durban,KwaZulu-Natal,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-827312,Baba SimphiweyiNkosi Siyaya,Wholesale,Online,CHK,Checkers,Polokwane,Limpopo,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-276797,Dr. Bandile Phakathwayo,Bulk,In-Store,CHK,Checkers,Pretoria,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-578092,Minenhle Gengeshe,Bulk,In-Store,SHOP,Shoprite,Tembisa,Gauteng,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-857341,Thalente Khanyeza,Retail,Online,C60,Checkers Sixty60,Mbombela,Mpumalanga,CRM,2026-02-24 04:09:53,BATCH-20260224-01
-CUST-833992,Ms. Nomasonto Phoswa,Bulk,In-Store,SHOP,Shoprite,Kimberley,Northern Cape,CRM,2026-02-24 04:09:53,BATCH-20260224-01
+CUST-521144,Lwandile Weza,Wholesale,In-Store,USV,Usave,Tembisa,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-898465,Mthokozisi Gasela,Bulk,In-Store,USV,Usave,Cape Town,Western Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-368029,Amahle Vabaza,Wholesale,In-Store,USV,Usave,Tembisa,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-136491,Thalente Mdlenevu,Bulk,In-Store,USV,Usave,Johannesburg,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-853581,Mama Thandazile Mahamba,Wholesale,Online,USV,Usave,Soweto,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-175257,Thandiwe Sibhene,Retail,Online,USV,Usave,Cape Town,Western Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-571892,Mr. Mzamo Ndlondlo,Bulk,Online,CHK,Checkers,Bloemfontein,Free State,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-269266,Dr. Nonhlanhla Maphalala,Wholesale,In-Store,SHOP,Shoprite,Bloemfontein,Free State,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-570013,Mandla Cenge,Retail,In-Store,C60,Checkers Sixty60,Soweto,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-117991,Mandlakhe Njapha,Retail,In-Store,CHK,Checkers,Soweto,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-709486,Luyanda Khwane-Msuthu,Retail,Online,SHOP,Shoprite,Polokwane,Limpopo,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-300182,Vusumuzi Swazi-Madondo,Bulk,Online,CHK,Checkers,Tembisa,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-234540,Nhlanhla Nondlela,Bulk,Online,CHK,Checkers,Tembisa,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-319526,Nonhlanhla Mseleku,Wholesale,In-Store,SHOP,Shoprite,Pretoria,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-459885,Sithembiso Nogantshi,Wholesale,In-Store,USV,Usave,Stellenbosch,Western Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-993016,Bandile Mashimane-Sokhulu,Wholesale,In-Store,CHK,Checkers,Pretoria,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-505827,Bhuti Vusumuzi Mpangazitha,Bulk,In-Store,CHK,Checkers,Mbombela,Mpumalanga,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-312993,Miss Sihawukele Mlotshwa,Wholesale,In-Store,C60,Checkers Sixty60,Johannesburg,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-851149,Thembekile Ndaba-Mncube,Retail,In-Store,C60,Checkers Sixty60,Polokwane,Limpopo,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-698866,Thembekile Mdletshe,Wholesale,Online,CHK,Checkers,Tembisa,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-240197,Ms. Bhekizizwe Fakazi,Wholesale,Online,CHK,Checkers,Pietermaritzburg,KwaZulu-Natal,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-337003,Bhekizizwe Mbende,Bulk,In-Store,CHK,Checkers,Johannesburg,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-119196,Mnumzane Njabulo Yengwayo,Bulk,Online,C60,Checkers Sixty60,Mbombela,Mpumalanga,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-567703,Nomasonto Mshikela,Retail,Online,USV,Usave,Johannesburg,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-716959,Gugulethu Mcwaye,Bulk,Online,SHOP,Shoprite,Polokwane,Limpopo,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-905768,Musa Mdladla,Wholesale,In-Store,CHK,Checkers,Johannesburg,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-701838,Bhekisisa Vezi-Mbokazi,Retail,In-Store,SHOP,Shoprite,Johannesburg,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-520056,Thando Dumisa,Bulk,In-Store,USV,Usave,Tembisa,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-576396,Thabani Magolwana,Retail,Online,USV,Usave,Kimberley,Northern Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-252667,Mlungisi Delwayo,Retail,In-Store,SHOP,Shoprite,Pietermaritzburg,KwaZulu-Natal,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-476158,Owethu Galu,Wholesale,In-Store,SHOP,Shoprite,Pietermaritzburg,KwaZulu-Natal,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-460401,Nomagugu Sondisa,Bulk,In-Store,USV,Usave,Stellenbosch,Western Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-665939,Nkosikazi Ndumiso Mabhoko,Wholesale,Online,SHOP,Shoprite,Cape Town,Western Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-361195,Zakhele Shengele,Bulk,Online,CHK,Checkers,Polokwane,Limpopo,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-809508,Zinhle Mhayise,Bulk,In-Store,SHOP,Shoprite,Mbombela,Mpumalanga,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-351511,Thalente Nkwanyana,Wholesale,Online,USV,Usave,Durban,KwaZulu-Natal,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-302605,Nkosikazi Gugu Made,Retail,Online,SHOP,Shoprite,Polokwane,Limpopo,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-514664,Thembisile Nxele,Wholesale,Online,USV,Usave,Kimberley,Northern Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-963416,Sibusisiwe Mgabhi,Retail,In-Store,CHK,Checkers,Kimberley,Northern Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-962475,Mlungisi Ndondakusuka,Bulk,In-Store,USV,Usave,Durban,KwaZulu-Natal,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-603160,Nomusa Dlebenkomo,Retail,Online,C60,Checkers Sixty60,Durban,KwaZulu-Natal,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-947819,Mnumzane Andile Weza,Bulk,Online,SHOP,Shoprite,Bloemfontein,Free State,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-596985,Musa Gwamanda,Retail,Online,USV,Usave,Pretoria,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-685299,Njabulo Nzama,Bulk,In-Store,C60,Checkers Sixty60,Kimberley,Northern Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-638095,Sibongile Jibela,Retail,Online,SHOP,Shoprite,Pietermaritzburg,KwaZulu-Natal,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-808199,Nozizwe Mzulwini,Bulk,Online,CHK,Checkers,Stellenbosch,Western Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-645482,Thabani Nyambose,Retail,In-Store,C60,Checkers Sixty60,Cape Town,Western Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-960020,Bhuti Njabulo Chiliza,Wholesale,In-Store,SHOP,Shoprite,Kimberley,Northern Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-891455,Thalente Nkwakha,Wholesale,In-Store,C60,Checkers Sixty60,Soweto,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-832883,Sibusisiwe Mbanjwa,Bulk,Online,C60,Checkers Sixty60,Kimberley,Northern Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-414666,Nozizwe Gadlela,Wholesale,In-Store,USV,Usave,Rustenburg,North West,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-792434,Bandile Gedeza-Khosini,Retail,Online,USV,Usave,Cape Town,Western Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-580644,Sibusiso Phuthini,Bulk,Online,C60,Checkers Sixty60,Kimberley,Northern Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-232372,S'fiso Sokhulu,Retail,Online,C60,Checkers Sixty60,Mbombela,Mpumalanga,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-823808,Dr. Mthokozisi Mlaba,Bulk,Online,C60,Checkers Sixty60,Kimberley,Northern Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-939101,Mrs. Nkazimulo Ludonga,Bulk,Online,C60,Checkers Sixty60,Mbombela,Mpumalanga,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-817233,Nomalanga Maphindela,Retail,In-Store,C60,Checkers Sixty60,Cape Town,Western Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-756338,Londisizwe Mzulwini-Mbatshazwa,Retail,Online,USV,Usave,Cape Town,Western Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-837530,Nobantu Hangala-Mnqamu,Wholesale,In-Store,C60,Checkers Sixty60,Cape Town,Western Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-875108,Dr. Gugu Musi,Retail,In-Store,USV,Usave,Kimberley,Northern Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-187272,Thuthukile Mavuso-Jama,Wholesale,Online,C60,Checkers Sixty60,Kimberley,Northern Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-245138,Dade Sibongile Shinga,Wholesale,In-Store,C60,Checkers Sixty60,Rustenburg,North West,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-890238,Baba Bhekani Mboko,Wholesale,Online,SHOP,Shoprite,Pietermaritzburg,KwaZulu-Natal,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-532701,Sibonelo Nene-Mahlobo,Retail,In-Store,SHOP,Shoprite,Polokwane,Limpopo,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-773144,Nomathemba Mbuyazi,Retail,In-Store,CHK,Checkers,Rustenburg,North West,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-826482,Mrs. Silondile Mcambe,Retail,Online,USV,Usave,Rustenburg,North West,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-934365,Busisiwe Manyoni,Bulk,Online,CHK,Checkers,Bloemfontein,Free State,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-820162,Thabisa Sikhakhane,Bulk,In-Store,CHK,Checkers,Rustenburg,North West,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-681035,Thabisa Mabuza,Wholesale,Online,CHK,Checkers,Rustenburg,North West,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-888371,Dumisani Masina,Retail,Online,SHOP,Shoprite,Cape Town,Western Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-496421,Dade Siphesihle Nzuza,Bulk,In-Store,C60,Checkers Sixty60,Cape Town,Western Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-833723,Bhuti Mandlakhe Fanisa,Bulk,Online,CHK,Checkers,Rustenburg,North West,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-257130,Thembile Duze,Retail,Online,C60,Checkers Sixty60,Durban,KwaZulu-Natal,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-466902,Zakhele Mpanza,Wholesale,Online,USV,Usave,Durban,KwaZulu-Natal,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-712736,Baba Mcebisi Yei,Retail,In-Store,CHK,Checkers,Pretoria,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-467432,Andile Mdonswa,Retail,In-Store,CHK,Checkers,Johannesburg,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-583308,Bhekokwakhe Dlakadla,Retail,Online,SHOP,Shoprite,Polokwane,Limpopo,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-377856,Sphiwe Mnangwe,Retail,Online,USV,Usave,Pietermaritzburg,KwaZulu-Natal,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-478658,Mandlakhe Nyembezi,Retail,In-Store,CHK,Checkers,Cape Town,Western Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-550792,Langalibalele Sikhunyana-Mbili,Retail,Online,USV,Usave,Cape Town,Western Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-462117,Baba Thando Nogantshi,Wholesale,In-Store,USV,Usave,Rustenburg,North West,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-577690,Nkosikazi Owethu Gengeshe,Bulk,Online,C60,Checkers Sixty60,Johannesburg,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-933866,Minenhle Andile-Mbunjwa,Wholesale,Online,SHOP,Shoprite,Pietermaritzburg,KwaZulu-Natal,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-240374,Mama Gugu Musi,Wholesale,In-Store,SHOP,Shoprite,Kimberley,Northern Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-658056,Bhuti Mandla Mlaba,Retail,In-Store,SHOP,Shoprite,Mbombela,Mpumalanga,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-860620,Bandile Ncwaba,Retail,In-Store,USV,Usave,Pretoria,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-571571,Mthokozisi Mkhokeleleki,Retail,In-Store,SHOP,Shoprite,Cape Town,Western Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-939820,Dr. Nonhlanhla Mzila,Bulk,In-Store,C60,Checkers Sixty60,Johannesburg,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-356219,Owethu Khumalo,Bulk,Online,CHK,Checkers,Durban,KwaZulu-Natal,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-823200,Baba Vusumuzi Bikelwayo,Bulk,In-Store,USV,Usave,Pietermaritzburg,KwaZulu-Natal,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-833847,Londisizwe Sokhulu-Makhaza,Retail,Online,SHOP,Shoprite,Mbombela,Mpumalanga,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-602605,Nomathemba Masondo,Bulk,In-Store,C60,Checkers Sixty60,Tembisa,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-932444,Lwandile Gamede-Xolo,Wholesale,Online,SHOP,Shoprite,Pretoria,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-230470,Luyanda Mntambo,Wholesale,In-Store,SHOP,Shoprite,Stellenbosch,Western Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-645407,Thabisile Mtimande,Wholesale,In-Store,SHOP,Shoprite,Pietermaritzburg,KwaZulu-Natal,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-250321,Thuthukile Ngwane,Retail,In-Store,USV,Usave,Pretoria,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-861268,Minenhle Ntenga-Mkhonza,Retail,In-Store,SHOP,Shoprite,Tembisa,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-656703,Mr. Sandile Gubulundu,Retail,Online,SHOP,Shoprite,Polokwane,Limpopo,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-523460,Owethu Mfusi,Wholesale,Online,CHK,Checkers,Johannesburg,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-393760,Nkosazana Sibusisiwe Gotsholo,Bulk,In-Store,C60,Checkers Sixty60,Johannesburg,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-226046,Minenhle Ndinisa,Wholesale,In-Store,SHOP,Shoprite,Pietermaritzburg,KwaZulu-Natal,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-514185,Baba Zenzele Sithenjwa,Wholesale,Online,USV,Usave,Kimberley,Northern Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-129506,Nkosazana Khanyisile Mzileni,Retail,In-Store,CHK,Checkers,Soweto,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-835625,Thabani Khosini,Wholesale,Online,USV,Usave,Stellenbosch,Western Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-280991,Andile Mathebela,Bulk,In-Store,CHK,Checkers,Pretoria,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-862653,Baba Mcebisi Doncabe,Wholesale,Online,C60,Checkers Sixty60,Johannesburg,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-506574,Lungile Mqadi,Wholesale,Online,SHOP,Shoprite,Polokwane,Limpopo,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-641839,Nokulunga Mlambo,Bulk,Online,SHOP,Shoprite,Kimberley,Northern Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-442102,Luyanda Mzolo,Retail,In-Store,CHK,Checkers,Bloemfontein,Free State,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-992041,Khanyisile Madondo,Bulk,Online,USV,Usave,Cape Town,Western Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-229136,Dade Bhekizizwe Hadebe,Wholesale,In-Store,C60,Checkers Sixty60,Bloemfontein,Free State,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-284475,Nkosikazi Thuthukile Mahlinza,Retail,In-Store,CHK,Checkers,Pretoria,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-969943,Nhlanhla Dumakude,Bulk,Online,USV,Usave,Pretoria,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-889055,Nkosazana Nomasonto Khuba,Wholesale,In-Store,USV,Usave,Stellenbosch,Western Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-791102,Thuthukile Mdluli-Mabizela,Retail,In-Store,C60,Checkers Sixty60,Bloemfontein,Free State,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-395024,SimphiweyiNkosi Mntungwa,Bulk,In-Store,USV,Usave,Polokwane,Limpopo,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-962075,Zenzele Hhoyiyane-Khathi,Retail,In-Store,C60,Checkers Sixty60,Rustenburg,North West,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-228483,Amahle Jili,Bulk,In-Store,USV,Usave,Tembisa,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-470795,Mandlakhe Mdaka,Wholesale,Online,CHK,Checkers,Mbombela,Mpumalanga,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-491927,Dr. Sibonelo Nondaba,Retail,In-Store,SHOP,Shoprite,Durban,KwaZulu-Natal,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-518669,Dr. Mandla Mantshinga,Bulk,In-Store,USV,Usave,Kimberley,Northern Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-260638,Mr. Sphiwe Dindi,Wholesale,Online,USV,Usave,Rustenburg,North West,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-493758,Thando Mhlongo,Retail,Online,SHOP,Shoprite,Pietermaritzburg,KwaZulu-Natal,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-359146,Lwandile Dlaba,Wholesale,In-Store,C60,Checkers Sixty60,Rustenburg,North West,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-881937,Musa Gumbi,Retail,Online,SHOP,Shoprite,Polokwane,Limpopo,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-503695,Nomvula Ntombela,Bulk,In-Store,SHOP,Shoprite,Kimberley,Northern Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-565041,Ms. Nomasonto Ndlovu,Retail,In-Store,C60,Checkers Sixty60,Pretoria,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-641907,Nomalanga Mhlanga-Thabizolo,Wholesale,In-Store,SHOP,Shoprite,Soweto,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-960424,Busisiwe Chagwe-Songiya,Wholesale,In-Store,CHK,Checkers,Johannesburg,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-596551,Lwandile Motha-Ncongwane,Wholesale,In-Store,USV,Usave,Pietermaritzburg,KwaZulu-Natal,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-938778,Mnumzane Mcebisi Mkhungo,Wholesale,In-Store,CHK,Checkers,Tembisa,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-496020,Thembeka Phethela,Bulk,In-Store,CHK,Checkers,Johannesburg,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-357595,Sibusiso Sikhunyana,Bulk,In-Store,USV,Usave,Pietermaritzburg,KwaZulu-Natal,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-492023,Sibusiso Gubhuza,Retail,Online,CHK,Checkers,Kimberley,Northern Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-226161,Langalibalele Mfeka,Retail,Online,CHK,Checkers,Stellenbosch,Western Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-802764,Langalibalele Magolwana,Wholesale,Online,CHK,Checkers,Pietermaritzburg,KwaZulu-Natal,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-409733,Nomusa Sibiya,Wholesale,In-Store,SHOP,Shoprite,Mbombela,Mpumalanga,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-461304,Bandile Thenjwayo,Wholesale,In-Store,CHK,Checkers,Kimberley,Northern Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-783423,Nomusa Mpila,Wholesale,Online,SHOP,Shoprite,Tembisa,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-686617,Mama Busisiwe Sothole,Wholesale,In-Store,CHK,Checkers,Durban,KwaZulu-Natal,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-399508,Mrs. Gugulethu Gcaleka,Bulk,Online,SHOP,Shoprite,Cape Town,Western Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-673470,Thembisile Gcwensa,Retail,Online,C60,Checkers Sixty60,Mbombela,Mpumalanga,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-239363,Bhekani Nhlapho,Wholesale,In-Store,USV,Usave,Polokwane,Limpopo,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-316200,Khanyisile Ngema,Retail,Online,C60,Checkers Sixty60,Durban,KwaZulu-Natal,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-168301,S'fiso Mantshinga-Mathebula,Wholesale,In-Store,SHOP,Shoprite,Rustenburg,North West,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-500452,Zakhele Mathula,Wholesale,In-Store,USV,Usave,Durban,KwaZulu-Natal,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-322558,Dumisile Mphemba,Wholesale,Online,C60,Checkers Sixty60,Bloemfontein,Free State,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-320936,Dumisani Phetha-Mathebela,Bulk,In-Store,SHOP,Shoprite,Cape Town,Western Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-159016,Simphiwe Juqula-Boyabenyathi,Bulk,In-Store,USV,Usave,Bloemfontein,Free State,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-140136,Mandlakhe Ngonini,Wholesale,In-Store,USV,Usave,Johannesburg,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-655576,Zenzele Mangena,Wholesale,In-Store,SHOP,Shoprite,Pietermaritzburg,KwaZulu-Natal,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-544898,Sibusiso Nzimande,Bulk,In-Store,CHK,Checkers,Polokwane,Limpopo,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-610140,Nokulunga Blose,Bulk,In-Store,CHK,Checkers,Bloemfontein,Free State,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-436113,Sibusiso Magwaza,Bulk,In-Store,USV,Usave,Pretoria,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-707415,Sphiwe Mahlobo-Phewa,Bulk,Online,C60,Checkers Sixty60,Bloemfontein,Free State,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-231162,Khanyisile Mngwemkhulu-Gambuse,Bulk,In-Store,CHK,Checkers,Pietermaritzburg,KwaZulu-Natal,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-865684,Zibuyile Soduba,Wholesale,In-Store,SHOP,Shoprite,Pretoria,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-972814,Bhuti Thando Mdlanyoka,Bulk,In-Store,SHOP,Shoprite,Mbombela,Mpumalanga,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-155998,Vusumuzi Mabanga,Wholesale,In-Store,USV,Usave,Pietermaritzburg,KwaZulu-Natal,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-446264,Mnumzane Mthokozisi Dlebenkomo,Wholesale,In-Store,CHK,Checkers,Mbombela,Mpumalanga,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-465650,Ms. Zibuyile Menziwa,Retail,In-Store,SHOP,Shoprite,Cape Town,Western Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-539199,Mnumzane Bhekani Dimbani,Bulk,In-Store,CHK,Checkers,Stellenbosch,Western Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-494644,Njabulo Cebisa,Bulk,Online,SHOP,Shoprite,Pietermaritzburg,KwaZulu-Natal,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-141577,Ms. Khanyisile Mshikila,Bulk,Online,C60,Checkers Sixty60,Soweto,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-150766,Mandla Mnquhe,Retail,Online,SHOP,Shoprite,Durban,KwaZulu-Natal,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-730179,Ms. Noxolo Mzimela,Retail,In-Store,CHK,Checkers,Mbombela,Mpumalanga,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-687849,Gugulethu Goje-Nomvuma,Retail,In-Store,USV,Usave,Kimberley,Northern Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-945691,Mr. Siyabonga Nongalaza,Wholesale,In-Store,USV,Usave,Stellenbosch,Western Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-690959,Siphesihle Mncwanga,Bulk,In-Store,USV,Usave,Soweto,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-494534,Andile Dindela-Mlambo,Wholesale,In-Store,C60,Checkers Sixty60,Mbombela,Mpumalanga,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-816730,Thembekile Mpunzana,Retail,In-Store,SHOP,Shoprite,Tembisa,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-272601,Thembeka Dlambula,Retail,In-Store,USV,Usave,Pietermaritzburg,KwaZulu-Natal,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-153819,Sihawukele Mathenjwa,Wholesale,Online,SHOP,Shoprite,Polokwane,Limpopo,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-124526,Dr. Langalibalele Mkhandlela,Bulk,Online,CHK,Checkers,Pretoria,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-660927,Owethu Mafuleka,Wholesale,In-Store,C60,Checkers Sixty60,Rustenburg,North West,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-508078,Bhekizizwe Mahlobo,Bulk,Online,USV,Usave,Stellenbosch,Western Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-783322,Musa Mgobhozi,Wholesale,In-Store,USV,Usave,Pietermaritzburg,KwaZulu-Natal,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-798771,Sandile Lamula,Retail,In-Store,CHK,Checkers,Soweto,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-352156,Dade Nozizwe Bhovungana,Retail,Online,CHK,Checkers,Tembisa,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-167204,Mrs. Thembeka Malembe,Bulk,In-Store,C60,Checkers Sixty60,Pietermaritzburg,KwaZulu-Natal,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-709303,Mama Thalente Mbuli,Wholesale,In-Store,USV,Usave,Soweto,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-682287,Bandile Shabane,Wholesale,Online,USV,Usave,Mbombela,Mpumalanga,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-587547,Mr. Mzamo Phungula,Bulk,Online,CHK,Checkers,Tembisa,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-728319,Nomthandazo Ncwaba,Retail,Online,CHK,Checkers,Mbombela,Mpumalanga,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-545835,Nobuhle Sithole,Bulk,In-Store,SHOP,Shoprite,Rustenburg,North West,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-653634,Dade Zibuyile Ngotsha,Retail,Online,USV,Usave,Cape Town,Western Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-803293,Londiwe Mpunzana,Wholesale,In-Store,SHOP,Shoprite,Johannesburg,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-792200,Mr. Mzamo Cibane,Bulk,Online,USV,Usave,Pietermaritzburg,KwaZulu-Natal,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-126287,Siyabonga Shange,Retail,In-Store,USV,Usave,Tembisa,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-816109,Dr. Thalente Mavuso,Retail,Online,C60,Checkers Sixty60,Bloemfontein,Free State,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-768645,Nqobizitha Khathide-Nyide,Bulk,In-Store,C60,Checkers Sixty60,Soweto,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-736808,Thando Ngcamu,Wholesale,Online,C60,Checkers Sixty60,Soweto,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-946087,Musa Ndosi-Mzomba,Wholesale,In-Store,SHOP,Shoprite,Rustenburg,North West,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-666884,Musa Goje-Gwija,Retail,Online,USV,Usave,Polokwane,Limpopo,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-224772,Nobuhle Bophela,Bulk,In-Store,USV,Usave,Pretoria,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-233019,Busisiwe Tiba,Bulk,Online,C60,Checkers Sixty60,Soweto,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-487695,Thembile Nombhoco,Wholesale,Online,SHOP,Shoprite,Durban,KwaZulu-Natal,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-996095,Thembeka Dinangwe,Wholesale,In-Store,C60,Checkers Sixty60,Polokwane,Limpopo,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-509873,SimphiweyiNkosi Mgabhi,Bulk,In-Store,CHK,Checkers,Bloemfontein,Free State,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-299554,Dr. Mandlakhe Vilakazi,Retail,Online,CHK,Checkers,Stellenbosch,Western Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-965585,Luyanda Thuliswayo,Retail,Online,USV,Usave,Pretoria,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-602931,Mrs. Simphiwe Guliwe,Retail,Online,USV,Usave,Cape Town,Western Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-923362,Mzamo Yei,Wholesale,In-Store,USV,Usave,Johannesburg,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-608868,Mcebisi Msindazwe,Wholesale,Online,CHK,Checkers,Cape Town,Western Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-575131,Bandile Dlabazane,Retail,In-Store,C60,Checkers Sixty60,Durban,KwaZulu-Natal,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-843233,Sibonelo Mshibe-Khaphela,Retail,Online,C60,Checkers Sixty60,Kimberley,Northern Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-431557,Lungile Bhengu,Wholesale,Online,USV,Usave,Pretoria,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-384862,Sibusiso Nkundlande,Retail,In-Store,SHOP,Shoprite,Tembisa,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-766120,Khanyisile Makhedama,Wholesale,In-Store,CHK,Checkers,Rustenburg,North West,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-473505,Minenhle Mshiyane,Wholesale,Online,USV,Usave,Johannesburg,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-108594,Nokulunga Mshibe,Retail,In-Store,CHK,Checkers,Pietermaritzburg,KwaZulu-Natal,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-947923,Vusumuzi Ntshingila,Bulk,In-Store,C60,Checkers Sixty60,Mbombela,Mpumalanga,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-708968,Thembisile Ngwekazi,Bulk,In-Store,C60,Checkers Sixty60,Johannesburg,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-364614,Mzamo Mthinti-Ndwandwe,Retail,Online,CHK,Checkers,Pietermaritzburg,KwaZulu-Natal,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-863579,Baba Njabulo Mabizela,Retail,In-Store,CHK,Checkers,Pietermaritzburg,KwaZulu-Natal,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-109261,Thembisile Zikhungwini-Dlaba,Retail,Online,C60,Checkers Sixty60,Kimberley,Northern Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-898751,Bhekizizwe Mngoma,Retail,In-Store,SHOP,Shoprite,Polokwane,Limpopo,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-358745,Thuthukile Mnisi,Retail,In-Store,C60,Checkers Sixty60,Soweto,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-874628,Lungile Khumbuza,Wholesale,In-Store,C60,Checkers Sixty60,Kimberley,Northern Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-951787,Simphiwe Mvubu,Wholesale,Online,USV,Usave,Tembisa,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-791469,Londiwe Mkhabela,Retail,In-Store,USV,Usave,Mbombela,Mpumalanga,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-801853,Sihawukele Sitolotolo,Bulk,In-Store,CHK,Checkers,Soweto,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-767172,Mlungisi Phingoshe,Wholesale,Online,CHK,Checkers,Stellenbosch,Western Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-986007,Dumisile Memela-Ngomane,Retail,Online,C60,Checkers Sixty60,Rustenburg,North West,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-343327,Musa Nyawose-Mathebela,Wholesale,In-Store,CHK,Checkers,Bloemfontein,Free State,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-189801,Dumisani Ngomane,Bulk,In-Store,USV,Usave,Johannesburg,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-158152,Thalente Onjengenyamazane,Bulk,In-Store,USV,Usave,Tembisa,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-160357,Amahle Mbulazi,Bulk,In-Store,SHOP,Shoprite,Rustenburg,North West,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-734718,Thembisile Gebhezi,Wholesale,In-Store,CHK,Checkers,Johannesburg,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-792110,Nonjabulo Msamkhulu,Retail,In-Store,USV,Usave,Pretoria,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-413829,Sibongile Mbongwe,Wholesale,Online,CHK,Checkers,Soweto,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-642588,Sphiwe Madlala,Bulk,In-Store,C60,Checkers Sixty60,Polokwane,Limpopo,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-208170,Dr. Nomathemba Maduma,Wholesale,Online,CHK,Checkers,Mbombela,Mpumalanga,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-705342,Mandlakhe Ndlondlo,Retail,Online,USV,Usave,Johannesburg,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-630835,Nkosikazi Nomthandazo Bhembe,Wholesale,In-Store,SHOP,Shoprite,Johannesburg,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-230933,Ms. Nonjabulo Ntenga,Wholesale,Online,USV,Usave,Cape Town,Western Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-565656,Olwethu Mncube,Wholesale,Online,C60,Checkers Sixty60,Pietermaritzburg,KwaZulu-Natal,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-356116,Siphesihle Dlebenkomo-Mngoma,Retail,Online,USV,Usave,Kimberley,Northern Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-168553,Zibuyile Doncabe,Wholesale,Online,USV,Usave,Tembisa,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-132608,Nomathemba Gwija,Bulk,Online,CHK,Checkers,Bloemfontein,Free State,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-931375,Nomasonto Bhembe,Retail,In-Store,C60,Checkers Sixty60,Stellenbosch,Western Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-417185,Mthokozisi Makhaye,Wholesale,In-Store,USV,Usave,Rustenburg,North West,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-980680,Thalente Mkhwananzi,Wholesale,In-Store,C60,Checkers Sixty60,Rustenburg,North West,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-651038,Siphesihle Mangena,Wholesale,Online,C60,Checkers Sixty60,Mbombela,Mpumalanga,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-495015,Sibongile Khathide-Mhlanga,Wholesale,In-Store,USV,Usave,Rustenburg,North West,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-835758,Bhuti Minenhle Makhoba,Retail,Online,CHK,Checkers,Pretoria,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-846330,Baba Lungile Phethela,Bulk,Online,C60,Checkers Sixty60,Pietermaritzburg,KwaZulu-Natal,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-241608,S'fiso Ngonini,Wholesale,Online,SHOP,Shoprite,Bloemfontein,Free State,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-721040,Miss Nonjabulo Mgenge,Retail,Online,CHK,Checkers,Mbombela,Mpumalanga,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-703813,Sandile Langa,Wholesale,In-Store,C60,Checkers Sixty60,Johannesburg,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-474600,Lungile Phetha,Wholesale,Online,CHK,Checkers,Soweto,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-719032,Mrs. Khanyisile Ntshingila,Bulk,Online,C60,Checkers Sixty60,Mbombela,Mpumalanga,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-615981,Mrs. Zenzile Mbungela,Wholesale,In-Store,CHK,Checkers,Mbombela,Mpumalanga,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-288421,Nomusa Thabethe,Bulk,In-Store,C60,Checkers Sixty60,Pretoria,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-269768,Mr. Andile Ximba,Bulk,Online,USV,Usave,Tembisa,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-501467,Nhlanhla Blose,Bulk,In-Store,C60,Checkers Sixty60,Bloemfontein,Free State,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-930559,Minenhle Mbuyise,Bulk,In-Store,USV,Usave,Mbombela,Mpumalanga,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-705343,Thuthukile Thembela,Wholesale,In-Store,CHK,Checkers,Polokwane,Limpopo,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-707979,Nomvula Madi,Retail,In-Store,SHOP,Shoprite,Bloemfontein,Free State,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-682447,Zenzele Njomane,Retail,In-Store,SHOP,Shoprite,Johannesburg,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-609732,Owethu Xolo,Bulk,In-Store,CHK,Checkers,Soweto,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-987171,Sibusiso Dinabantu-Sibhene,Retail,Online,USV,Usave,Tembisa,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-423643,Mcebisi Mafulela,Retail,In-Store,CHK,Checkers,Rustenburg,North West,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-549882,Baba Sandile Ngubane,Retail,Online,SHOP,Shoprite,Pietermaritzburg,KwaZulu-Natal,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-586990,Mr. Mandlakhe Malembe,Wholesale,In-Store,CHK,Checkers,Bloemfontein,Free State,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-545139,Simphiwe Vumisa,Wholesale,Online,SHOP,Shoprite,Mbombela,Mpumalanga,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-774239,Nomasonto Mangcamane,Bulk,In-Store,C60,Checkers Sixty60,Bloemfontein,Free State,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-905047,Nokulunga Vunisa,Wholesale,In-Store,C60,Checkers Sixty60,Mbombela,Mpumalanga,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-273321,Siyabonga Mngomezulu,Retail,Online,C60,Checkers Sixty60,Rustenburg,North West,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-889634,Siyabonga Mbhodwe-Magutshwa,Bulk,In-Store,USV,Usave,Tembisa,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-906036,Thabisa Masinga,Bulk,In-Store,SHOP,Shoprite,Johannesburg,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-184007,S'fiso Madide,Retail,Online,CHK,Checkers,Pretoria,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-929906,Mama Owethu Sikhunyana,Retail,In-Store,SHOP,Shoprite,Pretoria,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-611062,Andile Thumbela,Wholesale,Online,CHK,Checkers,Pretoria,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-861036,Dr. Bhekani Siyaya,Bulk,Online,SHOP,Shoprite,Kimberley,Northern Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-827302,Thabani Sondini,Wholesale,In-Store,CHK,Checkers,Pietermaritzburg,KwaZulu-Natal,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-113021,Dade Thabisile Mbutho,Wholesale,Online,SHOP,Shoprite,Durban,KwaZulu-Natal,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-761936,Nonjabulo Bhovungana-Donda,Bulk,Online,C60,Checkers Sixty60,Stellenbosch,Western Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-681900,Nomathemba Manqele,Wholesale,In-Store,USV,Usave,Stellenbosch,Western Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-683547,Thalente Thuliswayo,Bulk,In-Store,SHOP,Shoprite,Mbombela,Mpumalanga,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-754770,Nobantu Khathi,Retail,Online,USV,Usave,Bloemfontein,Free State,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-820329,Busisiwe Miya,Wholesale,In-Store,CHK,Checkers,Durban,KwaZulu-Natal,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-383670,Dr. Langalibalele Luvuno,Bulk,Online,CHK,Checkers,Pretoria,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-209727,Mama Nomalanga Ntsele,Wholesale,Online,USV,Usave,Pietermaritzburg,KwaZulu-Natal,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-160551,Noxolo Msimang,Bulk,Online,SHOP,Shoprite,Mbombela,Mpumalanga,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-637843,Thabani Mbuyazi,Wholesale,Online,CHK,Checkers,Kimberley,Northern Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-846714,Mandlakhe Nhlane-Nzamela,Retail,In-Store,SHOP,Shoprite,Rustenburg,North West,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-312891,Ms. Thabisa Mqungebe,Wholesale,In-Store,USV,Usave,Kimberley,Northern Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-526082,Mama Thembekile Majola,Wholesale,Online,CHK,Checkers,Rustenburg,North West,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-385070,Siyabonga Mlungisi,Bulk,In-Store,USV,Usave,Pretoria,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-651597,Sibonelo Ncala,Retail,Online,CHK,Checkers,Cape Town,Western Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-699491,Zenzele Dlabazane-Ngema,Bulk,Online,C60,Checkers Sixty60,Stellenbosch,Western Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-802499,Sithembiso Sontuli,Retail,Online,SHOP,Shoprite,Kimberley,Northern Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-282647,Sphiwe Nyide,Retail,In-Store,C60,Checkers Sixty60,Rustenburg,North West,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-386153,Mthokozisi Khwane,Bulk,In-Store,CHK,Checkers,Mbombela,Mpumalanga,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-672376,Thandiwe Mayisela,Bulk,Online,CHK,Checkers,Rustenburg,North West,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-863685,Mr. Sibonelo Mapholoba,Retail,Online,C60,Checkers Sixty60,Cape Town,Western Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-763739,Mama Nomcebo Masondo,Wholesale,In-Store,SHOP,Shoprite,Kimberley,Northern Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-631477,Mandla Anele,Bulk,In-Store,SHOP,Shoprite,Cape Town,Western Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-515582,Gugu Mwelase-Gengeshe,Bulk,In-Store,SHOP,Shoprite,Stellenbosch,Western Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-800453,Thando Mfusi,Wholesale,Online,C60,Checkers Sixty60,Pietermaritzburg,KwaZulu-Natal,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-939435,SimphiweyiNkosi Ndosi,Bulk,Online,SHOP,Shoprite,Pretoria,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-176586,Mzamo Nhlanhlampofu-Mzimela,Wholesale,Online,CHK,Checkers,Rustenburg,North West,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-868440,Baba Sibonelo Mdletshe,Bulk,In-Store,SHOP,Shoprite,Rustenburg,North West,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-716628,Nozizwe Thela,Wholesale,In-Store,USV,Usave,Rustenburg,North West,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-294514,Ndumiso Longode-Mashimane,Wholesale,In-Store,CHK,Checkers,Mbombela,Mpumalanga,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-196348,Dr. Njabulo Mabizela,Bulk,In-Store,SHOP,Shoprite,Soweto,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-374352,Bhekokwakhe Msomi,Bulk,Online,SHOP,Shoprite,Cape Town,Western Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-324866,Mthokozisi Mjwara,Retail,In-Store,C60,Checkers Sixty60,Rustenburg,North West,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-359821,Dumisani Nzimase,Bulk,In-Store,CHK,Checkers,Rustenburg,North West,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-875925,Nomathalente Phakathi,Bulk,In-Store,C60,Checkers Sixty60,Durban,KwaZulu-Natal,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-210011,Nkosazana Nokulunga Mamba,Wholesale,Online,C60,Checkers Sixty60,Mbombela,Mpumalanga,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-616806,Dade Thembisile Mayise,Bulk,In-Store,C60,Checkers Sixty60,Pretoria,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-661233,Thabisile Ndlanzi,Wholesale,In-Store,USV,Usave,Durban,KwaZulu-Natal,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-650745,Nkosazana Nonhlanhla Mjoli,Retail,Online,SHOP,Shoprite,Cape Town,Western Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-603411,Nkazimulo Lamula,Wholesale,Online,C60,Checkers Sixty60,Johannesburg,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-102558,Sibonelo Mnqamu-Phewa,Wholesale,In-Store,USV,Usave,Soweto,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-989489,SimphiweyiNkosi Mtimande-Mtimande,Retail,Online,C60,Checkers Sixty60,Pietermaritzburg,KwaZulu-Natal,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-877414,Bhekokwakhe Phakathi,Retail,Online,C60,Checkers Sixty60,Soweto,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-246500,Gugulethu Dlangamandla,Retail,Online,USV,Usave,Pietermaritzburg,KwaZulu-Natal,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-405007,Mrs. Amahle Vunisa,Retail,In-Store,C60,Checkers Sixty60,Pietermaritzburg,KwaZulu-Natal,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-927533,Zinhle Madonsela,Bulk,In-Store,SHOP,Shoprite,Mbombela,Mpumalanga,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-710606,Dr. Vusumuzi Ngungunyana,Wholesale,In-Store,USV,Usave,Durban,KwaZulu-Natal,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-109414,Thalente Dindi,Retail,Online,C60,Checkers Sixty60,Cape Town,Western Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-455675,Noxolo Hlongwane,Bulk,Online,C60,Checkers Sixty60,Rustenburg,North West,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-640607,Bhekani Mhlanya,Retail,Online,SHOP,Shoprite,Polokwane,Limpopo,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-563243,Njabulo Mbhulangwe-Ntshangase,Bulk,In-Store,CHK,Checkers,Johannesburg,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-214989,Amahle Qomazitha,Wholesale,Online,C60,Checkers Sixty60,Pietermaritzburg,KwaZulu-Natal,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-709227,Miss Thembeka Mahlangu,Wholesale,Online,USV,Usave,Pietermaritzburg,KwaZulu-Natal,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-185662,Jabulani Madinane-Khomo,Wholesale,In-Store,USV,Usave,Rustenburg,North West,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-437797,Nomvula Mawanda-Lange,Retail,In-Store,C60,Checkers Sixty60,Tembisa,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-944548,Thabisile Mjoli,Wholesale,Online,CHK,Checkers,Rustenburg,North West,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-739285,Jabulani Dlakadla,Retail,Online,C60,Checkers Sixty60,Tembisa,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-984938,Nobantu Mbende-Sontuli,Wholesale,Online,USV,Usave,Stellenbosch,Western Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-973119,Dr. Mzamo Nyembe,Retail,Online,CHK,Checkers,Pietermaritzburg,KwaZulu-Natal,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-466852,Bhuti Nhlanhla Nxasana,Wholesale,Online,USV,Usave,Cape Town,Western Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-215485,Luyanda Hadebe,Bulk,Online,C60,Checkers Sixty60,Rustenburg,North West,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-944395,Dumisani Nyembe,Retail,Online,C60,Checkers Sixty60,Mbombela,Mpumalanga,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-442043,Bhekisisa Nzima,Wholesale,Online,USV,Usave,Mbombela,Mpumalanga,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-430100,Silondile Ndiyema-Bhovungana,Wholesale,Online,CHK,Checkers,Mbombela,Mpumalanga,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-272584,Nomcebo Mbhodwe,Retail,In-Store,CHK,Checkers,Polokwane,Limpopo,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-610528,Dade Nomasonto Somboni,Retail,Online,CHK,Checkers,Soweto,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-131373,Luyanda Nyanda-Nkala,Bulk,Online,USV,Usave,Soweto,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-695993,Thabani Mhayise,Retail,Online,C60,Checkers Sixty60,Bloemfontein,Free State,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-817365,Nonjabulo Mpanza,Wholesale,Online,CHK,Checkers,Johannesburg,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-585075,Lwandile Hlengwa-Mdlanyoka,Bulk,Online,USV,Usave,Soweto,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-515034,Ms. Thandeka Masikane,Retail,In-Store,SHOP,Shoprite,Kimberley,Northern Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-281014,Dade Zenzile Fihlela,Retail,In-Store,C60,Checkers Sixty60,Rustenburg,North West,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-314928,Mr. Sandile Siyaya,Wholesale,In-Store,SHOP,Shoprite,Pretoria,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-388679,Amahle Nyongwana,Bulk,In-Store,CHK,Checkers,Polokwane,Limpopo,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-972407,Nomcebo Dlomo,Retail,Online,USV,Usave,Durban,KwaZulu-Natal,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-529697,Mcebisi Ngwenya,Wholesale,Online,C60,Checkers Sixty60,Stellenbosch,Western Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-609985,Ndumiso Gambuse,Retail,In-Store,C60,Checkers Sixty60,Bloemfontein,Free State,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-244245,Nozizwe Ntshalintshali,Retail,Online,SHOP,Shoprite,Mbombela,Mpumalanga,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-544108,Mzamo Thusi,Wholesale,In-Store,C60,Checkers Sixty60,Mbombela,Mpumalanga,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-185318,Thuthukile Mpila,Wholesale,Online,USV,Usave,Bloemfontein,Free State,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-967198,Bhekani Nyawo,Retail,In-Store,C60,Checkers Sixty60,Mbombela,Mpumalanga,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-715847,Mama Simphiwe Mlondo,Wholesale,Online,C60,Checkers Sixty60,Cape Town,Western Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-503472,Zenzile Ndlanya,Wholesale,Online,C60,Checkers Sixty60,Tembisa,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-960621,Noxolo Mshibe,Retail,Online,CHK,Checkers,Soweto,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-793561,S'fiso Ntaka,Bulk,In-Store,USV,Usave,Mbombela,Mpumalanga,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-573945,Baba Thando Nsibande,Bulk,Online,CHK,Checkers,Durban,KwaZulu-Natal,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-341382,Musa Mthimkhulu,Wholesale,Online,C60,Checkers Sixty60,Stellenbosch,Western Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-106269,Nobantu Mzila,Retail,In-Store,C60,Checkers Sixty60,Pretoria,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-281642,Nomusa Mshikela,Wholesale,Online,SHOP,Shoprite,Kimberley,Northern Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-992657,Thalente Macingwane,Wholesale,Online,C60,Checkers Sixty60,Tembisa,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-851377,Thalente Ncala,Bulk,Online,SHOP,Shoprite,Kimberley,Northern Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-191687,Dade Zibuyile Sikobi,Retail,In-Store,CHK,Checkers,Rustenburg,North West,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-951031,Londiwe Dinwa,Wholesale,In-Store,CHK,Checkers,Rustenburg,North West,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-468093,Baba Minenhle Hlabangane,Wholesale,Online,CHK,Checkers,Durban,KwaZulu-Natal,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-442266,Noxolo Masilela,Bulk,In-Store,USV,Usave,Stellenbosch,Western Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-277986,Thalente Mjwara,Bulk,In-Store,USV,Usave,Durban,KwaZulu-Natal,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-101887,Thandazile Silangwe-Ntuli,Bulk,In-Store,USV,Usave,Pretoria,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-972079,Sibusiso Mavela,Bulk,In-Store,CHK,Checkers,Cape Town,Western Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-175397,Busisiwe Mantshinga,Bulk,In-Store,CHK,Checkers,Tembisa,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-220704,Thabani Mzolo,Retail,In-Store,USV,Usave,Durban,KwaZulu-Natal,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-608058,Nomusa Vangisa-Mangena,Retail,Online,C60,Checkers Sixty60,Tembisa,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-471520,Sibonelo Ngwane,Bulk,In-Store,USV,Usave,Durban,KwaZulu-Natal,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-787590,Minenhle Bhengu,Retail,In-Store,CHK,Checkers,Bloemfontein,Free State,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-690872,Dr. Simphiwe Ndonga,Wholesale,Online,C60,Checkers Sixty60,Tembisa,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-756116,Mrs. Olwethu Gwala,Bulk,In-Store,CHK,Checkers,Pietermaritzburg,KwaZulu-Natal,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-974842,Andile Mgwaba,Retail,Online,USV,Usave,Mbombela,Mpumalanga,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-819756,Thembisile Shabalala,Wholesale,Online,C60,Checkers Sixty60,Polokwane,Limpopo,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-231863,Lwandile Mnguni,Bulk,In-Store,CHK,Checkers,Pietermaritzburg,KwaZulu-Natal,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-864225,Dr. Nhlanhla Sompisi,Bulk,Online,C60,Checkers Sixty60,Kimberley,Northern Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-139150,Miss Sihawukele Magoza,Retail,In-Store,C60,Checkers Sixty60,Stellenbosch,Western Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-175958,Ms. Thembisile Nkwakha,Bulk,In-Store,C60,Checkers Sixty60,Tembisa,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-629662,SimphiweyiNkosi Gabela,Wholesale,In-Store,CHK,Checkers,Rustenburg,North West,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-342751,Zinhle Mthonti,Wholesale,Online,USV,Usave,Bloemfontein,Free State,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-897043,Ms. Thembile Dlakela,Bulk,In-Store,USV,Usave,Durban,KwaZulu-Natal,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-110454,Zibuyile Gadlela,Wholesale,Online,C60,Checkers Sixty60,Mbombela,Mpumalanga,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-945150,Thembile Khuzwayo,Retail,Online,C60,Checkers Sixty60,Pietermaritzburg,KwaZulu-Natal,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-715492,Andile Mpofana-Maphumulo,Wholesale,Online,USV,Usave,Pretoria,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-200023,Sandile Dimbane-Makhedama,Retail,Online,SHOP,Shoprite,Cape Town,Western Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-354024,Mrs. Simphiwe Mbili,Bulk,In-Store,C60,Checkers Sixty60,Kimberley,Northern Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-501139,Baba Musa Nkwali,Wholesale,In-Store,SHOP,Shoprite,Pretoria,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-119405,Sibusiso Mathebela,Wholesale,In-Store,SHOP,Shoprite,Soweto,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-652907,Nonjabulo Mbhodwe,Wholesale,Online,C60,Checkers Sixty60,Durban,KwaZulu-Natal,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-765469,Minenhle Biyela,Retail,In-Store,USV,Usave,Cape Town,Western Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-366360,Bandile Nhlengethwa,Wholesale,Online,USV,Usave,Pretoria,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-756647,Mnumzane Mandlakhe Mshikila,Bulk,In-Store,SHOP,Shoprite,Rustenburg,North West,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-931897,Nhlanhla Mbekwa,Wholesale,In-Store,USV,Usave,Rustenburg,North West,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-224758,Lungile Ndlela,Retail,In-Store,CHK,Checkers,Soweto,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-265289,Nobuhle Magoza,Wholesale,Online,C60,Checkers Sixty60,Polokwane,Limpopo,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-471806,Thando Sondisa-Ntshingila,Retail,Online,C60,Checkers Sixty60,Stellenbosch,Western Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-119947,Dr. Mzamo Manzezulu,Bulk,In-Store,C60,Checkers Sixty60,Stellenbosch,Western Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-310235,Sibusiso Mtolo,Wholesale,In-Store,CHK,Checkers,Polokwane,Limpopo,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-504094,Mthokozisi Msamkhulu,Bulk,Online,CHK,Checkers,Polokwane,Limpopo,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-866200,Mlungisi Mabhena,Wholesale,In-Store,SHOP,Shoprite,Bloemfontein,Free State,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-597763,Nomagugu Mabika,Bulk,Online,CHK,Checkers,Tembisa,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-442405,Nobantu Amahle,Retail,In-Store,C60,Checkers Sixty60,Soweto,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-390110,Nkosikazi Sihawukele Dlodlo,Bulk,In-Store,SHOP,Shoprite,Polokwane,Limpopo,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-771802,Busisiwe Bhovungana-Mashasha,Bulk,Online,USV,Usave,Tembisa,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-798605,Bhekani Mtolo-Khumalo,Bulk,In-Store,SHOP,Shoprite,Bloemfontein,Free State,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-862980,Thalente Nonyana,Wholesale,Online,USV,Usave,Johannesburg,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-596662,Bhuti Langalibalele Mdaka,Retail,In-Store,USV,Usave,Pretoria,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-497601,Mr. Mandlakhe Lakaza,Retail,Online,SHOP,Shoprite,Kimberley,Northern Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-747957,Thuthukile Makhaza,Retail,Online,USV,Usave,Stellenbosch,Western Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-258520,Sphiwe Nombhoco-Ngonini,Retail,In-Store,C60,Checkers Sixty60,Polokwane,Limpopo,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-538516,Mama Thandazile Maziya,Retail,In-Store,C60,Checkers Sixty60,Cape Town,Western Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-794878,Sandile Khuluse,Wholesale,Online,SHOP,Shoprite,Rustenburg,North West,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-361840,Nomcebo Sithole-Mbuyisa,Wholesale,Online,C60,Checkers Sixty60,Rustenburg,North West,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-223158,Nonjabulo Shabane,Retail,Online,C60,Checkers Sixty60,Soweto,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-741593,Sibusiso Cenge,Wholesale,Online,SHOP,Shoprite,Stellenbosch,Western Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-711870,Jabulani Mfusi,Retail,In-Store,CHK,Checkers,Kimberley,Northern Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-517294,Nomusa Nala,Wholesale,Online,SHOP,Shoprite,Johannesburg,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-918330,Luyanda Manzini,Bulk,Online,C60,Checkers Sixty60,Mbombela,Mpumalanga,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-828559,Thalente Ndinisa,Wholesale,In-Store,CHK,Checkers,Pretoria,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-479937,Nomathemba Nyathi-Msindazwe,Retail,In-Store,USV,Usave,Polokwane,Limpopo,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-494162,Thandeka Gagashe,Retail,In-Store,USV,Usave,Bloemfontein,Free State,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-246779,Ms. Nomvula Nyawokhulu,Bulk,Online,C60,Checkers Sixty60,Stellenbosch,Western Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-736298,Ms. Thembeka Mshikela,Retail,In-Store,CHK,Checkers,Soweto,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-216511,Dr. Thabisa Nxamalala,Bulk,Online,SHOP,Shoprite,Tembisa,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-629016,Sihawukele Nyongwana,Wholesale,In-Store,CHK,Checkers,Bloemfontein,Free State,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-280898,Mnqobi Nsele,Bulk,Online,CHK,Checkers,Tembisa,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-879398,Mandla Mabuza-Gwija,Retail,In-Store,CHK,Checkers,Soweto,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-352545,Noxolo Ntombela,Bulk,Online,SHOP,Shoprite,Tembisa,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-569434,Dade Zinhle Magagula,Retail,In-Store,SHOP,Shoprite,Stellenbosch,Western Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-981344,Thembile Mtolo,Bulk,In-Store,SHOP,Shoprite,Soweto,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-349179,Mzamo Madlula-Shabangu,Wholesale,Online,SHOP,Shoprite,Pietermaritzburg,KwaZulu-Natal,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-506275,Nomasonto Mahlalela-Mathwasa,Wholesale,Online,C60,Checkers Sixty60,Cape Town,Western Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-821388,Nomasonto Mnqamu,Wholesale,In-Store,CHK,Checkers,Stellenbosch,Western Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-480581,Nomusa Mashimane,Bulk,Online,USV,Usave,Pietermaritzburg,KwaZulu-Natal,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-252126,S'fiso Ndawo,Bulk,In-Store,C60,Checkers Sixty60,Bloemfontein,Free State,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-780920,Nomvula Bhembe,Wholesale,In-Store,C60,Checkers Sixty60,Bloemfontein,Free State,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-737498,SimphiweyiNkosi Nkundlande,Bulk,Online,SHOP,Shoprite,Mbombela,Mpumalanga,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-471914,Nkazimulo Gasa,Bulk,Online,SHOP,Shoprite,Pietermaritzburg,KwaZulu-Natal,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-178102,Mlungisi Hlomuka,Wholesale,Online,SHOP,Shoprite,Kimberley,Northern Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-362317,Thabisa Cebekhulu,Wholesale,In-Store,SHOP,Shoprite,Polokwane,Limpopo,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-470792,Minenhle Mlangeni,Retail,In-Store,CHK,Checkers,Johannesburg,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-103892,Bhuti Vusumuzi Mngwengwe,Retail,In-Store,USV,Usave,Rustenburg,North West,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-484111,Silondile Ndiyema,Bulk,In-Store,CHK,Checkers,Cape Town,Western Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-513195,Minenhle Msani,Bulk,In-Store,SHOP,Shoprite,Stellenbosch,Western Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-950804,Mr. Bandile Ncube,Bulk,Online,USV,Usave,Bloemfontein,Free State,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-212688,Thando Hlatshwayo,Retail,Online,CHK,Checkers,Polokwane,Limpopo,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-809356,Mrs. Nqobizitha Ngema,Bulk,Online,CHK,Checkers,Polokwane,Limpopo,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-827712,Vusumuzi Mangethe,Wholesale,In-Store,C60,Checkers Sixty60,Kimberley,Northern Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-747443,Dumisile Mawewe,Bulk,Online,C60,Checkers Sixty60,Cape Town,Western Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-225516,Nokulunga Khukhuza,Bulk,In-Store,C60,Checkers Sixty60,Mbombela,Mpumalanga,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-783655,Minenhle Mangcamane,Retail,In-Store,CHK,Checkers,Polokwane,Limpopo,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-993927,Khanyisile Mbuyazi,Bulk,In-Store,SHOP,Shoprite,Durban,KwaZulu-Natal,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-621338,Sphiwe Bhungane,Retail,Online,USV,Usave,Johannesburg,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-881112,Dade Thandeka Maluleka,Retail,Online,SHOP,Shoprite,Rustenburg,North West,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-313380,Mzamo Hangala,Retail,Online,SHOP,Shoprite,Mbombela,Mpumalanga,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-922026,SimphiweyiNkosi Bukhosini,Wholesale,In-Store,SHOP,Shoprite,Kimberley,Northern Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-372365,Mandla Dumakude,Wholesale,In-Store,C60,Checkers Sixty60,Polokwane,Limpopo,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-909189,Busisiwe Mbhodwe,Bulk,In-Store,C60,Checkers Sixty60,Pretoria,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-949316,Thabani Mvubu,Wholesale,In-Store,SHOP,Shoprite,Pietermaritzburg,KwaZulu-Natal,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-874154,Mr. Minenhle Dlamlenze,Bulk,Online,SHOP,Shoprite,Pietermaritzburg,KwaZulu-Natal,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-245733,Nkosazana Nobantu Mgobhozi,Bulk,Online,C60,Checkers Sixty60,Stellenbosch,Western Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-472173,Dr. Mandlakhe Nhlengethwa,Bulk,In-Store,CHK,Checkers,Rustenburg,North West,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-999682,Mnumzane Mzamo Nkala,Retail,In-Store,C60,Checkers Sixty60,Tembisa,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-838906,Thalente Nyembezi-Gumede,Bulk,In-Store,CHK,Checkers,Kimberley,Northern Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-253594,Nomathalente Nduli,Bulk,Online,SHOP,Shoprite,Cape Town,Western Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-349827,Mr. Sibonelo Msweli,Wholesale,In-Store,C60,Checkers Sixty60,Polokwane,Limpopo,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-941171,Nqobizitha Ndlandla,Wholesale,In-Store,CHK,Checkers,Pietermaritzburg,KwaZulu-Natal,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-480119,Zenzele Ayize,Bulk,In-Store,SHOP,Shoprite,Johannesburg,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-778219,Mr. Sandile Hhoyiyane,Retail,Online,CHK,Checkers,Mbombela,Mpumalanga,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-794039,Nomvula Sibisi,Bulk,In-Store,SHOP,Shoprite,Polokwane,Limpopo,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-437970,Dr. Langalibalele Nduli,Retail,In-Store,CHK,Checkers,Rustenburg,North West,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-366786,Thalente Nene,Wholesale,In-Store,SHOP,Shoprite,Stellenbosch,Western Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-837570,Bhuti Mlungisi Manzi,Wholesale,In-Store,USV,Usave,Stellenbosch,Western Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-825974,Njabulo Thole,Bulk,Online,CHK,Checkers,Stellenbosch,Western Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-200449,Langalibalele Mkhwananzi-Masibekela,Bulk,In-Store,USV,Usave,Polokwane,Limpopo,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-902617,Ndumiso Weza,Retail,In-Store,C60,Checkers Sixty60,Pretoria,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-726286,Vusumuzi Mngadi,Retail,Online,SHOP,Shoprite,Pretoria,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-936687,Thalente Nkomose-Mvelase,Wholesale,Online,CHK,Checkers,Stellenbosch,Western Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-742937,Nomathalente Nala,Bulk,In-Store,CHK,Checkers,Johannesburg,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-148935,Mnumzane Mandla Thabekhulu,Bulk,In-Store,C60,Checkers Sixty60,Durban,KwaZulu-Natal,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-603929,Mnumzane Bhekani Thabekhulu,Wholesale,In-Store,C60,Checkers Sixty60,Cape Town,Western Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-220087,Noxolo Siwele-Langeni,Bulk,In-Store,SHOP,Shoprite,Johannesburg,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-816604,Olwethu Mshikila-Kheswa,Retail,In-Store,CHK,Checkers,Soweto,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-148976,Londiwe Mchunu,Bulk,Online,SHOP,Shoprite,Stellenbosch,Western Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-783166,Mrs. Zenzile Khawula,Wholesale,In-Store,CHK,Checkers,Johannesburg,Gauteng,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-363320,Mr. Minenhle Gengeshe,Bulk,In-Store,USV,Usave,Bloemfontein,Free State,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-668439,Langalibalele Bele,Wholesale,Online,SHOP,Shoprite,Kimberley,Northern Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-374600,Lwandile Nonkosi,Bulk,In-Store,CHK,Checkers,Kimberley,Northern Cape,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-823498,Thembeka Majoka,Wholesale,Online,USV,Usave,Rustenburg,North West,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-789117,Mr. Zenzele Jokiwe,Wholesale,Online,C60,Checkers Sixty60,Polokwane,Limpopo,CRM,2026-03-02 18:23:04,BATCH-20260302-01
+CUST-920475,Gugu Khwane,Retail,In-Store,USV,Usave,Bloemfontein,Free State,CRM,2026-03-02 18:23:04,BATCH-20260302-01

@@ -22,31 +22,6 @@ from constants import (
     ChildCompanyEnum,
 )
 
-def inject_data_issues(data: list[dict], nullable_fields: list[str], duplicate_prob: float = 0.02, null_prob: float = 0.03) -> list[dict]:
-    """Injects realistic data issues like nulls and duplicates into the dataset."""
-    result = []
-    
-    for row in data:
-        # 1. Null Injection
-        if random.random() < null_prob and nullable_fields:
-            field_to_null = random.choice(nullable_fields)
-            row[field_to_null] = None
-        
-        result.append(row)
-        
-        # 2. Duplicate Injection
-        if random.random() < duplicate_prob:
-            # Create a shallow copy and potentially alter batch_id or timestamp to simulate a re-run or replay
-            duplicate_row = row.copy()
-            if random.random() < 0.5:
-                # 50% chance the duplicate arrived in a different batch/time
-                duplicate_row["load_timestamp"] = current_load_timestamp()
-            result.append(duplicate_row)
-            
-    return result
-
-
-
 load_dotenv(find_dotenv())
 fake = Faker(os.getenv("FAKER_LOCALE", "zu_ZA"))
 
@@ -323,13 +298,7 @@ def main():
     print(f"Generating {N_ORDERS} orders...")
     gross_prices = generate_gross_price(products)
     orders = generate_orders(N_ORDERS, customers, products, gross_prices, CHUNK_SIZE)
-    
-    # Inject Data Issues
-    print("Injecting data issues...")
-    products = inject_data_issues(products, nullable_fields=["brand", "division", "standard_cost", "pack_size"])
-    customers = inject_data_issues(customers, nullable_fields=["city", "province", "channel", "store_name"])
-    gross_prices = inject_data_issues(gross_prices, nullable_fields=["currency", "price_type"])
-    orders = inject_data_issues(orders, nullable_fields=["discount_amount", "payment_method", "quantity", "channel"])
+
     
     PRODUCT_FIELDS = ["product_sku", "product_name", "brand", "division", "category", "pack_size", "variant","standard_cost", "supplier_name", "source_system", "load_timestamp", "batch_id"]
     CUSTOMER_FIELDS = ["customer_code", "customer_name", "customer_type", "channel", "store_code","store_name", "city", "province", "source_system", "load_timestamp", "batch_id"]
